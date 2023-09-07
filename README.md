@@ -123,6 +123,11 @@
         - [5.2.X.7 Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)
         - [5.2.X.8 Team Collaboration Insights during Sprint](52x8-team-collaboration-insights-during-sprint)
 
-
-
 <br>
+
+# Student Outcome
+| Criterio específico | Acciones Realizadas | Conclusiones |
+|:--------------------|:-------------------:|:------------:|
+|Comunica oralmente con efectividad a diferentes rangos de audiencia|Tareas| Conclusion de Student Outcome|
+|Comunica por escrito con efectividad a diferentes rangos de audiencia|Tareas|Conclusion de Student Outcome|
+<br><br>
