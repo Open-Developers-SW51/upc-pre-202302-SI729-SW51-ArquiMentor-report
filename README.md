@@ -131,3 +131,71 @@
 |Comunica oralmente con efectividad a diferentes rangos de audiencia|Tareas| Conclusion de Student Outcome|
 |Comunica por escrito con efectividad a diferentes rangos de audiencia|Tareas|Conclusion de Student Outcome|
 <br><br>
+
+# Capitulo 1: Introducción
+
+## 1.1 Startup Profile
+
+### 1.1.1 Descripción de la Startup
+
+
+ #### Misión
+
+
+
+#### Visión
+
+
+
+### 1.1.2 Perfiles de integrantes del equipo
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Foto</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Miembro</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Habilidades</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Codigo</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="" alt="" width="60" height="50" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149207235973632050/foto.jpg" alt="##" width="50" height="50" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Kurt Puican Salas</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy Kurt Puican Soy un estudiante de la carrera de ingeniería de software y a lo largo de toda la carrera he ido aprendiendo diversos temas como los lenguajes de programación, los patrones de diseño entre varias otras cosas y es una carrera que me gusta bastante ya que desde pequeño siempre me ha gustado lo que tiene que ver con la tecnología.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">U202016643</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="https://cdn.discordapp.com/attachments/1149190528756363338/1149190749762637884/FotoRafaelLuyo.jpg" alt="FotoRafaelLuyo" width="50" height="50" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Luyo Ramirez, Rafael Arturo</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Mi nombre es Rafael Luyo, tengo 21 años. Me considero una persona agradable, puntual y respetuosa. Elegí mi profesión actual porque disfruto haciendo varios ejercicios o problemas relacionados con el uso de la programación, además de interesarme mucho la malla curricular. Me motiva aprender cosas nuevas y también la futura estabilidad económica.  </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u201919295</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="##" alt="##" width="50" height="50" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px;">
+      <img src="##" alt="##" width="50" height="50" style="border-radius: 25%;">
+    </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
+  </tr>
+</table>
+
+
