@@ -290,3 +290,140 @@ Se emplearán algunos de los siguientes elementos:
 
 Link para visualizar el figma con el Style Guidelines general:
 https://www.figma.com/file/eC8KKKc4IrBb7cBpM99D5L/Web-%26-Mobile-Style-Guidelines-(Arquisesor)?type=design&node-id=0%3A1&mode=design&t=WJhpZvwG1b4skT37-1 
+
+## 4.2 Information Architecture
+En esta sección, detallaremos la estructura de nuestra solución "ArquiMentor" para satisfacer las necesidades de nuestros usuarios. Abordaremos varios aspectos que permitirán a los estudiantes organizar y acceder al contenido de manera eficiente: Sistemas de Organización, Sistemas de Etiquetado, Etiquetas de SEO y Metaetiquetas, Sistemas de Búsqueda y Sistemas de Navegación
+### 4.2.1 Organization Systems
+En las siguientes líneas, describiremos cómo se implementarán diferentes métodos de organización visual para cada uno de nuestros segmentos de usuarios, asegurándonos de que el contenido esté estructurado de manera coherente y accesible.
+
+### Segmento 1: Estudiantes que buscan Ayuda en sus estudios:
+
+#### Jerárquica:
+
+#### Materias y Cursos:
+- Los estudiantes podrán acceder a diferentes materias y cursos disponibles de la carrera de Arquitectura. La información se organizará por categorías de materias y secciones, permitiendo a los estudiantes explorar y elegir áreas de interés.
+
+#### Asesores y Profesores:
+- Se mostrará una lista de asesores y profesores disponibles en cada materia de la carrera de Arquitectura. La organización se realizará en función de la especialidad y la experiencia de cada asesor.
+
+#### Sesiones de Asesoría:
+- Los estudiantes podrán programar sesiones de asesoría con sus profesores y asesores elegidos. Las fechas y horarios se mostrarán en orden cronológico.
+
+#### Perfil del profesional:
+- El usuario podrá acceder al perfil del profesional para hacer una selección de preferencia más íntegra. Los datos del profesional estarán organizados de acuerdo con su relevancia.
+
+#### Sesiones de Asesoría:
+- Los estudiantes podrán programar sesiones de asesoría con sus profesores y asesores elegidos. Las fechas y horarios se mostrarán en orden cronológico.
+Claro, aquí tienes el texto formateado en Markdown con viñetas y subtítulos:
+
+### Secuencial:
+
+#### Programación de Sesiones:
+ Los estudiantes seguirán pasos para programar una sesión de asesoría. Esto incluirá la selección de un asesor, elección de fecha y hora, y confirmación de la reserva.
+
+## Segmento 2: Profesores y Asesores: 
+
+### Jerárquica:
+
+#### Lista de Estudiantes: 
+ - Los profesores verán una lista de estudiantes que han solicitado asesoría. La información se organizará en función de las fechas de solicitud.
+
+#### Sesiones Programadas:
+- Los profesores accederán a sus sesiones programadas, organizadas por fechas y horarios.
+
+#### Perfil del estudiante: 
+- El profesional podrá acceder al perfil del estudiante para revisar que está solicitando. Esta información estará organizada de acuerdo con su relevancia.
+
+#### Contenido de Asesoría:
+- Los recursos y materiales que los profesores comparten con los estudiantes se organizarán por temas y categorías.
+
+**Jerárquica:**
+
+- **Landing Page:** En esta sección, presentaremos información esencial de nuestro proyecto para cualquier interesado. Esto abarcará detalles sobre nuestros servicios y nuestra información de contacto, entre otros aspectos. Esta información se estructurará de manera que lo más relevante aparezca en primer lugar y se organizará en categorías temáticas.
+
+- **Reseñas:** En esta sección, los usuarios tendrán la oportunidad de evaluar la calidad del servicio brindado por profesionales o asesores. Estas evaluaciones se organizarán cronológicamente (las opiniones más recientes se mostrarán primero).
+
+**Matricial:**
+
+- **Menú de opciones:** Ambos segmentos tendrán acceso a un menú principal desde donde podrán acceder a las funciones necesarias, organizadas por categorías.
+
+- **Noticias y Recomendaciones:** Ambos segmentos encontrarán noticias y recomendaciones organizadas en base a temas.
+
+Esta arquitectura de información optimizará la experiencia del usuario, facilitando la exploración y el acceso a recursos relevantes para cada segmento de usuarios en nuestra plataforma "ArquiMentor".
+
+### 4.2.2 Labeling Systems
+
+A continuación, presentaremos el sistema de categorización que permitirá a nuestros visitantes acceder a la información de nuestra landing page mediante una única palabra.
+
+Tenemos cuatro “headings” con una fuente sans-serif ubicadas en la parte superior de la Landing page:
+
+- **Home:** La sección preseleccionada en la que los usuarios encontrarán la información más importante, diseñada para llamar su atención.
+
+- **About:** La sección en la que los clientes pueden conocer nuestra misión, visión, identidad y actividades.
+
+- **Services:** Una sección dedicada a enumerar y describir los servicios que proporcionamos.
+
+- **Contact:** La sección donde se proporciona información detallada sobre nuestros canales de comunicación y ubicación.
+
+Para la versión de la Web Aplication dirigida a estudiantes de Arquitectura, disponemos de cinco “headings” con fuente  Lato, ubicados en el menú principal de la parte izquierda.
+
+- **Home** Área predeterminada donde se presentan noticias de alta relevancia junto con las opciones clave dirigidas al estudiante.
+
+- **My profile:** Sección donde los datos personales del estudiante están disponibles.
+
+- **News:** Espacio donde el estudiante puede ver noticias relacionadas con los cursos de Arquitectura.
+
+- **Prescription:** Zona donde el estudiante puede revisar todas las prescripciones que ha recibido hasta ahora.
+
+- **Configuration:** Sección donde el estudiante puede ajustar la configuración por defecto de la plataforma.
+
+Para la Web Application dirigida a asesores, tenemos cinco "headings" con fuente Lato ubicados en el menú principal en el lateral izquierdo.
+
+- **Home:** Sección predeterminada donde se presentan noticias relevantes junto con las opciones clave dirigidas al profesional o asesor.
+
+- **My profile:** Sección donde se encuentran los detalles personales del profesional o asesor.
+
+- **News:** Sección donde el asesor puede acceder a noticias relacionadas con los cursos.
+
+- **Reviews:** Sección donde se muestran las opiniones recibidas de los estudiantes a los que el asesor ha atendido.
+
+- **Configuration:** Sección donde el asesor puede realizar ajustes en la configuración estándar de la plataforma.
+
+### 4.2.3 SEO Tags and Meta Tags
+A continuación, se presentarán los SEO Tags y Meta Tags empleados en la Landing Page con el objetivo de mejorar su visibilidad en los motores de búsqueda.
+
+## Landing Page:
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149519910364520509/image.png" alt="SEO-tags-and-Meta-Tags" >
+
+### 4.2.4 Searching Systems
+En las próximas secciones, se presentarán los sistemas de búsqueda incorporados para facilitar a nuestros usuarios la localización de la información que necesitan.
+Para la Landing Page, no se ha integrado un sistema de búsqueda, dado que la información se encuentra segmentada y enlazada en el menú principal. En consecuencia, los visitantes podrán acceder a toda la información esencial de nuestra solución, como nuestra dedicación, servicios y, sobre todo, podrán encontrar los detalles de contacto para comunicarse con nosotros.
+Para el caso del Web Application:
+
+#### Segmento 1: Estudiantes que buscan ayuda en los cursos de Arquitectura
+- **Seguimiento del Proceso de la Maqueta:**
+ Esta sección permitirá a los estudiantes de arquitectura visualizar el progreso de sus proyectos de maquetas de manera detallada. Si un estudiante desea verificar los detalles de un proyecto en particular, puede aplicar filtros según el curso y el estado del proyecto (En Progreso, Completado). Una vez aplicados los filtros, o incluso si no se aplican, los proyectos se mostrarán en formato de lista con información resumida. Al hacer clic en un proyecto específico, se mostrarán todos los detalles, incluyendo los materiales necesarios, el profesor asignado y el tiempo estimado de finalización. Además, si un estudiante necesita encargar una maqueta a un asesor, podrá ver el tiempo estimado de finalización, los materiales requeridos y el costo asociado a dicho servicio.
+ 
+- **Mentores Disponibles:** Los estudiantes podrán aplicar filtros basados en diferentes criterios como materia, preferencia de idioma, experiencia, etc. La información filtrada se mostrará en formato de lista, mostrando detalles clave sobre cada mentor, como su nombre, especialización y calificación con estrellas (5 estrellas indican un servicio de alta calificación).
+#### Segmento 2: Profesores y Asesores
+- **Lista de Estudiantes:** Los mentores tendrán la capacidad de buscar estudiantes específicos utilizando una barra de búsqueda. También podrán utilizar filtros como género y fecha de interacción para reducir la lista. La información filtrada se mostrará en formato de lista, mostrando detalles básicos de cada estudiante, como su nombre y curso.
+- **Resumen de Ganancias:** Los mentores académicos pueden filtrar transacciones según su estado (Completadas, Pendientes, Canceladas) para administrar eficazmente sus ganancias.
+- **Horario de Citas:** Los mentores tendrán un calendario donde podrán ver y gestionar sus citas con los estudiantes en días específicos. Al hacer clic en una fecha, podrán ver una lista de citas ordenadas cronológicamente (primeras citas próximas). Si los mentores necesitan acceder a información específica de un estudiante, pueden usar la función de búsqueda por nombre, que incluye autocompletado para evitar errores.
+- **Proyectos de maquetas pendientes:** En esta sección, los asesores de ArquiMentor podrán revisar los proyectos de maquetas que los estudiantes les han solicitado. Aquí, tendrán la oportunidad de ver en detalle cada solicitud, incluyendo la descripción del proyecto, los materiales necesarios y la fecha límite para su finalización. Los asesores tendrán la opción de aceptar o rechazar cada proyecto según su disponibilidad y experiencia. Esta función brinda a los asesores la flexibilidad de seleccionar los proyectos que mejor se adapten a sus habilidades y horarios, permitiéndoles brindar un servicio de alta calidad a los estudiantes de arquitectura.
+#### Ambos segmentos
+
+- **Sección de noticias:** Es esta sección, tanto los grupos objetivo podrán explorar las noticias relevantes mediante una barra de búsqueda, en la cual deberán introducir el título de la noticia o términos clave. Las noticias serán seleccionadas en función de las palabras clave proporcionadas o si el título exacto de la noticia de los cursos es ingresado correctamente.
+
+### 4.2.5 Navigation Systems
+A continuación, se expondrán los sistemas de navegación diseñados para permitir que nuestros usuarios naveguen a través de las diferentes partes de contenido e información.
+
+Como se mencionó previamente en los sistemas de etiquetado, tenemos cuatro "encabezados" en la Landing Page: Home, About, Services y Contact. Estas secciones están dispuestas como un menú horizontal global en la parte superior de la Landing Page. Esta división en cuatro secciones tiene la intención de evitar que los clientes tengan que desplazarse verticalmente a través de una cantidad considerable de información. Esta disposición facilita la navegación por nuestro contenido. La estrategia es que los usuarios primero revisen la sección Home, donde encontrarán la información más relevante que captará su atención, y luego exploren el resto del menú de izquierda a derecha.
+
+Por otro lado, en el caso del Web Application, contamos con una barra de navegación global lateral-vertical donde se encuentran las principales secciones de la interfaz del usuario. Estas secciones se navegan de la siguiente manera:
+
+- **Home**: Esta sección es la que aparece automáticamente al iniciar sesión y muestra noticias relevantes y opciones específicas para cada grupo objetivo. Los estudiantes tienen opciones como buscar asesores, ver su perfil, explorar noticias relacionadas con los cursos y configurar preferencias.
+- **My profile:** Si el usuario desea editar su perfil, solo necesita acceder a esta sección ubicada en la barra de navegación lateral-vertical global.
+- **News:** Si el usuario desea ver noticias relacionadas con los cursos, puede ingresar a esta sección que se encuentra en la barra de navegación lateral-vertical global y seleccionar la noticia de su interés.
+- **Configuration:** Si el usuario desea ajustar la configuración de la interfaz, puede ingresar a esta sección que se encuentra en la barra de navegación lateral-vertical global y realizar los cambios pertinentes.
+- **Learning Resources:** Si el paciente desea revisar sus recursos de aprendizaje, puede acceder a esta sección ubicada en la barra de navegación lateral-vertical global y seleccionar el recurso que estaba buscando.
+- **Reviews:** Si el estudiante desea revisar las reseñas de los asesores, solo debe ingresar a esta sección ubicada en la barra de navegación lateral-vertical global.
