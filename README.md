@@ -1275,7 +1275,11 @@ Estos diagramas permiten diseñar una experiencia de usuario fluida y eficiente,
 <img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598735018512454/image.png" alt="desktop-web-browser-us">
 <img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598776617611375/image.png" alt="desktop-web-browser-us">
 
-## 4.5. Web Applications Prototyping 
+## 4.5. Web Applications Prototyping
+
+El prototipo del servio web viene a representar la versión más avanzada de los Mock-Ups con interactividad con el usuario, permitiendo presionar múltiples opciones con distintas funcionalidades
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149621747222597642/image.png" alt="desktop-web-browser-us">
+Link para el Aplicativo Web: https://www.figma.com/file/3tMZHofVJ936HBpiZAAxJf/Mockup-Web-Design-(ArquiMentor)?type=design&node-id=0-1&mode=design&t=Kti0KTQ7Yu07UXoM-0
 ## 4.6 
 ## 4.7 
 ## 4.8 Database Design
