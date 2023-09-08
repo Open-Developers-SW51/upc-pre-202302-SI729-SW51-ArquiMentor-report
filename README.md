@@ -892,6 +892,176 @@ En esta sección, se identificó las fases que podría presentar a nuestros User
 
 # Capitulo 3: Requirements Specification
 
+## 3.1. To-Be Scenario Mapping
+
+A continuación se presenta el To Be Scenario Mapping de los segmentos, con el cual satisfacemos sus necesidades por medio del sitio web Arquimentor.
+
+### Segmento 1 - Estudiantes que requieren una asesoría
+
+<img src="https://i.ibb.co/ncyTQj5/ESTUDENT.png" alt="ESTUDENT" border="0">
+
+### Segmento 2 - Asesores
+
+<img src="https://i.ibb.co/WvptZQy/ASESOR.png" alt="ASESOR" border="0">
+
+## 3.2. User Stories
+
+### Epics
+
+| Código  | Titulo    |Descripción|
+|---------|----------|------------|
+| EP001   | Gestión de cuenta | Como usuario quiero registrarme, acceder y configurar mi cuenta para buscar asesoría o asesorar. |
+| EP002 | Búsqueda de asesores | Como usuario estudiante quiero encontrar asesores para que me dé tutorías. |
+| EP003	| Agendar reunión | Como usuario quiero programar una reunión con otro usuario para conversar sobre los detalles del proyecto. |
+| EP004	| Gestión de proyectos	| Como usuario quiero compartir mis proyectos para que el asesor revise mis avances. |
+| EP005	| Gestión de la suscripción | Como usuario quiero obtener una suscripción de paga para acceder a beneficios en la plataforma. |
+| EP006	| Compartir reseñas y valoraciones | Como usuario quiero compartir reseñas y calificar a los asesores para compartir con otros usuarios mis experiencias. |
+| EP007 | Acceso a la Landing Page |	Como usuario quiero acceder a la landing page para conocer a Arquimentor |
+
+
+### User Stories
+
+
+| Epic / Story ID | Título | Descripción | Criterios de aceptación | Relacionado con (Epic ID) |
+|----------|----------|--------|---------|--------|
+|  US001  |	Registrar cuenta  |	Como usuario quiero crear una cuenta para poder acceder a la plataforma. |	Escenario 01: Creación de cuenta<br/>Dado que el usuario no está registrado y se encuentra en la pantalla de registro<br/>Cuando el usuario ingresa sus datos de forma adecuada y elige su rol<br/>Entonces se registra su cuenta.<br/>Escenario 2: Creación de cuenta incorrecto.<br/>Dado que el usuario no está registrado y se encuentra en la pantalla de registro<br/>Cuando el usuario ingresa sus datos de forma incorrecta (caracteres no permitidos)<br/>Entonces se muestra una advertencia y no se le permite continuar con el registro.<br/>Escenario 3: Creación de cuenta con correo de otra cuenta.<br/>Dado que el usuario cree que no está registrado y se encuentra en la pantalla de registro<br/>Cuando el usuario ingresa sus datos y elige su rol.<br/>Entonces se muestra un mensaje de “cuenta registrada” y no se le permite continuar con el registro.|	EP001  |
+|US002|	Iniciar sesión |	Como usuario quiero ingresar a mi cuenta para utilizar la plataforma|	Escenario 01: Ingreso a la cuenta<br/>Dado que el usuario se encuentra registrado y en la pantalla de inicio de sesión.<br/>Cuando el usuario ingresa su correo y contraseña<br/>Entonces ingresa con éxito a su cuenta.<br/>Escenario 02: Ingreso a la cuenta incorrecto<br/>Dado que el usuario se encuentra registrado y en la pantalla de inicio de sesión.<br/>Cuando el usuario ingresa su correo y/o contraseña incorrecta<br/>Entonces se muestra un mensaje de error.<br/>Escenario 02: Recuperación de contraseña<br/>Dado que el usuario se encuentra registrado y en la pantalla de inicio de sesión.<br/>Cuando el usuario ingresa su correo y no recuerda su contraseña<br/>Entonces se muestra un mensaje de recuperación de contraseña.|	EP001 |
+|  US003  |	 Cerrar sesión  |	Como usuario quiero cerrar mi sesión para mantener mis datos seguros.|	Escenario 01: Cierre de la cuenta<br/>Dado que el usuario se encuentra utilizando la plataforma<br/>Cuando el usuario presiona sobre cerrar sesión <br/>Y confirma su decisión en la segunda pantalla<br/>Entonces la sesión se cierra de manera exitosa.<br/>Escenario 02: Cierre de la cuenta interrumpido<br/>Dado que el usuario se encuentra utilizando la plataforma<br/>Cuando el usuario presiona sobre cerrar sesión<br/>Y cambia de decisión presionando en “No”<br/>Entonces se regresa a la sesión abierta actual.|	EP001  |
+| US004 |	Subir proyectos|	Como usuario estudiante quiero subir mis proyectos actuales y pasados para encontrar al asesor que más se adapte a mi perfil.|	Escenario 01: Cargar archivos de proyectos<br/>Dado que el usuario se encuentra en Mis proyectos<br/>Cuando el estudiante sube archivos .pdf, .jpg, .png, .doc<br/>Entonces se cargan los archivos exitosamente.<br/>Escenario 02: Cargar archivos no válidos<br/>Dado que el usuario se encuentra en Mis proyectos<br/>Cuando el estudiante sube archivos no compatibles <br/>Entonces se muestra un mensaje de error.<br/>Escenario 03: Cargar archivos pesados<br/>Dado que el usuario se encuentra en Mis proyectos<br/>Cuando el estudiante sube archivos de más de 25MB<br/>Entonces se muestra un mensaje de error y un mensaje de los beneficios de suscribirse a Arquimentor.<br/>Escenario 04: Cargar archivos sobrepasando el límite del espacio proporcionado por Arquimentor<br/>Dado que el usuario se encuentra en Mis proyectos<br/>Cuando el estudiante sube archivos sobrepasando los 50MB<br/>Entonces se muestra un mensaje de error y un mensaje de los beneficios de suscribirse a Arquimentor.|	EP004 |
+| US005 |	Subir Curriculum Vitae|	Como usuario asesor quiero subir mi CV para que los estudiantes me conozcan mejor y confíen en mi experiencia.|	Escenario 01: Cargar CV<br/>Dado que el usuario se encuentra en Mi perfil<br/>Cuando el asesor carga su CV en formato pdf<br/>Entonces se sube y se muestra el CV en Mi perfil.<br/>Escenario 02: Cargar CV en formato incorrecto<br/>Dado que el usuario se encuentra en Mi perfil<br/>Cuando el asesor carga su CV en otro formato diferente a pdf<br/>Entonces se muestra un mensaje de error y no se sube el CV.| EP004 |
+|US006|	Búsqueda de asesor|	Como usuario estudiante quiero buscar a un asesor para que me oriente en mi proyecto.|	Escenario 01: Búsqueda con éxito<br/>Dado que el usuario se encuentra en Asesores<br/>Cuando el estudiante escribe el nombre del asesor que quiere y se encuentra registrado.<br/>Entonces se muestra al asesor que buscó y otras recomendaciones con el nombre parecido.<br/>Escenario 02: Búsqueda sin éxito<br/>Dado que el usuario se encuentra en Asesores<br/>Cuando el estudiante escribe el nombre del asesor que quiere y no se encuentra registrado.<br/>Entonces se muestran recomendaciones con el nombre parecido al ingresado.|	EP002 |
+|US007|	Filtrar la búsqueda de asesor|	Como usuario estudiante quiero filtrar la búsqueda de asesor para encontrar al asesor que más se ajuste a mis horarios y necesidades|	Escenario 01: Búsqueda con éxito<br/>Dado que el usuario se encuentra en Asesores<br/>Cuando el estudiante ingresa a filtros y selecciona de acuerdo con sus preferencias.<br/>Entonces se muestra una lista de asesores que cumplan lo requerido.<br/>Escenario 02: Búsqueda sin éxito<br/>Dado que el usuario se encuentra en Asesores <br/>Cuando el estudiante ingresa a filtros y selecciona de acuerdo con sus preferencias.<br/>Entonces se muestra se muestra un mensaje No existen asesores que cumplan los requisitos.|	EP002 |
+|US008|	Visualizar perfiles de asesores|	Como usuario estudiante quiero ingresar al perfil de los asesores para conocer su trayectoria.|	Escenario 01: Ingreso al perfil completo del asesor<br/>Dado que el usuario se encuentra en con una lista de asesores<br/>Cuando ingresa al perfil de uno de ellos.<br/>Entonces se muestra los datos básicos, redes sociales, CV e información de contacto del asesor.<br/>Escenario 02: Ingreso al CV del asesor<br/>Dado que el usuario se encuentra en el perfil de un asesor<br/>Cuando presiona sobre CV<br/>Entonces se muestra el CV en pdf del asesor.|EP002|
+| US009 |	Enviar una solicitud a un asesor|	Como usuario estudiante quiero enviar una solicitud a un asesor para que me oriente con mi proyecto.|	Escenario 01: Generar una solicitud<br/>Dado que el usuario se encuentra en Solicitudes<br/>Cuando ingresa los detalles (fecha, hora, resumen del proyecto) de la reunión<br/>Entonces se envía la solicitud y se muestra un mensaje Solicitud enviada.<br/>Escenario 02: Generar una solicitud incompleta<br/>Dado que el usuario se encuentra en Solicitudes<br/>Cuando ingresa los detalles (fecha, hora, resumen del proyecto) <br/>incompletos de la reunión <br/>Entonces no se envía la solicitud y se muestra un mensaje Error en envío. <br/>Escenario 03: Generar una solicitud como visitante <br/>Dado que el visitante se encuentra en el perfil del asesor <br/>Cuando intenta ingresar a Solicitudes <br/>Entonces se muestra un mensaje Iniciar sesión.|	EP003|
+|US010|Recibir, aceptar o rechazar una solicitud de un estudiante|	Como usuariobasesor quiero recibir una solicitud y poder aceptar o rechazar para enseñar y orientar a un estudiante.|	Escenario 01: Recibir una solicitud<br/>Dado que el usuario recibe una solicitud de un estudiante.<br/>Cuando ingresa a Solicitudes y presiona en la solicitud.<br/>Entonces se muestra los detalles de la solicitud.<br/>Escenario 02: Aceptar una solicitud<br/>Dado que el usuario revisa los detalles de la solicitud.<br/>Cuando presiona en Aceptar<br/>Entonces se muestra un mensaje Solicitud aceptada y se envía otro con la información de la reunión al asesor y al estudiante.<br/>Escenario 03: Rechazar una solicitud<br/>Dado que el usuario revisa los detalles de la solicitud.<br/>Cuando presiona en Rechazar 
+<br/>Entonces se muestra el mensaje Solicitud rechazada al asesor y se envía al estudiante.| EP003 |
+| US011 |	Programar reuniones|	Como usuario estudiante quiero programar las reuniones con el asesor para que me oriente y me de feedback. |	Escenario 01: Agendar una reunión<br/>Dado que el usuario se encuentra en Calendario<br/>Cuando selecciona la fecha en el calendario, escoge la hora y escribe un mensaje (opcional)<br/>Y presiona en Aceptar<br/>Entonces se muestra un mensaje de confirmación Reunión programada y se envía un mensaje al asesor y al estudiante.<br/>Escenario 02: Agendar una reunión incompleta<br/>Dado que el usuario se encuentra en Calendario<br/>Cuando la fecha y/o la hora de la reunión están incompletos<br/>Entonces no se programa la reunión y se muestra un mensaje Ingrese los datos completos.<br/>Escenario 03: Agendar una reunión como visitante<br/>Dado que el visitante se encuentra en el perfil del asesor o de el mismo.<br/>Cuando intenta ingresar a Calendario<br/>Entonces se muestra un mensaje Iniciar sesión.| EP003 |
+|US012|	Visualizar las reuniones programadas|	Como usuario asesor quiero tener mis reuniones programadas en una agenda para ser más eficiente.|	Escenario 01: Visualizar mis reuniones<br/>Dado que el usuario se encuentra en Agenda<br/>Cuando presiona en reuniones<br/>Entonces se muestra la lista de reuniones de acuerdo con la hora y día.<br/>Escenario 02: Visualizar mis reuniones<br/>Dado que el usuario se encuentra en Agenda<br/>Cuando presiona en reuniones<br/>Entonces se muestra un mensaje No existen reuniones programadas<br/>Escenario 03: Visualizar detalles de una reunión<br/>Dado que el usuario visualiza la lista de reuniones de acuerdo con la hora y día.<br/>Cuando presiona en una reunión.<br/>Entonces se muestra los detalles de la reunión como el nombre del estudiante, hora y mensaje.|	EP003|
+|US013|	Registrar el avance del proyecto|	Como usuario asesor quiero medir el avance del proyecto para tener un control de cada estudiante.|	Escenario 01: Añadir avance<br/>Dado que el usuario termina una asesoría y se muestra la opción de Registrar avance<br/>Y presiona sobre Registrar avance.<br/>Cuando ingresa los datos, añade notas y presiona sobre Registrar  <br/>Entonces se muestra un mensaje de confirmación Datos registrados.<br/>Escenario 02: Posponer añadir avance <br/>Dado que el usuario termina una asesoría y se muestra la opción de Registrar avance y Registrar más tarde<br/>Cuando presiona sobre Registrar más tarde.<br/>Entonces se muestra un mensaje Avance no registrado.  |	EP004|
+|US014|	Visualizar los avances del proyecto|	Como usuario estudiante quiero visualizar los avances y el feedback recibido para conocer el estado de mi proyecto.|	Escenario 01: Revisar avance<br/>Dado que el usuario se encuentra en Mis proyectos.<br/>Cuando ingresa a un proyecto actual.<br/>Entonces se muestra las métricas y notas subidas por el asesor.|	EP004|
+|US015|	Calificar a un asesor|	Como usuario estudiante quiero calificar al asesor que me orientó para compartir mi experiencia con otros usuarios.|	Escenario 01: Evaluar al asesor<br/>Dado que el usuario finaliza su proyecto y presiona en Proyecto finalizado<br/>Cuando se muestra la opción de valorar y escribir un comentario (opcional) sobre el asesor<br/>Y el usuario envía su apreciación.<br/>Entonces se muestra un mensaje Reseña enviada.<br/>Escenario 02: Cancelar evaluar al asesor<br/>Dado que el usuario finaliza su proyecto y presiona en Proyecto finalizado<br/>Cuando se muestra la opción de valorar y escribir un comentario (opcional) sobre el asesor<br/>Y el usuario presiona sobre omitir.<br/>Entonces se muestra la pantalla principal.<br/>Escenario 03: Valorar al asesor<br/>Dado que el usuario finaliza su proyecto y presiona en Proyecto finalizado<br/>Cuando se muestra la opción de valorar y escribir un comentario (opcional) sobre el asesor<br/>Y el usuario solo envía la valoración.<br/>Entonces se muestra un mensaje Calificación enviada.|	EP006|
+|US016|	Visualizar las reseñas a los asesores.|	Como usuario estudiante quiero leer las opiniones de otros estudiantes para encontrar un asesor confiable.|	Escenario 01: Visualizar reseñas<br/>Dado que se encuentra en el perfil del asesor que desea<br/>Cuando presiona en Reseñas<br/>Entonces se muestra una lista de las reseñas enviadas junto a la calificación<br/>Escenario 02: Asesor sin reseñas<br/>Dado que se encuentra en el perfil del asesor que desea<br/>Cuando presiona en Reseñas<br/>Y el usuario asesor no cuenta con reseñas<br/>Entonces se muestra un mensaje Desea añadir reseña.|	EP006|
+|US017|	Seleccionar un plan de suscripción|	Como usuario estudiante quiero seleccionar un plan de suscripción que se adecue a mis necesidades para acceder a otras funcionalidades de la plataforma.|	Escenario 01: Obtener suscripción<br/>Dado que el usuario selecciona un plan de suscripción y acepta los términos y condiciones.<br/>Cuando ingresa sus datos personales y de métodos de pago<br/>Entonces se envía un mensaje de confirmación a su correo.<br/>Escenario 02: Términos de la suscripción<br/>Dado que el usuario selecciona un plan de suscripción y no acepta los términos y condiciones.<br/>Cuando intenta ingresar sus datos personales o de métodos de pago, la plataforma no le permite<br/>Entonces se muestra un mensaje Acepte los términos y condiciones.<br/>Escenario 03: Obtener suscripción<br/>Dado que el usuario selecciona un plan de suscripción y acepta los términos y condiciones.<br/>Cuando ingresa sus datos personales y/o de métodos de pago de forma incorrecta (caracteres no permitidos, información incorrecta)<br/>Entonces se envía un mensaje Verifique la información.|	EP005|
+|US018|	Cambiar plan de suscripción|	Como usuario estudiante quiero modificar mi plan de suscripción de acuerdo con mis necesidades para acceder a los beneficios de la aplicación. |	Escenario 01: Seleccionar otro plan de suscripción<br/>Dado que el usuario se encuentra en Suscripción y presiona en Cambiar plan de suscripción<br/>Cuando selecciona un nuevo plan de suscripción y acepta los términos y condiciones.<br/>Y completa sus datos personales y de métodos de pago <br/>Entonces se envía un mensaje de confirmación a su correo.<br/>Escenario 02: Cancelar el cambio de plan de suscripción<br/>Dado que el usuario se encuentra en Suscripción y presiona en Cambiar plan de suscripción<br/>Cuando presiona en Cancelar<br/>Entonces se regresa a la pantalla principal.<br/>Escenario 03: Seleccionar el mismo plan de suscripción<br/>Dado que el usuario se encuentra en Suscripción y presiona en Cambiar plan de suscripción<br/>Cuando selecciona el mismo plan de suscripción.<br/>Entonces se muestra un mensaje Seleccione otro plan de suscripción.|	EP005|
+|US019|	Conocer a Arquimentor a través del landing page|	Como visitante del landing page quiero conocer a Arquimentor para reforzar mi confianza en la plataforma.|	Escenario 01: Home<br/>Dado que el usuario se encuentra en la landing page de Arquimentor<br/>Cuando presiona sobre Home<br/>Entonces se envía al usuario a la sección donde se describe brevemente a Arquimentor<br/>Escenario 02: Conocenos<br/>Dado que el usuario se encuentra en la landing page de Arquimentor<br/>Cuando presiona sobre Know us<br/>Entonces se envía al usuario a la sección donde se describe a los integrantes de la Startup<br/>Escenario 03: Contactanos <br/>Dado que el usuario se encuentra en la landing page de Arquimentor<br/>Cuando presiona sobre Contact us<br/>Entonces se envía al usuario a la sección donde se encuentran nuestros medios de comunicación.|EP007|
+|US020|	Reconocer las ventajas de Arquimentor a través del landing page|	Como visitante del landing page quiero conocer las ventajas de la plataforma para saber si se ajusta a lo que necesito.|	Escenario 01: Visualizar ventajas de usuario estudiante <br/>Dado que el usuario se encuentra en la landing page de Arquimentor<br/>Cuando presiona sobre Servicios<br/>Entonces se envía al usuario a la sección Estudiantes<br/>Escenario 02: Visualizar ventajas de usuario asesor<br/>Dado que el usuario se encuentra en la landing page de Arquimentor<br/>Cuando presiona sobre Servicios<br/>Entonces se envía al usuario a la sección Asesores|EP007|	
+
+Imagen de los User Stories en Pivotal Tracker
+
+<a href="https://imgbb.com/%22%3E<img src="https://i.ibb.co/1mQJS1Y/users-stories.png" alt="users-stories" border="0"></a>
+
+
+## 3.3. Impact Mapping
+
+<a href="https://ibb.co/VtsVx8Y%22%3E<img src="https://i.ibb.co/mG3J075/impact-map.png" alt="impact-map" border="0"></a>
+
+## 3.4. Product Backlog
+
+| # Orden |User Story ID |Título | Descripción	| Story Point (1/2/3/5/8)|
+|---------|----------|------------|----------|----------|
+|1 | US001 | Registrar cuenta |Como usuario quiero crear una cuenta para poder acceder a la plataforma.|	1|
+|2|	US002|	Iniciar sesión 	|Como usuario quiero ingresar a mi cuenta para utilizar la plataforma|	1|
+|3|	US003|	Cerrar sesión	|Como usuario quiero cerrar mi sesión para mantener mis datos seguros.	|1|
+|4|	US004|Subir proyectos	|Como usuario estudiante quiero subir mis proyectos actuales y pasados para encontrar al asesor que más se adapte a mi perfil.|	3|
+|5|	US005|	Subir Curriculum Vitae	|Como usuario asesor quiero subir mi CV para que los estudiantes me conozcan mejor y confíen en mi experiencia.	|2|
+|6|	US006|	Búsqueda de asesor|	Como usuario estudiante quiero buscar a un asesor para que me oriente en mi proyecto.	|5|
+|7|	US007|	Filtrar la búsqueda de asesor|	Como usuario estudiante quiero filtrar la búsqueda de asesor para encontrar al asesor que más se ajuste a mis horarios y necesidades|	2|
+|8|	US008|	Visualizar perfiles de asesores|	Como usuario estudiante quiero ingresar al perfil de los asesores para conocer su trayectoria.|2|
+|9|	US009|	Enviar una solicitud a un asesor|	Como usuario estudiante quiero enviar una solicitud a un asesor para que me oriente con mi proyecto.	|3|
+|10|	US010|	Recibir, aceptar o rechazar una solicitud de un estudiante|	Como usuario asesor quiero recibir una solicitud y poder aceptar o rechazar para enseñar y orientar a un estudiante.|	5|
+|11|	US011|	Programar reuniones	|Como usuario estudiante quiero programar las reuniones con el asesor para que me oriente y me de feedback. 	|5|
+|12|	US012|	Visualizar las reuniones programadas	|Como usuario asesor quiero tener mis reuniones programadas en una agenda para ser más eficiente.	|2|
+|13|	US013|	Registrar el avance del proyecto	|Como usuario asesor quiero medir el avance del proyecto para tener un control de cada estudiante.	|3|
+|14|	US014|	Visualizar los avances del proyecto	|Como usuario estudiante quiero visualizar los avances y el feedback recibido para conocer el estado de mi proyecto.	|2|
+|15|	US015|	Calificar a un asesor	|Como usuario estudiante quiero calificar al asesor que me orientó para compartir mi experiencia con otros usuarios.	|2|
+|16|	US016|	Visualizar las reseñas a los asesores.|	Como usuario estudiante quiero leer las opiniones de otros estudiantes para encontrar un asesor confiable.	|1|
+|17|	US017|	Seleccionar un plan de suscripción	|Como usuario estudiante quiero seleccionar un plan de suscripción que se adecue a mis necesidades para acceder a otras funcionalidades de la plataforma.	|2|
+|18|	US018|	Cambiar plan de suscripción	|Como usuario estudiante quiero modificar mi plan de suscripción de acuerdo con mis necesidades para acceder a los beneficios de la aplicación. 	 |1|
+|19|     US019|	Conocer a Arquimentor a través del landing page|	Como visitante del landing page quiero conocer a Arquimentor para reforzar mi confianza en la plataforma.	|8|
+|20|	US020	|Reconocer las ventajas de Arquimentor a través del landing page|	Como visitante del landing page quiero conocer las ventajas de la plataforma para saber si se ajusta a lo que necesito.	|5|
+
+<a href="https://ibb.co/9cqGVJV%22%3E<img src="https://i.ibb.co/q7RxWzW/product-backlog.png" alt="product-backlog" border="0"></a>
+
+Enlace: https://www.pivotaltracker.com/n/projects/2675481
+
+
+
+
+
+
+
+
+## Entidades del diagrama de clases:
+
+<a href="https://ibb.co/X8m95dz%22%3E<img src="https://i.ibb.co/16H3Xp9/Clase-UML.png" alt="Clase-UML" border="0"></a>
+
+### Class: Appointment (Cita)
+
+Esta clase representa una cita entre un estudiante y un mentor de arquitectura.
+
+**Atributos:**
+
+- **Time: Hora de la cita.**
+
+- **Date: Fecha de la cita.**
+
+- **Price: Precio de la cita.**
+
+- **Meeting: Detalles de la cita**
+
+### Class: Materials (Materiales)
+
+Esta clase representa los materiales utilizados en proyectos de arquitectura.
+
+**Atributos:**
+
+- **Name: Nombre o título del material.**
+
+- **Price: Precio del material.**
+
+- **Stock: Stock de los material.**
+
+
+### Class: Adviser (Mentor o Asesor)
+
+Esta clase representa a los mentores o asesores en arquitectura disponibles para brindar orientación a los estudiantes.
+
+**Atributos:**
+
+- **CV: CV del mentor.**
+
+- **Appointment: Cita del mentor con el estudiante.**
+
+### Class: Student (Estudiante de Arquitectura)
+
+Esta clase representa a los mentores o asesores en arquitectura disponibles para brindar orientación a los estudiantes.
+
+**Atributos:**
+
+- **Address: Dirección del estudiante.**
+
+- **Appointment: Cita del mentor con el estudiante.**
+
+### Class: StudentProjectInfo (Información del proyecto)
+
+Esta entidad registra información de los proyectos realizados por el estudiante
+
+**Atributos:**
+
+- **Score: Avance del proyecto.**
+
+- **Meeting: Detalles de la cita del mentor con el estudiante.**
+
+### Class: Stores (Tiendas)
+
+Esta clase representa las tiendas que venden materiales de arquitectura.
+
+**Atributos:**
+
+- **Name: Nombre de la tienda.**
+
+- **Location: Locación de la tienda.**
+
 # Capitulo 4: Product Design
 
 ## 4.1 Style Guidelines
