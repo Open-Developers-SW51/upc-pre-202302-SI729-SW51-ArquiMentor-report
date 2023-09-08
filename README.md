@@ -1256,7 +1256,16 @@ dentro de la aplicación, contribuyendo a una experiencia de usuario positiva.
 
 ### 4.4.3. Web Applications Mock-ups.
 
+Estas representaciones visuales son un paso crucial en el proceso de diseño antes de la implementación real, ayudando a garantizar que la interfaz sea atractiva, funcional y satisfactoria para los usuarios.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149587356706410567/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149587534565888070/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149587587485401088/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149587648151834665/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149587767186178049/image.png" alt="desktop-web-browser-us">
+
 ### 4.4.4. Web Applications User Flow Diagrams.
+
 
 ## 4.5. Web Applications Prototyping 
 ## 4.6 
