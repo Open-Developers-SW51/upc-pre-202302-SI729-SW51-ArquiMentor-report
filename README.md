@@ -2,24 +2,24 @@
 ### Ingeniería de Software.
 ### Desarrollo de Aplicaciones Open Source.
 ### SW51
+
 #### Angel Augusto Velasquez Nuñez
----
 
 # Proyecto del Curso.
 
 ## TB1 REPORT
 
-### StartUp Name
-#### Open Developers
-### Team Members
+### StartUp Name : ArquiMentor
 
-|   Members     |   User    |
-|:-------------:|:---------:|
-|---, ---                           |u202112936|
-|---, ---                           |u202114140|
-|Luyo Ramirez, Rafael Arturo        |u202115348|
-|----, ----                         |u202110458|
-|--, ---                            |u20201b895|
+### Team Members : Open Developers
+
+|            Members             |    User    |
+|:------------------------------:|:----------:|
+| López Huarcaya, Leonardo Paul  |  u202124304   |
+|Kurt Puican Salas| u202016643 |
+|  Luyo Ramirez, Rafael Arturo   | u202115348 |
+| Miguel Ramirez, Diego| u202123548 |
+| Juliana Alexandra Yauricasa Seguil| u20201B782 |
 
 #### Ciclo 2023 - 02
 
@@ -27,13 +27,13 @@
 
 ## Registros de versiones del Informe
 
-|   Version     |   Fecha   |   Autor   |   Descripción de la modificación|
-|:-------------:|:---------:|:---------|:------------------------|
-|1              |           |----|- Implementó  |
-|1              |           |---|- Implementó  |
-|1              | 31/08/23  |Luyo Ramirez |- Implementó 4.1, 4.2, 4.3, 4.8  |
-|1              |           |--|- Implementó  |
-|1              |           |--|- Implementó  |
+|   Version     |  Fecha   | Autor             |   Descripción de la modificación|
+|:-------------:|:--------:|:------------------|:------------------------|
+|1              | 02/09/23 | Leonardo Lopez    |- Implementó  |
+|1              | 01/09/23 | Kurt Puican       |- Implementó  |
+|1              | 31/08/23 | Luyo Ramirez      |- Implementó |
+|1              | 02/09/23 | Diego Miguel      |- Implementó  |
+|1              | 01/09/23 | Juliana Yauricasa |- Implementó  |
 
 <br><br>
 # Índice
@@ -155,11 +155,11 @@ Es por eso que creamos Arquimentor una plataforma donde los estudiantes de arqui
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="" alt="" width="60" height="50" style="border-radius: 25%;">
+      <img src="https://cdn.discordapp.com/attachments/1146639921830973515/1149466156269309983/image.png" alt="" width="60" height="50" style="border-radius: 25%;">
     </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">López Huarcaya, Leonardo Paul</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Soy Leonardo Paul Lopez Huarcaya y estoy estudiando la carrera de Ingeniería de Software. Cuento con el conocimiento de los lenguajes HTML,java, C++, C#, pentesting y MySQL. Contando de igual manera con conocimientos y experiencia breve en arquitectura de software.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202124304</td>
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
@@ -179,19 +179,19 @@ Es por eso que creamos Arquimentor una plataforma donde los estudiantes de arqui
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="##" alt="##" width="50" height="50" style="border-radius: 25%;">
+      <img src="https://cdn.discordapp.com/attachments/960601728330395718/1149629842468388914/image.png" alt="##" width="50" height="50" style="border-radius: 25%;">
     </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Miguel Ramirez, Diego</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Mi nombre es Diego Ramirez, tengo 19 años y estoy en el quinto ciclo de la carrera de Ingeniería de Software. Tengo conocimiento en C++, python y edición de vídeo. Estoy comprometido a completar las tareas que se me asignen a tiempo y apoyar en lo que pueda en el proyecto.</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202123548</td>
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="##" alt="##" width="50" height="50" style="border-radius: 25%;">
+      <img src="https://cdn.discordapp.com/attachments/960601728330395718/1149632104766910504/image.png" alt="##" width="50" height="50" style="border-radius: 25%;">
     </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">##</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Juliana Alexandra Yauricasa Seguil</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Mi nombre es Juliana estoy en la carrera de ingeniería de software, tengo conocimiento del lenguaje de programación C++ y he aprendido lo básico de HTML, tengo conocimiento de desarrollo en sitios web. </td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201B782</td>
   </tr>
 </table>
 ## 1.2 Solution Profile
