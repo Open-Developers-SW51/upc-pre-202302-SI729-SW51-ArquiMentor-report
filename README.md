@@ -758,6 +758,138 @@ Conclusión General:
 
 El análisis detallado con porcentajes revela claramente que los estudiantes tienen una demanda considerable de asesoramiento en la elaboración de maquetas, y que los asesores están dispuestos a proporcionar este servicio. Ambos grupos muestran un gran interés en una plataforma centralizada que facilite la conexión y colaboración. La plataforma tiene un potencial significativo para satisfacer estas necesidades, pero es crucial abordar aspectos como la seguridad de los datos y la calidad del servicio para ganar la confianza de los usuarios. Además, tomar en cuenta las funcionalidades adicionales sugeridas por los entrevistados podría mejorar aún más la propuesta de valor de la plataforma.
 
+
+## 2.3 NeedFinding
+## 2.3.1 User Personas
+
+A continuación, se construirán los User Persona de cada segmento objetivo de nuestra plataforma. Para ello, se utilizarán los datos recolectados de las entrevistas realizadas; principalmente, los que muestran los objetivos, motivaciones y frustraciones con las que cuentan cada uno de los sectores que conforman al público al que va dirigida la aplicación. Es decir, se presentará un estereotipo de un estudiante como de un asesor.
+
+**User Persona- Asesores**
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149192370945011712/image.png" alt="" width="400" height="" />
+
+**User Persona- Estudiantes**
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149195290138660874/image.png" alt="" width="400" height="" />
+
+## 2.3.2 User Task Matrix 
+En esta etapa nos enfocaremos en las tareas que los User Personas Estudiantes, representados por Mateo Aguirre. Asimismo, el segundo User Persona son los profesionales que dan las asesorías de los cursos, representados por Carlos Mendéz. realizan para alcanzar su propósito, teniendo como segmentos objetivos a los estudiantes jóvenes que quieran mejorar en su vida académica como los asesores que quieren generar un ingreso extra realizando estas asesorías
+
+<table>
+<tr>
+    <th style="border:1px solid #dddddd; padding: 8px; text-align:center;" rowspan="2">User Task Matrix</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;" colspan="2">Mateo Aguirre</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;" colspan="2">Carlos Mendez</th>
+</tr>
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Frecuencia</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Importancia</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Frecuencia</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Importancia</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Registrarse</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Always</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">High</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Always</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">High</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Iniciar Sesion</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Always</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">High</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Always</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">High</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Buscar Asesoria</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Always</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">High</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Rarely</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Low</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ver Perfil de Asesores</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Often</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Medium</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Rarely</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Low</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Programar una Asesoria</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Often</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Medium</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Often</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Medium</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Participar en una Asesoria</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Always</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">High</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Always</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">High</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Evaluar una asesoria</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Often</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Medium</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Rarely</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Low</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Actualizar Perfil</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Rarely</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Low</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Often</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Medium</td>
+  </tr>
+</table>
+Tareas con mayor frecuencia e importancia: 
+
+• Frecuencia: Las tareas con mayor frecuencia son aquellas relacionadas con el funcionamiento de la aplicación acciones como registrarse e iniciar sesión en la plataforma son las que más se realizan así como también el participar en una asesoría es una acción que es la que más se realizaría.
+
+• Importancia: Como Tareas de mayor importancia son aquellas que son esenciales para que la plataforma pueda cumplir la función tareas como las de Buscar una asesoría son de las más importantes ya que la plataforma se base en eso otras acciones con una importancia importante son la de programar una sesión de asesoría ya que aquí es donde se decide cuando es que se va a llevar a cabo como el tema o el trabajo a tratar durante la asesoría como el tiempo y el pago de la asesoría 
+
+Diferencias y Similitudes:
+La principal diferencia entre los asesores y los estudiantes es que los que van a buscar son los estudiantes principalmente ya que ellos son los que van a escoger con quién quieren tener una asesoria otra diferencia es que a la hora de evaluar, esta sería una función pensada más para los estudiantes que para los asesores ya que aquí pueden decir si el asesor cunmplio con las expectativas y como se sintio en general con la asesoría. Y una similitud que tiene es a la hora de coordinar una asesoría ya que los dos se juntaran para decidir todo lo esencial para poder llevar a cabo la asesoría. 
+
+## 2.3.3 User Journey Mapping
+El User Journey Mapping es una herramienta de Design Thinking que nos ayuda a graficar un mapa con las etapas, canales, elementos e interacciones por las que pasa nuestro usuario durante el ciclo de uso del servicio. 
+
+**Segmento 1-Estudiantes**
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149196650934456420/image.png" alt="" width="400" height="" />
+
+**Segmento 2-Asesores**
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149196689094230157/image.png" alt="" width="400" height="" />
+
+## 2.3.4 Empathy Mapping
+
+En esta sección se presenta el Empathy Mapping de nuestros 2 segmentos objetivos. Esta herramienta se utilizó porque permite identificar nuestro público objetivo, conocer su entorno y sus necesidades, lo cual nos permite ver el mundo a través de su perspectiva.
+
+**Segmento 1 : Estudiantes**
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149196720085946480/image.png" alt="" width="400" height="" />
+
+**Segmento 2-Asesores**
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149196760254783488/image.png" alt="" width="400" height="" />
+
+## 2.3.5 As-is Scenario Mapping
+En esta sección, se identificó las fases que podría presentar a nuestros User persona, del cómo se afrontó, sus pensamientos, sus sentimientos para identificar qué soluciones son las más adecuadas para satisfacer sus inquietudes.
+
+## Segmento 1- Estudiantes que requieren una asesoria
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149486010699362396/C72rYIXdaZDc1BP7utev1LrNJ5Zs3g8DKSRVOUJsxF89fsSzOvwTRwMpvse-MZuot-M_d3ToQ_6zHu4Y5SoVY4IYXzfUV0uC1ip8iZQR-irMKtH6UKRvtgniaLP2XfxN75jdhxoH1nCV9teBep_h3ik.png" alt="" width="" height="" />
+
+## Segmento 2- Asesores 
+
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149488074343055441/image.png" alt="" width="" height="" />
+
+
 # Capitulo 3: Requirements Specification
 
 # Capitulo 4: Product Design
