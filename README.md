@@ -18,7 +18,7 @@
 | López Huarcaya, Leonardo Paul  |  u202124304   |
 |Kurt Puican Salas| u202016643 |
 |  Luyo Ramirez, Rafael Arturo   | u202115348 |
-| Miguel Ramirez, Diego| u202123548 |
+| Ramirez Ortega, Diego Miguel| u202123548 |
 | Juliana Alexandra Yauricasa Seguil| u20201B782 |
 
 #### Ciclo 2023 - 02
@@ -181,7 +181,7 @@ Es por eso que creamos Arquimentor una plataforma donde los estudiantes de arqui
     <td style="border: 1px solid #dddddd; padding: 8px;">
       <img src="https://cdn.discordapp.com/attachments/960601728330395718/1149629842468388914/image.png" alt="##" width="50" height="50" style="border-radius: 25%;">
     </td>
-    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Miguel Ramirez, Diego</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ramirez Ortega, Diego Miguel</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Mi nombre es Diego Ramirez, tengo 19 años y estoy en el quinto ciclo de la carrera de Ingeniería de Software. Tengo conocimiento en C++, python y edición de vídeo. Estoy comprometido a completar las tareas que se me asignen a tiempo y apoyar en lo que pueda en el proyecto.</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u202123548</td>
   </tr>
@@ -1288,7 +1288,7 @@ Link para el Aplicativo Web: https://www.figma.com/file/3tMZHofVJ936HBpiZAAxJf/M
    <img src="https://media.discordapp.net/attachments/1149549726748921942/1149634473428795502/structurizr-85951-Contexto.png?width=557&height=676" >
 </p>
 
-### 4.6.1 Software Architecture Container Diagram
+### 4.6.2 Software Architecture Container Diagram
 <p align ="center">
    <img src="https://media.discordapp.net/attachments/1149549726748921942/1149634473139376158/structurizr-85951-Contenedor.png?width=521&height=676" >
 </p>
