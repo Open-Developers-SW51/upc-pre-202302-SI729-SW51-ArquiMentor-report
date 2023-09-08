@@ -1429,6 +1429,37 @@ Esta entidad representa a los estudiantes de arquitectura.
 
 ## 5. Capítulo V: Product Implementation, Validation & Deployment
 
+### 5.1.1. Software Development Environment Configuration.
+**Project Management:**
+
+- Google Meet: es una aplicación web gratuita en la que los usuarios se pueden comunicar con llamada de voz, mensajería y cámara web. (Enlace de la app: https://meet.google.com)
+
+- WhatsApp: es una aplicación de mensajería instantánea para teléfonos. Los usuarios se pueden comunicar con llamadas de voz, mensajería, chatear, mensajes de voz y videollamadas. (Enlace de la app: https://www.whatsapp.com)
+
+**Requirements Management:**
+
+-Markdown: lenguaje de marcado ligero que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida. (Enlace de la app: https://markdown.es/)
+
+**ProductUX/UI Design:**
+
+- Figma: es una aplicación web de diseño e editor de gráficos vectorial, con una gran variedad de herramientas de diseño, creación de prototipos y generación de código. Así mismo, con estas características y herramientas apoyan a los usuarios en la creación de sus proyectos. (Enlace de la app: https://www.figma.com)
+
+**Software Development:**
+
+- Visual Studio Code: es un editor de código fuente desarrollado por Microsoft. Así mismo, tiene una buena integración con Git, cuenta con soporte para depuración de código, y dispone de un sinnúmero de extensiones, que te da la posibilidad de escribir y ejecutar código en cualquier lenguaje de programación. (Enlace de la app: https://code.visualstudio.com)
+
+- IntelliJ IDEA: es un entorno de desarrollo integrado para el desarrollo de programas informáticos. Es desarrollado por JetBrains, y está disponible en dos ediciones: edición para la comunidad​ y edición comercial. (Enlace de la app: https://www.jetbrains.com/idea/)
+
+**Software Testing:**
+
+- Lenguaje Gherkin: es un lenguaje específico de dominio diseñado en concreto para resolver un problema muy específico. El problema que quiere solucionar Gherkin es un problema de comunicación entre los perfiles de negocio y los perfiles técnicos a la hora de trabajar bajo un enfoque BDD.
+
+### 5.1.2. Source Code Management.
+
+
+
+### 5.1.3. Source Code Style Guide & Conventions
+
 ### 5.1.4 Software Deployment Configuration
 
 Como se ha mencionado previamente, la gestión de nuestro código fuente se llevará a cabo mediante GitHub. Además, haremos uso de GitHub Pages para la publicación y el despliegue de la página. Cada sección del Landing Page que hemos desarrollado deberá estar disponible en el siguiente enlace: https://open-developers-sw51.github.io/upc-pre-202302-SI729-SW51-ArquiMentor-landing-page/public/ 
