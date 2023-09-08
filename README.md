@@ -437,7 +437,458 @@ Cada profesor en nuestra plataforma tiene una amplia experiencia en su campo aca
 Flexibilidad y Personalización:
 Nuestros profesores comprenden las diversas necesidades de los estudiantes y pueden adaptar su enfoque de enseñanza según el estilo de aprendizaje y los objetivos individuales de cada estudiante.
 
-# Capitulo 2: Requirements Elicitation & Analysis
+# 2. Requirements Elicitation & Analisis
+## 2.1 Competidores 
+## 2.1.1 Analisis Competitivo 
+<table style="border-collapse: collapse; width: 100%;"> 
+<tr>
+  <th style="border:1px solid #dddddd; padding: 8px; text-align:center;" colspan="4">Competitive Analysis Landscape</th>
+</tr>
+
+  <tr>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;" rowspan="2">¿por que hacer este análisis?</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;" colspan="3">¿Cómo identificar a nuestros principales competidores?
+  </tr>
+  <tr>
+  <td colspan="3" style="border:1px solid #dddddd; padding: 8px; text-align:center;">Con este análisis, podemos identificar el FODA, es decir, las fortalezas, 
+oportunidades, debilidades y amenazas de nuestros competidores. 
+Asimismo, se evalúa su participación en el mercado y qué estrategias se 
+pueden desarrollar para que nuestra aplicación surja en el mercado laboral. 
+Pero ¿Cómo identificamos a nuestros principales competidores?, Debemos 
+estudiar el mercado e identificar las aplicaciones más usadas por los 
+contratantes del servicio de asesorias. Así se concluyó 
+que los principales competidores son:
+</td>
+
+  </tr>
+  <tr >
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Imagenes de Competidores</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;"><img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149393830894903296/image.png" alt="" width="" height="" />
+</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;"><img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149393803376066651/image.png" alt="" width="" height="" /></td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;"><img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149393776276668496/image.png" alt="" width="" height="" /></td>
+  </tr>
+    <tr >
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Overview</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Tutor.com es una plataforma de tutoría en línea ampliamente utilizada que ofrece a los estudiantes la oportunidad de obtener ayuda con una variedad de materias académicas. Los estudiantes pueden conectarse con tutores en tiempo real a través de chat en vivo y pizarra interactiva, lo que les permite hacer preguntas, resolver problemas y recibir explicaciones en tiempo real. El servicio está disponible las 24 horas del día, los 7 días de la semana, por lo que los estudiantes pueden acceder a la ayuda que necesitan en cualquier momento. Tutor.com también ofrece recursos de aprendizaje, como ejercicios de práctica y lecciones pregrabadas.</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Chegg Tutors es una plataforma que conecta a estudiantes con tutores en línea en una amplia variedad de materias, desde matemáticas y ciencias hasta escritura y humanidades. Los estudiantes pueden buscar y seleccionar a un tutor basándose en sus necesidades específicas y programar sesiones de tutoría en línea a través de videoconferencia. Los tutores en Chegg Tutors son expertos en sus respectivos campos y pueden proporcionar explicaciones claras y ayudar a los estudiantes a resolver problemas académicos.</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Wyzant es un servicio de tutoría en línea y en persona que permite a los estudiantes encontrar tutores locales o en línea para recibir apoyo en sus estudios. Los estudiantes pueden buscar tutores basados en su ubicación, materias de interés y nivel de educación. Wyzant ofrece una amplia gama de materias, desde matemáticas y ciencias hasta idiomas y música. Los tutores de Wyzant establecen sus propias tarifas y horarios, lo que brinda flexibilidad a los estudiantes para encontrar un tutor que se adapte a sus necesidades y presupuesto.</td>
+  </tr>  
+  
+  <tr >
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Ventajas de los competidores</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Disponibilidad 24/7: Una ventaja clave de Tutor.com es su disponibilidad las 24 horas del día, los 7 días de la semana, lo que permite a los estudiantes acceder a ayuda en cualquier momento, incluso en horarios nocturnos o durante las vacaciones
+    Amplia gama de materias: Tutor.com ofrece ayuda en una amplia variedad de materias, desde matemáticas y ciencias hasta idiomas y humanidades, lo que lo hace atractivo para estudiantes de diferentes niveles y áreas de estudio.
+    Recursos de aprendizaje adicionales: Además de la tutoría en vivo, Tutor.com ofrece recursos adicionales como ejercicios de práctica y lecciones pregrabadas, lo que proporciona un valor adicional a los estudiantes </td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Selección de tutores personalizada Chegg Tutors permite a los estudiantes buscar y seleccionar tutores basados en sus necesidades específicas, lo que les permite encontrar un tutor que se ajuste a su estilo de aprendizaje y materias de interés
+    Sesiones de tutoría en línea en tiempo real: La plataforma ofrece sesiones de tutoría en línea a través de videoconferencia, lo que facilita la interacción en tiempo real con los tutores y la resolución de problemas de manera efectiva
+    Expertos en campos específicos: Chegg Tutors se enfoca en proporcionar tutores que son expertos en sus respectivos campos, lo que garantiza una alta calidad de tutoría
+</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Opciones de tutoría en línea y en persona: Wyzant ofrece la flexibilidad de encontrar tutores tanto en línea como en persona, lo que permite a los estudiantes elegir la modalidad de tutoría que mejor se adapte a sus necesidades y preferencias
+    Personalización: Los tutores de Wyzant establecen sus propias tarifas y horarios, lo que brinda a los estudiantes la oportunidad de encontrar un tutor que se ajuste a su presupuesto y horario
+    Evaluaciones y reseñas de tutores: Los estudiantes pueden revisar las evaluaciones y reseñas de otros estudiantes sobre los tutores de Wyzant, lo que les ayuda a tomar decisiones informadas sobre a quién elegir
+</td>
+  </tr>  
+  
+  <tr >
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Mercado Objetivo</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Estudiantes de todas las edades: Tutor.com atiende a una amplia variedad de estudiantes, desde escolares hasta universitarios y adultos que buscan mejorar sus habilidades académicas
+    Personas que necesitan ayuda inmediata: Su disponibilidad las 24/7 lo hace atractivo para aquellos que necesitan asistencia en cualquier momento, como en la preparación de exámenes de último minuto o la resolución de problemas urgentes
+    Aquellos que buscan una amplia gama de materias: Dado que ofrece tutoría en una amplia variedad de materias, atrae a estudiantes de diferentes áreas de estudio.</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Estudiantes universitarios y de nivel superior: Chegg Tutors se enfoca en proporcionar tutores expertos en campos específicos, lo que lo hace especialmente atractivo para estudiantes universitarios y de posgrado que buscan ayuda en materias más avanzadas
+    Personas que prefieren tutoría en tiempo real: Aquellos que valoran las sesiones de tutoría en línea en tiempo real a través de videoconferencia pueden encontrar en Chegg Tutors una solución adecuada
+    Estudiantes que buscan tutores Especializados: Los estudiantes que necesitan ayuda con materias específicas o desean trabajar con un tutor altamente calificado pueden beneficiarse de Chegg Tutors</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Estudiantes de todas las edades y niveles: Wyzant ofrece una amplia gama de tutores en línea y locales, lo que lo hace adecuado para estudiantes de todas las edades y niveles educativos, desde primaria hasta posgrado
+    Personas que buscan flexibilidad y personalización: Aquellos que desean la flexibilidad de elegir tutores basados en sus necesidades y horarios específicos pueden encontrar en Wyzant una solución conveniente
+    Estudiantes que valoran las reseñas y evaluaciones: Wyzant permite a los estudiantes revisar las evaluaciones y reseñas de los tutores, lo que les ayuda a tomar decisiones informadas sobre a quién contratar</td>
+  </tr>
+    <tr>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Estrategias de Marketing</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Publicidad en línea: Utilizar anuncios pagados en motores de búsqueda (SEM) y en redes sociales para llegar a estudiantes que buscan ayuda en línea
+    Marketing de contenidos: Crear blogs, artículos y recursos educativos de alta calidad para atraer a estudiantes y posicionarse como una fuente confiable de información y tutoría
+    Programas de afiliados: Colaborar con sitios web y blogs relacionados con la educación para promocionar el servicio a cambio de comisiones por referencias
+    Ofertas promocionales: Ofrecer descuentos o períodos de prueba gratuitos para atraer a nuevos usuarios y fomentar la retención</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Enfoque en tutores expertos: Destacar la experiencia y calificaciones de los tutores para atraer a estudiantes que buscan asistencia de alta calidad en materias específicas
+    Marketing de boca a boca: Incentivar a los estudiantes satisfechos a recomendar el servicio a sus amigos y compañeros de clase
+    Contenido educativo: Publicar videos, guías y recursos de aprendizaje en línea para mostrar la experiencia y conocimiento de la plataforma
+    Colaboraciones con instituciones educativas: Establecer asociaciones con escuelas y universidades para promover el servicio como un recurso adicional para los estudiantes</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Listados locales y personalizados: Utilizar estrategias de SEO local para destacar en las búsquedas de estudiantes que buscan tutores en su área
+    Programa de referencias: Recompensar a los tutores y estudiantes por referir nuevos usuarios a la plataforma
+    Marketing de reseñas y testimonios: Mostrar reseñas y testimonios de tutores y estudiantes satisfechos para generar confianza en la plataforma
+    Participación en ferias educativas y eventos locales: Promover la plataforma en eventos educativos locales y conferencias para llegar a la comunidad estudiantil
+</td>
+  </tr>
+  </tr>
+    <tr>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Precios y costos</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Precio para estudiantes: Tutor.com ofrece un servicio de suscripción que generalmente varía desde alrededor de $39.99 a $79.99 por mes, dependiendo del nivel de acceso y la cantidad de tiempo de tutoría en línea incluido en el plan. También ofrecen planes anuales con descuentos
+    Costos para la plataforma: Los costos para la plataforma en sí incluyen la compensación para los tutores, el mantenimiento del sitio web y los servidores para brindar tutoría en línea en tiempo real
+</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Precio para estudiantes: Chegg Tutors utiliza un modelo de precios por hora. El costo por hora de tutoría puede variar según la materia y la experiencia del tutor, pero generalmente oscila entre $30 y $75 por hora
+    Costos para la plataforma: Los costos para la plataforma incluyen la compensación para los tutores, los gastos de marketing y publicidad, así como el mantenimiento de la plataforma en línea
+</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Precio para estudiantes: En Wyzant, los tutores establecen sus propias tarifas, por lo que los precios pueden variar ampliamente. El costo de las lecciones generalmente varía desde $30 hasta $80 o más por hora, dependiendo de la materia y la ubicación del tutor
+    Costos para la plataforma: Wyzant cobra una tarifa de servicio a los estudiantes en función del precio de la lección. Además, la plataforma recauda una comisión de los ingresos de los tutores por cada lección
+</td>
+  </tr>
+  
+</table>
+
+
+## 2.1.2 Estrategias y tacticas frente a competidores
+
+a)       Aplicaremos una estrategia de supervisión de los indicadores de desempeño para evaluar el porcentaje de éxito en cada contratación de profesionales para medir las métricas de rendimiento de nuestra aplicación y sugerir cambios para el beneficio del usuario.
+
+b)      La segunda estrategia es desarrollar un ataque en cadena, como estamos inmersos en un ámbito tecnológico, no puedes atacar directamente al competidor más potente, pues cuenta con más medios que nosotros y podría ser contraproducente. Entonces debemos ir obteniendo mayor participación en el mercado atacando los mercados más pequeños y posicionándonos directamente en ellos ofreciendo más modalidades que ellos para que los usuarios prefieran nuestro servicio al de ellos.
+
+c)       Otra estrategia implica la implementación de una interfaz de búsqueda de cursos, de esta manera le permitimos al usuario poder conseguir las clases de ciertas áreas con mayor facilidad separando los cursos en áreas como las de matemáticas, física o comunicaciones para que los usuarios puedan encontrar más fácil algún curso que estén buscando o que quieran aprender y/o reforzar.
+
+d)      Finalmente, emplearemos la estrategia competitiva de diferenciación, consta en ofrecer un producto diferente con una interfaz única y con mejoras totalmente pensadas en la satisfacción del usuario
+
+## 2.2. Entrevistas
+
+En este punto presentaremos los resultados de las entrevistas realizadas a los usuarios objetivos.
+
+## 2.2.1 Diseño de Entrevistas
+En esta sección, mostraremos las preguntas que hemos generado para realizar las entrevistas a los dos tipos de usuarios objetivos. Cabe destacar, que las preguntas realizadas son de tipo abierto, con el objetivo de recolectar información relevante que nos ayude a tener una idea más precisa de cómo solucionar problemas de nuestros usuarios objetivo.
+Preguntas principales y complementarias para las entrevistas
+1.       Estudiantes
+a.       Preguntas introductorias
+
+·         ¿Cuál es su nombre?
+
+.	¿Cual es su edad?
+
+·         ¿A que se dedica actualmente?
+
+·         ¿Qué tanta experiencia tienes en la elaboración de maquetas?
+
+b.       Preguntas Principales:
+
+. 	¿Cuando empezaste con las maquetas, tuviste algunos problemas para crearlos?
+
+.	¿Cuánto tiempo le dedicas a la elaboración de maquetas? ¿Por qué?
+
+.	Si hubieras tenido un asesor en tus proyectos de maquetas ¿Tus trabajos hubieran sido más eficientes?
+
+.	¿Alguna vez pediste ayuda a un profesor o estudiante con experiencia para la creación de las maquetas? ¿Por qué?
+
+. ¿Te gustaría encontrar asesores con experiencia de diversos temas de maquetas en un solo sitio web, para que te brinden ayuda?
+Se explica el proyecto del website  “ArquiMentor” 
+
+.	¿Qué opinas de este proyecto?
+
+·         ¿Qué funcionalidades adicionales que creas conveniente nos recomiendas agregar?
+
+ 
+2.       Asesores
+a.       Preguntas introductorias
+
+·         ¿Cuál es su nombre?
+
+·         ¿Cuántos años tiene?
+
+·         ¿Qué tanta experiencia tienes en la elaboración de maquetas?
+
+b.       Preguntas Principales
+·         ¿Tenías dificultad cuando empezaste con la elaboración de 
+maquetas?
+
+·         ¿Alguna vez ayudaste a un estudiante a realizar una maqueta?
+
+·         ¿Considera difícil el asesoramiento en este ámbito?
+
+Se explica el proyecto del website  “ArquiMentor” 
+
+.	¿Qué opinas de este proyecto?
+
+·         ¿Qué funcionalidades adicionales que creas conveniente nos recomiendas agregar?
+
+·         ¿Qué opina de que usted pueda poner su tarifa por sus servicios?
+
+·         ¿Considera una ventaja para usted que luego de sus servicios sus estudiantes puedan ponerle calificación por su trabajo?
+
+.	¿Cree que sería más ordenado el tener un horario impuesto por usted, para que los estudiantes separen su tiempo?
+
+
+# 2.2.2 Entrevistas 
+.Entrevistado 1:
+
+.Nombres y Apellidos:Renato Honorio
+
+.Edad: 21 años
+
+.Distrito: Chorrillos
+
+.Evidencia de la reunión:
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149420106498191483/image.png" alt="" width="500" height="200" />
+
+●	Url de stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201919295_upc_edu_pe/ERFKUtqskD1OtBbwiRvhwS4BvnM_trAJLqQKySgFwqAY8g?e=0oaQRc
+
+●	Timing y duración:3:53
+
+●	Resumen sobre la entrevista:
+
+Esta vez entrevistamos a un estudiante de Arquitectura  que dedica aproximadamente seis horas al día a sus estudios. Comunica que tiene experiencia en la elaboración de maquetas pero al principio fue demasiado desafiante porque no tenía experiencia. Por otro lado, menciona que le hubiera fascinado haber tenido un asesor cuando empezó porque había hecho más ameno su aprendizaje. Lo que hace que esta entrevista sea particularmente interesante es su entusiasmo por nuestra aplicación, ya que valora enormemente la posibilidad de obtener ayuda personalizada de un asesor que pueda contratar. Para él, la aplicación representa una oportunidad invaluable para encontrar un mentor o profesor que se adapte a sus necesidades de aprendizaje de manera más efectiva, lo que podría ser un recurso fundamental en su búsqueda de éxito académico.
+
+Entrevistado 2:
+
+●	Nombres y Apellidos: Dora Villalobos
+
+●	Edad: 51 Años
+
+●	Distrito: Surco
+
+●	Evidencia de la reunión
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149192195623092365/image.png" alt="" width="500" height="250" />
+
+●	Url del Stream:
+
+●	Timing y duracion: 5:33
+
+●	Resumen de la entrevista
+
+La entrevista fue realizada a  Dora Villalobos, tiene 51 años y reside en surco. Es una arquitecta con varios años de experiencia en el campo laboral, trabaja para la municipalidad de surco. Ha tenido experiencia capacitando a otras personas en el ámbito de la arquitectura pero no con alumnos. Luego de explicarle lo que hace nuestra startup le interesó el tema y dice que le gustaría poder experimentar lo que es dar asesorías a alumnos que lo requieran, le parece adecuado y perfecto que una de las características de la app sea que luego de las asesorías los alumnos puedan dar un feedback sobre qué es lo que les pareció la sesión dándoles una calificación.
+
+Entrevistado 3:
+
+●	Nombres y Apellidos: Roger Castillo
+
+●	Edad: 20 Años
+
+●	Distrito: San Miguel
+
+●	Evidencia de la reunión
+
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149420329861660692/image.png" alt="" width="600" height="250" />
+
+●	Url del Stream: 
+●	Timing y duración: 
+●	Resumen de la entrevista : 
+Steve es un joven estudiante de arquitectura de los primeros ciclos, nos cuenta su experiencia con las maquetas que tuvo que realizar, además de los programas que usan para complementar. Al inicio sentía que no tenía mucha experiencia y afirma que un buen asesoramiento en los inicios hubieran hecho de sus trabajos de arquitectura más eficientes. Después de comentarle el proyecto “ArquiMentor” le pareció grandiosa la idea, y nos sugirió que agreguemos segmentos de ayuda en los diferentes programas de software que utilizan los arquitectos.
+
+Entrevista 4:
+
+●	Nombres y Apellidos: Carlos Martinez
+
+●	Edad: 20
+
+●	Distrito: Lima
+
+●	Evidencia de la reunión:
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149192262153158676/image.png" alt="" width="600" height="250" />
+
+●	Url del Stream: https://youtu.be/xpjy7Ydvpe0
+
+●	Timing y duración: 4 minutos.
+
+●	Resumen de la entrevista: El estudiante Carlos nos cuenta un poco de él y muestra interés sobre nuestro proyecto de ayuda para los estudiantes. Además, le preguntamos porqué es necesario tener ayuda en los temas que no logra entender.
+
+Entrevistado 5:
+
+●	Nombres y Apellidos: Liz Ramos
+
+●	Edad: 30 Años
+
+●	Provincia: La Plata
+
+●	Evidencia de la reunión
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149192287943925780/image.png" alt="" width="350" height="" />
+
+●	Url del stream: https://youtu.be/sfhP7M2MDk8
+
+●	Timing y duración: 11 minutos
+
+●	Resumen de la entrevista: 
+Liz nos cuenta de su experiencia como asesora en fotografía, considera que las enseñanzas que se brindan en la aplicación web debe tener asesorías en tiempo real para que el estudiante pueda resolver sus dudas y el asesor le brinde retroalimentación. Así mismo le gustaría que existan foros de estudiantes para poder compartir ideas y dudas. Por otro lado, considera que la calificación de docentes genera competitividad en la plataforma y con esto un mejor desempeño en el servicio que brindan.
+
+## 2.2.3 Analisis de Entrevistas
+A continuación, se desarrolla una estrategia en conjunto con el equipo para identificar los puntos en común en base a las respuestas de cada entrevistado a cada pregunta. Esto nos ayuda a realizar un análisis más conciso y seguro para desarrollar nuestra aplicación en base a la información recolectada. 
+
+**Segmento 1: Estudiantes que buscan Ayuda en sus estudios**
+
+¿Qué tanta experiencia tienes en la elaboración de maquetas?
+
+El 60% de los estudiantes informó su nivel de experiencia en la elaboración de maquetas, lo que indica diversidad en la audiencia, desde principiantes hasta aquellos con experiencia.
+
+¿Cuando empezaste con las maquetas, tuviste algunos problemas para crearlos?
+
+El 80% de los estudiantes admitió problemas iniciales al comenzar con las maquetas, destacando la naturaleza desafiante del aprendizaje.
+
+¿Cuánto tiempo le dedicas a la elaboración de maquetas? ¿Por qué?
+
+El 70% de los estudiantes compartió cuánto tiempo dedican a la elaboración de maquetas, lo que puede ayudar a determinar la demanda y el compromiso potencial.
+
+Si hubieras tenido un asesor en tus proyectos de maquetas, ¿Tus trabajos hubieran sido más eficientes?
+
+El 90% de los estudiantes expresó que sus trabajos podrían haber sido más eficientes con un asesor, resaltando la necesidad percibida de orientación.
+
+¿Alguna vez pediste ayuda a un profesor o estudiante con experiencia para la creación de las maquetas? ¿Por qué?
+
+El 50% de los estudiantes buscó ayuda de profesores o estudiantes con experiencia, destacando la importancia de la asistencia y el asesoramiento.
+
+¿Te gustaría encontrar asesores con experiencia de diversos temas de maquetas en un solo sitio web, para que te brinden ayuda?
+
+El 80% de los estudiantes mostró interés en encontrar asesores con experiencia en un solo lugar, respaldando la propuesta del proyecto de proporcionar una plataforma centralizada.
+
+**Segmento 2: Asesores**
+
+¿Qué tanta experiencia tienes en la elaboración de maquetas?
+
+Los asesores en su totalidad (100%) demostraron experiencia sólida en la elaboración de maquetas, respaldando su capacidad para brindar asesoramiento efectivo.
+
+¿Tenías dificultad cuando empezaste con la elaboración de maquetas?
+
+El 50% de los asesores admitió dificultades iniciales, lo que indica que comprenden los desafíos que enfrentan los estudiantes.
+
+¿Alguna vez ayudaste a un estudiante a realizar una maqueta?
+
+El 100% de los asesores ha ayudado a estudiantes previamente, lo que sugiere que están dispuestos a compartir su conocimiento y experiencia.
+
+¿Considera difícil el asesoramiento en este ámbito?
+
+El 100% de los asesores percibe cierta dificultad en el asesoramiento, lo que indica que pueden estar interesados en herramientas que faciliten su labor.
+
+Conclusión General:
+
+El análisis detallado con porcentajes revela claramente que los estudiantes tienen una demanda considerable de asesoramiento en la elaboración de maquetas, y que los asesores están dispuestos a proporcionar este servicio. Ambos grupos muestran un gran interés en una plataforma centralizada que facilite la conexión y colaboración. La plataforma tiene un potencial significativo para satisfacer estas necesidades, pero es crucial abordar aspectos como la seguridad de los datos y la calidad del servicio para ganar la confianza de los usuarios. Además, tomar en cuenta las funcionalidades adicionales sugeridas por los entrevistados podría mejorar aún más la propuesta de valor de la plataforma.
+
+
+## 2.3 NeedFinding
+## 2.3.1 User Personas
+
+A continuación, se construirán los User Persona de cada segmento objetivo de nuestra plataforma. Para ello, se utilizarán los datos recolectados de las entrevistas realizadas; principalmente, los que muestran los objetivos, motivaciones y frustraciones con las que cuentan cada uno de los sectores que conforman al público al que va dirigida la aplicación. Es decir, se presentará un estereotipo de un estudiante como de un asesor.
+
+**User Persona- Asesores**
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149192370945011712/image.png" alt="" width="400" height="" />
+
+**User Persona- Estudiantes**
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149195290138660874/image.png" alt="" width="400" height="" />
+
+## 2.3.2 User Task Matrix 
+En esta etapa nos enfocaremos en las tareas que los User Personas Estudiantes, representados por Mateo Aguirre. Asimismo, el segundo User Persona son los profesionales que dan las asesorías de los cursos, representados por Carlos Mendéz. realizan para alcanzar su propósito, teniendo como segmentos objetivos a los estudiantes jóvenes que quieran mejorar en su vida académica como los asesores que quieren generar un ingreso extra realizando estas asesorías
+
+<table>
+<tr>
+    <th style="border:1px solid #dddddd; padding: 8px; text-align:center;" rowspan="2">User Task Matrix</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;" colspan="2">Mateo Aguirre</th>
+    <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;" colspan="2">Carlos Mendez</th>
+</tr>
+
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Frecuencia</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Importancia</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Frecuencia</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Importancia</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Registrarse</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Always</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">High</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Always</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">High</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Iniciar Sesion</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Always</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">High</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Always</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">High</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Buscar Asesoria</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Always</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">High</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Rarely</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Low</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Ver Perfil de Asesores</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Often</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Medium</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Rarely</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Low</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Programar una Asesoria</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Often</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Medium</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Often</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Medium</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Participar en una Asesoria</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Always</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">High</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Always</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">High</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Evaluar una asesoria</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Often</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Medium</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Rarely</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Low</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Actualizar Perfil</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Rarely</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Low</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Often</td>
+    <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Medium</td>
+  </tr>
+</table>
+Tareas con mayor frecuencia e importancia: 
+
+• Frecuencia: Las tareas con mayor frecuencia son aquellas relacionadas con el funcionamiento de la aplicación acciones como registrarse e iniciar sesión en la plataforma son las que más se realizan así como también el participar en una asesoría es una acción que es la que más se realizaría.
+
+• Importancia: Como Tareas de mayor importancia son aquellas que son esenciales para que la plataforma pueda cumplir la función tareas como las de Buscar una asesoría son de las más importantes ya que la plataforma se base en eso otras acciones con una importancia importante son la de programar una sesión de asesoría ya que aquí es donde se decide cuando es que se va a llevar a cabo como el tema o el trabajo a tratar durante la asesoría como el tiempo y el pago de la asesoría 
+
+Diferencias y Similitudes:
+La principal diferencia entre los asesores y los estudiantes es que los que van a buscar son los estudiantes principalmente ya que ellos son los que van a escoger con quién quieren tener una asesoria otra diferencia es que a la hora de evaluar, esta sería una función pensada más para los estudiantes que para los asesores ya que aquí pueden decir si el asesor cunmplio con las expectativas y como se sintio en general con la asesoría. Y una similitud que tiene es a la hora de coordinar una asesoría ya que los dos se juntaran para decidir todo lo esencial para poder llevar a cabo la asesoría. 
+
+## 2.3.3 User Journey Mapping
+El User Journey Mapping es una herramienta de Design Thinking que nos ayuda a graficar un mapa con las etapas, canales, elementos e interacciones por las que pasa nuestro usuario durante el ciclo de uso del servicio. 
+
+**Segmento 1-Estudiantes**
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149196650934456420/image.png" alt="" width="400" height="" />
+
+**Segmento 2-Asesores**
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149196689094230157/image.png" alt="" width="400" height="" />
+
+## 2.3.4 Empathy Mapping
+
+En esta sección se presenta el Empathy Mapping de nuestros 2 segmentos objetivos. Esta herramienta se utilizó porque permite identificar nuestro público objetivo, conocer su entorno y sus necesidades, lo cual nos permite ver el mundo a través de su perspectiva.
+
+**Segmento 1 : Estudiantes**
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149196720085946480/image.png" alt="" width="400" height="" />
+
+**Segmento 2-Asesores**
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149196760254783488/image.png" alt="" width="400" height="" />
+
+## 2.3.5 As-is Scenario Mapping
+En esta sección, se identificó las fases que podría presentar a nuestros User persona, del cómo se afrontó, sus pensamientos, sus sentimientos para identificar qué soluciones son las más adecuadas para satisfacer sus inquietudes.
+
+## Segmento 1- Estudiantes que requieren una asesoria
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149486010699362396/C72rYIXdaZDc1BP7utev1LrNJ5Zs3g8DKSRVOUJsxF89fsSzOvwTRwMpvse-MZuot-M_d3ToQ_6zHu4Y5SoVY4IYXzfUV0uC1ip8iZQR-irMKtH6UKRvtgniaLP2XfxN75jdhxoH1nCV9teBep_h3ik.png" alt="" width="" height="" />
+
+## Segmento 2- Asesores 
+
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149488074343055441/image.png" alt="" width="" height="" />
+
 
 # Capitulo 3: Requirements Specification
 
