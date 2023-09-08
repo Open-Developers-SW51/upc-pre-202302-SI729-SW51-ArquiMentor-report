@@ -198,4 +198,95 @@
   </tr>
 </table>
 
+# Capitulo 2: Requirements Elicitation & Analysis
 
+# Capitulo 3: Requirements Specification
+
+# Capitulo 4: Product Design
+
+## 4.1 Style Guidelines
+En esta sección, se establecen las pautas de estilo y desarrollo coherentes para garantizar que la solución "ArquiMentor" tenga un enfoque unificado y consistente en su implementación.
+### 4.1.1 General Style Guidelines
+#### Brand Overview
+La atención integral y efectiva a estudiantes universitarios que enfrentan desafíos académicos se vuelve esencial en nuestra sociedad. Las necesidades de los estudiantes de arquitectura requieren un enfoque especializado, por lo que nuestra solución, "ArquiMentor", surge como respuesta a la necesidad de asesoría en el ámbito educativo específico de la arquitectura. Ofrecemos acceso virtual a profesionales y especialistas en cursos relacionados con la arquitectura, asegurando una calidad excepcional en la asesoría. Tenemos conocimiento de que la atención personalizada es crucial en la educación para el éxito académico en esta disciplina. Con "ArquiMentor", estamos comprometidos en brindar un entorno donde los estudiantes de arquitectura puedan obtener la ayuda necesaria para comprender los temas, prepararse para exámenes y desarrollar habilidades clave. Nuestra visión es ser la plataforma líder para estudiantes de arquitectura que buscan mejorar su rendimiento académico y alcanzar sus objetivos educativos en esta carrera.
+
+#### Brand Name
+El software ha sido bautizado como "ArquiMentor". Este nombre surge directamente de nuestra visión de proporcionar orientación académica especializada y personalizada a estudiantes universitarios. Al optar por el idioma inglés, hemos buscado crear una identidad amigable y atractiva para nuestros usuarios potenciales. La palabra "ArquiMentor" fusiona perfectamente el acto de estudiar y el concepto de guía, transmitiendo la idea de un mentor que brinda dirección y apoyo en el ámbito educativo. Nuestra esperanza es que este nombre se convierta en sinónimo de excelencia educativa y se asocie con una herramienta confiable para el crecimiento y el éxito académico.
+A continuación, se presenta el logo o marca de nuestra solución propuesta.
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149509281952051220/image.png" alt="icons">
+#### Typography
+La selección de tipografías resulta esencial para dar forma y orden al aspecto visual de todas las plataformas que se crearán con el fin de satisfacer las características fundamentales de la aplicación. Se ha considerado primordial que las fuentes sean fácilmente legibles y contribuyan a la experiencia del usuario, por lo cual se han escogido estos estilos de letras con especial atención.
+
+<table>
+  <tr>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Francois One Google Fonts</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Roboto Google Fonts</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Lato
+Google Fonts
+</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Inter
+Google Fonts
+</td>
+  </tr>
+</table>
+
+# Head
+
+<table>
+  <tr>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Name</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Font size</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Line Height</tr>
+     <tr>
+  <td style="border:1px solid #dddddd; padding: 8px; text-align:center;"><h1>Heading 1</h1></td>
+  <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">56 px</td>
+  <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">61.6 px</td>
+</tr>
+      <tr>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;"><h2>Heading 2</h2></td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">48 px</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">52.8 PX</tr>
+      <tr>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;"><h3>Heading 3</h3></td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Font size</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Line Height</tr>
+      <tr>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;"><h4>Heading 4</h4></td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">32 px</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">35.2 px</tr>
+      <tr>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;"><h5>Heading 5</h5></td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">24 px</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">26.4 px</tr>
+      <tr>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;"><h6>Heading 6</h6></td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">20 px</td>
+    <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">22 px</tr>
+</table>
+
+#### Colors
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149509920341889034/image.png" alt="colors">
+
+#### Spacing
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149510151909412864/image.png" alt="spacing">
+
+### 4.1.2 Web Style Guidelines
+Daremos forma a una aplicación que se adapte a cualquier dispositivo tecnológico, asegurando que el diseño del contenido no se vea afectado. Por consiguiente, consideraremos cada tipo de dispositivo para organizar el contenido de manera óptima en cada caso.
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149510537466626048/disenCC83o20responsive-1.png" alt="responsive-image" width="300" height="200" style="border-radius: 25%;">
+
+Aplicaremos el patrón Z en nuestra interfaz, lo que permitirá destacar nuestro logo o marca en la esquina superior izquierda, marcando el inicio de la interacción del usuario. Luego, el recorrido se desplazará hacia la derecha, revelando las diversas opciones disponibles como "Acerca de", "Reserva tu sesión" o el área de configuración. Enseguida, el usuario se desplazará verticalmente hacia abajo, continuando su interacción con el contenido de la aplicación. Finalmente, la trayectoria lo llevará a la esquina inferior derecha, donde podrá acceder a nuestras redes sociales y medios de contacto.
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149511335265194034/eyetrackingpatronz.png" alt="z-pattern" width="300" height="230" style="border-radius: 25%;">
+
+Consecuentemente, el diseño de nuestra aplicación incorporará colores que inspiren al usuario a explorar la plataforma con entusiasmo. También implementaremos sombras y espacios adecuados para mejorar la legibilidad de la información y para mantener el contenido en un formato que no abrume al navegante. Utilizaremos varios de los siguientes elementos en el diseño para lograr estos objetivos.
+Se emplearán algunos de los siguientes elementos:
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149511726430158888/image.png" alt="selection-box-and-buttons" >
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149512062825938954/image.png" alt="big-elements" >
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149512103393247252/image.png" alt="cards" >
+
+Link para visualizar el figma con el Style Guidelines general:
+https://www.figma.com/file/eC8KKKc4IrBb7cBpM99D5L/Web-%26-Mobile-Style-Guidelines-(Arquisesor)?type=design&node-id=0%3A1&mode=design&t=WJhpZvwG1b4skT37-1 
