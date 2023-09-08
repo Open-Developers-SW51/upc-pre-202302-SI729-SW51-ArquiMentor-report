@@ -1280,11 +1280,26 @@ Estos diagramas permiten diseñar una experiencia de usuario fluida y eficiente,
 El prototipo del servio web viene a representar la versión más avanzada de los Mock-Ups con interactividad con el usuario, permitiendo presionar múltiples opciones con distintas funcionalidades
 <img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149621747222597642/image.png" alt="desktop-web-browser-us">
 Link para el Aplicativo Web: https://www.figma.com/file/3tMZHofVJ936HBpiZAAxJf/Mockup-Web-Design-(ArquiMentor)?type=design&node-id=0-1&mode=design&t=Kti0KTQ7Yu07UXoM-0
-## 4.6 
+
+## 4.6 Domain-Driven Software Architecture:
+
+### 4.6.1 Software Architecture Context Diagram
+<p align ="center">
+   <img src="https://media.discordapp.net/attachments/1149549726748921942/1149634473428795502/structurizr-85951-Contexto.png?width=557&height=676" >
+</p>
+
+### 4.6.1 Software Architecture Container Diagram
+<p align ="center">
+   <img src="https://media.discordapp.net/attachments/1149549726748921942/1149634473139376158/structurizr-85951-Contenedor.png?width=521&height=676" >
+</p>
+
+
 ## 4.7 
 ## 4.8 Database Design
 ### 4.8.1 Database Diagram
 <img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149533834908540978/image.png" alt="database-diagram">
+
+
 
 ## Entidades de la base de datos:
 
