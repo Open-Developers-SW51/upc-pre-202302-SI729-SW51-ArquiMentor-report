@@ -1378,3 +1378,38 @@ Esta entidad representa a los estudiantes de arquitectura.
 
 - **Age: Edad del estudiante.**
 
+## 5. Capítulo V: Product Implementation, Validation & Deployment
+
+### 5.1.4 Software Deployment Configuration
+
+Como se ha mencionado previamente, la gestión de nuestro código fuente se llevará a cabo mediante GitHub. Además, haremos uso de GitHub Pages para la publicación y el despliegue de la página. Cada sección del Landing Page que hemos desarrollado deberá estar disponible en el siguiente enlace: https://open-developers-sw51.github.io/upc-pre-202302-SI729-SW51-ArquiMentor-landing-page/public/ 
+
+En lo que respecta a la creación del Landing Page de ArquiMentor, hemos empleado las siguientes herramientas:
+
+HTML: Este lenguaje de marcado se ha utilizado para estructurar nuestro Landing Page.
+Evidencia: Los archivos HTML, siendo el principal denominado index.html, donde todos los miembros han integrado el contenido creado en sus respectivas ramas individuales.
+<img src="https://media.discordapp.net/attachments/1149190528756363337/1149602952491835492/image.png?width=1440&height=238" alt="evidencia-html" >
+Css: Es aquel que nos ayudó con el diseño gráfico para que el Landing Page sea agradable e interactúale. Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño de toda la estructura realizada con html. 
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149607008304103434/image.png" alt="evidencia-css" >
+
+JS: Nos ayudó a desarrollar la lógica necesaria para el Landing Page Evidencia: Se muestra el documento main.js.
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149607779020050463/image.png" alt="evidencia-js" >
+El despliegue del Landing Page de ArquiMentor no pudo ser posible sin utilizar las siguientes tecnologías: 
+
+• Git: 
+Sistema de control de versiones que está pensado en la eficiencia y compatibilidad de versiones. El cual nos ayudó a trabajar en equipo durante el desarrollo del Landing Page.
+
+ • GitHub:
+  Plataforma de desarrollo colaborativo.
+
+•Git Flow: 
+Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto al desarrollo del Landing Page.
+
+ • Git Hub Pages:
+  Servicio de Github que nos permitió alojar nuestra Landing page.
+  
+Obtuvimos el siguiente enlace: https://open-developers-sw51.github.io/upc-pre-202302-SI729-SW51-ArquiMentor-landing-page/public/ 
+Evidencia de Deployment
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149604527352332349/image.png" alt="deployment" >
+Se puede visualizar el link en la barra de búsqueda y que está en modo público desde un computador x. Se muestran las acciones realizadas en el github para el lanzamiento del Landing Page. 
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149604423019024484/image.png" alt="github-actions" >
