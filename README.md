@@ -1229,8 +1229,53 @@ Se muestra como último bloque de la plataforma, un resumen breve de informació
 <img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149531000670519297/image.png" alt="mobile-web-browser-contact-us" height="540">
 
 Link: https://www.figma.com/file/Ms6aOfFa9ov67GDl7Un5So/Mockup-Landing-Page-(Arquisesor)?type=design&node-id=0%3A1&mode=design&t=inLwmbPWyN4MqUTC-1 
-## 4.4 
-## 4.5 
+## 4.4 Web Applications UX/UI Design.
+
+### 4.4.1. Web Applications Wireframes 
+
+Los wireframes de aplicaciones web para "Arquimentor" es una herramienta esencial en el proceso de diseño, ayudando a planificar la estructura y la disposición de elementos en la interfaz de usuario de manera eficiente y efectiva, lo que contribuye a la creación de una aplicación web atractiva y funcional para el servicio de bares.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149581858053574776/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149582981854400604/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149586040579969024/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149586058040852500/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149586398064685187/image.png" alt="desktop-web-browser-us">
+
+### 4.4.2. Web Applications Wireflow Diagrams.
+
+Los Wireflow Diagrams son una herramienta valiosa para planificar y visualizar la experiencia del 
+usuario en una aplicación web de servicios de bares. Ayudan a garantizar que la navegación sea fluida,
+las interacciones sean intuitivas y los usuarios puedan llevar a cabo tareas de manera eficiente 
+dentro de la aplicación, contribuyendo a una experiencia de usuario positiva.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598827356115005/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598899003203585/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149599038644162592/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149599086534729778/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149599131833208832/image.png" alt="desktop-web-browser-us">
+
+### 4.4.3. Web Applications Mock-ups.
+
+Estas representaciones visuales son un paso crucial en el proceso de diseño antes de la implementación real, ayudando a garantizar que la interfaz sea atractiva, funcional y satisfactoria para los usuarios.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149587356706410567/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149587534565888070/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149587587485401088/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149587648151834665/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149587767186178049/image.png" alt="desktop-web-browser-us">
+
+### 4.4.4. Web Applications User Flow Diagrams.
+
+Estos diagramas permiten diseñar una experiencia de usuario fluida y eficiente, garantizando que los usuarios puedan navegar fácilmente por la aplicación para satisfacer sus necesidades de búsqueda y orden en establecimientos de bares.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598363151499334/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598454050463815/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598625782038588/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598678965821491/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598735018512454/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598776617611375/image.png" alt="desktop-web-browser-us">
+
+## 4.5. Web Applications Prototyping 
 ## 4.6 
 ## 4.7 
 ## 4.8 Database Design
