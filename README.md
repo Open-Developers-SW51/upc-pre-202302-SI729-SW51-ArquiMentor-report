@@ -1229,8 +1229,25 @@ Se muestra como último bloque de la plataforma, un resumen breve de informació
 <img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149531000670519297/image.png" alt="mobile-web-browser-contact-us" height="540">
 
 Link: https://www.figma.com/file/Ms6aOfFa9ov67GDl7Un5So/Mockup-Landing-Page-(Arquisesor)?type=design&node-id=0%3A1&mode=design&t=inLwmbPWyN4MqUTC-1 
-## 4.4 
-## 4.5 
+## 4.4 Web Applications UX/UI Design.
+
+### 4.4.1. Web Applications Wireframes 
+
+Los wireframes de aplicaciones web para "Arquimentor" es una herramienta esencial en el proceso de diseño, ayudando a planificar la estructura y la disposición de elementos en la interfaz de usuario de manera eficiente y efectiva, lo que contribuye a la creación de una aplicación web atractiva y funcional para el servicio de bares.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149581858053574776/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149582981854400604/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149586040579969024/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149586058040852500/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1149586398064685187/image.png" alt="desktop-web-browser-us">
+
+### 4.4.2. Web Applications Wireflow Diagrams.
+
+### 4.4.2. Web Applications Mock-ups.
+
+### 4.4.3. Web Applications User Flow Diagrams.
+
+## 4.5. Web Applications Prototyping 
 ## 4.6 
 ## 4.7 
 ## 4.8 Database Design
