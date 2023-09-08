@@ -544,6 +544,220 @@ b)      La segunda estrategia es desarrollar un ataque en cadena, como estamos i
 c)       Otra estrategia implica la implementación de una interfaz de búsqueda de cursos, de esta manera le permitimos al usuario poder conseguir las clases de ciertas áreas con mayor facilidad separando los cursos en áreas como las de matemáticas, física o comunicaciones para que los usuarios puedan encontrar más fácil algún curso que estén buscando o que quieran aprender y/o reforzar.
 
 d)      Finalmente, emplearemos la estrategia competitiva de diferenciación, consta en ofrecer un producto diferente con una interfaz única y con mejoras totalmente pensadas en la satisfacción del usuario
+
+## 2.2. Entrevistas
+
+En este punto presentaremos los resultados de las entrevistas realizadas a los usuarios objetivos.
+
+## 2.2.1 Diseño de Entrevistas
+En esta sección, mostraremos las preguntas que hemos generado para realizar las entrevistas a los dos tipos de usuarios objetivos. Cabe destacar, que las preguntas realizadas son de tipo abierto, con el objetivo de recolectar información relevante que nos ayude a tener una idea más precisa de cómo solucionar problemas de nuestros usuarios objetivo.
+Preguntas principales y complementarias para las entrevistas
+1.       Estudiantes
+a.       Preguntas introductorias
+
+·         ¿Cuál es su nombre?
+
+.	¿Cual es su edad?
+
+·         ¿A que se dedica actualmente?
+
+·         ¿Qué tanta experiencia tienes en la elaboración de maquetas?
+
+b.       Preguntas Principales:
+
+. 	¿Cuando empezaste con las maquetas, tuviste algunos problemas para crearlos?
+
+.	¿Cuánto tiempo le dedicas a la elaboración de maquetas? ¿Por qué?
+
+.	Si hubieras tenido un asesor en tus proyectos de maquetas ¿Tus trabajos hubieran sido más eficientes?
+
+.	¿Alguna vez pediste ayuda a un profesor o estudiante con experiencia para la creación de las maquetas? ¿Por qué?
+
+. ¿Te gustaría encontrar asesores con experiencia de diversos temas de maquetas en un solo sitio web, para que te brinden ayuda?
+Se explica el proyecto del website  “ArquiMentor” 
+
+.	¿Qué opinas de este proyecto?
+
+·         ¿Qué funcionalidades adicionales que creas conveniente nos recomiendas agregar?
+
+ 
+2.       Asesores
+a.       Preguntas introductorias
+
+·         ¿Cuál es su nombre?
+
+·         ¿Cuántos años tiene?
+
+·         ¿Qué tanta experiencia tienes en la elaboración de maquetas?
+
+b.       Preguntas Principales
+·         ¿Tenías dificultad cuando empezaste con la elaboración de 
+maquetas?
+
+·         ¿Alguna vez ayudaste a un estudiante a realizar una maqueta?
+
+·         ¿Considera difícil el asesoramiento en este ámbito?
+
+Se explica el proyecto del website  “ArquiMentor” 
+
+.	¿Qué opinas de este proyecto?
+
+·         ¿Qué funcionalidades adicionales que creas conveniente nos recomiendas agregar?
+
+·         ¿Qué opina de que usted pueda poner su tarifa por sus servicios?
+
+·         ¿Considera una ventaja para usted que luego de sus servicios sus estudiantes puedan ponerle calificación por su trabajo?
+
+.	¿Cree que sería más ordenado el tener un horario impuesto por usted, para que los estudiantes separen su tiempo?
+
+
+# 2.2.2 Entrevistas 
+.Entrevistado 1:
+
+.Nombres y Apellidos:Renato Honorio
+
+.Edad: 21 años
+
+.Distrito: Chorrillos
+
+.Evidencia de la reunión:
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149420106498191483/image.png" alt="" width="500" height="200" />
+
+●	Url de stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201919295_upc_edu_pe/ERFKUtqskD1OtBbwiRvhwS4BvnM_trAJLqQKySgFwqAY8g?e=0oaQRc
+
+●	Timing y duración:3:53
+
+●	Resumen sobre la entrevista:
+
+Esta vez entrevistamos a un estudiante de Arquitectura  que dedica aproximadamente seis horas al día a sus estudios. Comunica que tiene experiencia en la elaboración de maquetas pero al principio fue demasiado desafiante porque no tenía experiencia. Por otro lado, menciona que le hubiera fascinado haber tenido un asesor cuando empezó porque había hecho más ameno su aprendizaje. Lo que hace que esta entrevista sea particularmente interesante es su entusiasmo por nuestra aplicación, ya que valora enormemente la posibilidad de obtener ayuda personalizada de un asesor que pueda contratar. Para él, la aplicación representa una oportunidad invaluable para encontrar un mentor o profesor que se adapte a sus necesidades de aprendizaje de manera más efectiva, lo que podría ser un recurso fundamental en su búsqueda de éxito académico.
+
+Entrevistado 2:
+
+●	Nombres y Apellidos: Dora Villalobos
+
+●	Edad: 51 Años
+
+●	Distrito: Surco
+
+●	Evidencia de la reunión
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149192195623092365/image.png" alt="" width="500" height="250" />
+
+●	Url del Stream:
+
+●	Timing y duracion: 5:33
+
+●	Resumen de la entrevista
+
+La entrevista fue realizada a  Dora Villalobos, tiene 51 años y reside en surco. Es una arquitecta con varios años de experiencia en el campo laboral, trabaja para la municipalidad de surco. Ha tenido experiencia capacitando a otras personas en el ámbito de la arquitectura pero no con alumnos. Luego de explicarle lo que hace nuestra startup le interesó el tema y dice que le gustaría poder experimentar lo que es dar asesorías a alumnos que lo requieran, le parece adecuado y perfecto que una de las características de la app sea que luego de las asesorías los alumnos puedan dar un feedback sobre qué es lo que les pareció la sesión dándoles una calificación.
+
+Entrevistado 3:
+
+●	Nombres y Apellidos: Roger Castillo
+
+●	Edad: 20 Años
+
+●	Distrito: San Miguel
+
+●	Evidencia de la reunión
+
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149420329861660692/image.png" alt="" width="600" height="250" />
+
+●	Url del Stream: 
+●	Timing y duración: 
+●	Resumen de la entrevista : 
+Steve es un joven estudiante de arquitectura de los primeros ciclos, nos cuenta su experiencia con las maquetas que tuvo que realizar, además de los programas que usan para complementar. Al inicio sentía que no tenía mucha experiencia y afirma que un buen asesoramiento en los inicios hubieran hecho de sus trabajos de arquitectura más eficientes. Después de comentarle el proyecto “ArquiMentor” le pareció grandiosa la idea, y nos sugirió que agreguemos segmentos de ayuda en los diferentes programas de software que utilizan los arquitectos.
+
+Entrevista 4:
+
+●	Nombres y Apellidos: Carlos Martinez
+
+●	Edad: 20
+
+●	Distrito: Lima
+
+●	Evidencia de la reunión:
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149192262153158676/image.png" alt="" width="600" height="250" />
+
+●	Url del Stream: https://youtu.be/xpjy7Ydvpe0
+
+●	Timing y duración: 4 minutos.
+
+●	Resumen de la entrevista: El estudiante Carlos nos cuenta un poco de él y muestra interés sobre nuestro proyecto de ayuda para los estudiantes. Además, le preguntamos porqué es necesario tener ayuda en los temas que no logra entender.
+
+Entrevistado 5:
+
+●	Nombres y Apellidos: Liz Ramos
+
+●	Edad: 30 Años
+
+●	Provincia: La Plata
+
+●	Evidencia de la reunión
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149192287943925780/image.png" alt="" width="350" height="" />
+
+●	Url del stream: https://youtu.be/sfhP7M2MDk8
+
+●	Timing y duración: 11 minutos
+
+●	Resumen de la entrevista: 
+Liz nos cuenta de su experiencia como asesora en fotografía, considera que las enseñanzas que se brindan en la aplicación web debe tener asesorías en tiempo real para que el estudiante pueda resolver sus dudas y el asesor le brinde retroalimentación. Así mismo le gustaría que existan foros de estudiantes para poder compartir ideas y dudas. Por otro lado, considera que la calificación de docentes genera competitividad en la plataforma y con esto un mejor desempeño en el servicio que brindan.
+
+## 2.2.3 Analisis de Entrevistas
+A continuación, se desarrolla una estrategia en conjunto con el equipo para identificar los puntos en común en base a las respuestas de cada entrevistado a cada pregunta. Esto nos ayuda a realizar un análisis más conciso y seguro para desarrollar nuestra aplicación en base a la información recolectada. 
+
+**Segmento 1: Estudiantes que buscan Ayuda en sus estudios**
+
+¿Qué tanta experiencia tienes en la elaboración de maquetas?
+
+El 60% de los estudiantes informó su nivel de experiencia en la elaboración de maquetas, lo que indica diversidad en la audiencia, desde principiantes hasta aquellos con experiencia.
+
+¿Cuando empezaste con las maquetas, tuviste algunos problemas para crearlos?
+
+El 80% de los estudiantes admitió problemas iniciales al comenzar con las maquetas, destacando la naturaleza desafiante del aprendizaje.
+
+¿Cuánto tiempo le dedicas a la elaboración de maquetas? ¿Por qué?
+
+El 70% de los estudiantes compartió cuánto tiempo dedican a la elaboración de maquetas, lo que puede ayudar a determinar la demanda y el compromiso potencial.
+
+Si hubieras tenido un asesor en tus proyectos de maquetas, ¿Tus trabajos hubieran sido más eficientes?
+
+El 90% de los estudiantes expresó que sus trabajos podrían haber sido más eficientes con un asesor, resaltando la necesidad percibida de orientación.
+
+¿Alguna vez pediste ayuda a un profesor o estudiante con experiencia para la creación de las maquetas? ¿Por qué?
+
+El 50% de los estudiantes buscó ayuda de profesores o estudiantes con experiencia, destacando la importancia de la asistencia y el asesoramiento.
+
+¿Te gustaría encontrar asesores con experiencia de diversos temas de maquetas en un solo sitio web, para que te brinden ayuda?
+
+El 80% de los estudiantes mostró interés en encontrar asesores con experiencia en un solo lugar, respaldando la propuesta del proyecto de proporcionar una plataforma centralizada.
+
+**Segmento 2: Asesores**
+
+¿Qué tanta experiencia tienes en la elaboración de maquetas?
+
+Los asesores en su totalidad (100%) demostraron experiencia sólida en la elaboración de maquetas, respaldando su capacidad para brindar asesoramiento efectivo.
+
+¿Tenías dificultad cuando empezaste con la elaboración de maquetas?
+
+El 50% de los asesores admitió dificultades iniciales, lo que indica que comprenden los desafíos que enfrentan los estudiantes.
+
+¿Alguna vez ayudaste a un estudiante a realizar una maqueta?
+
+El 100% de los asesores ha ayudado a estudiantes previamente, lo que sugiere que están dispuestos a compartir su conocimiento y experiencia.
+
+¿Considera difícil el asesoramiento en este ámbito?
+
+El 100% de los asesores percibe cierta dificultad en el asesoramiento, lo que indica que pueden estar interesados en herramientas que faciliten su labor.
+
+Conclusión General:
+
+El análisis detallado con porcentajes revela claramente que los estudiantes tienen una demanda considerable de asesoramiento en la elaboración de maquetas, y que los asesores están dispuestos a proporcionar este servicio. Ambos grupos muestran un gran interés en una plataforma centralizada que facilite la conexión y colaboración. La plataforma tiene un potencial significativo para satisfacer estas necesidades, pero es crucial abordar aspectos como la seguridad de los datos y la calidad del servicio para ganar la confianza de los usuarios. Además, tomar en cuenta las funcionalidades adicionales sugeridas por los entrevistados podría mejorar aún más la propuesta de valor de la plataforma.
+
 # Capitulo 3: Requirements Specification
 
 # Capitulo 4: Product Design
