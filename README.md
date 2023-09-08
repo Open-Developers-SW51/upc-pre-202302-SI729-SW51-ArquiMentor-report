@@ -1544,3 +1544,31 @@ Evidencia de Deployment
 <img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149604527352332349/image.png" alt="deployment" >
 Se puede visualizar el link en la barra de búsqueda y que está en modo público desde un computador x. Se muestran las acciones realizadas en el github para el lanzamiento del Landing Page. 
 <img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149604423019024484/image.png" alt="github-actions" >
+
+## 5.2. Landing Page, Services & Applications Implementation.
+
+### 5.2.1. Sprint 1
+|            Sprint #            |    Sprint 1    | | |||
+|:------------------------------:|:----------:|:--:|:--:|:--:|:--:|
+|  |  Work-Item / Task   |
+|User Story ID| id |Description| Estimation(Hours) | Assigned To | Status(To-do/ In-Process/To-Review/Done)|
+|US01 |T1 |Registrar cuenta |3 h |Leonardo Lopez| To do|
+|US02 |T2 |Iniciar sesión |3 h |Diego Ramirez| To do|
+|US03 |T3 |Cerrar sesión |3 h |Kurt Puican| To do|
+|US04 |T4 |Subir proyectos |5 h |Leonardo Lopez| To do|
+|US05 |T5 |Subir Curriculum Vitae |5 h |Yuliana Yauricasa| To do|
+|US06 |T6 |Búsqueda de asesor |4 h |Yuliana Yauricasa| To do|
+|US07 |T7 |Filtrar la búsqueda de asesor |5 h |Leonardo Lopez| To do|
+|US08 |T8 |Visualizar perfiles de asesores |2 h |Rafael Luyo| To do|
+|US09 |T9 |Enviar una solicitud a un asesor |3 h |Diego Ramirez| To do|
+|US10 |T10 |Recibir, aceptar o rechazar una solicitud de un estudiante |5 h |Leonardo Lopez| To do|
+|US11 |T11 |Programar reuniones |7 h |Rafael Luyo| To do|
+|US12 |T12 |Visualizar las reuniones programadas |3 h |Kurt Puican| To do|
+|US13 |T13 |Registrar el avance del proyecto |5 h |Diego Ramirez| To do|
+|US14 |T14 |Visualizar los avances del proyecto |3 h |Rafael Luyo| To do|
+|US15 |T15 |Calificar a un asesor |5 h |Yuliana Yauricasa| To do|
+|US16 |T16 |Visualizar las reseñas a los asesores. |5 h |Leonardo Lopez| To do|
+|US17 |T17 |Seleccionar un plan de suscripción |7 h |Kurt Puican| To do|
+|US18 |T18 |Cambiar plan de suscripción |5 h |Rafael Luyo| To do|
+|US19 |T19 |Conocer a Arquimentor a través del landing page |7 h |Yuliana Yauricasa| To do|
+|US20 |T20 |Reconocer las ventajas de Arquimentor a través del landing page |9 h |Leonardo Lopez| To do|
