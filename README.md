@@ -1266,6 +1266,14 @@ Estas representaciones visuales son un paso crucial en el proceso de diseño ant
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
+Estos diagramas permiten diseñar una experiencia de usuario fluida y eficiente, garantizando que los usuarios puedan navegar fácilmente por la aplicación para satisfacer sus necesidades de búsqueda y orden en establecimientos de bares.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598363151499334/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598454050463815/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598625782038588/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598678965821491/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598735018512454/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598776617611375/image.png" alt="desktop-web-browser-us">
 
 ## 4.5. Web Applications Prototyping 
 ## 4.6 
