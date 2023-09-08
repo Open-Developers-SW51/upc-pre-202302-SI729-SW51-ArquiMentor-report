@@ -1456,7 +1456,11 @@ Esta entidad representa a los estudiantes de arquitectura.
 
 ### 5.1.2. Source Code Management.
 
+Nosotros usaremos la metodología de Git Flow el cual es un modelo de Git branching(creación de ramas). El propósito de esto es para tener una rama Main el cual es donde nosotros tenemos nuestro html,css e imágenes. La segunda rama la cual tendrá los criterios de aceptación a realizar, con nuestros epics adjuntos para poder guiarnos y mejorar el trabajo. Nosotros escogimos GitHub porque es una de las páginas de código más reconocidas en todo el mundo lo cual nos da bastante seguridad, mejor organización y aparte vamos a poder seguir actualizando nuestro código a lo largo del tiempo
 
+Enlace del repositorio GitHub:
+
+https://github.com/Open-Developers-SW51/upc-pre-202302-SI729-SW51-ArquiMentor-report
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
