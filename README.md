@@ -1243,9 +1243,20 @@ Los wireframes de aplicaciones web para "Arquimentor" es una herramienta esencia
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-### 4.4.2. Web Applications Mock-ups.
+Los Wireflow Diagrams son una herramienta valiosa para planificar y visualizar la experiencia del 
+usuario en una aplicación web de servicios de bares. Ayudan a garantizar que la navegación sea fluida,
+las interacciones sean intuitivas y los usuarios puedan llevar a cabo tareas de manera eficiente 
+dentro de la aplicación, contribuyendo a una experiencia de usuario positiva.
 
-### 4.4.3. Web Applications User Flow Diagrams.
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598827356115005/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149598899003203585/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149599038644162592/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149599086534729778/image.png" alt="desktop-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1149599131833208832/image.png" alt="desktop-web-browser-us">
+
+### 4.4.3. Web Applications Mock-ups.
+
+### 4.4.4. Web Applications User Flow Diagrams.
 
 ## 4.5. Web Applications Prototyping 
 ## 4.6 
