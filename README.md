@@ -427,3 +427,115 @@ Por otro lado, en el caso del Web Application, contamos con una barra de navegac
 - **Configuration:** Si el usuario desea ajustar la configuración de la interfaz, puede ingresar a esta sección que se encuentra en la barra de navegación lateral-vertical global y realizar los cambios pertinentes.
 - **Learning Resources:** Si el paciente desea revisar sus recursos de aprendizaje, puede acceder a esta sección ubicada en la barra de navegación lateral-vertical global y seleccionar el recurso que estaba buscando.
 - **Reviews:** Si el estudiante desea revisar las reseñas de los asesores, solo debe ingresar a esta sección ubicada en la barra de navegación lateral-vertical global.
+
+## 4.3 Landing Page UI Design
+
+Las Landing Pages son herramientas utilizadas con el propósito de convertir a los visitantes en potenciales clientes, empleando estrategias como mensajes impactantes y presentación de información sobre el producto, entre otros enfoques. Por esta razón, se tomó la decisión de aprovechar esta herramienta y crear versiones preliminares tanto para dispositivos móviles como para computadoras.
+
+En la versión móvil, se mantiene el mismo contenido que en la versión para computadoras, pero con un diseño reorganizado para ajustarse al tamaño de los dispositivos móviles. También se incluye un botón que facilita la navegación cómoda a través de la Landing Page en estos dispositivos. Este diseño práctico mejora la usabilidad de las opciones y ofrece una presentación visual amigable para los usuarios.
+
+Por otro lado, en la versión para computadoras, se diseñaron ventanas con opciones específicas que buscan facilitar la comprensión por parte del usuario. Cada opción del sitio web está acompañada de una descripción detallada para evitar confusiones. Además, la barra de navegación se mantiene en una posición fija, lo que garantiza que esté siempre disponible para el usuario y le permite explorar la Landing Page de manera cómoda en todo momento.
+
+## 4.3.1 Landing Page Wireframe
+
+En esta sección, se presentará la estructura fundamental para el diseño del sitio web de nuestra aplicación. Se establecerán bases que brindarán una comprensión más clara del contenido que será exhibido en la plataforma, tanto en la versión para computadoras como en la versión móvil.
+
+La Landing Page debe ser dimensionada de manera adecuada para adaptarse a las distintas pantallas de los dispositivos, asegurando que la información se encuentre centrada en la pantalla para una visualización cómoda por parte del usuario.
+Nuestro enfoque es proporcionar información precisa sin generar abrumamiento al usuario. Para lograr esto, ofrecemos una barra de navegación estática que simplifica la exploración a través de la Landing Page, brindando al usuario una experiencia de navegación fluida y accesible.
+
+**Desktop Web**
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149523301002117232/image.png" alt="wireframe-desktop-web-header" >
+
+Diseño del menú de la plataforma web: Se expone la estructura fundamental que contendrá las opciones de mayor relevancia para la comodidad y satisfacción del usuario.
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149523358027874314/image.png" alt="wireframe-desktop-web-know-us" >
+
+Opción que muestra datos para conocer mejor la plataforma. Servicios para ambos segmentos:
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149523400910458890/image.png" alt="wireframe-desktop-web-student-services-and-services-for-teachers" >
+
+Sección de contacto y novedades, donde se proporciona información sobre cómo comunicarse y las últimas actualizaciones de la plataforma.
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149523422599204874/image.png" alt="us" >
+
+Link: https://www.figma.com/file/ufQ5LuwcCMQsMrdKTsZ0ps/WireFrame-Landing-Page-(Arquisesor)?type=design&node-id=0%3A1&mode=design&t=r66VTlN2RvqSzZDb-1 
+
+**Mobile Web** 
+
+Se visualiza la estructura del menú de inicio diseñado para la comodidad del usuario, presentando el icono que despliega las alternativas de navegación.
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149523488118415370/image.png" alt="wireframe-mobile-web-header" >
+
+Se muestra un conjunto de opciones en un bloque que forma parte de la lista de herramientas del servidor, presentando información específica de la aplicación en ciertas situaciones.
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149524974185500672/image.png" alt="wireframe-mobile-web-know-us-part-1" width="" height="548">
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149525001050005524/image.png" alt="wireframe-mobile-web-know-us-part-2" >
+
+Se exhiben los servicios disponibles para ambas audiencias objetivo.
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149525616534753300/image.png" alt="services-for-teachers" width="" height="548">
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149525603121369228/image.png" alt="student-services" height="548" >
+
+Se presenta el último bloque de la aplicación, describiendo el contenido relacionado con la comunicación entre el servicio y el usuario.
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149525636629671996/image.png" alt="us" height="548" >
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149525653297827981/image.png" alt="contact-us" width="370" height="420" >
+
+Link: https://www.figma.com/file/ufQ5LuwcCMQsMrdKTsZ0ps/WireFrame-Landing-Page-(Arquisesor)?type=design&node-id=0%3A1&mode=design&t=r66VTlN2RvqSzZDb-1 
+
+### 4.3.2 Landing Page Mock-up
+Se muestra una vista inicial que representa la estructura fundamental de nuestro sitio web, describiendo su contenido en detalle, aplicando los colores correspondientes de acuerdo con nuestras directrices de estilo e incorporando imágenes pertinentes para mejorar la comprensión de las ideas que deseamos comunicar al usuario de manera más efectiva.
+
+**Desktop Web Browser**
+
+Se presenta la variante del menú de la plataforma, describiendo de manera minuciosa los contenidos fundamentales y las opciones que brindan al usuario un mayor entendimiento de nuestro sistema.
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149527787456172144/image.png" alt="desktop-web-browser-header">
+
+Cuando se selecciona la alternativa "Know Us" en la barra de herramientas del menú principal, se despliegan tres alternativas para que el usuario pueda optar por aquella que mejor se ajuste a sus necesidades y así obtener información detallada sobre nuestro proyecto.
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149527810629718117/image.png" alt="desktop-web-browser-know us">
+
+Se presenta los servicios que posee el usuario a lo largo del consumo del software.
+
+**Usuario: Estudiantes**
+
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149527834344296568/image.png" alt="desktop-web-browser-student-services">
+
+**Usuario: Asesores**
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149527849041141770/image.png" alt="desktop-web-browser-services-for-teachers">
+
+En el último segmento de la plataforma, se exhibe una breve descripción de contacto, junto con la alternativa de comunicarse con nosotros para compartir sus preguntas y requerimientos.
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149527871770079383/image.png" alt="desktop-web-browser-us">
+
+Link: https://www.figma.com/file/Ms6aOfFa9ov67GDl7Un5So/Mockup-Landing-Page-(Arquisesor)?type=design&node-id=0%3A1&mode=design&t=inLwmbPWyN4MqUTC-1
+
+**Mobile Web Browser**
+
+Se muestra la sección de menú principal en la versión móvil de la Landing Page, con las opciones más relevantes para nuestra audiencia objetivo y un resumen conciso de nuestro software.
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149528833091969065/image.png" alt="mobile-web-browser-header">
+
+Se presenta la sección de "Know Us", que proporciona detalles sobre el proceso de nuestros servicios según el profesional de salud designado, responde consultas sobre el funcionamiento del sistema, comparte información sobre nuestra misión y brinda detalles de nuestras consultas.
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149528858266189825/image.png" alt="mobile-web-browser-know-us">
+
+Se presenta el conjunto de servicios disponibles para los estudiantes y los profesionales interesados en nuestra aplicación de software.
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149528881544568862/image.png" alt="mobile-web-browser-service">
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149528904785199144/image.png" alt="mobile-web-browser-student-services">
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149528927337975890/image.png" alt="mobile-web-browser-services-for-teachers" width="350">
+
+Se muestra como último bloque de la plataforma, un resumen breve de información de contacto, así como la posibilidad de comunicarse con nosotros y compartir cualquier pregunta o necesidad que puedan tener.
+
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149530985420042300/image.png" alt="mobile-web-browser-us">
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149531000670519297/image.png" alt="mobile-web-browser-contact-us" height="540">
+
+Link: https://www.figma.com/file/Ms6aOfFa9ov67GDl7Un5So/Mockup-Landing-Page-(Arquisesor)?type=design&node-id=0%3A1&mode=design&t=inLwmbPWyN4MqUTC-1 
