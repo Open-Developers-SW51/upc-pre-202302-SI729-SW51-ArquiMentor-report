@@ -953,7 +953,15 @@ Imagen de los User Stories en Pivotal Tracker
 
 ## 3.3. Impact Mapping
 
-<a href="https://ibb.co/VtsVx8Y%22%3E<img src="https://i.ibb.co/mG3J075/impact-map.png" alt="impact-map" border="0"></a>
+En esta sección se desarrolla una comprensión más profunda de como los objetivos resultan ser claves y necesarios para lograr el éxito del proyecto. Además, se muestra una representación visual del impact mapping con ayuda de la herramienta UXPressia con la finalidad de facilitar la visualización de los business goals, personas, impacts, deliverables y los user stories que se relacionan.
+
+**Segmento asesor**
+
+<a href="https://ibb.co/kyQFmDf"><img src="https://i.ibb.co/CthFP9Z/Impact-map-1-1.png" alt="Impact-map-1-1" border="0"></a>
+
+**Segmento universitario**
+
+<a href="https://ibb.co/DrsZhHR"><img src="https://i.ibb.co/J309Vws/Impact-map-1-2.png" alt="Impact-map-1-2" border="0"></a>
 
 ## 3.4. Product Backlog
 
