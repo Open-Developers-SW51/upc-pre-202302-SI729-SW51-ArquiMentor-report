@@ -893,8 +893,8 @@ En esta sección, se identificó las fases que podría presentar a nuestros User
 # Capitulo 3: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
-
-A continuación se presenta el To Be Scenario Mapping de los segmentos, con el cual satisfacemos sus necesidades por medio del sitio web Arquimentor.
+ 
+A continuación, se presenta el To Be Scenario Mapping para los segmentos, con el cual satisfacemos sus necesidades por medio del sitio web Arquimentor. Esta herramienta refleja cómo Arquimentor abordará y satisfará las necesidades de nuestros usuarios a través de su sitio web. Nuestro compromiso es ofrecer experiencias enriquecedoras y soluciones efectivas a medida que continuamos desarrollando y mejorando nuestros servicios.
 
 ### Segmento 1 - Estudiantes que requieren una asesoría
 
