@@ -1007,79 +1007,6 @@ En esta sección, se presenta el Product Backlog de Arquimentor, que incluye una
 Enlace: https://www.pivotaltracker.com/n/projects/2675481
 
 
-
-
-## Entidades del diagrama de clases:
-
-<a href="https://ibb.co/X8m95dz%22%3E<img src="https://i.ibb.co/16H3Xp9/Clase-UML.png" alt="Clase-UML" border="0"></a>
-
-### Class: Appointment (Cita)
-
-Esta clase representa una cita entre un estudiante y un mentor de arquitectura.
-
-**Atributos:**
-
-- **Time: Hora de la cita.**
-
-- **Date: Fecha de la cita.**
-
-- **Price: Precio de la cita.**
-
-- **Meeting: Detalles de la cita**
-
-### Class: Materials (Materiales)
-
-Esta clase representa los materiales utilizados en proyectos de arquitectura.
-
-**Atributos:**
-
-- **Name: Nombre o título del material.**
-
-- **Price: Precio del material.**
-
-- **Stock: Stock de los material.**
-
-
-### Class: Adviser (Mentor o Asesor)
-
-Esta clase representa a los mentores o asesores en arquitectura disponibles para brindar orientación a los estudiantes.
-
-**Atributos:**
-
-- **CV: CV del mentor.**
-
-- **Appointment: Cita del mentor con el estudiante.**
-
-### Class: Student (Estudiante de Arquitectura)
-
-Esta clase representa a los mentores o asesores en arquitectura disponibles para brindar orientación a los estudiantes.
-
-**Atributos:**
-
-- **Address: Dirección del estudiante.**
-
-- **Appointment: Cita del mentor con el estudiante.**
-
-### Class: StudentProjectInfo (Información del proyecto)
-
-Esta entidad registra información de los proyectos realizados por el estudiante
-
-**Atributos:**
-
-- **Score: Avance del proyecto.**
-
-- **Meeting: Detalles de la cita del mentor con el estudiante.**
-
-### Class: Stores (Tiendas)
-
-Esta clase representa las tiendas que venden materiales de arquitectura.
-
-**Atributos:**
-
-- **Name: Nombre de la tienda.**
-
-- **Location: Locación de la tienda.**
-
 # Capitulo 4: Product Design
 
 ## 4.1 Style Guidelines
@@ -1482,9 +1409,85 @@ Link para el Aplicativo Web: https://www.figma.com/file/3tMZHofVJ936HBpiZAAxJf/M
 </p>
 
 
-## 4.7 
-## 4.8 Database Design
-### 4.8.1 Database Diagram
+## 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagrams
+
+<a href="https://ibb.co/PTBsW62"><img src="https://i.ibb.co/rbnKpwB/Clase-UML.png" alt="Clase-UML" border="0"></a>
+
+### 4.7.2. Class Dictionary
+
+#### Entidades del diagrama de clases:
+
+**Class: Appointment (Cita)**
+
+Esta clase representa una cita entre un estudiante y un mentor de arquitectura.
+
+**Atributos:**
+
+- **Time: Hora de la cita.**
+
+- **Date: Fecha de la cita.**
+
+- **Price: Precio de la cita.**
+
+- **Meeting: Detalles de la cita**
+
+**Class: Materials (Materiales)**
+
+Esta clase representa los materiales utilizados en proyectos de arquitectura.
+
+**Atributos:**
+
+- **Name: Nombre o título del material.**
+
+- **Price: Precio del material.**
+
+- **Stock: Stock de los material.**
+
+**Class: Adviser (Mentor o Asesor)**
+
+Esta clase representa a los mentores o asesores en arquitectura disponibles para brindar orientación a los estudiantes.
+
+**Atributos:**
+
+- **CV: CV del mentor.**
+
+- **Appointment: Cita del mentor con el estudiante.**
+
+**Class: Student (Estudiante de Arquitectura)**
+
+Esta clase representa a los mentores o asesores en arquitectura disponibles para brindar orientación a los estudiantes.
+
+**Atributos:**
+
+- **Address: Dirección del estudiante.**
+
+- **Appointment: Cita del mentor con el estudiante.**
+
+**Class: StudentProjectInfo (Información del proyecto)**
+
+Esta entidad registra información de los proyectos realizados por el estudiante
+
+**Atributos:**
+
+- **Score: Avance del proyecto.**
+
+- **Meeting: Detalles de la cita del mentor con el estudiante.**
+
+**Class: Stores (Tiendas)**
+
+Esta clase representa las tiendas que venden materiales de arquitectura.
+
+**Atributos:**
+
+- **Name: Nombre de la tienda.**
+
+- **Location: Locación de la tienda.**
+
+## 4.8. Database Design
+
+### 4.8.1. Database Diagram
 <img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149533834908540978/image.png" alt="database-diagram">
 
 
