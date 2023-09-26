@@ -30,9 +30,28 @@
 |    1    | 02/09/23 | Leonardo Lopez</br>Kurt Puican </br>Rafael Luyo</br>Diego Ramirez</br>Juliana Yauricasa    | Culminación de los siguientes capítulos:</br></br>Capítulo I: Introducción</br>Se presenta el proyecto, comenzando con una descripción detallada de la startup y sus miembros fundadores. Se exploran los desafíos y problemas actuales que enfrenta la startup, empleando un enfoque de Lean UX para identificar problemas, Assumptions e Hypothesis Statements . Además, se delinean los segmentos objetivo para la solución propuesta.</br></br>Capítulo II: As-Is Software Solution Requirements Elicitation & Analysis</br>Se realiza un análisis del entorno competitivo de la startup, investigando estrategias y tácticas frente a los competidores. Se llevan a cabo entrevistas con el fin de obtener información esencial de los usuarios. Varias técnicas, como el diseño de entrevistas, el registro y análisis de entrevistas, y la identificación de necesidades a través de la creación de User Personas, User Task Matrix, User Journey Mapping y Empathy Mapping, son empleadas para este propósito.</br></br>Capítulo III: As-Is Software Solution Requirements Specification</br>Se especifican los requisitos del software. Se crean los To-Be Scenario Mapping y las User Stories. Además, se utiliza el Impact Mapping para visualizar cómo las funcionalidades afectan a los objetivos del proyecto y se establece un Product Backlog.</br></br>Capítulo IV: Product Design</br>Se diseña el producto, incluyendo pautas de estilo, arquitectura de la información, diseño de la página de aterrizaje, UX/UI de aplicaciones web, prototipado, arquitectura de software, diseño orientado a objetos y diseño de base de datos.</br></br>Capítulo V: Product Implementation, Validation & Deployment</br>Se desarrolla la implementación, validación y despliegue del producto, incluyendo gestión de configuración, implementación de páginas y aplicaciones, validación a través de entrevistas y pruebas, y finalmente, el despliegue del software. |
 |
 |    2    | 26/09/23 | Leonardo Lopez</br>Kurt Puican </br>Rafael Luyo</br>Diego Ramirez</br>Juliana Yauricasa    | Mejora continua: Corrección de los siguientes capítulos: </br>  Capítulo III: As-Is Software Solution Requirements </br> Agregar user stories para la landing page y las technical stories, priorizar las user stories de acuerdo al core del negocio, mejora del impact mapping.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|    
+<br>
+
+# Project Report Collaboration Insights
+
+URL del repositorio para el Project Report: https://github.com/Open-Developers-SW51/upc-pre-202302-SI729-SW51-ArquiMentor-report
+
+La elaboración del proyecto se realizó mediante el github en formato Markdown usando la metodología GitFlow.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1156263561753014342/image.png?ex=651455db&is=6513045b&hm=56dc6a2bd4255d1cc425ea3f91facc1eda01265ace660386407bc0c8192d0903&">
+
+Para los commits se utilizo Conventional Commits.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1156264608852607037/image.png?ex=651456d5&is=65130555&hm=0127e1211c246f901d004f67b4a3e23c3670cd85519fde38240e4e9b0160d9a1&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1156269150159781938/image.png?ex=65145b0f&is=6513098f&hm=c7eb7e66dba9cfe0078c690abf740ee57f168425ba27ddd40177fc285325eb61&">
+
+Los colaboradores en el proyecto se muestra en la siguiente imagen, con las cantidades respectivas de commits.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1156268138871128194/image.png?ex=65145a1e&is=6513089e&hm=4f3b87121aca23e7d234fcd2cb6e596b187a59f71d017e4b96c6d5a55f8d471a&">
+
 <br><br>
-# Índice
+# Contenido
+## Tabla de contenidos
 
 ## 1. Capítulo I: Introducción
 
