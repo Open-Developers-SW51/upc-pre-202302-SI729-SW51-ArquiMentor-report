@@ -744,6 +744,22 @@ Entrevista 3:
 
 ●	Resumen de la entrevista: El estudiante Carlos nos cuenta un poco de él y muestra interés sobre nuestro proyecto de ayuda para los estudiantes. Además, le preguntamos porqué es necesario tener ayuda en los temas que no logra entender.
 
+Entrevista 4:
+
+● Nombres y Apellidos: Marilyn Monrroy
+
+● Edad: 20 años
+
+● Distrito: Lima
+
+● Evidencia de la reunión:
+
+<img src="https://i.ibb.co/LzsfpZt/imageaaaa.png" alt="imageaaaa" border="0"></a><br /><a target='_blank' href='https://imgbb.com/' />
+
+●	Url de stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b782_upc_edu_pe/EfA6CYMjwC1Cqpy5t4SNtGgBMIBi8DQ5TUVX41tIyeAJuQ?e=aWfG9k&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+
+●	Resumen sobre la entrevista: En la entrevista, la estudiante nos brinda información sobre sí misma y destaca que su principal desafío al crear maquetas ha sido la relación entre la forma y la función que deben cumplir en la construcción. También menciona que la construcción de la maqueta en sí le lleva aproximadamente dos días, pero lo que realmente consume la mayor parte de su tiempo es la planificación y la generación de ideas. Asimismo, está convencida de que si hubiera contado con un asesor, la ejecución de la idea habría sido mucho más rápida. Según su experiencia, suele buscar ayuda entre los arquitectos de la universidad, aunque no siempre están disponibles, por lo que acude a estudiantes en ciclos más avanzados. Considera que un recurso como Arquimentor sería muy útil para los estudiantes, ya que les proporcionaría mayor inspiración y soluciones. Además, nos sugiere incorporar una sección dedicada a la elaboración de planos y a los reglamentos de construcción. También propone incluir una funcionalidad para la construcción de mobiliario que a menudo se requiere como complemento de las maquetas.
+
 ### Segmento asesor 
 
 Entrevista 1:
@@ -1042,7 +1058,7 @@ En esta sección se desarrolla una comprensión más profunda de como los objeti
 
 <a href="https://ibb.co/kyQFmDf"><img src="https://i.ibb.co/CthFP9Z/Impact-map-1-1.png" alt="Impact-map-1-1" border="0"></a>
 
-**Segmento universitario**
+**Segmento estudiante**
 
 <a href="https://ibb.co/DrsZhHR"><img src="https://i.ibb.co/J309Vws/Impact-map-1-2.png" alt="Impact-map-1-2" border="0"></a>
 
