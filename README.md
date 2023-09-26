@@ -578,18 +578,40 @@ En este punto presentaremos los resultados de las entrevistas realizadas a los u
 ## 2.2.1 Diseño de Entrevistas
 En esta sección, mostraremos las preguntas que hemos generado para realizar las entrevistas a los dos tipos de usuarios objetivos. Cabe destacar, que las preguntas realizadas son de tipo abierto, con el objetivo de recolectar información relevante que nos ayude a tener una idea más precisa de cómo solucionar problemas de nuestros usuarios objetivo.
 Preguntas principales y complementarias para las entrevistas
-1.       Estudiantes
-a.       Preguntas introductorias
 
-·         ¿Cuál es su nombre?
+### 1. Estudiantes
 
-.	¿Cual es su edad?
+**a. Preguntas introductorias**
 
-·         ¿A que se dedica actualmente?
+· ¿Cuál es su nombre?
 
-·         ¿Qué tanta experiencia tienes en la elaboración de maquetas?
+. ¿Cuál es su género?
 
-b.       Preguntas Principales:
+. ¿Cuál es su edad?
+
+. ¿Cuál es su distrito de residencia?
+
+. ¿Cuál es su estado civil?
+
+· ¿A que se dedica actualmente?
+
+. ¿Cuál es son sus frustraciones? 
+
+. ¿Comó considera que es su personalidad?
+
+. ¿Cúales son sus habilidades?
+
+. ¿Qué marcas e influencias usa?
+
+. ¿Que dispositivo usa en su vida diaria?
+
+. ¿Con que canales digitales interactua?
+
+. ¿Cúales son sus objetivos?
+
+· ¿Qué tanta experiencia tienes en la elaboración de maquetas?
+
+**b. Preguntas Principales:**
 
 . 	¿Cuando empezaste con las maquetas, tuviste algunos problemas para crearlos?
 
@@ -606,17 +628,41 @@ Se explica el proyecto del website  “ArquiMentor”
 
 ·         ¿Qué funcionalidades adicionales que creas conveniente nos recomiendas agregar?
 
- 
-2.       Asesores
-a.       Preguntas introductorias
 
-·         ¿Cuál es su nombre?
+### 2. Asesores
 
-·         ¿Cuántos años tiene?
+**a. Preguntas introductorias**
 
-·         ¿Qué tanta experiencia tienes en la elaboración de maquetas?
+· ¿Cuál es su nombre?
 
-b.       Preguntas Principales
+. ¿Cuál es su género?
+
+. ¿Cuál es su edad?
+
+. ¿Cuál es su distrito de residencia?
+
+. ¿Cuál es su estado civil?
+
+· ¿A que se dedica actualmente?
+
+. ¿Cuál es son sus frustraciones?
+
+. ¿Comó considera que es su personalidad?
+
+. ¿Cúales son sus habilidades?
+
+. ¿Qué marcas e influencias usa?
+
+. ¿Que dispositivo usa en su vida diaria?
+
+. ¿Con que canales digitales interactua?
+
+. ¿Cúales son sus objetivos?
+
+· ¿Qué tanta experiencia tienes en la elaboración de maquetas?
+
+**b.       Preguntas Principales**
+
 ·         ¿Tenías dificultad cuando empezaste con la elaboración de 
 maquetas?
 
