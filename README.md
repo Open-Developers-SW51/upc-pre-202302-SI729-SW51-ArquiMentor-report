@@ -1,4 +1,4 @@
-# Universidad Peruana de Ciencias Aplicadas.
+3# Universidad Peruana de Ciencias Aplicadas.
 ### Ingeniería de Software.
 ### Desarrollo de Aplicaciones Open Source.
 ### SW51
@@ -1860,12 +1860,12 @@ El objetivo principal del Sprint 2 es tener una primera version de nuestra Front
 |:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
 |               | Work-Item / Task |
 | User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
-|     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Yuliana Yauricasa       | In-Process|
-|     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Yuliana Yauricasa       | In-Process|
+|     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Juliana Yauricasa       | In-Process|
+|     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Juliana Yauricasa       | In-Process|
 |     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Kurt Puican &  Diego Ramirez | In-Process|
 |     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
-|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Yuliana Yauricasa       | Done|
-|     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Yuliana Yauricasa       | Done|
+|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Juliana Yauricasa       | Done|
+|     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Juliana Yauricasa       | Done|
 |     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Rafael            | Done|
 
 
@@ -1873,14 +1873,16 @@ El objetivo principal del Sprint 2 es tener una primera version de nuestra Front
 
 En la siguiente tabla se mostrara algunos de los commits mas importantes realizados por cada developer del Sprint 2.
 
-| Repository |     Branch      |Commit Id |           Commit Message           |                                    Commit Message Body                                    | Commited on (Date) |
-|:----------:|:---------------:|:--:|:----------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
-| Leonardo/Frontend-Arquimentor  | feature/sidebar |e9d8fa1d88636bd7e04b61a7c1d9e60a5adba8b8|    feat(nav): add nav component    |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     21/09/2023     |
-| Leonardo/Frontend-Arquimentor  | feature/project |73307c03cf8bbda5e06d68dde12a10d98396ead1| feat(project): add project angular | Se agrego todas las dependecias y carpetas necesarias para iniciar un proyecto en Angular |     21/09/2023     |
-| kurtPuican/Frontend-Arquimentor  | feature(reviews) |6bb6d9c3a2c5ff67ea4ac799f9a632ad77cd7bd9| feat(project): add reviews component |                      Se agrego el componente de reviews al proyecto                       |     26/09/2023     |
-| KurtPuican/Frontend-Arquimentor  | feature(view-profile) |fcd3058d63b47028f4d083b2828cf42277bf589e| feat(view-profile): add view profile component |                    Se agrego el componente de view-profile al proyecto                    |     26/09/2023     |
-| Rafael/Frontend-Arquimentor  | feature/student-profile |a581b8666be8e23fc54c1ba58bbea477afad536f1| feat(student-profile): add student-profile component |                   Se agrego el componente de estudiante en su totalidad                   |     25/09/2023     |
-| Rafael/Frontend-Arquimentor | feature/profile-service |17772ffcac8bcde210afc7a69ee4f0366b375492| feat(profile-service): add profile-service |                           Incorporación del servicio de perfil                            |     25/09/2023     |
+|           Repository            |         Branch          |Commit Id |                       Commit Message                       |                                    Commit Message Body                                    | Commited on (Date) |
+|:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
+|  Leonardo/Frontend-Arquimentor  |     feature/sidebar     |e9d8fa1d88636bd7e04b61a7c1d9e60a5adba8b8|                feat(nav): add nav component                |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     21/09/2023     |
+|  Leonardo/Frontend-Arquimentor  |     feature/project     |73307c03cf8bbda5e06d68dde12a10d98396ead1|             feat(project): add project angular             | Se agrego todas las dependecias y carpetas necesarias para iniciar un proyecto en Angular |     21/09/2023     |
+| kurtPuican/Frontend-Arquimentor |    feature(reviews)     |6bb6d9c3a2c5ff67ea4ac799f9a632ad77cd7bd9|            feat(project): add reviews component            |                      Se agrego el componente de reviews al proyecto                       |     26/09/2023     |
+| KurtPuican/Frontend-Arquimentor |  feature(view-profile)  |fcd3058d63b47028f4d083b2828cf42277bf589e|       feat(view-profile): add view profile component       |                    Se agrego el componente de view-profile al proyecto                    |     26/09/2023     |
+|   Rafael/Frontend-Arquimentor   | feature/student-profile |a581b8666be8e23fc54c1ba58bbea477afad536f1|    feat(student-profile): add student-profile component    |                   Se agrego el componente de estudiante en su totalidad                   |     25/09/2023     |
+|   Rafael/Frontend-Arquimentor   | feature/profile-service |17772ffcac8bcde210afc7a69ee4f0366b375492|         feat(profile-service): add profile-service         |                           Incorporación del servicio de perfil                            |     25/09/2023     |
+| JulianaYS/Frontend-Arquimentor  |    feature/register     |2ad3f07bb170cc0276ebcc90dee96fe488230d3c|    feat(register): Created and added component register    |                             Se agrego el componente registro                              |     26/09/2023     |
+| JulianaYS/Frontend-Arquimentor  |      feature/login      |76a50536949dbf3131f61ee4053e6fda5efc8f35|       feat(login): Created and added component login       |                              Se agrego el componente login                                |     26/09/2023     |
 
 #### 5.2.1.5 Execution Evidence for Sprint Review
 
@@ -1948,7 +1950,7 @@ En el Sprint 2, hemos llevado a cabo una serie de actividades relacionadas con e
 
 #### 5.2.1.8 Team Collaboration Insights for Sprint Review
 
-Durante el sprint 2, el equipo trabajo activamente en la implementacion del frontend y corrección del reporte. La metodologia que se usa fue mediante gitflow en formato MarkDown, participando correctamente los 5 miembros del equipo. Las Actividades que se implementaron fueron el frontend y las que se corrigieron fueron el reporte y el landingpage.
+Durante el sprint 2, el equipo trabajo activamente en la implementación del frontend y corrección del reporte. La metodologia que se usa fue mediante gitflow en formato MarkDown, participando correctamente los 5 miembros del equipo. Las Actividades que se implementaron fueron el frontend y las que se corrigieron fueron el reporte y el landingpage.
 
 Imagenes de los commit para el reporte:
 <img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156499089991667852/image.png?ex=65153135&is=6513dfb5&hm=85029bfa52331fd24026975282431f53b0b7d26ff5e591d7ad2db3a1def6cbb3&">
