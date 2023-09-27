@@ -708,7 +708,7 @@ Entrevista 1:
 
 ●	Resumen sobre la entrevista:
 
-Esta vez entrevistamos a un estudiante de Arquitectura  que dedica aproximadamente seis horas al día a sus estudios. Comunica que tiene experiencia en la elaboración de maquetas pero al principio fue demasiado desafiante porque no tenía experiencia. Por otro lado, menciona que le hubiera fascinado haber tenido un asesor cuando empezó porque había hecho más ameno su aprendizaje. Lo que hace que esta entrevista sea particularmente interesante es su entusiasmo por nuestra aplicación, ya que valora enormemente la posibilidad de obtener ayuda personalizada de un asesor que pueda contratar. Para él, la aplicación representa una oportunidad invaluable para encontrar un mentor o profesor que se adapte a sus necesidades de aprendizaje de manera más efectiva, lo que podría ser un recurso fundamental en su búsqueda de éxito académico.
+Hablamos con un dedicado estudiante de Arquitectura que invierte seis horas al día en sus estudios. Aunque inicialmente enfrentó desafíos al crear maquetas debido a su falta de experiencia, su entusiasmo por nuestra aplicación radica en la posibilidad de acceder a asesores personalizados. Ve en la aplicación una oportunidad invaluable para encontrar un mentor que se ajuste a sus necesidades de aprendizaje. Utiliza software crucial para arquitectos como , Revit y AutoCad, y se apoya en dispositivos como teléfonos, laptop y tablets. Para interactuar, confía en Discord, Google Meet, Zoom y ocasionalmente en reuniones presenciales, y su navegación web se realiza principalmente a través de Google Chrome y Opera. 
 
 Entrevista 2:
 
