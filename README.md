@@ -1845,8 +1845,8 @@ Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra pr
 | Sprint 1 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
 | **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
 |          Sprint 2 Goal          |                                  Goal: Tene la priemra version del frontend terminada al 90% <br> Metrica de cumplimiento:Se muestra la primera version del frontend dl sitio web, terminado al 90%.                                   |
-|        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 21 story points                                                                  |
-|       Sum of Story Points       |                                                                                                  Suma de los Story Points: 5+5+5+6=21                                                                                                  |
+|        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 15 story points                                                                  |
+|       Sum of Story Points       |                                                                                               Suma de los Story Points: 3+1+2+5+1+1+2=15                                                                                               |
 
 #### 5.2.1.2 Sprint Backlog 2
 
@@ -1860,10 +1860,10 @@ El objetivo principal del Sprint 2 es tener una primera version de nuestra Front
 |:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
 |               | Work-Item / Task |
 | User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
-|     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Yuliana Yauricasa       | To-Review|
-|     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Yuliana Yauricasa       | To-Review|
-|     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Kurt Puican &  Diego Ramirez | To-Review|
-|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | To-Review|
+|     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Yuliana Yauricasa       | In-Process|
+|     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Yuliana Yauricasa       | In-Process|
+|     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Kurt Puican &  Diego Ramirez | In-Process|
+|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
 |     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Yuliana Yauricasa       | Done|
 |     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Yuliana Yauricasa       | Done|
 |     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Rafael            | Done|
@@ -1881,3 +1881,19 @@ En la siguiente tabla se mostrara algunos de los commits mas importantes realiza
 | KurtPuican/Frontend-Arquimentor  | feature(view-profile) |fcd3058d63b47028f4d083b2828cf42277bf589e| feat(view-profile): add view profile component |                    Se agrego el componente de view-profile al proyecto                    |     26/09/2023     |
 | Rafael/Frontend-Arquimentor  | feature/student-profile |a581b8666be8e23fc54c1ba58bbea477afad536f1| feat(student-profile): add student-profile component |                   Se agrego el componente de estudiante en su totalidad                   |     25/09/2023     |
 | Rafael/Frontend-Arquimentor | feature/profile-service |17772ffcac8bcde210afc7a69ee4f0366b375492| feat(profile-service): add profile-service |                           Incorporación del servicio de perfil                            |     25/09/2023     |
+
+#### 5.2.1.5 Execution Evidence for Sprint Review
+
+Como resumen del sprint 2 se realizaron los diferentes HU, algunos completandolos al 100% y otros al 60%. Compartimos imagenes para mostrar como quedo el avance de la primera versión del servicio web. Cada uno con su ruta respectiva.
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487053169664071/image.png?ex=651525ff&is=6513d47f&hm=f7427db005b20b8185dd70354fd88ace39f747a73bcba154cbef90ba25a028fc&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487471174008832/image.png?ex=65152663&is=6513d4e3&hm=df72cc97480408676ec2f890e18ef6faeea51679065aa3d56053976da9fd2fa2&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487532310179880/image.png?ex=65152672&is=6513d4f2&hm=de2c00ffaac9cd9d212a80abee7f35ce4d4603af627bcb6bf51bc70a37c16ebe&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487590774591599/image.png?ex=65152680&is=6513d500&hm=aba6e41e6a4bc263e0b91c4a3ab756f2c32fc53ebb78c5e6c60a624c3c549776&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487692138328125/image.png?ex=65152698&is=6513d518&hm=bbf5c3902c254b652fc32b4fe82938ab76f4c0b2b22eed74cb070987ad736bdf&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487775676284938/image.png?ex=651526ac&is=6513d52c&hm=cb787031a26570a45bcbeeb073cfe41cb3caaef9d4ab2f4f7bf6f96548a93c2b&">
