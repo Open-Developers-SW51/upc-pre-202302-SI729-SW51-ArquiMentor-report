@@ -1888,6 +1888,11 @@ Como resumen del sprint 2 se realizaron los diferentes HU, algunos completandolo
 
 <img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487053169664071/image.png?ex=651525ff&is=6513d47f&hm=f7427db005b20b8185dd70354fd88ace39f747a73bcba154cbef90ba25a028fc&">
 
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495391676710942/image.png?ex=65152dc4&is=6513dc44&hm=ef1500be2311a4159351ca1f49397b0acdf478a982054c3f880ba10ae34dfa8d&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495952086061156/image.png?ex=65152e49&is=6513dcc9&hm=526032ec32ad09ee8cba49007495c81775bcc20f7c9efd988abd4ad995a8500e&">
+
+
 <img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487471174008832/image.png?ex=65152663&is=6513d4e3&hm=df72cc97480408676ec2f890e18ef6faeea51679065aa3d56053976da9fd2fa2&">
 
 <img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487532310179880/image.png?ex=65152672&is=6513d4f2&hm=de2c00ffaac9cd9d212a80abee7f35ce4d4603af627bcb6bf51bc70a37c16ebe&">
@@ -1917,3 +1922,26 @@ Commits relacionados con el Sprint:
 | /student-profile/{id} |     GET      | id(numero de usuario) | GET<br/>/student-profile/1 |
 |       /services       |     GET      |        Ninguno        |    GET<br/>/services    |
 |         /chad         |     GET      |        Ninguno        |    GET<br/>/chad    |
+
+
+#### 5.2.1.7 Software Deployment Evidence for Sprint Review.
+
+En el Sprint 2, hemos llevado a cabo una serie de actividades relacionadas con el Deployment de nuestros productos, que incluyen la Landing Page, las Web Applications.A continuación, se detallan las acciones clave realizadas durante este Sprint en relación con el despliegue.
+
+-Creación del navegador
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495391676710942/image.png?ex=65152dc4&is=6513dc44&hm=ef1500be2311a4159351ca1f49397b0acdf478a982054c3f880ba10ae34dfa8d&">
+
+-Creación los diversos tipos de login
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495952086061156/image.png?ex=65152e49&is=6513dcc9&hm=526032ec32ad09ee8cba49007495c81775bcc20f7c9efd988abd4ad995a8500e&">
+
+-Creación de publicaciones
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487471174008832/image.png?ex=65152663&is=6513d4e3&hm=df72cc97480408676ec2f890e18ef6faeea51679065aa3d56053976da9fd2fa2&">
+
+-Creación de perfil y poder editarlos
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487590774591599/image.png?ex=65152680&is=6513d500&hm=aba6e41e6a4bc263e0b91c4a3ab756f2c32fc53ebb78c5e6c60a624c3c549776&">
+
+-Creación de vistas de reseñas
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487692138328125/image.png?ex=65152698&is=6513d518&hm=bbf5c3902c254b652fc32b4fe82938ab76f4c0b2b22eed74cb070987ad736bdf&">
+
+-Creación de chat entre los segmentos
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487775676284938/image.png?ex=651526ac&is=6513d52c&hm=cb787031a26570a45bcbeeb073cfe41cb3caaef9d4ab2f4f7bf6f96548a93c2b&">
