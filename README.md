@@ -1845,8 +1845,8 @@ Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra pr
 | Sprint 1 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
 | **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
 |          Sprint 2 Goal          |                                  Goal: Tene la priemra version del frontend terminada al 90% <br> Metrica de cumplimiento:Se muestra la primera version del frontend dl sitio web, terminado al 90%.                                   |
-|        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 21 story points                                                                  |
-|       Sum of Story Points       |                                                                                                  Suma de los Story Points: 5+5+5+6=21                                                                                                  |
+|        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 15 story points                                                                  |
+|       Sum of Story Points       |                                                                                               Suma de los Story Points: 3+1+2+5+1+1+2=15                                                                                               |
 
 #### 5.2.1.2 Sprint Backlog 2
 
@@ -1860,10 +1860,10 @@ El objetivo principal del Sprint 2 es tener una primera version de nuestra Front
 |:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
 |               | Work-Item / Task |
 | User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
-|     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Yuliana Yauricasa       | To-Review|
-|     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Yuliana Yauricasa       | To-Review|
-|     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Kurt Puican &  Diego Ramirez | To-Review|
-|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | To-Review|
+|     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Yuliana Yauricasa       | In-Process|
+|     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Yuliana Yauricasa       | In-Process|
+|     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Kurt Puican &  Diego Ramirez | In-Process|
+|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
 |     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Yuliana Yauricasa       | Done|
 |     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Yuliana Yauricasa       | Done|
 |     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Rafael            | Done|
@@ -1881,3 +1881,85 @@ En la siguiente tabla se mostrara algunos de los commits mas importantes realiza
 | KurtPuican/Frontend-Arquimentor  | feature(view-profile) |fcd3058d63b47028f4d083b2828cf42277bf589e| feat(view-profile): add view profile component |                    Se agrego el componente de view-profile al proyecto                    |     26/09/2023     |
 | Rafael/Frontend-Arquimentor  | feature/student-profile |a581b8666be8e23fc54c1ba58bbea477afad536f1| feat(student-profile): add student-profile component |                   Se agrego el componente de estudiante en su totalidad                   |     25/09/2023     |
 | Rafael/Frontend-Arquimentor | feature/profile-service |17772ffcac8bcde210afc7a69ee4f0366b375492| feat(profile-service): add profile-service |                           Incorporación del servicio de perfil                            |     25/09/2023     |
+
+#### 5.2.1.5 Execution Evidence for Sprint Review
+
+Como resumen del sprint 2 se realizaron los diferentes HU, algunos completandolos al 100% y otros al 60%. Compartimos imagenes para mostrar como quedo el avance de la primera versión del servicio web. Cada uno con su ruta respectiva.
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487053169664071/image.png?ex=651525ff&is=6513d47f&hm=f7427db005b20b8185dd70354fd88ace39f747a73bcba154cbef90ba25a028fc&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495391676710942/image.png?ex=65152dc4&is=6513dc44&hm=ef1500be2311a4159351ca1f49397b0acdf478a982054c3f880ba10ae34dfa8d&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495952086061156/image.png?ex=65152e49&is=6513dcc9&hm=526032ec32ad09ee8cba49007495c81775bcc20f7c9efd988abd4ad995a8500e&">
+
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487471174008832/image.png?ex=65152663&is=6513d4e3&hm=df72cc97480408676ec2f890e18ef6faeea51679065aa3d56053976da9fd2fa2&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487532310179880/image.png?ex=65152672&is=6513d4f2&hm=de2c00ffaac9cd9d212a80abee7f35ce4d4603af627bcb6bf51bc70a37c16ebe&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487590774591599/image.png?ex=65152680&is=6513d500&hm=aba6e41e6a4bc263e0b91c4a3ab756f2c32fc53ebb78c5e6c60a624c3c549776&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487692138328125/image.png?ex=65152698&is=6513d518&hm=bbf5c3902c254b652fc32b4fe82938ab76f4c0b2b22eed74cb070987ad736bdf&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487775676284938/image.png?ex=651526ac&is=6513d52c&hm=cb787031a26570a45bcbeeb073cfe41cb3caaef9d4ab2f4f7bf6f96548a93c2b&">
+
+
+#### 5.2.1.6 Services Documentation Evidence for Sprint Review.
+
+En el Sprint 2, hemos realizado avances significativos en la documentación de nuestros Web Services. Hemos documentado varios Endpoints que son fundamentales para la funcionalidad de nuestra aplicación. A continuación, se detallan los Endpoints documentados junto con ejemplos de interacción y enlaces a la documentación desplegada.
+
+Repositorio: https://github.com/Open-Developers-SW51/Frontend-Arquimentor
+
+Commits relacionados con el Sprint: 
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156493707818848276/image.png?ex=65152c32&is=6513dab2&hm=9f05b90c4f29d19b623d6acbc7fa4a71ee412ba83d3c6b2251ebfd3f82516c38&">
+
+**Endpoints Documentados**
+
+|       Endpoint	       | Verbo HTTP  |      Parámetros       |     Ejemplo de Llamada     |                              
+|:---------------------:|:-------------------:|:---------------------:|:--------------------------:|
+|     /landingpage      |     GET      |        Ninguno        |    GET<br/>/landingpage    |
+|         /card         |     GET      |        Ninguno        |       GET<br/>/card        |
+| /student-profile/{id} |     GET      | id(numero de usuario) | GET<br/>/student-profile/1 |
+|       /services       |     GET      |        Ninguno        |    GET<br/>/services    |
+|         /chad         |     GET      |        Ninguno        |    GET<br/>/chad    |
+
+
+#### 5.2.1.7 Software Deployment Evidence for Sprint Review.
+
+En el Sprint 2, hemos llevado a cabo una serie de actividades relacionadas con el Deployment de nuestros productos, que incluyen la Landing Page, las Web Applications.A continuación, se detallan las acciones clave realizadas durante este Sprint en relación con el despliegue.
+
+-Creación del navegador
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495391676710942/image.png?ex=65152dc4&is=6513dc44&hm=ef1500be2311a4159351ca1f49397b0acdf478a982054c3f880ba10ae34dfa8d&">
+
+-Creación los diversos tipos de login
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495952086061156/image.png?ex=65152e49&is=6513dcc9&hm=526032ec32ad09ee8cba49007495c81775bcc20f7c9efd988abd4ad995a8500e&">
+
+-Creación de publicaciones
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487471174008832/image.png?ex=65152663&is=6513d4e3&hm=df72cc97480408676ec2f890e18ef6faeea51679065aa3d56053976da9fd2fa2&">
+
+-Creación de perfil y poder editarlos
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487590774591599/image.png?ex=65152680&is=6513d500&hm=aba6e41e6a4bc263e0b91c4a3ab756f2c32fc53ebb78c5e6c60a624c3c549776&">
+
+-Creación de vistas de reseñas
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487692138328125/image.png?ex=65152698&is=6513d518&hm=bbf5c3902c254b652fc32b4fe82938ab76f4c0b2b22eed74cb070987ad736bdf&">
+
+-Creación de chat entre los segmentos
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487775676284938/image.png?ex=651526ac&is=6513d52c&hm=cb787031a26570a45bcbeeb073cfe41cb3caaef9d4ab2f4f7bf6f96548a93c2b&">
+
+#### 5.2.1.8 Team Collaboration Insights for Sprint Review
+
+Durante el sprint 2, el equipo trabajo activamente en la implementacion del frontend y corrección del reporte. La metodologia que se usa fue mediante gitflow en formato MarkDown, participando correctamente los 5 miembros del equipo. Las Actividades que se implementaron fueron el frontend y las que se corrigieron fueron el reporte y el landingpage.
+
+Imagenes de los commit para el reporte:
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156499089991667852/image.png?ex=65153135&is=6513dfb5&hm=85029bfa52331fd24026975282431f53b0b7d26ff5e591d7ad2db3a1def6cbb3&">
+
+Imagenes de los commits para el frontend:
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156499138461048842/image.png?ex=65153141&is=6513dfc1&hm=a7bb4cb7ce6d458f9898c37f4bd2de20bad9aca0c631f0e72380f3b57e27ec8a&">
+
+Imagenes de los commits para el landing page: 
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156499201337864282/image.png?ex=65153150&is=6513dfd0&hm=8dd9760d07f20689916cca3d0fcfe1ff7ff75cb7aa0de1273e3a02dd27d9973f&">
+
+Anexos
+
+Link de la exposición de la TP: https://drive.google.com/drive/folders/1W7pyh5Gg20AIUY06Ad2w19tpYBC8ezvs?usp=sharing
