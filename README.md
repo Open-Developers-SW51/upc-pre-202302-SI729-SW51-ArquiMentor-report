@@ -1,4 +1,4 @@
-# Universidad Peruana de Ciencias Aplicadas.
+3# Universidad Peruana de Ciencias Aplicadas.
 ### Ingeniería de Software.
 ### Desarrollo de Aplicaciones Open Source.
 ### SW51
@@ -28,11 +28,29 @@
 | Version |  Fecha   | Autor                                                                                      | Descripción de la modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |:-------:|:--------:|:-------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    1    | 02/09/23 | Leonardo Lopez</br>Kurt Puican </br>Rafael Luyo</br>Diego Ramirez</br>Juliana Yauricasa    | Culminación de los siguientes capítulos:</br></br>Capítulo I: Introducción</br>Se presenta el proyecto, comenzando con una descripción detallada de la startup y sus miembros fundadores. Se exploran los desafíos y problemas actuales que enfrenta la startup, empleando un enfoque de Lean UX para identificar problemas, Assumptions e Hypothesis Statements . Además, se delinean los segmentos objetivo para la solución propuesta.</br></br>Capítulo II: As-Is Software Solution Requirements Elicitation & Analysis</br>Se realiza un análisis del entorno competitivo de la startup, investigando estrategias y tácticas frente a los competidores. Se llevan a cabo entrevistas con el fin de obtener información esencial de los usuarios. Varias técnicas, como el diseño de entrevistas, el registro y análisis de entrevistas, y la identificación de necesidades a través de la creación de User Personas, User Task Matrix, User Journey Mapping y Empathy Mapping, son empleadas para este propósito.</br></br>Capítulo III: As-Is Software Solution Requirements Specification</br>Se especifican los requisitos del software. Se crean los To-Be Scenario Mapping y las User Stories. Además, se utiliza el Impact Mapping para visualizar cómo las funcionalidades afectan a los objetivos del proyecto y se establece un Product Backlog.</br></br>Capítulo IV: Product Design</br>Se diseña el producto, incluyendo pautas de estilo, arquitectura de la información, diseño de la página de aterrizaje, UX/UI de aplicaciones web, prototipado, arquitectura de software, diseño orientado a objetos y diseño de base de datos.</br></br>Capítulo V: Product Implementation, Validation & Deployment</br>Se desarrolla la implementación, validación y despliegue del producto, incluyendo gestión de configuración, implementación de páginas y aplicaciones, validación a través de entrevistas y pruebas, y finalmente, el despliegue del software. |
-|
-|    2    | 26/09/23 | Leonardo Lopez</br>Kurt Puican </br>Rafael Luyo</br>Diego Ramirez</br>Juliana Yauricasa    | Mejora continua: Corrección de los siguientes capítulos: </br>  Capítulo III: As-Is Software Solution Requirements </br> Agregar user stories para la landing page y las technical stories, priorizar las user stories de acuerdo al core del negocio, mejora del impact mapping.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|    
+|    2    | 26/09/23 | Leonardo Lopez</br>Kurt Puican </br>Rafael Luyo</br>Diego Ramirez</br>Juliana Yauricasa    | Mejora continua: Corrección de los siguientes capítulos: </br>  Capítulo III: As-Is Software Solution Requirements </br> Agregar user stories para la landing page y las technical stories, priorizar las user stories de acuerdo al core del negocio, mejora del impact mapping.<br/>CapituloV: Se agregaron todos los componentes faltantes del sprint 2, siendo un trabajo colaborativo entre todos.<br/>Mejora en las entrevistas, parte del timing y descripción.<br/>Creación de la versión 1 del frontend del sitio web usando angular y la arquitectura C4. <br/>Corrección de la landing page. <br/>Correción del modelo C4.<br/>Creación del Student Outcome con todas sus celdas completadas por cada participante.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+<br>
+
+# Project Report Collaboration Insights
+
+URL del repositorio para el Project Report: https://github.com/Open-Developers-SW51/upc-pre-202302-SI729-SW51-ArquiMentor-report
+
+La elaboración del proyecto se realizó mediante el github en formato Markdown usando la metodología GitFlow.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1156263561753014342/image.png?ex=651455db&is=6513045b&hm=56dc6a2bd4255d1cc425ea3f91facc1eda01265ace660386407bc0c8192d0903&">
+
+Para los commits se utilizo Conventional Commits.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1156264608852607037/image.png?ex=651456d5&is=65130555&hm=0127e1211c246f901d004f67b4a3e23c3670cd85519fde38240e4e9b0160d9a1&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1156269150159781938/image.png?ex=65145b0f&is=6513098f&hm=c7eb7e66dba9cfe0078c690abf740ee57f168425ba27ddd40177fc285325eb61&">
+
+Los colaboradores en el proyecto se muestra en la siguiente imagen, con las cantidades respectivas de commits.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1156268138871128194/image.png?ex=65145a1e&is=6513089e&hm=4f3b87121aca23e7d234fcd2cb6e596b187a59f71d017e4b96c6d5a55f8d471a&">
+
 <br><br>
-# Índice
+# Contenido
+## Tabla de contenidos
 
 ## 1. Capítulo I: Introducción
 
@@ -121,8 +139,6 @@
 
 <br>
 
-
-
 # Student Outcome
 
 En Ingeniería de Software el logro de curso contribuye a alcanzar el:
@@ -133,11 +149,10 @@ En Ingeniería de Software el logro de curso contribuye a alcanzar el:
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
-| Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | López Huarcaya, Leonardo Paul </br>*TB1* </br> Entrevista a un estudiante de la carrerra de arquitectura para la elaboracion del proyecto.<br> Exposición del apartado Web Applications UX/UI Design.<br>*TP*<br> Corrección de la entrevista al estudiante de arquitectura.<br>Recoleccion de información con algunos estudiantes de arquitectura.<br> Kurt Puican </br>*TB1* </br> ... <br>*TP*</br>...<br>Rafael Luyo</br>Diego Ramirez</br>Juliana Yauricasa</br></br>**TP**</br>Leonardo Lopez</br>Kurt Puican </br>Rafael Luyo</br>Diego Ramirez</br>Juliana Yauricasa | 	Las entrevistas realizadas por todo el equipo nos ayudaron a poder plantear nuevas necesidades y elabaroar las funcionalidades del sitio web.<br><br>Las correcciones establecidas fueron de gran ayuda para mejorar nuestra vision de negocio, inclusive modificando algunas funcionalidades para la mejora del proyecto.                                                                                                                                |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | López Huarcaya, Leonardo Paul </br>*TB1* </br> Elaboración del Web Aplications UX/UI Design.<br>Elaboración del Sprint 1.<br>Elaboración del Software Configuration Management.<br>*TP*<br> Corrección de mis partes elaboradas de la primera entrega.<br>Elaboración del sprint 2.<br>Kurt Puican </br>Rafael Luyo</br>Diego Ramirez</br>Juliana Yauricasa</br></br>**TP**</br>Leonardo Lopez</br>Kurt Puican </br>Rafael Luyo</br>Diego Ramirez</br>Juliana Yauricasa                                                                                                      | La elaboración del informe nos ayudo a idcar y organizar nuestro proyecto, tanto como las funcionalidades, los requisitos, las problematicas y diseños. Todo esto necesario para poner en marcha la elaboración del Web Aplications.<br><br>Las correcciones que se realizaron en el proyecto ayudaron a crear nuevas funcionalidades para el Web Applications. <br><br> El desarrollo del sprint facilita la organización para la creación del Sitio Web. |
-<br><br>
+| Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | López Huarcaya, Leonardo Paul </br>*TB1* </br> Entrevista a un estudiante de la carrerra de arquitectura para la elaboracion del proyecto.<br> Exposición del apartado Web Applications UX/UI Design.<br>*TP*<br> Corrección de la entrevista al estudiante de arquitectura.<br>Recoleccion de información con algunos estudiantes de arquitectura.<br><br>Kurt Puican </br>*TB1* </br> Entrevista a un asesor de la carrera de arquitectura para la elaboracion del proyecto.Expocicion del apartado del capitulo 1 y 2 <br>*TP*</br>Correccion de la entrevista hacia el asesor de arquitectura<br>Rafael Luyo</br>*TB1* </br> Entrevista a un estudiante de la carrerra de arquitectura para la elaboracion del proyecto.<br> Exposición del apartado Web Landing Page UI Design, Database, Landing Page Deployment.<br>*TP*<br> Corrección de la entrevista al estudiante de arquitectura.</br> <br>Diego Ramirez<br>*TB1*<br>Entrevista a una estudiante de la carrera de arquitectura para el analisis de nuestro segmento objetivo. Exposición de los diagramas C4 <br><br>*TP*<br>Correcciones en la entrevista a la estudiante de arquitectura para más información.<br></br>Juliana Yauricasa</br>*TB1*</br>Entrevista a un estudiante de arquitectura.</br>Exposición de la sección de especificación de requisitos.</br>*TP*</br>Corrección de la entrevista del estudiante de arquitectura. | 	Las entrevistas realizadas por todo el equipo nos ayudaron a poder plantear nuevas necesidades y elabaroar las funcionalidades del sitio web.<br><br>Las correcciones establecidas fueron de gran ayuda para mejorar nuestra vision de negocio, inclusive modificando algunas funcionalidades para la mejora del proyecto.</br> <br> Hablar con claridad y objetividad sobre nuestras ideas y logros fue clave en nuestro proyecto de ingeniería. Cuando tuvimos reuniones y presentaciones, nos ayudó a explicar nuestras ideas de manera directa a personas con diferentes conocimientos y roles. Esta comunicación fluida nos permitió obtener consejos valiosos y asegurarnos de que todos estuvieran en la misma página, lo que fue fundamental para el éxito de nuestro proyecto</br>                                                                                                                                                                           |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | López Huarcaya, Leonardo Paul </br>*TB1* </br> Elaboración del Web Aplications UX/UI Design.<br>Elaboración del Sprint 1.<br>Elaboración del Software Configuration Management.<br>*TP*<br> Corrección de mis partes elaboradas de la primera entrega.<br>Elaboración del sprint 2.<br><br>Kurt Puican </br>*TB1*</br>Creacion del studen outcome,la solution profile,user persona,journey,empathy,canvas y LeanUx, asi mismo como todo el cap 2</br>*TP*</br>Correccion de mis partes de la tb1 que estaban de forma incorrecta, asi mismo como la elaboracion de mis componentes y la correccion de la entrevista</br> Rafael Luyo</br>*TB1*</br>Creación de Landing Page Ui Design, Database.</br>*TP*</br>Corrección de Database y Landing Page.<br>Mejora de redaccion de entrevista</br><br>Diego Ramirez<br>*TB1*<br> Elaboración de los diagramas C4 de nuestra arquitectura de software<br>*TP*<br>Correcciones en el diagrama de contenedores y de componentes. Elaboración del sprint 2</br>Juliana Yauricasa</br>*TB1*</br>Creación de las user stories y la especificación de requisitos.</br>*TP*</br>Corrección de la especificación de requisitos, priorización del Product Backlog y los criterios de aceptación.<br>Elaboración del Sprint 2. | La elaboración del informe nos ayudo a idcar y organizar nuestro proyecto, tanto como las funcionalidades, los requisitos, las problematicas y diseños. Todo esto necesario para poner en marcha la elaboración del Web Aplications.<br><br>Las correcciones que se realizaron en el proyecto ayudaron a crear nuevas funcionalidades para el Web Applications. <br><br> El desarrollo del sprint facilita la organización para la creación del Sitio Web.</br><br>Expresar nuestras ideas y resultados por escrito de manera clara y objetiva fue esencial en nuestro proyecto de ingeniería. Cuando escribimos informes y documentos, nos ayudó a organizar la información de manera ordenada, lo que permitió que personas con diferentes antecedentes y roles la entendieran fácilmente. Esta comunicación por escrito precisa y objetiva fue fundamental para guiar nuestro trabajo y garantizar que todos estuvieran en la misma sintonía en nuestro equipo</br> |
 
 # Capitulo 1: Introducción
 
@@ -194,25 +209,28 @@ Es por eso que creamos Arquimentor una plataforma donde los estudiantes de arqui
   </tr>
   <tr>
     <td style="border: 1px solid #dddddd; padding: 8px;">
-      <img src="https://cdn.discordapp.com/attachments/960601728330395718/1149632104766910504/image.png" alt="##" width="50" height="50" style="border-radius: 25%;">
+      <img src="https://ibb.co/Df0H7ZW" alt="##" width="50" height="50" style="border-radius: 25%;">
     </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Juliana Alexandra Yauricasa Seguil</td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Mi nombre es Juliana estoy en la carrera de ingeniería de software, tengo conocimiento del lenguaje de programación C++ y he aprendido lo básico de HTML, tengo conocimiento de desarrollo en sitios web. </td>
     <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">u20201B782</td>
   </tr>
 </table>
+
 ## 1.2 Solution Profile
 
 En este punto del informe, daremos una explicación de nuestro producto de software, así como también la forma de generar ingresos.
  
-Product Name
+**Product Name**
  
 Hemos optado por el nombre de “ArquiMentor” hemos usado el nombre en inglés para generar más atractivo en los usuarios “ArquiMentor” se conforma por dos palabras en inglés que hacen referencia a lo que hace el software ‘Arqui’ quiere decir estudio haciendo referencia a los estudiantes que necesitan apoyo en los estudios que requieran y ‘Mentor’ que quiere decir Mentor que hace referencia a los asesores que ayudarán a los alumnos en los estudios.
  
-Product Descrition
+**Product Description**
+
 En esta web se les da a los usuarios la facilidad de poder encontrar mentores o profesores de diferentes áreas en la pagina podrán buscar tutores según el área de estudio que los estudiantes estén buscando podrán ver la valoración del tutor el costo que tiene y si es que se convence poder agendar una sesión de estudio. Los tutores por otra parte tienen la facilidad de poder subir sus datos para que los alumnos puedan encontrarlos y puedan elegirlos para esto tienen la facilidad de subir su CV y la experiencia que han tenido a lo largo de su carrera, como también la facilidad de poder incluir los datos para poder contactarlo.
  
-Monetization
+**Monetization**
+
 En nuestro servicio nosotros actuamos como un intermediario entre los alumnos y los tutores y al momento de que se genere una clase nosotros no llevamos una parte del pago de los asesoramientos.
  
 
@@ -265,14 +283,16 @@ o How much - ¿Cuál es la magnitud del problema?
 ## 1.2.2 Lean Ux Process
 ### 1.2.2.1 Lean UX Problem Statement 
 
-Problem Statement
+### Problem Statement
 En el panorama educativo actual, los estudiantes a menudo se enfrentan a desafíos al buscar profesores adecuados para recibir tutoría personalizada. A medida que la demanda de apoyo educativo fuera del aula sigue creciendo, surge la necesidad de una solución eficiente y confiable que conecte a los estudiantes con profesores calificados y compatibles. La falta de una plataforma integral y centralizada dificulta que los estudiantes encuentren profesores que se ajusten a sus necesidades y preferencias de aprendizaje.
 
 Las búsquedas tradicionales de profesores a menudo implican una inversión significativa de tiempo y recursos, con resultados inciertos. Los estudiantes pueden encontrarse con problemas como la falta de información suficiente sobre los antecedentes y la experiencia de los profesores, la dificultad para coordinar horarios y ubicaciones, y la incertidumbre sobre la calidad de la enseñanza ofrecida. Además, el proceso de búsqueda y selección puede ser abrumador, especialmente para aquellos que buscan profesores en áreas específicas o con habilidades particulares.
 
 La falta de una plataforma eficiente y confiable para conectar a estudiantes con profesores también puede afectar negativamente el rendimiento académico de los estudiantes. La ausencia de un acceso sencillo a tutores y mentores de calidad puede resultar en dificultades persistentes en el aprendizaje y una menor confianza en las propias habilidades académicas.
-Por lo tanto ¿Como podemos hacer para que los estudiantes reciban una asesoria de los profesores de una manera facil tanto para los profesores como los alumnos para poder generar una clase?
 
+### Hipótesis de Solución
+
+Creemos que al proporcionar una plataforma intuitiva que conecte eficazmente a estudiantes y profesores, facilitaremos el proceso de búsqueda y coordinación de asesorías personalizadas. Esto se traducirá en un aumento del 70% en la satisfacción de los usuarios, medida a través de reseñas positivas en nuestra plataforma.
 ### 1.2.2.2 Lean UX Assumptions
 
 **Business Outcomes**
@@ -294,13 +314,20 @@ Por lo tanto ¿Como podemos hacer para que los estudiantes reciban una asesoria 
 **User Outcomes**
  
 **Faeatures**
-1. **Creo que mis usuarios necesitan,** empezando por los estudiantes, recibir rápidamente variedad de profesores que puedan darle un asesoramiento para generar una clase. Por parte de los profesores tener la posibilidad de poner sus horarios y precios y las materias que dominan para poder ser escogidos por los alumnos.
-2. **Estas necesidades se pueden resolver con** una plataforma que permita contactar a un profesional para que realice una asesoría  en nuestra plataforma de manera eficaz. Por otro lado, que le permita al estudiante coordinar la hora y los temas a desarrollar en la asesoria 
-3. **Mis clientes iniciales son (o serán)** los estudiantes que necesiten o quieran una asesoria por un profesional  y, los profesionales que den estas asesorias. 
-4. **El valor #1 que un cliente quiere de mi servicio es,** empezando por los estudiantes, recibir asesorías de manera cómoda, rápida y personalizada. Por otro lado, los profesionales desean conseguir asesorias para poder conseguir ingresos extra.
-5. **El cliente también puede obtener beneficios adicionales,** Empezando por los estudiantes, podrían querer tener la oportunidad de calificar el servicio de los asesores por medio de un sistema de estrellas y comentarios, por otro lado los profesores quisieran tener la oportunidad de si es que son calificados de buena manera tener la posibilidad de ser encontrados más fácilmente en el buscador 
-6. **Voy a adquirir la mayoría** de mis clientes a través de marketing en los medios de comunicación más frecuentados como Facebook, Instagram o entre otros; con la publicación de casos de éxito de los estudiantes que utilizan nuestra plataforma. Asimismo, demostrando las funcionalidades de las asesorías
-7. **Haremos dinero a través** de la una comisión de las clases que se den en nuestra plataforma, ya que nosotros actuamos como un intermediario nosotros nos llevaremos un pequeño porcentaje de cada clase que se de en nuestra plataforma
+
+1. Variedad de profesores y personalización: Los estudiantes deben poder acceder rápidamente a una variedad de profesores y personalizar sus elecciones. Los profesores deben poder establecer sus horarios, precios y materias que dominan para ser seleccionados por los alumnos.
+
+2. Plataforma para coordinar asesorías: Los usuarios deben poder coordinar fácilmente las asesorías con los profesores, especificando la hora y los temas a tratar. Esto mejora la eficiencia y la experiencia del usuario al garantizar una comunicación efectiva.
+
+3. Clientes iniciales y valor del servicio: Los clientes iniciales son estudiantes que necesitan o quieren asesoría por un profesional y profesionales que brindan asesorías. El valor principal que los clientes buscan es recibir asesorías de manera cómoda, rápida y personalizada, además de que los profesionales desean obtener ingresos adicionales.
+
+4. Calificaciones y comentarios: Los usuarios pueden calificar y comentar sobre el servicio de los asesores, lo que aumenta la confianza y la transparencia en la plataforma.
+
+5. Adquisición de clientes a través de marketing: La estrategia de adquisición de clientes se basa en marketing en medios frecuentados, como Facebook e Instagram, con casos de éxito de estudiantes y demostración de funcionalidades.
+
+6. Modelo de negocio: Se genera ingresos a través de una comisión de las clases que se imparten en la plataforma.
+
+7. Actualizaciones y mantenimiento: Se garantiza el mantenimiento y la solución de posibles fallos a través de actualizaciones.
 
 ---
 1. **¿Quién es el usuario?**
@@ -329,29 +356,33 @@ www.Arquimentor.com  Nuestro producto debe verse práctico, moderno y con contra
 
 ### 1.2.2.3 Lean UX HYpothesis Statements
 
-1st Hypothesis Statement
+Primera Hipótesis
 
-**Creemos que** el uso de nuestra plataforma facilitará la comunicación entre el usuario y el asesor y asi desarrollar las clases 
+**Creemos que** el uso de nuestra plataforma facilitará la comunicación entre el usuario y el asesor, lo que resultará en el desarrollo exitoso de las clases. Sabremos que hemos tenido éxito cuando veamos que al menos el 70% de los usuarios están satisfechos con la rapidez con la que se ponen en contacto con un asesor, medida a través de reseñas positivas en nuestra plataforma.
 
-**Sabremos que** hemos tenido éxito,
+Segunda Hipótesis
 
-**Cuando** veamos que el 70% de los usuarios están satisfechos con la prontitud que se contacta a un asesor a través de sus reseñas positivas en nuestra plataforma.
- 
-2nd Hypothesis Statement
+**Creemos que** al permitir a los usuarios publicar comentarios sobre sus experiencias con las asesorías, aumentaremos la confianza de otros usuarios en nuestro servicio y fomentaremos la participación. Sabremos que hemos tenido éxito cuando veamos que al menos el 60% de los usuarios ingresan a la plataforma y programan una asesoría después de leer comentarios positivos.
 
-**Creemos que** publicar comentarios sobre experiencias con las asesorias para que otros usuarios puedan animarse a realizar una asesoria
+Tercera Hipótesis
 
-**Sabremos que** hemos tenido éxito,
+**Creemos que** al destacar a los asesores mejor valorados, demostraremos la calidad de nuestro servicio y alentaremos a los estudiantes a elegir a los profesionales adecuados. Sabremos que hemos tenido éxito cuando al menos el 50% de nuestros usuarios utilicen las recomendaciones de asesores para saber a quiénes llamar.
 
-**Cuando** veamos que un 60% entrar a la plataforma y conseguir una asesoria 
- 
-3rd Hypothesis Statement
+Cuarta Hipótesis
 
- **Creemos que** publicar los asesores mejor valorados para demostrar que nuestro servicio contrata a profesionales para apoyar a los alumnos.
+**Creemos que** al permitir que nuestros usuarios puedan emitir calificaciones y comentarios hacia los asesores, aumentara la transparencia y confiabilidad en nuestro sitio web.
 
-**Sabremos que** hemos tenido éxito,
+Quinta Hipótesis
 
-**Cuando** veamos que un 50% de nuestros usuarios utilizan las recomendacione los asesores para saber a quienes llamar
+**Creemos que** al invertir buen dinero en la parte de marketing mediante los diversos sitios populares como Facebook o Instagram, obtendremos mas clientes ya que nuestro segmento se encuentra en esas plataformas. 
+
+Sexta Hipótesis
+
+**Creemos que** se ganara buen dinero del sitio web mediant subscripcioes hacia los asesores.
+
+Septima Hipótesis
+
+**Creemos que** La constante supervición y monitoreo del sitio web frente a errores o problemas, ayudaran a que el usuario se sienta mejor en el servcio web.
 
 ### 1.2.2.4 Lean UX Canvas
 
@@ -525,8 +556,7 @@ que los principales competidores son:
     Participación en ferias educativas y eventos locales: Promover la plataforma en eventos educativos locales y conferencias para llegar a la comunidad estudiantil
 </td>
   </tr>
-  </tr>
-    <tr>
+<tr>
     <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Precios y costos</td>
     <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Precio para estudiantes: Tutor.com ofrece un servicio de suscripción que generalmente varía desde alrededor de $39.99 a $79.99 por mes, dependiendo del nivel de acceso y la cantidad de tiempo de tutoría en línea incluido en el plan. También ofrecen planes anuales con descuentos
     Costos para la plataforma: Los costos para la plataforma en sí incluyen la compensación para los tutores, el mantenimiento del sitio web y los servidores para brindar tutoría en línea en tiempo real
@@ -559,18 +589,40 @@ En este punto presentaremos los resultados de las entrevistas realizadas a los u
 ## 2.2.1 Diseño de Entrevistas
 En esta sección, mostraremos las preguntas que hemos generado para realizar las entrevistas a los dos tipos de usuarios objetivos. Cabe destacar, que las preguntas realizadas son de tipo abierto, con el objetivo de recolectar información relevante que nos ayude a tener una idea más precisa de cómo solucionar problemas de nuestros usuarios objetivo.
 Preguntas principales y complementarias para las entrevistas
-1.       Estudiantes
-a.       Preguntas introductorias
 
-·         ¿Cuál es su nombre?
+### 1. Estudiantes
 
-.	¿Cual es su edad?
+**a. Preguntas introductorias**
 
-·         ¿A que se dedica actualmente?
+· ¿Cuál es su nombre?
 
-·         ¿Qué tanta experiencia tienes en la elaboración de maquetas?
+. ¿Cuál es su género?
 
-b.       Preguntas Principales:
+. ¿Cuál es su edad?
+
+. ¿Cuál es su distrito de residencia?
+
+. ¿Cuál es su estado civil?
+
+· ¿A que se dedica actualmente?
+
+. ¿Cuál es son sus frustraciones? 
+
+. ¿Comó considera que es su personalidad?
+
+. ¿Cúales son sus habilidades?
+
+. ¿Qué marcas e influencias usa?
+
+. ¿Que dispositivo usa en su vida diaria?
+
+. ¿Con que canales digitales interactua?
+
+. ¿Cúales son sus objetivos?
+
+· ¿Qué tanta experiencia tienes en la elaboración de maquetas?
+
+**b. Preguntas Principales:**
 
 . 	¿Cuando empezaste con las maquetas, tuviste algunos problemas para crearlos?
 
@@ -587,17 +639,41 @@ Se explica el proyecto del website  “ArquiMentor”
 
 ·         ¿Qué funcionalidades adicionales que creas conveniente nos recomiendas agregar?
 
- 
-2.       Asesores
-a.       Preguntas introductorias
 
-·         ¿Cuál es su nombre?
+### 2. Asesores
 
-·         ¿Cuántos años tiene?
+**a. Preguntas introductorias**
 
-·         ¿Qué tanta experiencia tienes en la elaboración de maquetas?
+· ¿Cuál es su nombre?
 
-b.       Preguntas Principales
+. ¿Cuál es su género?
+
+. ¿Cuál es su edad?
+
+. ¿Cuál es su distrito de residencia?
+
+. ¿Cuál es su estado civil?
+
+· ¿A que se dedica actualmente?
+
+. ¿Cuál es son sus frustraciones?
+
+. ¿Comó considera que es su personalidad?
+
+. ¿Cúales son sus habilidades?
+
+. ¿Qué marcas e influencias usa?
+
+. ¿Que dispositivo usa en su vida diaria?
+
+. ¿Con que canales digitales interactua?
+
+. ¿Cúales son sus objetivos?
+
+· ¿Qué tanta experiencia tienes en la elaboración de maquetas?
+
+**b.       Preguntas Principales**
+
 ·         ¿Tenías dificultad cuando empezaste con la elaboración de 
 maquetas?
 
@@ -619,47 +695,37 @@ Se explica el proyecto del website  “ArquiMentor”
 
 
 # 2.2.2 Entrevistas 
-.Entrevistado 1:
 
-.Nombres y Apellidos:Renato Honorio
 
-.Edad: 21 años
+- Url del stream de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124304_upc_edu_pe/EToieMA6_d5Eg4hqmhKqYiIBJn157Zss4d9hXjSr5flE5g?e=GogcIF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+- Timing: 
 
-.Distrito: Chorrillos
+Segmento estudiante, 1era entrevista desde min **0:00 hasta 3:35**, 2da entrevista desde **3:35 hasta 9:47**, 3ra entrevista desde **9:47 hasta 12:53**.
 
-.Evidencia de la reunión:
+Segmento asesor, 1era entrevista desde min **12:53 hasta 18:26**, 2da entrevista desde **18:26 hasta 29:52**, 3ra entrevista desde **29:52 hasta 36:00**.
+
+### Segmento estudiante
+
+Entrevista 1:
+
+● Nombres y Apellidos:Renato Honorio
+
+● Edad: 21 años
+
+● Distrito: Chorrillos
+
+● Evidencia de la reunión:
 
 <img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149420106498191483/image.png" alt="" width="500" height="200" />
 
 ●	Url de stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201919295_upc_edu_pe/ERFKUtqskD1OtBbwiRvhwS4BvnM_trAJLqQKySgFwqAY8g?e=0oaQRc
 
-●	Timing y duración:3:53
 
 ●	Resumen sobre la entrevista:
 
-Esta vez entrevistamos a un estudiante de Arquitectura  que dedica aproximadamente seis horas al día a sus estudios. Comunica que tiene experiencia en la elaboración de maquetas pero al principio fue demasiado desafiante porque no tenía experiencia. Por otro lado, menciona que le hubiera fascinado haber tenido un asesor cuando empezó porque había hecho más ameno su aprendizaje. Lo que hace que esta entrevista sea particularmente interesante es su entusiasmo por nuestra aplicación, ya que valora enormemente la posibilidad de obtener ayuda personalizada de un asesor que pueda contratar. Para él, la aplicación representa una oportunidad invaluable para encontrar un mentor o profesor que se adapte a sus necesidades de aprendizaje de manera más efectiva, lo que podría ser un recurso fundamental en su búsqueda de éxito académico.
+Hablamos con un dedicado estudiante de Arquitectura que invierte seis horas al día en sus estudios. Aunque inicialmente enfrentó desafíos al crear maquetas debido a su falta de experiencia, su entusiasmo por nuestra aplicación radica en la posibilidad de acceder a asesores personalizados. Ve en la aplicación una oportunidad invaluable para encontrar un mentor que se ajuste a sus necesidades de aprendizaje. Utiliza software crucial para arquitectos como , Revit y AutoCad, y se apoya en dispositivos como teléfonos, laptop y tablets. Para interactuar, confía en Discord, Google Meet, Zoom y ocasionalmente en reuniones presenciales, y su navegación web se realiza principalmente a través de Google Chrome y Opera. 
 
-Entrevistado 2:
-
-●	Nombres y Apellidos: Dora Villalobos
-
-●	Edad: 51 Años
-
-●	Distrito: Surco
-
-●	Evidencia de la reunión
-
-<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149192195623092365/image.png" alt="" width="500" height="250" />
-
-●	Url del Stream:
-
-●	Timing y duracion: 5:33
-
-●	Resumen de la entrevista
-
-La entrevista fue realizada a  Dora Villalobos, tiene 51 años y reside en surco. Es una arquitecta con varios años de experiencia en el campo laboral, trabaja para la municipalidad de surco. Ha tenido experiencia capacitando a otras personas en el ámbito de la arquitectura pero no con alumnos. Luego de explicarle lo que hace nuestra startup le interesó el tema y dice que le gustaría poder experimentar lo que es dar asesorías a alumnos que lo requieran, le parece adecuado y perfecto que una de las características de la app sea que luego de las asesorías los alumnos puedan dar un feedback sobre qué es lo que les pareció la sesión dándoles una calificación.
-
-Entrevistado 3:
+Entrevista 2:
 
 ●	Nombres y Apellidos: Roger Castillo
 
@@ -672,30 +738,51 @@ Entrevistado 3:
 
 <img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149420329861660692/image.png" alt="" width="600" height="250" />
 
-●	Url del Stream: 
-●	Timing y duración: 
-●	Resumen de la entrevista : 
-Steve es un joven estudiante de arquitectura de los primeros ciclos, nos cuenta su experiencia con las maquetas que tuvo que realizar, además de los programas que usan para complementar. Al inicio sentía que no tenía mucha experiencia y afirma que un buen asesoramiento en los inicios hubieran hecho de sus trabajos de arquitectura más eficientes. Después de comentarle el proyecto “ArquiMentor” le pareció grandiosa la idea, y nos sugirió que agreguemos segmentos de ayuda en los diferentes programas de software que utilizan los arquitectos.
 
-Entrevista 4:
+●	Resumen de la entrevista:
 
-●	Nombres y Apellidos: Carlos Martinez
+Steve es un joven estudiante de arquitectura de los primeros ciclos, se considera una persona divertida y decidida en su futuro. Nos cuenta su experiencia con las maquetas que tuvo que realizar, además de los programas que usan para complementar. Al inicio sentía que no tenía mucha experiencia y afirma que un buen asesoramiento en los inicios hubieran hecho de sus trabajos de arquitectura más eficientes. Después de comentarle el proyecto “ArquiMentor” le pareció grandiosa la idea, y nos sugirió que agreguemos segmentos de ayuda en los diferentes programas de software que utilizan los arquitectos. Las marcas que mas usa es Archicad, Revit y AutoCAD, la tecnologia que usa por lo general son celulares, ordenadores o tablets, sus canales de interacción más usadas son Discord, Google Meet o reuniones presenciales. Por último punto los browser que usa son Brave y Google.  
 
-●	Edad: 20
 
-●	Distrito: Lima
+Entrevista 3:
 
-●	Evidencia de la reunión:
+● Nombres y Apellidos: Marilyn Monrroy
 
-<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149192262153158676/image.png" alt="" width="600" height="250" />
+● Edad: 20 años
 
-●	Url del Stream: https://youtu.be/xpjy7Ydvpe0
+● Distrito: Lima
 
-●	Timing y duración: 4 minutos.
+● Evidencia de la reunión:
 
-●	Resumen de la entrevista: El estudiante Carlos nos cuenta un poco de él y muestra interés sobre nuestro proyecto de ayuda para los estudiantes. Además, le preguntamos porqué es necesario tener ayuda en los temas que no logra entender.
+<img src="https://i.ibb.co/LzsfpZt/imageaaaa.png" alt="imageaaaa" border="0"></a><br /><a target='_blank' href='https://imgbb.com/' />
 
-Entrevistado 5:
+●	Url de stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b782_upc_edu_pe/EfA6CYMjwC1Cqpy5t4SNtGgBMIBi8DQ5TUVX41tIyeAJuQ?e=aWfG9k&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+
+●	Resumen sobre la entrevista: En la entrevista, la estudiante nos brinda información sobre sí misma y destaca que su principal desafío al crear maquetas ha sido la relación entre la forma y la función que deben cumplir en la construcción. También menciona que la construcción de la maqueta en sí le lleva aproximadamente dos días, pero lo que realmente consume la mayor parte de su tiempo es la planificación y la generación de ideas. Asimismo, está convencida de que si hubiera contado con un asesor, la ejecución de la idea habría sido mucho más rápida. Según su experiencia, suele buscar ayuda entre los arquitectos de la universidad, aunque no siempre están disponibles, por lo que acude a estudiantes en ciclos más avanzados. Considera que un recurso como Arquimentor sería muy útil para los estudiantes, ya que les proporcionaría mayor inspiración y soluciones. Además, nos sugiere incorporar una sección dedicada a la elaboración de planos y a los reglamentos de construcción. También propone incluir una funcionalidad para la construcción de mobiliario que a menudo se requiere como complemento de las maquetas.
+
+### Segmento asesor 
+
+Entrevista 1:
+
+●	Nombres y Apellidos: Dora Villalobos
+
+●	Edad: 51 Años
+
+●	Distrito: Surco
+
+●	Evidencia de la reunión
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149192195623092365/image.png" alt="" width="500" height="250" />
+
+●	Url del Stream:https://youtu.be/GAWZcYboBvs
+
+●	Resumen de la entrevista
+
+La entrevista fue realizada a Dora Villalobos, tiene 51 años y reside en surco. Es una arquitecta con varios años de experiencia en el campo laboral, trabaja para la municipalidad de surco. Ha tenido experiencia capacitando a otras personas en el ámbito de la arquitectura pero no con alumnos. Luego de explicarle lo que hace nuestra startup le interesó el tema y dice que le gustaría poder experimentar lo que es dar asesorías a alumnos que lo requieran, le parece adecuado y perfecto que una de las características de la app sea que luego de las asesorías los alumnos puedan dar un feedback sobre qué es lo que les pareció la sesión dándoles una calificación, nos comenta que los navegadores que usa para realizar sus activadades son principalmente google chrome, asi mismo como los canales donde mas puede socializarse para realizar su trabajo son LinkdLn, Facebook y Whatsapp.
+
+
+
+Entrevistado 2:
 
 ●	Nombres y Apellidos: Liz Ramos
 
@@ -709,10 +796,10 @@ Entrevistado 5:
 
 ●	Url del stream: https://youtu.be/sfhP7M2MDk8
 
-●	Timing y duración: 11 minutos
-
 ●	Resumen de la entrevista: 
+
 Liz nos cuenta de su experiencia como asesora en fotografía, considera que las enseñanzas que se brindan en la aplicación web debe tener asesorías en tiempo real para que el estudiante pueda resolver sus dudas y el asesor le brinde retroalimentación. Así mismo le gustaría que existan foros de estudiantes para poder compartir ideas y dudas. Por otro lado, considera que la calificación de docentes genera competitividad en la plataforma y con esto un mejor desempeño en el servicio que brindan.
+
 
 ## 2.2.3 Analisis de Entrevistas
 A continuación, se desarrolla una estrategia en conjunto con el equipo para identificar los puntos en común en base a las respuestas de cada entrevistado a cada pregunta. Esto nos ayuda a realizar un análisis más conciso y seguro para desarrollar nuestra aplicación en base a la información recolectada. 
@@ -866,11 +953,11 @@ El User Journey Mapping es una herramienta de Design Thinking que nos ayuda a gr
 
 **Segmento 1-Estudiantes**
 
-<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149196650934456420/image.png" alt="" width="400" height="" />
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1156416483065344020/Mateo_aguirre_journey_map.png?ex=6514e446&is=651392c6&hm=52064fc0d957884f678b54def34cca0272ef4a2789c9cadcf19a2223312f24a8&" alt="" width="400" height="" />
 
 **Segmento 2-Asesores**
 
-<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149196689094230157/image.png" alt="" width="400" height="" />
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1156412257908035685/Customer_journey_map_1.png?ex=6514e057&is=65138ed7&hm=bbbd6d152c2d698698680bfa9a7c126e545814d1074c2f705e18a400bec0f706&" alt="" width="400" height="" />
 
 ## 2.3.4 Empathy Mapping
 
@@ -971,7 +1058,7 @@ En esta sección se desarrolla una comprensión más profunda de como los objeti
 
 <a href="https://ibb.co/kyQFmDf"><img src="https://i.ibb.co/CthFP9Z/Impact-map-1-1.png" alt="Impact-map-1-1" border="0"></a>
 
-**Segmento universitario**
+**Segmento estudiante**
 
 <a href="https://ibb.co/DrsZhHR"><img src="https://i.ibb.co/J309Vws/Impact-map-1-2.png" alt="Impact-map-1-2" border="0"></a>
 
@@ -979,33 +1066,33 @@ En esta sección se desarrolla una comprensión más profunda de como los objeti
 
 En esta sección, se presenta el Product Backlog de Arquimentor, que incluye una lista priorizada de User Stories con sus títulos, descripciones y asignación de Story Points. Estas historias de usuario representan las funcionalidades clave que se desarrollarán en la plataforma, y el equipo las abordará siguiendo su prioridad y complejidad. Este Product Backlog es esencial para guiar el desarrollo de la plataforma según las necesidades de nuestros usuarios y los objetivos del proyecto.
 
-| # Orden | User Story ID | Título                                                  | Descripción	                                                                                                                                              | Story Point (1/2/3/5/8)  |
-|---------|--------|---------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
-| 1       | US019  | 	Conocer a Arquimentor a través del landing page        | 	Como visitante del landing page quiero conocer a Arquimentor para reforzar mi confianza en la plataforma.	                                               | 8                        |
-| 2       | US024  | 	Configurar la Base de Datos                            | Como desarrollador, quiero configurar una base de datos para almacenar información de usuarios y propiedades.                                             | 8                        |
-| 3       | US006  | 	Búsqueda de asesor                                     | 	Como usuario estudiante quiero buscar a un asesor para que me oriente en mi proyecto.	                                                                   | 5                        |
-| 4       | US010  | 	Recibir, aceptar o rechazar una solicitud de un estudiante | 	Como usuario asesor quiero recibir una solicitud y poder aceptar o rechazar para enseñar y orientar a un estudiante.                                     | 	5                       |
-| 5       | US011  | 	Programar reuniones	                                   | Como usuario estudiante quiero programar las reuniones con el asesor para que me oriente y me de feedback. 	                                              | 5                        |
-| 6       | US020  | Reconocer las ventajas de Arquimentor a través del landing page | 	Como visitante del landing page quiero conocer las ventajas de la plataforma para saber si se ajusta a lo que necesito.	                                 | 5                        |
-| 7       | US021  | 	Diseñar la Interfaz de Usuario                         | Como desarrollador, quiero diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable.                                      | 5                        |
-| 8       | US025  | 	Optimizar el Rendimiento de la Aplicación              | Como desarrollador, quiero optimizar el rendimiento de la aplicación para una experiencia rápida y fluida.                                                | 5                        |
-| 9       | US004  | Subir proyectos	                                        | Como usuario estudiante quiero subir mis proyectos actuales y pasados para encontrar al asesor que más se adapte a mi perfil.                             | 	3                       |
-| 10      | 	US009 | 	Enviar una solicitud a un asesor                       | 	Como usuario estudiante quiero enviar una solicitud a un asesor para que me oriente con mi proyecto.	                                                    | 3                        |
-| 11      | 	US013 | 	Registrar el avance del proyecto	                      | Como usuario asesor quiero medir el avance del proyecto para tener un control de cada estudiante.	                                                        | 3                        |
-| 12      | 	US022 | 	Funcionalidad de Búsqueda Avanzada                     | Como desarrollador, quiero desarrollar la funcionalidad de búsqueda avanzada con filtros.                                                                 | 3                        |
-| 13      | 	US023 | 	Sistema de Autenticación y Registro                    | Como desarrollador, quiero implementar un sistema de autenticación y registro.                                                                            | 3                        |
-| 14      | 	US005 | 	Subir Curriculum Vitae	                                | Como usuario asesor quiero subir mi CV para que los estudiantes me conozcan mejor y confíen en mi experiencia.	                                           | 2                        |
-| 15      | 	US007 | 	Filtrar la búsqueda de asesor                          | 	Como usuario estudiante quiero filtrar la búsqueda de asesor para encontrar al asesor que más se ajuste a mis horarios y necesidades                     | 	2                       |
-| 16      | 	US008 | 	Visualizar perfiles de asesores                        | 	Como usuario estudiante quiero ingresar al perfil de los asesores para conocer su trayectoria.                                                           | 2                        |
-| 17      | 	US012 | 	Visualizar las reuniones programadas	                  | Como usuario asesor quiero tener mis reuniones programadas en una agenda para ser más eficiente.	                                                         | 2                        |
-| 18      | 	US014 | 	Visualizar los avances del proyecto	                   | Como usuario estudiante quiero visualizar los avances y el feedback recibido para conocer el estado de mi proyecto.	                                      | 2                        |
-| 19      | 	US015 | 	Calificar a un asesor	                                 | Como usuario estudiante quiero calificar al asesor que me orientó para compartir mi experiencia con otros usuarios.	                                      | 2                        |
-| 20      | 	US017 | 	Seleccionar un plan de suscripción	                    | Como usuario estudiante quiero seleccionar un plan de suscripción que se adecue a mis necesidades para acceder a otras funcionalidades de la plataforma.	 | 2                        |
-| 21      | US001  | Registrar cuenta                                        | Como usuario quiero crear una cuenta para poder acceder a la plataforma.                                                                                  | 	1                       |
-| 22      | 	US002 | 	Iniciar sesión 	                                       | Como usuario quiero ingresar a mi cuenta para utilizar la plataforma.                                                                                     | 	1                       |
-| 23      | 	US003 | 	Cerrar sesión	                                         | Como usuario quiero cerrar mi sesión para mantener mis datos seguros.	                                                                                    | 1                        |
-| 24      | 	US016 | 	Visualizar las reseñas a los asesores.                 | 	Como usuario estudiante quiero leer las opiniones de otros estudiantes para encontrar un asesor confiable.	                                              | 1                        |
-| 25      | 	US018 | 	Cambiar plan de suscripción	                           | Como usuario estudiante quiero modificar mi plan de suscripción de acuerdo con mis necesidades para acceder a los beneficios de la aplicación. 	          | 1                        |
+| # Orden | User Story ID | Título                                                  | Descripción	                                                                                                                                              | Story Point (1/2/3/5/8) |
+|---------|--------|---------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| 1       | US019  | 	Conocer a Arquimentor a través del landing page        | 	Como visitante del landing page quiero conocer a Arquimentor para reforzar mi confianza en la plataforma.	                                               | 5                       |
+| 2       | US020  | Reconocer las ventajas de Arquimentor a través del landing page | 	Como visitante del landing page quiero conocer las ventajas de la plataforma para saber si se ajusta a lo que necesito.	                                 | 5                       |
+| 3       | US024  | 	Configurar la Base de Datos                            | Como desarrollador, quiero configurar una base de datos para almacenar información de usuarios y propiedades.                                             | 8                       |
+| 4       | US006  | 	Búsqueda de asesor                                     | 	Como usuario estudiante quiero buscar a un asesor para que me oriente en mi proyecto.	                                                                   | 5                       |
+| 5       | US010  | 	Recibir, aceptar o rechazar una solicitud de un estudiante | 	Como usuario asesor quiero recibir una solicitud y poder aceptar o rechazar para enseñar y orientar a un estudiante.                                     | 	5                      |
+| 6       | US011  | 	Programar reuniones	                                   | Como usuario estudiante quiero programar las reuniones con el asesor para que me oriente y me de feedback. 	                                              | 5                       |
+| 7       | US021  | 	Diseñar la Interfaz de Usuario                         | Como desarrollador, quiero diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable.                                      | 5                       |
+| 8       | US025  | 	Optimizar el Rendimiento de la Aplicación              | Como desarrollador, quiero optimizar el rendimiento de la aplicación para una experiencia rápida y fluida.                                                | 5                       |
+| 9       | US004  | Subir proyectos	                                        | Como usuario estudiante quiero subir mis proyectos actuales y pasados para encontrar al asesor que más se adapte a mi perfil.                             | 	3                      |
+| 10      | 	US009 | 	Enviar una solicitud a un asesor                       | 	Como usuario estudiante quiero enviar una solicitud a un asesor para que me oriente con mi proyecto.	                                                    | 3                       |
+| 11      | 	US013 | 	Registrar el avance del proyecto	                      | Como usuario asesor quiero medir el avance del proyecto para tener un control de cada estudiante.	                                                        | 3                       |
+| 12      | 	US022 | 	Funcionalidad de Búsqueda Avanzada                     | Como desarrollador, quiero desarrollar la funcionalidad de búsqueda avanzada con filtros.                                                                 | 3                       |
+| 13      | 	US023 | 	Sistema de Autenticación y Registro                    | Como desarrollador, quiero implementar un sistema de autenticación y registro.                                                                            | 3                       |
+| 14      | 	US005 | 	Subir Curriculum Vitae	                                | Como usuario asesor quiero subir mi CV para que los estudiantes me conozcan mejor y confíen en mi experiencia.	                                           | 2                       |
+| 15      | 	US007 | 	Filtrar la búsqueda de asesor                          | 	Como usuario estudiante quiero filtrar la búsqueda de asesor para encontrar al asesor que más se ajuste a mis horarios y necesidades                     | 	2                      |
+| 16      | 	US008 | 	Visualizar perfiles de asesores                        | 	Como usuario estudiante quiero ingresar al perfil de los asesores para conocer su trayectoria.                                                           | 2                       |
+| 17      | 	US012 | 	Visualizar las reuniones programadas	                  | Como usuario asesor quiero tener mis reuniones programadas en una agenda para ser más eficiente.	                                                         | 2                       |
+| 18      | 	US014 | 	Visualizar los avances del proyecto	                   | Como usuario estudiante quiero visualizar los avances y el feedback recibido para conocer el estado de mi proyecto.	                                      | 2                       |
+| 19      | 	US015 | 	Calificar a un asesor	                                 | Como usuario estudiante quiero calificar al asesor que me orientó para compartir mi experiencia con otros usuarios.	                                      | 2                       |
+| 20      | 	US017 | 	Seleccionar un plan de suscripción	                    | Como usuario estudiante quiero seleccionar un plan de suscripción que se adecue a mis necesidades para acceder a otras funcionalidades de la plataforma.	 | 2                       |
+| 21      | US001  | Registrar cuenta                                        | Como usuario quiero crear una cuenta para poder acceder a la plataforma.                                                                                  | 	1                      |
+| 22      | 	US002 | 	Iniciar sesión 	                                       | Como usuario quiero ingresar a mi cuenta para utilizar la plataforma.                                                                                     | 	1                      |
+| 23      | 	US003 | 	Cerrar sesión	                                         | Como usuario quiero cerrar mi sesión para mantener mis datos seguros.	                                                                                    | 1                       |
+| 24      | 	US016 | 	Visualizar las reseñas a los asesores.                 | 	Como usuario estudiante quiero leer las opiniones de otros estudiantes para encontrar un asesor confiable.	                                              | 1                       |
+| 25      | 	US018 | 	Cambiar plan de suscripción	                           | Como usuario estudiante quiero modificar mi plan de suscripción de acuerdo con mis necesidades para acceder a los beneficios de la aplicación. 	          | 1                       |
 
 *Imagen del Product Backlog en Pivotal Tracker*
 
@@ -1420,7 +1507,7 @@ Link para el Aplicativo Web: https://www.figma.com/file/3tMZHofVJ936HBpiZAAxJf/M
 
 ### 4.7.1. Class Diagrams
 
-<a href="https://ibb.co/PTBsW62"><img src="https://i.ibb.co/rbnKpwB/Clase-UML.png" alt="Clase-UML" border="0"></a>
+<a href="https://ibb.co/p0j3MCj"><img src="https://i.ibb.co/h7FK4pF/Clase-UML-1.png" alt="Clase-UML-1" border="0"></a>
 
 ### 4.7.2. Class Dictionary
 
@@ -1491,6 +1578,28 @@ Esta clase representa las tiendas que venden materiales de arquitectura.
 - **Name: Nombre de la tienda.**
 
 - **Location: Locación de la tienda.**
+
+**Class: Service (Servicio)**
+
+Esta clase representa el servicio que ofrecen los asesores.
+
+**Atributos:**
+
+- **Name: Nombre del servicio**
+
+- **Description: Descripcion del servicio.**
+
+- **Price: Precio que pide el asesor por su servicio.**
+
+**Class: Payment (Pago)**
+
+Esta clase representa el pago que piden los asesores por brindar su servicio.
+
+**Atributos:**
+
+- **Amount: Monto por el servicio.**
+
+- **Payment date: Fecha del pago.**
 
 ## 4.8. Database Design
 
@@ -1745,28 +1854,141 @@ Se puede visualizar el link en la barra de búsqueda y que está en modo públic
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.1. Sprint 1
-|            Sprint #            |    Sprint 1    | | |||
-|:------------------------------:|:----------:|:--:|:--:|:--:|:--:|
-|  |  Work-Item / Task   |
-|User Story ID| id |Description| Estimation(Hours) | Assigned To | Status(To-do/ In-Process/To-Review/Done)|
-|US01 |T1 |Registrar cuenta |3 h |Leonardo Lopez| To do|
-|US02 |T2 |Iniciar sesión |3 h |Diego Ramirez| To do|
-|US03 |T3 |Cerrar sesión |3 h |Kurt Puican| To do|
-|US04 |T4 |Subir proyectos |5 h |Leonardo Lopez| To do|
-|US05 |T5 |Subir Curriculum Vitae |5 h |Yuliana Yauricasa| To do|
-|US06 |T6 |Búsqueda de asesor |4 h |Yuliana Yauricasa| To do|
-|US07 |T7 |Filtrar la búsqueda de asesor |5 h |Leonardo Lopez| To do|
-|US08 |T8 |Visualizar perfiles de asesores |2 h |Rafael Luyo| To do|
-|US09 |T9 |Enviar una solicitud a un asesor |3 h |Diego Ramirez| To do|
-|US10 |T10 |Recibir, aceptar o rechazar una solicitud de un estudiante |5 h |Leonardo Lopez| To do|
-|US11 |T11 |Programar reuniones |7 h |Rafael Luyo| To do|
-|US12 |T12 |Visualizar las reuniones programadas |3 h |Kurt Puican| To do|
-|US13 |T13 |Registrar el avance del proyecto |5 h |Diego Ramirez| To do|
-|US14 |T14 |Visualizar los avances del proyecto |3 h |Rafael Luyo| To do|
-|US15 |T15 |Calificar a un asesor |5 h |Yuliana Yauricasa| To do|
-|US16 |T16 |Visualizar las reseñas a los asesores. |5 h |Leonardo Lopez| To do|
-|US17 |T17 |Seleccionar un plan de suscripción |7 h |Kurt Puican| To do|
-|US18 |T18 |Cambiar plan de suscripción |5 h |Rafael Luyo| To do|
-|US19 |T19 |Conocer a Arquimentor a través del landing page |7 h |Yuliana Yauricasa| To do|
-|US20 |T20 |Reconocer las ventajas de Arquimentor a través del landing page |9 h |Leonardo Lopez| To do|
+### 5.2.1. Sprint 2
+
+#### 5.2.1.1 Sprint Planning 2
+
+Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra primera versión de frontend y las correcciones de la anterior entrega. 
+
+|            Sprint #             |                                                                                                                Sprint 2                                                                                                                |
+|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background**   |                                                                                                                                                                                                                                        |
+|              Date               |                                                                                                               2023-09-21                                                                                                               |
+|              Time               |                                                                                                                11:24 AM                                                                                                                |
+|            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
+|           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
+| Attendees (to planning meeting) |                                           López Huarcaya, Leonardo Paul/ Kurt Puican Salas / Luyo Ramirez, Rafael Arturo / Ramirez Ortega, Diego Miguel / Juliana Alexandra Yauricasa Seguil                                           |
+|     Sprint 1 Review Summary     |                                                                                     En resumen se alcanzo diseñar las 2 HU de nuestro landing page                                                                                     |
+| Sprint 1 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
+| **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
+|          Sprint 2 Goal          |                                  Goal: Tene la priemra version del frontend terminada al 90% <br> Metrica de cumplimiento:Se muestra la primera version del frontend dl sitio web, terminado al 90%.                                   |
+|        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 15 story points                                                                  |
+|       Sum of Story Points       |                                                                                               Suma de los Story Points: 3+1+2+5+1+1+2=15                                                                                               |
+
+#### 5.2.1.2 Sprint Backlog 2
+
+El objetivo principal del Sprint 2 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
+<br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/2
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1156447179339202670/image.png?ex=651500dd&is=6513af5d&hm=14addda1bf5be1fd598efa77999f990c5bc26d81979ec7b22ec27324e3c94744&">
+
+
+|   Sprint #    |     Sprint 1     | | |                              ||
+|:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
+|               | Work-Item / Task |
+| User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
+|     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Juliana Yauricasa       | In-Process|
+|     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Juliana Yauricasa       | In-Process|
+|     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Kurt Puican &  Diego Ramirez | In-Process|
+|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
+|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Juliana Yauricasa       | Done|
+|     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Juliana Yauricasa       | Done|
+|     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Rafael            | Done|
+
+
+#### 5.2.1.3 Development Evidence for Sprint Review
+
+En la siguiente tabla se mostrara algunos de los commits mas importantes realizados por cada developer del Sprint 2.
+
+|           Repository            |         Branch          |Commit Id |                       Commit Message                       |                                    Commit Message Body                                    | Commited on (Date) |
+|:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
+|  Leonardo/Frontend-Arquimentor  |     feature/sidebar     |e9d8fa1d88636bd7e04b61a7c1d9e60a5adba8b8|                feat(nav): add nav component                |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     21/09/2023     |
+|  Leonardo/Frontend-Arquimentor  |     feature/project     |73307c03cf8bbda5e06d68dde12a10d98396ead1|             feat(project): add project angular             | Se agrego todas las dependecias y carpetas necesarias para iniciar un proyecto en Angular |     21/09/2023     |
+| kurtPuican/Frontend-Arquimentor |    feature(reviews)     |6bb6d9c3a2c5ff67ea4ac799f9a632ad77cd7bd9|            feat(project): add reviews component            |                      Se agrego el componente de reviews al proyecto                       |     26/09/2023     |
+| KurtPuican/Frontend-Arquimentor |  feature(view-profile)  |fcd3058d63b47028f4d083b2828cf42277bf589e|       feat(view-profile): add view profile component       |                    Se agrego el componente de view-profile al proyecto                    |     26/09/2023     |
+|   Rafael/Frontend-Arquimentor   | feature/student-profile |a581b8666be8e23fc54c1ba58bbea477afad536f1|    feat(student-profile): add student-profile component    |                   Se agrego el componente de estudiante en su totalidad                   |     25/09/2023     |
+|   Rafael/Frontend-Arquimentor   | feature/profile-service |17772ffcac8bcde210afc7a69ee4f0366b375492|         feat(profile-service): add profile-service         |                           Incorporación del servicio de perfil                            |     25/09/2023     |
+| JulianaYS/Frontend-Arquimentor  |    feature/register     |2ad3f07bb170cc0276ebcc90dee96fe488230d3c|    feat(register): Created and added component register    |                             Se agrego el componente registro                              |     26/09/2023     |
+| JulianaYS/Frontend-Arquimentor  |      feature/login      |76a50536949dbf3131f61ee4053e6fda5efc8f35|       feat(login): Created and added component login       |                              Se agrego el componente login                                |     26/09/2023     |
+
+#### 5.2.1.5 Execution Evidence for Sprint Review
+
+Como resumen del sprint 2 se realizaron los diferentes HU, algunos completandolos al 100% y otros al 60%. Compartimos imagenes para mostrar como quedo el avance de la primera versión del servicio web. Cada uno con su ruta respectiva.
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487053169664071/image.png?ex=651525ff&is=6513d47f&hm=f7427db005b20b8185dd70354fd88ace39f747a73bcba154cbef90ba25a028fc&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495391676710942/image.png?ex=65152dc4&is=6513dc44&hm=ef1500be2311a4159351ca1f49397b0acdf478a982054c3f880ba10ae34dfa8d&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495952086061156/image.png?ex=65152e49&is=6513dcc9&hm=526032ec32ad09ee8cba49007495c81775bcc20f7c9efd988abd4ad995a8500e&">
+
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487471174008832/image.png?ex=65152663&is=6513d4e3&hm=df72cc97480408676ec2f890e18ef6faeea51679065aa3d56053976da9fd2fa2&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487532310179880/image.png?ex=65152672&is=6513d4f2&hm=de2c00ffaac9cd9d212a80abee7f35ce4d4603af627bcb6bf51bc70a37c16ebe&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487590774591599/image.png?ex=65152680&is=6513d500&hm=aba6e41e6a4bc263e0b91c4a3ab756f2c32fc53ebb78c5e6c60a624c3c549776&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487692138328125/image.png?ex=65152698&is=6513d518&hm=bbf5c3902c254b652fc32b4fe82938ab76f4c0b2b22eed74cb070987ad736bdf&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487775676284938/image.png?ex=651526ac&is=6513d52c&hm=cb787031a26570a45bcbeeb073cfe41cb3caaef9d4ab2f4f7bf6f96548a93c2b&">
+
+
+#### 5.2.1.6 Services Documentation Evidence for Sprint Review.
+
+En el Sprint 2, hemos realizado avances significativos en la documentación de nuestros Web Services. Hemos documentado varios Endpoints que son fundamentales para la funcionalidad de nuestra aplicación. A continuación, se detallan los Endpoints documentados junto con ejemplos de interacción y enlaces a la documentación desplegada.
+
+Repositorio: https://github.com/Open-Developers-SW51/Frontend-Arquimentor
+
+Commits relacionados con el Sprint: 
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156493707818848276/image.png?ex=65152c32&is=6513dab2&hm=9f05b90c4f29d19b623d6acbc7fa4a71ee412ba83d3c6b2251ebfd3f82516c38&">
+
+**Endpoints Documentados**
+
+|       Endpoint	       | Verbo HTTP  |      Parámetros       |     Ejemplo de Llamada     |                              
+|:---------------------:|:-------------------:|:---------------------:|:--------------------------:|
+|     /landingpage      |     GET      |        Ninguno        |    GET<br/>/landingpage    |
+|         /card         |     GET      |        Ninguno        |       GET<br/>/card        |
+| /student-profile/{id} |     GET      | id(numero de usuario) | GET<br/>/student-profile/1 |
+|       /services       |     GET      |        Ninguno        |    GET<br/>/services    |
+|         /chad         |     GET      |        Ninguno        |    GET<br/>/chad    |
+
+
+#### 5.2.1.7 Software Deployment Evidence for Sprint Review.
+
+En el Sprint 2, hemos llevado a cabo una serie de actividades relacionadas con el Deployment de nuestros productos, que incluyen la Landing Page, las Web Applications.A continuación, se detallan las acciones clave realizadas durante este Sprint en relación con el despliegue.
+
+-Creación del navegador
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495391676710942/image.png?ex=65152dc4&is=6513dc44&hm=ef1500be2311a4159351ca1f49397b0acdf478a982054c3f880ba10ae34dfa8d&">
+
+-Creación los diversos tipos de login
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495952086061156/image.png?ex=65152e49&is=6513dcc9&hm=526032ec32ad09ee8cba49007495c81775bcc20f7c9efd988abd4ad995a8500e&">
+
+-Creación de publicaciones
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487471174008832/image.png?ex=65152663&is=6513d4e3&hm=df72cc97480408676ec2f890e18ef6faeea51679065aa3d56053976da9fd2fa2&">
+
+-Creación de perfil y poder editarlos
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487590774591599/image.png?ex=65152680&is=6513d500&hm=aba6e41e6a4bc263e0b91c4a3ab756f2c32fc53ebb78c5e6c60a624c3c549776&">
+
+-Creación de vistas de reseñas
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487692138328125/image.png?ex=65152698&is=6513d518&hm=bbf5c3902c254b652fc32b4fe82938ab76f4c0b2b22eed74cb070987ad736bdf&">
+
+-Creación de chat entre los segmentos
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487775676284938/image.png?ex=651526ac&is=6513d52c&hm=cb787031a26570a45bcbeeb073cfe41cb3caaef9d4ab2f4f7bf6f96548a93c2b&">
+
+#### 5.2.1.8 Team Collaboration Insights for Sprint Review
+
+Durante el sprint 2, el equipo trabajo activamente en la implementación del frontend y corrección del reporte. La metodologia que se usa fue mediante gitflow en formato MarkDown, participando correctamente los 5 miembros del equipo. Las Actividades que se implementaron fueron el frontend y las que se corrigieron fueron el reporte y el landingpage.
+
+Imagenes de los commit para el reporte:
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156499089991667852/image.png?ex=65153135&is=6513dfb5&hm=85029bfa52331fd24026975282431f53b0b7d26ff5e591d7ad2db3a1def6cbb3&">
+
+Imagenes de los commits para el frontend:
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156499138461048842/image.png?ex=65153141&is=6513dfc1&hm=a7bb4cb7ce6d458f9898c37f4bd2de20bad9aca0c631f0e72380f3b57e27ec8a&">
+
+Imagenes de los commits para el landing page: 
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156499201337864282/image.png?ex=65153150&is=6513dfd0&hm=8dd9760d07f20689916cca3d0fcfe1ff7ff75cb7aa0de1273e3a02dd27d9973f&">
+
+Anexos
+
+Link de la exposición de la TP: https://drive.google.com/drive/folders/1W7pyh5Gg20AIUY06Ad2w19tpYBC8ezvs?usp=sharing
