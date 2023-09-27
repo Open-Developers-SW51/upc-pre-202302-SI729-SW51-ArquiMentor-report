@@ -540,8 +540,7 @@ que los principales competidores son:
     Participación en ferias educativas y eventos locales: Promover la plataforma en eventos educativos locales y conferencias para llegar a la comunidad estudiantil
 </td>
   </tr>
-  </tr>
-    <tr>
+<tr>
     <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Precios y costos</td>
     <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Precio para estudiantes: Tutor.com ofrece un servicio de suscripción que generalmente varía desde alrededor de $39.99 a $79.99 por mes, dependiendo del nivel de acceso y la cantidad de tiempo de tutoría en línea incluido en el plan. También ofrecen planes anuales con descuentos
     Costos para la plataforma: Los costos para la plataforma en sí incluyen la compensación para los tutores, el mantenimiento del sitio web y los servidores para brindar tutoría en línea en tiempo real
@@ -1828,28 +1827,53 @@ Se puede visualizar el link en la barra de búsqueda y que está en modo públic
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.1. Sprint 1
-|            Sprint #            |    Sprint 1    | | |||
-|:------------------------------:|:----------:|:--:|:--:|:--:|:--:|
-|  |  Work-Item / Task   |
-|User Story ID| id |Description| Estimation(Hours) | Assigned To | Status(To-do/ In-Process/To-Review/Done)|
-|US01 |T1 |Registrar cuenta |3 h |Leonardo Lopez| To do|
-|US02 |T2 |Iniciar sesión |3 h |Diego Ramirez| To do|
-|US03 |T3 |Cerrar sesión |3 h |Kurt Puican| To do|
-|US04 |T4 |Subir proyectos |5 h |Leonardo Lopez| To do|
-|US05 |T5 |Subir Curriculum Vitae |5 h |Yuliana Yauricasa| To do|
-|US06 |T6 |Búsqueda de asesor |4 h |Yuliana Yauricasa| To do|
-|US07 |T7 |Filtrar la búsqueda de asesor |5 h |Leonardo Lopez| To do|
-|US08 |T8 |Visualizar perfiles de asesores |2 h |Rafael Luyo| To do|
-|US09 |T9 |Enviar una solicitud a un asesor |3 h |Diego Ramirez| To do|
-|US10 |T10 |Recibir, aceptar o rechazar una solicitud de un estudiante |5 h |Leonardo Lopez| To do|
-|US11 |T11 |Programar reuniones |7 h |Rafael Luyo| To do|
-|US12 |T12 |Visualizar las reuniones programadas |3 h |Kurt Puican| To do|
-|US13 |T13 |Registrar el avance del proyecto |5 h |Diego Ramirez| To do|
-|US14 |T14 |Visualizar los avances del proyecto |3 h |Rafael Luyo| To do|
-|US15 |T15 |Calificar a un asesor |5 h |Yuliana Yauricasa| To do|
-|US16 |T16 |Visualizar las reseñas a los asesores. |5 h |Leonardo Lopez| To do|
-|US17 |T17 |Seleccionar un plan de suscripción |7 h |Kurt Puican| To do|
-|US18 |T18 |Cambiar plan de suscripción |5 h |Rafael Luyo| To do|
-|US19 |T19 |Conocer a Arquimentor a través del landing page |7 h |Yuliana Yauricasa| To do|
-|US20 |T20 |Reconocer las ventajas de Arquimentor a través del landing page |9 h |Leonardo Lopez| To do|
+### 5.2.1. Sprint 2
+
+#### 5.2.1.1 Sprint Planning 2
+
+Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra primera versión de frontend y las correcciones de la anterior entrega. 
+
+|            Sprint #             |                                                                                                                Sprint 2                                                                                                                |
+|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background**   |                                                                                                                                                                                                                                        |
+|              Date               |                                                                                                               2023-09-21                                                                                                               |
+|              Time               |                                                                                                                11:24 AM                                                                                                                |
+|            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
+|           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
+| Attendees (to planning meeting) |                                           López Huarcaya, Leonardo Paul/ Kurt Puican Salas / Luyo Ramirez, Rafael Arturo / Ramirez Ortega, Diego Miguel / Juliana Alexandra Yauricasa Seguil                                           |
+|     Sprint 1 Review Summary     |                                                                                     En resumen se alcanzo diseñar las 2 HU de nuestro landing page                                                                                     |
+| Sprint 1 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
+| **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
+|          Sprint 2 Goal          |                                  Goal: Tene la priemra version del frontend terminada al 90% <br> Metrica de cumplimiento:Se muestra la primera version del frontend dl sitio web, terminado al 90%.                                   |
+|        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 21 story points                                                                  |
+|       Sum of Story Points       |                                                                                                  Suma de los Story Points: 5+5+5+6=21                                                                                                  |
+
+#### 5.2.1.2 Sprint Backlog 2
+
+El objetivo principal del Sprint 2 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
+<br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/2
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1156447179339202670/image.png?ex=651500dd&is=6513af5d&hm=14addda1bf5be1fd598efa77999f990c5bc26d81979ec7b22ec27324e3c94744&">
+
+
+|   Sprint #    |     Sprint 1     | | |                              ||
+|:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
+|               | Work-Item / Task |
+| User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
+|     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Yuliana Yauricasa       | To-Review|
+|     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Yuliana Yauricasa       | To-Review|
+|     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Kurt Puican &  Diego Ramirez | To-Review|
+|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | To-Review|
+|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Yuliana Yauricasa       | Done|
+|     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Yuliana Yauricasa       | Done|
+|     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Rafael            | Done|
+
+
+#### 5.2.1.3 Development Evidence for Sprint Review
+
+En la siguiente tabla se mostrara algunos de los commits mas importantes realizados por cada developer del Sprint 2.
+
+| Repository |     Branch      |Commit Id |           Commit Message           |                                    Commit Message Body                                    | Commited on (Date) |
+|:----------:|:---------------:|:--:|:----------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
+| Leonardo/Frontend-Arquimentor  | feature/sidebar |e9d8fa1d88636bd7e04b61a7c1d9e60a5adba8b8|    feat(nav): add nav component    |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     21/09/2023     |
+| Leonardo/Frontend-Arquimentor  | feature/project |73307c03cf8bbda5e06d68dde12a10d98396ead1| feat(project): add project angular | Se agrego todas las dependecias y carpetas necesarias para iniciar un proyecto en Angular |     21/09/2023     |
