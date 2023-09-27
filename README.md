@@ -1945,3 +1945,18 @@ En el Sprint 2, hemos llevado a cabo una serie de actividades relacionadas con e
 
 -Creación de chat entre los segmentos
 <img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487775676284938/image.png?ex=651526ac&is=6513d52c&hm=cb787031a26570a45bcbeeb073cfe41cb3caaef9d4ab2f4f7bf6f96548a93c2b&">
+
+#### 5.2.1.8 Team Collaboration Insights for Sprint Review
+
+Durante el sprint 2, el equipo trabajo activamente en la implementacion del frontend y corrección del reporte. La metodologia que se usa fue mediante gitflow en formato MarkDown, participando correctamente los 5 miembros del equipo. Las Actividades que se implementaron fueron el frontend y las que se corrigieron fueron el reporte y el landingpage.
+
+Imagenes de los commit para el reporte:
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156499089991667852/image.png?ex=65153135&is=6513dfb5&hm=85029bfa52331fd24026975282431f53b0b7d26ff5e591d7ad2db3a1def6cbb3&">
+
+Imagenes de los commits para el frontend:
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156499138461048842/image.png?ex=65153141&is=6513dfc1&hm=a7bb4cb7ce6d458f9898c37f4bd2de20bad9aca0c631f0e72380f3b57e27ec8a&">
+
+Imagenes de los commits para el landing page: 
+
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156499201337864282/image.png?ex=65153150&is=6513dfd0&hm=8dd9760d07f20689916cca3d0fcfe1ff7ff75cb7aa0de1273e3a02dd27d9973f&">
+
