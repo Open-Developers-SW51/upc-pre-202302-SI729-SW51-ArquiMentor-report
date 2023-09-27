@@ -1488,18 +1488,35 @@ Link para el Aplicativo Web: https://www.figma.com/file/3tMZHofVJ936HBpiZAAxJf/M
 
 ## 4.6 Domain-Driven Software Architecture:
 
+En esta sección se presentarán los diagramas de la arquitectura de software diseñador para nuestar aplicación web. Para estos diseños aplicamos patrones de diseño de alto nivel, bajo el enfoque de Domain-Driven. 
+
 ### 4.6.1 Software Architecture Context Diagram
+Este artefacto proporciona en la que el sistema encaja con el mundo a su alrededor, mostrando los principales puntos en su arquitectura.
+
 <p align ="center">
-   <img src="https://media.discordapp.net/attachments/1149549726748921942/1149634473428795502/structurizr-85951-Contexto.png?width=557&height=676" >
+   <img src="https://cdn.discordapp.com/attachments/960601728330395718/1156520997231534100/structurizr-85951-Contexto.png?ex=6515459c&is=6513f41c&hm=b141c34b87fe0c38152bcb76d24f6b83f8140cf0eea618f3e0cbe07a363fffc3&" >
 </p>
 
 ### 4.6.2 Software Architecture Container Diagram
+
+Este diagrama presenta los componentes técnicos de alto nivel, lo cual genera una ampliación en la vision de la arquitectura del software.
+
 <p align ="center">
-   <img src="https://media.discordapp.net/attachments/1149549726748921942/1149634473139376158/structurizr-85951-Contenedor.png?width=521&height=676" >
+   <img src="https://cdn.discordapp.com/attachments/960601728330395718/1156520996820496456/structurizr-85951-Contenedor.png?ex=6515459c&is=6513f41c&hm=9ef4f7d734d8c25eae2277fa141766361f09b0b76eb6460fcdf51799342c0e1b&" >
+</p>
+
+### 4.6.3 Software Architecture Components Diagrams
+
+En este diagrama se detallan los componentes de nuestros contenedores, asimismo, se indican sus responsabilidades y los detalles de tecnologías e implementación.
+
+<p align ="center">
+   <img src="https://cdn.discordapp.com/attachments/960601728330395718/1156520997558693988/structurizr-85951-Components_AC.png?ex=6515459c&is=6513f41c&hm=474b0c2cb0ad6e67c0a25c15995e60c8248469c3dc9600e4f68a608153dc386b&" >
 </p>
 
 
 ## 4.7. Software Object-Oriented Design
+
+  
 
 ### 4.7.1. Class Diagrams
 
