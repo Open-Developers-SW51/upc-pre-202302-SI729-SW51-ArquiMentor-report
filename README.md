@@ -1502,7 +1502,7 @@ Link para el Aplicativo Web: https://www.figma.com/file/3tMZHofVJ936HBpiZAAxJf/M
 
 ### 4.7.1. Class Diagrams
 
-<a href="https://ibb.co/PTBsW62"><img src="https://i.ibb.co/rbnKpwB/Clase-UML.png" alt="Clase-UML" border="0"></a>
+<a href="https://ibb.co/p0j3MCj"><img src="https://i.ibb.co/h7FK4pF/Clase-UML-1.png" alt="Clase-UML-1" border="0"></a>
 
 ### 4.7.2. Class Dictionary
 
@@ -1573,6 +1573,28 @@ Esta clase representa las tiendas que venden materiales de arquitectura.
 - **Name: Nombre de la tienda.**
 
 - **Location: Locación de la tienda.**
+
+**Class: Service (Servicio)**
+
+Esta clase representa el servicio que ofrecen los asesores.
+
+**Atributos:**
+
+- **Name: Nombre del servicio**
+
+- **Description: Descripcion del servicio.**
+
+- **Price: Precio que pide el asesor por su servicio.**
+
+**Class: Payment (Pago)**
+
+Esta clase representa el pago que piden los asesores por brindar su servicio.
+
+**Atributos:**
+
+- **Amount: Monto por el servicio.**
+
+- **Payment date: Fecha del pago.**
 
 ## 4.8. Database Design
 
