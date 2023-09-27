@@ -1852,7 +1852,7 @@ Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra pr
 |        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 21 story points                                                                  |
 |       Sum of Story Points       |                                                                                                  Suma de los Story Points: 5+5+5+6=21                                                                                                  |
 
-#### 5.2.1.1 Sprint Backlog 2
+#### 5.2.1.2 Sprint Backlog 2
 
 El objetivo principal del Sprint 2 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
 <br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/2
@@ -1872,3 +1872,12 @@ El objetivo principal del Sprint 2 es tener una primera version de nuestra Front
 |     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Yuliana Yauricasa       | Done|
 |     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Rafael            | Done|
 
+
+#### 5.2.1.3 Development Evidence for Sprint Review
+
+En la siguiente tabla se mostrara algunos de los commits mas importantes realizados por cada developer del Sprint 2.
+
+| Repository |     Branch      |Commit Id |           Commit Message           |                                    Commit Message Body                                    | Commited on (Date) |
+|:----------:|:---------------:|:--:|:----------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
+| Leonardo/Frontend-Arquimentor  | feature/sidebar |e9d8fa1d88636bd7e04b61a7c1d9e60a5adba8b8|    feat(nav): add nav component    |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     21/09/2023     |
+| Leonardo/Frontend-Arquimentor  | feature/project |73307c03cf8bbda5e06d68dde12a10d98396ead1| feat(project): add project angular | Se agrego todas las dependecias y carpetas necesarias para iniciar un proyecto en Angular |     21/09/2023     |
