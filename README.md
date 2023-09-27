@@ -1897,3 +1897,23 @@ Como resumen del sprint 2 se realizaron los diferentes HU, algunos completandolo
 <img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487692138328125/image.png?ex=65152698&is=6513d518&hm=bbf5c3902c254b652fc32b4fe82938ab76f4c0b2b22eed74cb070987ad736bdf&">
 
 <img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487775676284938/image.png?ex=651526ac&is=6513d52c&hm=cb787031a26570a45bcbeeb073cfe41cb3caaef9d4ab2f4f7bf6f96548a93c2b&">
+
+
+#### 5.2.1.6 Services Documentation Evidence for Sprint Review.
+
+En el Sprint 2, hemos realizado avances significativos en la documentación de nuestros Web Services. Hemos documentado varios Endpoints que son fundamentales para la funcionalidad de nuestra aplicación. A continuación, se detallan los Endpoints documentados junto con ejemplos de interacción y enlaces a la documentación desplegada.
+
+Repositorio: https://github.com/Open-Developers-SW51/Frontend-Arquimentor
+
+Commits relacionados con el Sprint: 
+<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156493707818848276/image.png?ex=65152c32&is=6513dab2&hm=9f05b90c4f29d19b623d6acbc7fa4a71ee412ba83d3c6b2251ebfd3f82516c38&">
+
+**Endpoints Documentados**
+
+|       Endpoint	       | Verbo HTTP  |      Parámetros       |     Ejemplo de Llamada     |                              
+|:---------------------:|:-------------------:|:---------------------:|:--------------------------:|
+|     /landingpage      |     GET      |        Ninguno        |    GET<br/>/landingpage    |
+|         /card         |     GET      |        Ninguno        |       GET<br/>/card        |
+| /student-profile/{id} |     GET      | id(numero de usuario) | GET<br/>/student-profile/1 |
+|       /services       |     GET      |        Ninguno        |    GET<br/>/services    |
+|         /chad         |     GET      |        Ninguno        |    GET<br/>/chad    |
