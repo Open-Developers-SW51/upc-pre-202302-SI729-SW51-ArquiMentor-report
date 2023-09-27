@@ -151,8 +151,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | López Huarcaya, Leonardo Paul </br>*TB1* </br> Entrevista a un estudiante de la carrerra de arquitectura para la elaboracion del proyecto.<br> Exposición del apartado Web Applications UX/UI Design.<br>*TP*<br> Corrección de la entrevista al estudiante de arquitectura.<br>Recoleccion de información con algunos estudiantes de arquitectura.<br><br>Kurt Puican </br>*TB1* </br> ... <br>*TP*</br>...<br>Rafael Luyo</br>*TB1* </br> Entrevista a un estudiante de la carrerra de arquitectura para la elaboracion del proyecto.<br> Exposición del apartado Web Landing Page UI Design, Database, Landing Page Deployment.<br>*TP*<br> Corrección de la entrevista al estudiante de arquitectura.</br> <br>Diego Ramirez</br></br>Juliana Yauricasa</br>*TB1*</br>Entrevista a un estudiante de arquitectura.</br>Exposición de la sección de especificación de requisitos.</br>*TP*</br>Corrección de la entrevista del estudiante de arquitectura. | 	Las entrevistas realizadas por todo el equipo nos ayudaron a poder plantear nuevas necesidades y elabaroar las funcionalidades del sitio web.<br><br>Las correcciones establecidas fueron de gran ayuda para mejorar nuestra vision de negocio, inclusive modificando algunas funcionalidades para la mejora del proyecto.</br> <br> Hablar con claridad y objetividad sobre nuestras ideas y logros fue clave en nuestro proyecto de ingeniería. Cuando tuvimos reuniones y presentaciones, nos ayudó a explicar nuestras ideas de manera directa a personas con diferentes conocimientos y roles. Esta comunicación fluida nos permitió obtener consejos valiosos y asegurarnos de que todos estuvieran en la misma página, lo que fue fundamental para el éxito de nuestro proyecto</br>                                                                                                                                                                           |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | López Huarcaya, Leonardo Paul </br>*TB1* </br> Elaboración del Web Aplications UX/UI Design.<br>Elaboración del Sprint 1.<br>Elaboración del Software Configuration Management.<br>*TP*<br> Corrección de mis partes elaboradas de la primera entrega.<br>Elaboración del sprint 2.<br><br>Kurt Puican </br>Rafael Luyo</br>*TB1*</br>Creación de Landing Page Ui Design, Database.</br>*TP*</br>Corrección de Database y Landing Page.<br>Mejora de redaccion de entrevista</br><br>Diego Ramirez</br></br>Juliana Yauricasa</br>*TB1*</br>Creación de las user stories y la especificación de requisitos.</br>*TP*</br>Corrección de la especificación de requisitos, priorización del Product Backlog y los criterios de aceptación.<br>Elaboración del Sprint 2                                                                                                                                                                                          | La elaboración del informe nos ayudo a idcar y organizar nuestro proyecto, tanto como las funcionalidades, los requisitos, las problematicas y diseños. Todo esto necesario para poner en marcha la elaboración del Web Aplications.<br><br>Las correcciones que se realizaron en el proyecto ayudaron a crear nuevas funcionalidades para el Web Applications. <br><br> El desarrollo del sprint facilita la organización para la creación del Sitio Web.</br><br>Expresar nuestras ideas y resultados por escrito de manera clara y objetiva fue esencial en nuestro proyecto de ingeniería. Cuando escribimos informes y documentos, nos ayudó a organizar la información de manera ordenada, lo que permitió que personas con diferentes antecedentes y roles la entendieran fácilmente. Esta comunicación por escrito precisa y objetiva fue fundamental para guiar nuestro trabajo y garantizar que todos estuvieran en la misma sintonía en nuestro equipo</br> |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | López Huarcaya, Leonardo Paul </br>*TB1* </br> Entrevista a un estudiante de la carrerra de arquitectura para la elaboracion del proyecto.<br> Exposición del apartado Web Applications UX/UI Design.<br>*TP*<br> Corrección de la entrevista al estudiante de arquitectura.<br>Recoleccion de información con algunos estudiantes de arquitectura.<br><br>Kurt Puican </br>*TB1* </br> Entrevista a un asesor de la carrera de arquitectura para la elaboracion del proyecto.Expocicion del apartado del capitulo 1 y 2 <br>*TP*</br>Correccion de la entrevista hacia el asesor de arquitectura<br>Rafael Luyo</br>*TB1* </br> Entrevista a un estudiante de la carrerra de arquitectura para la elaboracion del proyecto.<br> Exposición del apartado Web Landing Page UI Design, Database, Landing Page Deployment.<br>*TP*<br> Corrección de la entrevista al estudiante de arquitectura.</br> <br>Diego Ramirez</br></br>Juliana Yauricasa</br>*TB1*</br>Entrevista a un estudiante de arquitectura.</br>Exposición de la sección de especificación de requisitos.</br>*TP*</br>Corrección de la entrevista del estudiante de arquitectura. | 	Las entrevistas realizadas por todo el equipo nos ayudaron a poder plantear nuevas necesidades y elabaroar las funcionalidades del sitio web.<br><br>Las correcciones establecidas fueron de gran ayuda para mejorar nuestra vision de negocio, inclusive modificando algunas funcionalidades para la mejora del proyecto.</br> <br> Hablar con claridad y objetividad sobre nuestras ideas y logros fue clave en nuestro proyecto de ingeniería. Cuando tuvimos reuniones y presentaciones, nos ayudó a explicar nuestras ideas de manera directa a personas con diferentes conocimientos y roles. Esta comunicación fluida nos permitió obtener consejos valiosos y asegurarnos de que todos estuvieran en la misma página, lo que fue fundamental para el éxito de nuestro proyecto</br>                                                                                                                                                                           |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | López Huarcaya, Leonardo Paul </br>*TB1* </br> Elaboración del Web Aplications UX/UI Design.<br>Elaboración del Sprint 1.<br>Elaboración del Software Configuration Management.<br>*TP*<br> Corrección de mis partes elaboradas de la primera entrega.<br>Elaboración del sprint 2.<br><br>Kurt Puican </br>*TB1*</br>Creacion del studen outcome,la solution profile,user persona,journey,empathy,canvas y LeanUx, asi mismo como todo el cap 2</br>*TP*</br>Correccion de mis partes de la tb1 que estaban de forma incorrecta, asi mismo como la elaboracion de mis componentes y la correccion de la entrevista</br> Rafael Luyo</br>*TB1*</br>Creación de Landing Page Ui Design, Database.</br>*TP*</br>Corrección de Database y Landing Page.<br>Mejora de redaccion de entrevista</br><br>Diego Ramirez</br></br>Juliana Yauricasa</br>*TB1*</br>Creación de las user stories y la especificación de requisitos.</br>*TP*</br>Corrección de la especificación de requisitos, priorización del Product Backlog y los criterios de aceptación.<br>Elaboración del Sprint 2                                                                                                                                                                                          | La elaboración del informe nos ayudo a idcar y organizar nuestro proyecto, tanto como las funcionalidades, los requisitos, las problematicas y diseños. Todo esto necesario para poner en marcha la elaboración del Web Aplications.<br><br>Las correcciones que se realizaron en el proyecto ayudaron a crear nuevas funcionalidades para el Web Applications. <br><br> El desarrollo del sprint facilita la organización para la creación del Sitio Web.</br><br>Expresar nuestras ideas y resultados por escrito de manera clara y objetiva fue esencial en nuestro proyecto de ingeniería. Cuando escribimos informes y documentos, nos ayudó a organizar la información de manera ordenada, lo que permitió que personas con diferentes antecedentes y roles la entendieran fácilmente. Esta comunicación por escrito precisa y objetiva fue fundamental para guiar nuestro trabajo y garantizar que todos estuvieran en la misma sintonía en nuestro equipo</br> |
 <br><br>
 
 # Capitulo 1: Introducción
@@ -284,14 +284,16 @@ o How much - ¿Cuál es la magnitud del problema?
 ## 1.2.2 Lean Ux Process
 ### 1.2.2.1 Lean UX Problem Statement 
 
-Problem Statement
+### Problem Statement
 En el panorama educativo actual, los estudiantes a menudo se enfrentan a desafíos al buscar profesores adecuados para recibir tutoría personalizada. A medida que la demanda de apoyo educativo fuera del aula sigue creciendo, surge la necesidad de una solución eficiente y confiable que conecte a los estudiantes con profesores calificados y compatibles. La falta de una plataforma integral y centralizada dificulta que los estudiantes encuentren profesores que se ajusten a sus necesidades y preferencias de aprendizaje.
 
 Las búsquedas tradicionales de profesores a menudo implican una inversión significativa de tiempo y recursos, con resultados inciertos. Los estudiantes pueden encontrarse con problemas como la falta de información suficiente sobre los antecedentes y la experiencia de los profesores, la dificultad para coordinar horarios y ubicaciones, y la incertidumbre sobre la calidad de la enseñanza ofrecida. Además, el proceso de búsqueda y selección puede ser abrumador, especialmente para aquellos que buscan profesores en áreas específicas o con habilidades particulares.
 
 La falta de una plataforma eficiente y confiable para conectar a estudiantes con profesores también puede afectar negativamente el rendimiento académico de los estudiantes. La ausencia de un acceso sencillo a tutores y mentores de calidad puede resultar en dificultades persistentes en el aprendizaje y una menor confianza en las propias habilidades académicas.
-Por lo tanto ¿Como podemos hacer para que los estudiantes reciban una asesoria de los profesores de una manera facil tanto para los profesores como los alumnos para poder generar una clase?
 
+### Hipótesis de Solución
+
+Creemos que al proporcionar una plataforma intuitiva que conecte eficazmente a estudiantes y profesores, facilitaremos el proceso de búsqueda y coordinación de asesorías personalizadas. Esto se traducirá en un aumento del 70% en la satisfacción de los usuarios, medida a través de reseñas positivas en nuestra plataforma.
 ### 1.2.2.2 Lean UX Assumptions
 
 **Business Outcomes**
@@ -313,13 +315,20 @@ Por lo tanto ¿Como podemos hacer para que los estudiantes reciban una asesoria 
 **User Outcomes**
  
 **Faeatures**
-1. **Creo que mis usuarios necesitan,** empezando por los estudiantes, recibir rápidamente variedad de profesores que puedan darle un asesoramiento para generar una clase. Por parte de los profesores tener la posibilidad de poner sus horarios y precios y las materias que dominan para poder ser escogidos por los alumnos.
-2. **Estas necesidades se pueden resolver con** una plataforma que permita contactar a un profesional para que realice una asesoría  en nuestra plataforma de manera eficaz. Por otro lado, que le permita al estudiante coordinar la hora y los temas a desarrollar en la asesoria 
-3. **Mis clientes iniciales son (o serán)** los estudiantes que necesiten o quieran una asesoria por un profesional  y, los profesionales que den estas asesorias. 
-4. **El valor #1 que un cliente quiere de mi servicio es,** empezando por los estudiantes, recibir asesorías de manera cómoda, rápida y personalizada. Por otro lado, los profesionales desean conseguir asesorias para poder conseguir ingresos extra.
-5. **El cliente también puede obtener beneficios adicionales,** Empezando por los estudiantes, podrían querer tener la oportunidad de calificar el servicio de los asesores por medio de un sistema de estrellas y comentarios, por otro lado los profesores quisieran tener la oportunidad de si es que son calificados de buena manera tener la posibilidad de ser encontrados más fácilmente en el buscador 
-6. **Voy a adquirir la mayoría** de mis clientes a través de marketing en los medios de comunicación más frecuentados como Facebook, Instagram o entre otros; con la publicación de casos de éxito de los estudiantes que utilizan nuestra plataforma. Asimismo, demostrando las funcionalidades de las asesorías
-7. **Haremos dinero a través** de la una comisión de las clases que se den en nuestra plataforma, ya que nosotros actuamos como un intermediario nosotros nos llevaremos un pequeño porcentaje de cada clase que se de en nuestra plataforma
+
+1. Variedad de profesores y personalización: Los estudiantes deben poder acceder rápidamente a una variedad de profesores y personalizar sus elecciones. Los profesores deben poder establecer sus horarios, precios y materias que dominan para ser seleccionados por los alumnos.
+
+2. Plataforma para coordinar asesorías: Los usuarios deben poder coordinar fácilmente las asesorías con los profesores, especificando la hora y los temas a tratar. Esto mejora la eficiencia y la experiencia del usuario al garantizar una comunicación efectiva.
+
+3. Clientes iniciales y valor del servicio: Los clientes iniciales son estudiantes que necesitan o quieren asesoría por un profesional y profesionales que brindan asesorías. El valor principal que los clientes buscan es recibir asesorías de manera cómoda, rápida y personalizada, además de que los profesionales desean obtener ingresos adicionales.
+
+4. Calificaciones y comentarios: Los usuarios pueden calificar y comentar sobre el servicio de los asesores, lo que aumenta la confianza y la transparencia en la plataforma.
+
+5. Adquisición de clientes a través de marketing: La estrategia de adquisición de clientes se basa en marketing en medios frecuentados, como Facebook e Instagram, con casos de éxito de estudiantes y demostración de funcionalidades.
+
+6. Modelo de negocio: Se genera ingresos a través de una comisión de las clases que se imparten en la plataforma.
+
+7. Actualizaciones y mantenimiento: Se garantiza el mantenimiento y la solución de posibles fallos a través de actualizaciones.
 
 ---
 1. **¿Quién es el usuario?**
@@ -348,29 +357,17 @@ www.Arquimentor.com  Nuestro producto debe verse práctico, moderno y con contra
 
 ### 1.2.2.3 Lean UX HYpothesis Statements
 
-1st Hypothesis Statement
+Primera Hipótesis
 
-**Creemos que** el uso de nuestra plataforma facilitará la comunicación entre el usuario y el asesor y asi desarrollar las clases 
+**Creemos que** el uso de nuestra plataforma facilitará la comunicación entre el usuario y el asesor, lo que resultará en el desarrollo exitoso de las clases. Sabremos que hemos tenido éxito cuando veamos que al menos el 70% de los usuarios están satisfechos con la rapidez con la que se ponen en contacto con un asesor, medida a través de reseñas positivas en nuestra plataforma.
 
-**Sabremos que** hemos tenido éxito,
+Segunda Hipótesis
 
-**Cuando** veamos que el 70% de los usuarios están satisfechos con la prontitud que se contacta a un asesor a través de sus reseñas positivas en nuestra plataforma.
- 
-2nd Hypothesis Statement
+**Creemos que** al permitir a los usuarios publicar comentarios sobre sus experiencias con las asesorías, aumentaremos la confianza de otros usuarios en nuestro servicio y fomentaremos la participación. Sabremos que hemos tenido éxito cuando veamos que al menos el 60% de los usuarios ingresan a la plataforma y programan una asesoría después de leer comentarios positivos.
 
-**Creemos que** publicar comentarios sobre experiencias con las asesorias para que otros usuarios puedan animarse a realizar una asesoria
+Tercera Hipótesis
 
-**Sabremos que** hemos tenido éxito,
-
-**Cuando** veamos que un 60% entrar a la plataforma y conseguir una asesoria 
- 
-3rd Hypothesis Statement
-
- **Creemos que** publicar los asesores mejor valorados para demostrar que nuestro servicio contrata a profesionales para apoyar a los alumnos.
-
-**Sabremos que** hemos tenido éxito,
-
-**Cuando** veamos que un 50% de nuestros usuarios utilizan las recomendacione los asesores para saber a quienes llamar
+**Creemos que** al destacar a los asesores mejor valorados, demostraremos la calidad de nuestro servicio y alentaremos a los estudiantes a elegir a los profesionales adecuados. Sabremos que hemos tenido éxito cuando al menos el 50% de nuestros usuarios utilicen las recomendaciones de asesores para saber a quiénes llamar.
 
 ### 1.2.2.4 Lean UX Canvas
 
@@ -953,7 +950,7 @@ El User Journey Mapping es una herramienta de Design Thinking que nos ayuda a gr
 
 **Segmento 1-Estudiantes**
 
-<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149196650934456420/image.png" alt="" width="400" height="" />
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1156416483065344020/Mateo_aguirre_journey_map.png?ex=6514e446&is=651392c6&hm=52064fc0d957884f678b54def34cca0272ef4a2789c9cadcf19a2223312f24a8&" alt="" width="400" height="" />
 
 **Segmento 2-Asesores**
 
@@ -1390,7 +1387,7 @@ Se muestra una vista inicial que representa la estructura fundamental de nuestro
 
 Se presenta la variante del menú de la plataforma, describiendo de manera minuciosa los contenidos fundamentales y las opciones que brindan al usuario un mayor entendimiento de nuestro sistema.
 
-<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1156410791612919878/image.png?ex=6514def9&is=65138d79&hm=fd8e19d9d737c418aa9789594172a543e15cf3a9ab3cd5896d70f0a39f039c71&" alt="desktop-web-browser-header">
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149527787456172144/image.png" alt="desktop-web-browser-header">
 
 Cuando se selecciona la alternativa "Know Us" en la barra de herramientas del menú principal, se despliegan tres alternativas para que el usuario pueda optar por aquella que mejor se ajuste a sus necesidades y así obtener información detallada sobre nuestro proyecto.
 
@@ -1417,7 +1414,7 @@ Link: https://www.figma.com/file/Ms6aOfFa9ov67GDl7Un5So/Mockup-Landing-Page-(Arq
 
 Se muestra la sección de menú principal en la versión móvil de la Landing Page, con las opciones más relevantes para nuestra audiencia objetivo y un resumen conciso de nuestro software.
 
-<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1156411080722096179/image.png?ex=6514df3e&is=65138dbe&hm=350efdfbff498c4ef33cdc3afba9987f08173b97711ae0605b5bbf2bab66dce1&" alt="mobile-web-browser-header">
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149528833091969065/image.png" alt="mobile-web-browser-header">
 
 Se presenta la sección de "Know Us", que proporciona detalles sobre el proceso de nuestros servicios según el profesional de salud designado, responde consultas sobre el funcionamiento del sistema, comparte información sobre nuestra misión y brinda detalles de nuestras consultas.
 
@@ -1582,7 +1579,7 @@ Esta clase representa las tiendas que venden materiales de arquitectura.
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
-<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1156410043848204289/image.png?ex=6514de47&is=65138cc7&hm=d4bd3db87c47f689e40cb464b640c9bbba0bb4c811f4dc2d2dffe30be409250e&">
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149533834908540978/image.png" alt="database-diagram">
 
 
 
