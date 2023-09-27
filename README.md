@@ -957,7 +957,7 @@ El User Journey Mapping es una herramienta de Design Thinking que nos ayuda a gr
 
 **Segmento 2-Asesores**
 
-<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149196689094230157/image.png" alt="" width="400" height="" />
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1156412257908035685/Customer_journey_map_1.png?ex=6514e057&is=65138ed7&hm=bbbd6d152c2d698698680bfa9a7c126e545814d1074c2f705e18a400bec0f706&" alt="" width="400" height="" />
 
 ## 2.3.4 Empathy Mapping
 
