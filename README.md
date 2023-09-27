@@ -28,7 +28,7 @@
 | Version |  Fecha   | Autor                                                                                      | Descripción de la modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |:-------:|:--------:|:-------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    1    | 02/09/23 | Leonardo Lopez</br>Kurt Puican </br>Rafael Luyo</br>Diego Ramirez</br>Juliana Yauricasa    | Culminación de los siguientes capítulos:</br></br>Capítulo I: Introducción</br>Se presenta el proyecto, comenzando con una descripción detallada de la startup y sus miembros fundadores. Se exploran los desafíos y problemas actuales que enfrenta la startup, empleando un enfoque de Lean UX para identificar problemas, Assumptions e Hypothesis Statements . Además, se delinean los segmentos objetivo para la solución propuesta.</br></br>Capítulo II: As-Is Software Solution Requirements Elicitation & Analysis</br>Se realiza un análisis del entorno competitivo de la startup, investigando estrategias y tácticas frente a los competidores. Se llevan a cabo entrevistas con el fin de obtener información esencial de los usuarios. Varias técnicas, como el diseño de entrevistas, el registro y análisis de entrevistas, y la identificación de necesidades a través de la creación de User Personas, User Task Matrix, User Journey Mapping y Empathy Mapping, son empleadas para este propósito.</br></br>Capítulo III: As-Is Software Solution Requirements Specification</br>Se especifican los requisitos del software. Se crean los To-Be Scenario Mapping y las User Stories. Además, se utiliza el Impact Mapping para visualizar cómo las funcionalidades afectan a los objetivos del proyecto y se establece un Product Backlog.</br></br>Capítulo IV: Product Design</br>Se diseña el producto, incluyendo pautas de estilo, arquitectura de la información, diseño de la página de aterrizaje, UX/UI de aplicaciones web, prototipado, arquitectura de software, diseño orientado a objetos y diseño de base de datos.</br></br>Capítulo V: Product Implementation, Validation & Deployment</br>Se desarrolla la implementación, validación y despliegue del producto, incluyendo gestión de configuración, implementación de páginas y aplicaciones, validación a través de entrevistas y pruebas, y finalmente, el despliegue del software. |
-|    2    | 26/09/23 | Leonardo Lopez</br>Kurt Puican </br>Rafael Luyo</br>Diego Ramirez</br>Juliana Yauricasa    | Mejora continua: Corrección de los siguientes capítulos: </br>  Capítulo III: As-Is Software Solution Requirements </br> Agregar user stories para la landing page y las technical stories, priorizar las user stories de acuerdo al core del negocio, mejora del impact mapping.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|    2    | 26/09/23 | Leonardo Lopez</br>Kurt Puican </br>Rafael Luyo</br>Diego Ramirez</br>Juliana Yauricasa    | Mejora continua: Corrección de los siguientes capítulos: </br>  Capítulo III: As-Is Software Solution Requirements </br> Agregar user stories para la landing page y las technical stories, priorizar las user stories de acuerdo al core del negocio, mejora del impact mapping.<br/>CapituloV: Se agregaron todos los componentes faltantes del sprint 2, siendo un trabajo colaborativo entre todos.<br/>Mejora en las entrevistas, parte del timing y descripción.<br/>Creación de la versión 1 del frontend del sitio web usando angular y la arquitectura C4. <br/>Corrección de la landing page. <br/>Correción del modelo C4.<br/>Creación del Student Outcome con todas sus celdas completadas por cada participante.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 <br>
 
 # Project Report Collaboration Insights
@@ -368,6 +368,22 @@ Tercera Hipótesis
 
 **Creemos que** al destacar a los asesores mejor valorados, demostraremos la calidad de nuestro servicio y alentaremos a los estudiantes a elegir a los profesionales adecuados. Sabremos que hemos tenido éxito cuando al menos el 50% de nuestros usuarios utilicen las recomendaciones de asesores para saber a quiénes llamar.
 
+Cuarta Hipótesis
+
+**Creemos que** al permitir que nuestros usuarios puedan emitir calificaciones y comentarios hacia los asesores, aumentara la transparencia y confiabilidad en nuestro sitio web.
+
+Quinta Hipótesis
+
+**Creemos que** al invertir buen dinero en la parte de marketing mediante los diversos sitios populares como Facebook o Instagram, obtendremos mas clientes ya que nuestro segmento se encuentra en esas plataformas. 
+
+Sexta Hipótesis
+
+**Creemos que** se ganara buen dinero del sitio web mediant subscripcioes hacia los asesores.
+
+Septima Hipótesis
+
+**Creemos que** La constante supervición y monitoreo del sitio web frente a errores o problemas, ayudaran a que el usuario se sienta mejor en el servcio web.
+
 ### 1.2.2.4 Lean UX Canvas
 
 <table>
@@ -681,8 +697,12 @@ Se explica el proyecto del website  “ArquiMentor”
 # 2.2.2 Entrevistas 
 
 
-- Url del stream de las entrevistas:
-- Timing:
+- Url del stream de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124304_upc_edu_pe/EToieMA6_d5Eg4hqmhKqYiIBJn157Zss4d9hXjSr5flE5g?e=GogcIF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+- Timing: 
+
+Segmento estudiante, 1era entrevista desde min **0:00 hasta 3:35**, 2da entrevista desde **3:35 hasta 9:47**, 3ra entrevista desde **9:47 hasta 12:53**.
+
+Segmento asesor, 1era entrevista desde min **12:53 hasta 18:26**, 2da entrevista desde **18:26 hasta 29:52**, 3ra entrevista desde **29:52 hasta 36:00**.
 
 ### Segmento estudiante
 
@@ -723,23 +743,8 @@ Entrevista 2:
 
 Steve es un joven estudiante de arquitectura de los primeros ciclos, se considera una persona divertida y decidida en su futuro. Nos cuenta su experiencia con las maquetas que tuvo que realizar, además de los programas que usan para complementar. Al inicio sentía que no tenía mucha experiencia y afirma que un buen asesoramiento en los inicios hubieran hecho de sus trabajos de arquitectura más eficientes. Después de comentarle el proyecto “ArquiMentor” le pareció grandiosa la idea, y nos sugirió que agreguemos segmentos de ayuda en los diferentes programas de software que utilizan los arquitectos. Las marcas que mas usa es Archicad, Revit y AutoCAD, la tecnologia que usa por lo general son celulares, ordenadores o tablets, sus canales de interacción más usadas son Discord, Google Meet o reuniones presenciales. Por último punto los browser que usa son Brave y Google.  
 
+
 Entrevista 3:
-
-●	Nombres y Apellidos: Carlos Martinez
-
-●	Edad: 20
-
-●	Distrito: Lima
-
-●	Evidencia de la reunión:
-
-<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149192262153158676/image.png" alt="" width="600" height="250" />
-
-●	Url del Stream: https://youtu.be/xpjy7Ydvpe0
-
-●	Resumen de la entrevista: El estudiante Carlos nos cuenta un poco de él y muestra interés sobre nuestro proyecto de ayuda para los estudiantes. Además, le preguntamos porqué es necesario tener ayuda en los temas que no logra entender.
-
-Entrevista 4:
 
 ● Nombres y Apellidos: Marilyn Monrroy
 
