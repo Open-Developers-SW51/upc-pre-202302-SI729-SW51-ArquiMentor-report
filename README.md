@@ -544,8 +544,7 @@ que los principales competidores son:
     Participación en ferias educativas y eventos locales: Promover la plataforma en eventos educativos locales y conferencias para llegar a la comunidad estudiantil
 </td>
   </tr>
-  </tr>
-    <tr>
+<tr>
     <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Precios y costos</td>
     <td style="border:1px solid #dddddd; padding: 8px; text-align:center;">Precio para estudiantes: Tutor.com ofrece un servicio de suscripción que generalmente varía desde alrededor de $39.99 a $79.99 por mes, dependiendo del nivel de acceso y la cantidad de tiempo de tutoría en línea incluido en el plan. También ofrecen planes anuales con descuentos
     Costos para la plataforma: Los costos para la plataforma en sí incluyen la compensación para los tutores, el mantenimiento del sitio web y los servidores para brindar tutoría en línea en tiempo real
@@ -1832,7 +1831,27 @@ Se puede visualizar el link en la barra de búsqueda y que está en modo públic
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.1. Sprint 1
+### 5.2.1. Sprint 2
+
+#### 5.2.1.1 Sprint Planning 2
+
+Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra primera versión de frontend y las correcciones de la anterior entrega. 
+
+|            Sprint #             |                                                                                                                Sprint 2                                                                                                                |
+|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background**   |                                                                                                                                                                                                                                        |
+|              Date               |                                                                                                               2023-09-21                                                                                                               |
+|              Time               |                                                                                                                11:24 AM                                                                                                                |
+|            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
+|           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
+| Attendees (to planning meeting) |                                           López Huarcaya, Leonardo Paul/ Kurt Puican Salas / Luyo Ramirez, Rafael Arturo / Ramirez Ortega, Diego Miguel / Juliana Alexandra Yauricasa Seguil                                           |
+|     Sprint 1 Review Summary     |                                                                                     En resumen se alcanzo diseñar las 2 HU de nuestro landing page                                                                                     |
+| Sprint 1 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
+| **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
+|          Sprint 2 Goal          |                                  Goal: Tene la priemra version del frontend terminada al 90% <br> Metrica de cumplimiento:Se muestra la primera version del frontend dl sitio web, terminado al 90%.                                   |
+|        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 21 story points                                                                  |
+|       Sum of Story Points       |                                                                                                  Suma de los Story Points: 5+5+5+6=21                                                                                                  |
+
 |            Sprint #            |    Sprint 1    | | |||
 |:------------------------------:|:----------:|:--:|:--:|:--:|:--:|
 |  |  Work-Item / Task   |
