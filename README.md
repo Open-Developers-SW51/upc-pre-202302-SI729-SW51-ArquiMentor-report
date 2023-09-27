@@ -1852,27 +1852,23 @@ Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra pr
 |        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 21 story points                                                                  |
 |       Sum of Story Points       |                                                                                                  Suma de los Story Points: 5+5+5+6=21                                                                                                  |
 
-|            Sprint #            |    Sprint 1    | | |||
-|:------------------------------:|:----------:|:--:|:--:|:--:|:--:|
-|  |  Work-Item / Task   |
-|User Story ID| id |Description| Estimation(Hours) | Assigned To | Status(To-do/ In-Process/To-Review/Done)|
-|US01 |T1 |Registrar cuenta |3 h |Leonardo Lopez| To do|
-|US02 |T2 |Iniciar sesión |3 h |Diego Ramirez| To do|
-|US03 |T3 |Cerrar sesión |3 h |Kurt Puican| To do|
-|US04 |T4 |Subir proyectos |5 h |Leonardo Lopez| To do|
-|US05 |T5 |Subir Curriculum Vitae |5 h |Yuliana Yauricasa| To do|
-|US06 |T6 |Búsqueda de asesor |4 h |Yuliana Yauricasa| To do|
-|US07 |T7 |Filtrar la búsqueda de asesor |5 h |Leonardo Lopez| To do|
-|US08 |T8 |Visualizar perfiles de asesores |2 h |Rafael Luyo| To do|
-|US09 |T9 |Enviar una solicitud a un asesor |3 h |Diego Ramirez| To do|
-|US10 |T10 |Recibir, aceptar o rechazar una solicitud de un estudiante |5 h |Leonardo Lopez| To do|
-|US11 |T11 |Programar reuniones |7 h |Rafael Luyo| To do|
-|US12 |T12 |Visualizar las reuniones programadas |3 h |Kurt Puican| To do|
-|US13 |T13 |Registrar el avance del proyecto |5 h |Diego Ramirez| To do|
-|US14 |T14 |Visualizar los avances del proyecto |3 h |Rafael Luyo| To do|
-|US15 |T15 |Calificar a un asesor |5 h |Yuliana Yauricasa| To do|
-|US16 |T16 |Visualizar las reseñas a los asesores. |5 h |Leonardo Lopez| To do|
-|US17 |T17 |Seleccionar un plan de suscripción |7 h |Kurt Puican| To do|
-|US18 |T18 |Cambiar plan de suscripción |5 h |Rafael Luyo| To do|
-|US19 |T19 |Conocer a Arquimentor a través del landing page |7 h |Yuliana Yauricasa| To do|
-|US20 |T20 |Reconocer las ventajas de Arquimentor a través del landing page |9 h |Leonardo Lopez| To do|
+#### 5.2.1.1 Sprint Backlog 2
+
+El objetivo principal del Sprint 2 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
+<br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/2
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1156447179339202670/image.png?ex=651500dd&is=6513af5d&hm=14addda1bf5be1fd598efa77999f990c5bc26d81979ec7b22ec27324e3c94744&">
+
+
+|   Sprint #    |     Sprint 1     | | |                              ||
+|:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
+|               | Work-Item / Task |
+| User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
+|     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Yuliana Yauricasa       | To-Review|
+|     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Yuliana Yauricasa       | To-Review|
+|     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Kurt Puican &  Diego Ramirez | To-Review|
+|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | To-Review|
+|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Yuliana Yauricasa       | Done|
+|     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Yuliana Yauricasa       | Done|
+|     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Rafael            | Done|
+
