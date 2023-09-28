@@ -1974,6 +1974,14 @@ El objetivo principal del Sprint 2 es tener una primera version de nuestra Front
 
 #### 5.2.1.3 Development Evidence for Sprint Review
 
+En la siguiente tabla se mostrara algunos de los commits mas importantes realizados por cada developer del Sprint 1.
+
+|           Repository            |         Branch          |Commit Id |   Commit Message                       |                                    Commit Message Body   | Commited on (Date) |
+|:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
+|  RafaelLuyo/upc-pre-202302-SI729-SW51-ArquiMentor-landing-page  |     main     |284b7c9525b29331bd56e2231a7e9b5f9d87c545|  main::add landing page |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     8/09/2023     |
+|  Leonardo/upc-pre-202302-SI729-SW51-ArquiMentor-landing-page  |     feature/update     |284b7c9525b29331bd56e2231a7e9b5f9d87c545|   feat(update):index.html            | Se actualizo el index.html     |
+
+
 En la siguiente tabla se mostrara algunos de los commits mas importantes realizados por cada developer del Sprint 2.
 
 |           Repository            |         Branch          |Commit Id |                       Commit Message                       |                                    Commit Message Body                                    | Commited on (Date) |
