@@ -1950,7 +1950,20 @@ Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra pr
 |          Sprint 2 Goal          |                                  Goal: Tene la priemra version del frontend terminada al 90% <br> Metrica de cumplimiento:Se muestra la primera version del frontend dl sitio web, terminado al 90%.                                   |
 |        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 15 story points                                                                  |
 |       Sum of Story Points       |                                                                                               Suma de los Story Points: 3+1+2+5+1+1+2=15                                                                                               |
+#### 5.1.1.2 Sprint Backlog 1
 
+El objetivo principal del Sprint 1 es tener una primera version de la landing page del sitio web, para ir mejorando el diseño y ver los posibles mejoras que podemos agregar.
+<br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/1
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1156827298562068500/image.png?ex=651662e0&is=65151160&hm=792ba414185aabfa68d1d729e3e80b9e1bc6a3b6157b5be3e9b5e35abff6c3fd&">
+
+
+|   Sprint #    |     Sprint 1     |                                                                 |                   |                              |                                          |
+|:-------------:|:----------------:|:---------------------------------------------------------------:|:-----------------:|:----------------------------:|:----------------------------------------:|
+|               | Work-Item / Task |
+| User Story ID |        id        |                           Description                           | Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done) |
+|     US019     |        T1        |         conocer a Arquimentor a través del landing page         |        4 h        |    Leonardo Lopez, Kurt Puican, Rafael Luyo, Diego Ramirez, Juliana Yauricasa       |                   Done                   |
+|     US020     |        T2        | reconocer las ventajas de Arquimentor a través del landing page |        3 h        |      Leonardo Lopez, Kurt Puican, Rafael Luyo, Diego Ramirez, Juliana Yauricasa    |                   Done                   |
 #### 5.2.1.2 Sprint Backlog 2
 
 El objetivo principal del Sprint 2 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
