@@ -1400,7 +1400,7 @@ Se muestra una vista inicial que representa la estructura fundamental de nuestro
 
 Se presenta la variante del menú de la plataforma, describiendo de manera minuciosa los contenidos fundamentales y las opciones que brindan al usuario un mayor entendimiento de nuestro sistema.
 
-<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149527787456172144/image.png" alt="desktop-web-browser-header">
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1156410791612919878/image.png?ex=6514def9&is=65138d79&hm=fd8e19d9d737c418aa9789594172a543e15cf3a9ab3cd5896d70f0a39f039c71&" alt="desktop-web-browser-header">
 
 Cuando se selecciona la alternativa "Know Us" en la barra de herramientas del menú principal, se despliegan tres alternativas para que el usuario pueda optar por aquella que mejor se ajuste a sus necesidades y así obtener información detallada sobre nuestro proyecto.
 
@@ -1427,7 +1427,7 @@ Link: https://www.figma.com/file/Ms6aOfFa9ov67GDl7Un5So/Mockup-Landing-Page-(Arq
 
 Se muestra la sección de menú principal en la versión móvil de la Landing Page, con las opciones más relevantes para nuestra audiencia objetivo y un resumen conciso de nuestro software.
 
-<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149528833091969065/image.png" alt="mobile-web-browser-header">
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1156411080722096179/image.png?ex=6514df3e&is=65138dbe&hm=350efdfbff498c4ef33cdc3afba9987f08173b97711ae0605b5bbf2bab66dce1&%22" alt="mobile-web-browser-header">
 
 Se presenta la sección de "Know Us", que proporciona detalles sobre el proceso de nuestros servicios según el profesional de salud designado, responde consultas sobre el funcionamiento del sistema, comparte información sobre nuestra misión y brinda detalles de nuestras consultas.
 
@@ -1631,7 +1631,7 @@ Esta clase representa el pago que piden los asesores por brindar su servicio.
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
-<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149533834908540978/image.png" alt="database-diagram">
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1156410043848204289/image.png?ex=6514de47&is=65138cc7&hm=d4bd3db87c47f689e40cb464b640c9bbba0bb4c811f4dc2d2dffe30be409250e&" alt="database-diagram">
 
 
 
