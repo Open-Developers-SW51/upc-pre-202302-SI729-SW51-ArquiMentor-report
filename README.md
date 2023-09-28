@@ -127,15 +127,16 @@ Los colaboradores en el proyecto se muestra en la siguiente imagen, con las cant
     - [5.1.3 Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4 Software Deployment Configuration](#514-software-deployment-configuration)
 - [5.2 Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1 Sprint n](#521-sprint-1)
-        - [5.2.1.1 Sprint Planning n](#52x1-sprint-planning-n)
-        - [5.2.1.2 Sprint Backlog n](#52x2-sprint-backlog-n)
-        - [5.2.1.3 Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)
-        - [5.2.X.4 Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)
+    - [5.2.1 Sprint n](#52x-sprint-1)
+        - [5.2.1.1 Sprint Planning n](#52x1-sprint-planning-1)
+        - [5.2.1.2 Sprint Backlog n](#52x2-sprint-backlog-1)
+        - [5.2.1.3 Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+        - [5.2.1.4 Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
         - [5.2.X.5 Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)
         - [5.2.X.6 Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)
         - [5.2.X.7 Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)
         - [5.2.X.8 Team Collaboration Insights during Sprint](52x8-team-collaboration-insights-during-sprint)
+    
     - [5.2.2 Sprint 2](#522-sprint-2)
         - [5.2.2.1 Sprint Planning n](#5221-sprint-planning-2)
         - [5.2.2.2 Sprint Backlog n](#5222-sprint-backlog-2)
@@ -144,8 +145,8 @@ Los colaboradores en el proyecto se muestra en la siguiente imagen, con las cant
         - [5.2.2.5 Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
         - [5.2.2.6 Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
         - [5.2.2.7 Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-        - [5.2.2.8 Team Collaboration Insights during Sprint](5228-team-collaboration-insights-during-sprint)
-
+        - [5.2.2.8 Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+      
 <br>
 
 # Student Outcome
@@ -1901,8 +1902,12 @@ Para este Sprint la duración fue de 3 semanas teniendo como objetivo desarrollo
 |        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 15 story points                                                                  |
 |       Sum of Story Points       |                                                                                               Suma de los Story Points: 3+1+2+5+1+1+2=15                                                                                               |
 
-#### 5.2.1.2 Sprint Backlog 2
+#### 5.2.1.2 Sprint Backlog 1
 
+El objetivo principal del Sprint 2 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
+<br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/2
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1156447179339202670/image.png?ex=651500dd&is=6513af5d&hm=14addda1bf5be1fd598efa77999f990c5bc26d81979ec7b22ec27324e3c94744&">
 
 
 |   Sprint #    |     Sprint 1     | | |                              ||
@@ -1955,7 +1960,7 @@ Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra pr
 |          Sprint 2 Goal          |                                  Goal: Tene la priemra version del frontend terminada al 90% <br> Metrica de cumplimiento:Se muestra la primera version del frontend dl sitio web, terminado al 90%.                                   |
 |        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 15 story points                                                                  |
 |       Sum of Story Points       |                                                                                               Suma de los Story Points: 3+1+2+5+1+1+2=15                                                                                               |
-#### 5.1.2.2 Sprint Backlog 1
+#### 5.2.2.2 Sprint Backlog 2
 
 El objetivo principal del Sprint 1 es tener una primera version de la landing page del sitio web, para ir mejorando el diseño y ver los posibles mejoras que podemos agregar.
 <br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/1
@@ -1969,7 +1974,7 @@ El objetivo principal del Sprint 1 es tener una primera version de la landing pa
 | User Story ID |        id        |                           Description                           | Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done) |
 |     US019     |        T1        |         conocer a Arquimentor a través del landing page         |        4 h        |    Leonardo Lopez, Kurt Puican, Rafael Luyo, Diego Ramirez, Juliana Yauricasa       |                   Done                   |
 |     US020     |        T2        | reconocer las ventajas de Arquimentor a través del landing page |        3 h        |      Leonardo Lopez, Kurt Puican, Rafael Luyo, Diego Ramirez, Juliana Yauricasa    |                   Done                   |
-#### 5.2.2.2 Sprint Backlog 2
+
 
 El objetivo principal del Sprint 2 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
 <br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/2
@@ -2077,7 +2082,7 @@ En el Sprint 2, hemos llevado a cabo una serie de actividades relacionadas con e
 -Creación de chat entre los segmentos
 <img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487775676284938/image.png?ex=651526ac&is=6513d52c&hm=cb787031a26570a45bcbeeb073cfe41cb3caaef9d4ab2f4f7bf6f96548a93c2b&">
 
-#### 5.2.2.8 Team Collaboration Insights for Sprint Review
+#### 5.2.2.8 Team Collaboration Insights during Sprint.
 
 Durante el sprint 2, el equipo trabajo activamente en la implementación del frontend y corrección del reporte. La metodologia que se usa fue mediante gitflow en formato MarkDown, participando correctamente los 5 miembros del equipo. Las Actividades que se implementaron fueron el frontend y las que se corrigieron fueron el reporte y el landingpage.
 
