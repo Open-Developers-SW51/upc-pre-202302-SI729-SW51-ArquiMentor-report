@@ -1550,7 +1550,7 @@ En esta sección se presentarán los diagramas de la arquitectura de software di
 Este artefacto proporciona en la que el sistema encaja con el mundo a su alrededor, mostrando los principales puntos en su arquitectura.
 
 <p align ="center">
-   <img src="https://cdn.discordapp.com/attachments/960601728330395718/1156520997231534100/structurizr-85951-Contexto.png?ex=6515459c&is=6513f41c&hm=b141c34b87fe0c38152bcb76d24f6b83f8140cf0eea618f3e0cbe07a363fffc3&" >
+   <img src="https://cdn.discordapp.com/attachments/889908734430691374/1168812895581261895/structurizr-85951-Contexto_1.png?ex=655320d5&is=6540abd5&hm=f0dff9aa314118c8151581a896a6d288c9625c6e86ce145df1a16f4dc7902095&" >
 </p>
 
 ### 4.6.2 Software Architecture Container Diagram
@@ -1558,15 +1558,61 @@ Este artefacto proporciona en la que el sistema encaja con el mundo a su alreded
 Este diagrama presenta los componentes técnicos de alto nivel, lo cual genera una ampliación en la vision de la arquitectura del software.
 
 <p align ="center">
-   <img src="https://cdn.discordapp.com/attachments/960601728330395718/1156520996820496456/structurizr-85951-Contenedor.png?ex=6515459c&is=6513f41c&hm=9ef4f7d734d8c25eae2277fa141766361f09b0b76eb6460fcdf51799342c0e1b&" >
+   <img src="https://cdn.discordapp.com/attachments/889908734430691374/1168812895216353330/structurizr-85951-Contenedor_1.png?ex=655320d5&is=6540abd5&hm=cf7118e50a7f1ccae898b9d772defa60845dac6b7289fd75c85a98ae7baf2e55&" >
 </p>
 
 ### 4.6.3 Software Architecture Components Diagrams
 
 En este diagrama se detallan los componentes de nuestros contenedores, asimismo, se indican sus responsabilidades y los detalles de tecnologías e implementación.
 
+
+
+<p align ="Center">
+<h4 align = "center">API components diagram</h4>
+</p>
+
 <p align ="center">
-   <img src="https://cdn.discordapp.com/attachments/960601728330395718/1156520997558693988/structurizr-85951-Components_AC.png?ex=6515459c&is=6513f41c&hm=474b0c2cb0ad6e67c0a25c15995e60c8248469c3dc9600e4f68a608153dc386b&" >
+   <img src="https://cdn.discordapp.com/attachments/889908734430691374/1168812894784335872/structurizr-85951-Components_AC_2.png?ex=655320d5&is=6540abd5&hm=832698e32a05152f23466d442cf5e7c0ad3310d583990d9d30722a1c12ebce74&" >
+</p>
+
+<br>
+
+<p align ="Center">
+<h4 align = "center">Security components diagram</h4>
+</p>
+
+<p align ="center">
+   <img src="https://cdn.discordapp.com/attachments/889908734430691374/1168812896042627103/structurizr-85951-Security_Components_AC.png?ex=655320d5&is=6540abd5&hm=d0dcc360a52311e1e186e72c7dd13a798fba90b83dc8b3ed6a7a737a9962c194&" >
+</p>
+
+<br>
+
+<p align ="Center">
+<h4 align = "center">Security components diagram</h4>
+</p>
+
+<p align ="center">
+   <img src="https://cdn.discordapp.com/attachments/889908734430691374/1168812896042627103/structurizr-85951-Security_Components_AC.png?ex=655320d5&is=6540abd5&hm=d0dcc360a52311e1e186e72c7dd13a798fba90b83dc8b3ed6a7a737a9962c194&" >
+</p>
+
+<br>
+
+<p align ="Center">
+<h4 align = "center">Review components diagram</h4>
+</p>
+
+<p align ="center">
+   <img src="https://cdn.discordapp.com/attachments/889908734430691374/1168812896420118630/structurizr-85951-Review_Components_AC.png?ex=655320d6&is=6540abd6&hm=974a0a05c150dbaa4a12f5efee666441b9a73543db14b354b96030efef43e2f5&" >
+</p>
+
+<br>
+
+<p align ="Center">
+<h4 align = "center">Contract components diagram</h4>
+</p>
+
+<p align ="center">
+   <img src="https://cdn.discordapp.com/attachments/889908734430691374/1168812896776638475/structurizr-85951-Contract_Components.png?ex=655320d6&is=6540abd6&hm=7df1ad0801d1b7d9cee6c834644c2da1eb17b2c93ae221da908ec77014fb9088&" >
 </p>
 
 
