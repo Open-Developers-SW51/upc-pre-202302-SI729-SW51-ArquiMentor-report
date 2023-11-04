@@ -1980,82 +1980,25 @@ Se puede visualizar el link en la barra de búsqueda y que está en modo públic
 
 #### 5.2.1.1 Sprint Planning 1
 
-Para este Sprint la duración fue de 3 semanas teniendo como objetivo desarrollo de la landing page. 
+Para este Sprint la duración fue de 3 semanas teniendo como objetivo desarrollo de la landing page.
 
-|            Sprint #             |                                                                                                                Sprint 1                                                                                                                |
+
+|            Sprint 1             |                                                                                                                Sprint 1                                                                                                                |
 |:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| **Sprint Planning Background**   |                                                                                                                                                                                                                                        |
+| **Sprint Planning Background**  |                                                                                                                                                                                                                                        |
 |              Date               |                                                                                                               2023-08-21                                                                                                               |
 |              Time               |                                                                                                                11:24 AM                                                                                                                |
 |            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
 |           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
 | Attendees (to planning meeting) |                                           López Huarcaya, Leonardo Paul/ Kurt Puican Salas / Luyo Ramirez, Rafael Arturo / Ramirez Ortega, Diego Miguel / Juliana Alexandra Yauricasa Seguil                                           |
-|     Sprint  Review Summary     |                                                                                     En esta entrega no hay un Sprint anterior. Por lo tanto, no hay resúmen del Sprint.                                                                                     |
-| Sprint Retrospective Summary  | En esta entrega no hay un Sprint anterior. Por lo tanto, no hay resúmen del Sprint.        |
+|     Sprint  Review Summary      |                                                                                     En esta entrega no hay un Sprint anterior. Por lo tanto, no hay resúmen del Sprint.                                                                                     |
+|  Sprint Retrospective Summary   | En esta entrega no hay un Sprint anterior. Por lo tanto, no hay resúmen del Sprint.        |
 | **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
 |          Sprint 2 Goal          |                                  Goal: Tene la priemra version del frontend terminada al 90% <br> Metrica de cumplimiento:Se muestra la primera version del frontend dl sitio web, terminado al 90%.                                   |
 |        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 15 story points                                                                  |
 |       Sum of Story Points       |                                                                                               Suma de los Story Points: 3+1+2+5+1+1+2=15                                                                                               |
 
 #### 5.2.1.2 Sprint Backlog 1
-
-El objetivo principal del Sprint 2 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
-<br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/2
-
-<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1156447179339202670/image.png?ex=651500dd&is=6513af5d&hm=14addda1bf5be1fd598efa77999f990c5bc26d81979ec7b22ec27324e3c94744&">
-
-
-|   Sprint #    |     Sprint 1     | | |                              ||
-|:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
-|               | Work-Item / Task |
-| User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
-|     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Juliana Yauricasa       | In-Process|
-|     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Juliana Yauricasa       | In-Process|
-|     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Kurt Puican &  Diego Ramirez | In-Process|
-|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
-|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Juliana Yauricasa       | Done|
-|     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Juliana Yauricasa       | Done|
-|     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Rafael            | Done|
-
-
-#### 5.2.1.3 Development Evidence for Sprint Review
-
-En la siguiente tabla se mostrara algunos de los commits mas importantes realizados por cada developer del Sprint 2.
-
-|           Repository            |         Branch          |Commit Id |                       Commit Message                       |                                    Commit Message Body                                    | Commited on (Date) |
-|:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
-|  Leonardo/Frontend-Arquimentor  |     feature/sidebar     |e9d8fa1d88636bd7e04b61a7c1d9e60a5adba8b8|                feat(nav): add nav component                |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     21/09/2023     |
-|  Leonardo/Frontend-Arquimentor  |     feature/project     |73307c03cf8bbda5e06d68dde12a10d98396ead1|             feat(project): add project angular             | Se agrego todas las dependecias y carpetas necesarias para iniciar un proyecto en Angular |     21/09/2023     |
-| kurtPuican/Frontend-Arquimentor |    feature(reviews)     |6bb6d9c3a2c5ff67ea4ac799f9a632ad77cd7bd9|            feat(project): add reviews component            |                      Se agrego el componente de reviews al proyecto                       |     26/09/2023     |
-| KurtPuican/Frontend-Arquimentor |  feature(view-profile)  |fcd3058d63b47028f4d083b2828cf42277bf589e|       feat(view-profile): add view profile component       |                    Se agrego el componente de view-profile al proyecto                    |     26/09/2023     |
-|   Rafael/Frontend-Arquimentor   | feature/student-profile |a581b8666be8e23fc54c1ba58bbea477afad536f1|    feat(student-profile): add student-profile component    |                   Se agrego el componente de estudiante en su totalidad                   |     25/09/2023     |
-|   Rafael/Frontend-Arquimentor   | feature/profile-service |17772ffcac8bcde210afc7a69ee4f0366b375492|         feat(profile-service): add profile-service         |                           Incorporación del servicio de perfil                            |     25/09/2023     |
-| JulianaYS/Frontend-Arquimentor  |    feature/register     |2ad3f07bb170cc0276ebcc90dee96fe488230d3c|    feat(register): Created and added component register    |                             Se agrego el componente registro                              |     26/09/2023     |
-| JulianaYS/Frontend-Arquimentor  |      feature/login      |76a50536949dbf3131f61ee4053e6fda5efc8f35|       feat(login): Created and added component login       |                              Se agrego el componente login                                |     26/09/2023     |
-| DiegoR/Frontend-Arquimentor  |      feature/card-publication-content      |82ac2477f7d12183849f710ddf10e3a7e9e73fdc|       feat(Arquimentor-components): added card-publication-content as a new component       |                              Se agrego el componente publication al proyecto                                |     26/09/2023     |
-
-
-### 5.2.2. Sprint 2
-
-#### 5.2.2.1 Sprint Planning 2
-
-Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra primera versión de frontend y las correcciones de la anterior entrega. 
-
-|            Sprint #             |                                                                                                                Sprint 2                                                                                                                |
-|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| **Sprint Planning Background**   |                                                                                                                                                                                                                                        |
-|              Date               |                                                                                                               2023-09-21                                                                                                               |
-|              Time               |                                                                                                                11:24 AM                                                                                                                |
-|            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
-|           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
-| Attendees (to planning meeting) |                                           López Huarcaya, Leonardo Paul/ Kurt Puican Salas / Luyo Ramirez, Rafael Arturo / Ramirez Ortega, Diego Miguel / Juliana Alexandra Yauricasa Seguil                                           |
-|     Sprint 1 Review Summary     |                                                                                     En resumen se alcanzo diseñar las 2 HU de nuestro landing page                                                                                     |
-| Sprint 1 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
-| **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
-|          Sprint 2 Goal          |                                  Goal: Tene la priemra version del frontend terminada al 90% <br> Metrica de cumplimiento:Se muestra la primera version del frontend dl sitio web, terminado al 90%.                                   |
-|        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 15 story points                                                                  |
-|       Sum of Story Points       |                                                                                               Suma de los Story Points: 3+1+2+5+1+1+2=15                                                                                               |
-#### 5.2.2.2 Sprint Backlog 2
 
 El objetivo principal del Sprint 1 es tener una primera version de la landing page del sitio web, para ir mejorando el diseño y ver los posibles mejoras que podemos agregar.
 <br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/1
@@ -2071,6 +2014,38 @@ El objetivo principal del Sprint 1 es tener una primera version de la landing pa
 |     US020     |        T2        | reconocer las ventajas de Arquimentor a través del landing page |        3 h        |      Leonardo Lopez, Kurt Puican, Rafael Luyo, Diego Ramirez, Juliana Yauricasa    |                   Done                   |
 
 
+#### 5.2.1.3 Development Evidence for Sprint Review
+
+En la siguiente tabla se mostrara algunos de los commits mas importantes realizados por cada developer del Sprint 1.
+
+|           Repository            |         Branch          |Commit Id |   Commit Message                       |                                    Commit Message Body   | Commited on (Date) |
+|:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
+|  RafaelLuyo/upc-pre-202302-SI729-SW51-ArquiMentor-landing-page  |     main     |284b7c9525b29331bd56e2231a7e9b5f9d87c545|  main::add landing page |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     8/09/2023     |
+|  Leonardo/upc-pre-202302-SI729-SW51-ArquiMentor-landing-page  |     feature/update     |284b7c9525b29331bd56e2231a7e9b5f9d87c545|   feat(update):index.html            | Se actualizo el index.html     |
+
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1 Sprint Planning 2
+
+Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra primera versión de frontend y las correcciones de la anterior entrega.
+
+|            Sprint #             |                                                                                                                Sprint 2                                                                                                                |
+|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background**   |                                                                                                                                                                                                                                        |
+|              Date               |                                                                                                               2023-09-21                                                                                                               |
+|              Time               |                                                                                                                11:24 AM                                                                                                                |
+|            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
+|           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
+| Attendees (to planning meeting) |                                           López Huarcaya, Leonardo Paul/ Kurt Puican Salas / Luyo Ramirez, Rafael Arturo / Ramirez Ortega, Diego Miguel / Juliana Alexandra Yauricasa Seguil                                           |
+|     Sprint 1 Review Summary     |                                                                                     En resumen se alcanzo diseñar las 2 HU de nuestro landing page                                                                                     |
+| Sprint 1 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
+| **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
+|          Sprint 2 Goal          |                                                     Goal: Tener la version del landing page terminada <br> Metrica de cumplimiento:Se muestra la primera version del landig page.                                                      |
+|        Sprint 2 Velocity        |                                                                                              Para esta entrega se aeptara 10 story points                                                                                              |
+|       Sum of Story Points       |                                                                                                    Suma de los Story Points: 3+3=6                                                                                                     |
+#### 5.2.2.2 Sprint Backlog 2
+
 El objetivo principal del Sprint 2 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
 <br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/2
 
@@ -2081,23 +2056,16 @@ El objetivo principal del Sprint 2 es tener una primera version de nuestra Front
 |:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
 |               | Work-Item / Task |
 | User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
+|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
+|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Juliana Yauricasa       | Done|
 |     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Juliana Yauricasa       | In-Process|
 |     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Juliana Yauricasa       | In-Process|
 |     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Kurt Puican &  Diego Ramirez | In-Process|
-|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
-|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Juliana Yauricasa       | Done|
 |     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Juliana Yauricasa       | Done|
 |     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Rafael            | Done|
 
 
 #### 5.2.2.3 Development Evidence for Sprint Review
-
-En la siguiente tabla se mostrara algunos de los commits mas importantes realizados por cada developer del Sprint 1.
-
-|           Repository            |         Branch          |Commit Id |   Commit Message                       |                                    Commit Message Body   | Commited on (Date) |
-|:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
-|  RafaelLuyo/upc-pre-202302-SI729-SW51-ArquiMentor-landing-page  |     main     |284b7c9525b29331bd56e2231a7e9b5f9d87c545|  main::add landing page |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     8/09/2023     |
-|  Leonardo/upc-pre-202302-SI729-SW51-ArquiMentor-landing-page  |     feature/update     |284b7c9525b29331bd56e2231a7e9b5f9d87c545|   feat(update):index.html            | Se actualizo el index.html     |
 
 
 En la siguiente tabla se mostrara algunos de los commits mas importantes realizados por cada developer del Sprint 2.
@@ -2141,7 +2109,7 @@ En el Sprint 2, hemos realizado avances significativos en la documentación de n
 
 Repositorio: https://github.com/Open-Developers-SW51/Frontend-Arquimentor
 
-Commits relacionados con el Sprint: 
+Commits relacionados con el Sprint:
 <img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156493707818848276/image.png?ex=65152c32&is=6513dab2&hm=9f05b90c4f29d19b623d6acbc7fa4a71ee412ba83d3c6b2251ebfd3f82516c38&">
 
 **Endpoints Documentados**
@@ -2187,9 +2155,63 @@ Imagenes de los commit para el reporte:
 Imagenes de los commits para el frontend:
 <img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156499138461048842/image.png?ex=65153141&is=6513dfc1&hm=a7bb4cb7ce6d458f9898c37f4bd2de20bad9aca0c631f0e72380f3b57e27ec8a&">
 
-Imagenes de los commits para el landing page: 
+Imagenes de los commits para el landing page:
 
 <img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156499201337864282/image.png?ex=65153150&is=6513dfd0&hm=8dd9760d07f20689916cca3d0fcfe1ff7ff75cb7aa0de1273e3a02dd27d9973f&">
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1 Sprint Planning 3
+
+Para este Sprint la duración fue de 3 semanas teniendo como objetivo nuestra primera versión de backend (web service).
+
+|            Sprint #             |                                                                                                                Sprint 3                                                                                                                |
+|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background**  |                                                                                                                                                                                                                                        |
+|              Date               |                                                                                                               2023-10-14                                                                                                               |
+|              Time               |                                                                                                                08:24 PM                                                                                                                |
+|            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
+|           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
+| Attendees (to planning meeting) |                                           López Huarcaya, Leonardo Paul/ Kurt Puican Salas / Luyo Ramirez, Rafael Arturo / Ramirez Ortega, Diego Miguel / Juliana Alexandra Yauricasa Seguil                                           |
+|     Sprint 2 Review Summary     |                                                                                     En resumen se alcanzo diseñar la primera version del frontend                                                                                      |
+| Sprint 2 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
+| **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
+|          Sprint 2 Goal          |                                                       Goal: Tener la 1era versión del backend terminada <br> Metrica de cumplimiento:Se muestra la primera version del backend.                                                        |
+|        Sprint 2 Velocity        |                                                                                              Para esta entrega se aeptara 25 story points                                                                                              |
+|       Sum of Story Points       |                                                                                                       Suma de los Story Points:                                                                                                        |
+
+Evidencia de la reunion:
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170226095841353908/5c88a53b-99e5-4270-b112-030b4f1f5536.png?ex=655844fa&is=6545cffa&hm=515207cd3bc17d2eda98dadb0cd6fdeeebf92e152e6a248b65de17e2cd112c82&">
+
+#### 5.2.3.2 Sprint Backlog 3
+
+El objetivo principal del Sprint 2 es tener una primera version de nuestra Backend del sitio web, para ir mejorando las peticiones y ver los posibles errores que podriamos detectar.
+<br>La herramienta usada para el Board del sprint fue Trello: https://trello.com/b/vbA9btPB/sprint-3-arquimentor
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170243437094768640/image.png?ex=65585521&is=6545e021&hm=ed089ff4e56193441dcc3059f00cf50a8570dd1bd87f4cd0666ef6ad00144f60&">
+
+
+|  Sprint #  |                   Sprint 3                   |                  |                        |                                                                 |                   |                              |                                          |
+|:----------:|:--------------------------------------------:|:----------------:|:----------------------:|:---------------------------------------------------------------:|:-----------------:|:----------------------------:|:----------------------------------------:|
+| User Story |                                              | Work-Item / Task |
+|     Id     |                    title                     |        Id        |         Title          |                           Description                           | Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done) |
+|   US023    |       Solicitar una cita con un mentor       |        2         |   Realizar una cita    |                Empieza la solicitud de una cita                 |        3 h        |    Juliana Yauricasa         |                To-review                 |
+|   US024    |        Confirmar una cita como mentor        |        2         |   Realizar una cita    |          El mentor confirma la solicitud del studiante          |        1 h        |      Juliana Yauricasa       |                   Done                   |
+|   US025    |        Rechazar una cita como mentor         |        2         |   Realizar una cita    |            El mentor rechaza la cita del estudiante             |        1 h        | Kurt Puican &  Diego Ramirez |                   Done                   |
+|   US026    |              Cancelar una cita               |        2         |   Realizar una cita    |             El mentor o estudinate cancela la cita              |        1 h        |        Leonardo Lopez        |                   Done                   |
+|   US019    |              Crear Publicación               |        1         |   Ver publicaciones    |              El mentor crea una nueva publicación               |        2 h        |      Juliana Yauricasa       |                To-review                 |
+|   US012    |        Listar publicaciones recientes        |        1         |   Ver publicaciones    |           Se lista las 4 publicaciones mas recientes            |        2 h        |      Juliana Yauricasa       |                In-Process                |
+|   US009    |   Administrar los certificados del mentor    |        4         |  Modificar el perfil   | El mentor puede publicar sus diversas certificaciones que posee |        2 h        |            Rafael            |                  To-do                   |
+|   US027    |         Listar citas por estudiantes         |        3         |       Ver citas        |    Se listaran todas las citas de un estudiante determinado     |        3 h        |        Leonardo Lopez        |                To-review                 |
+|   US028    |          Listar citas de un mentor           |        3         |       Ver citas        |      Se listaran todas las citas de un mentor determinado       |        2 h        |        Leonardo Lopez        |                To-review                 |
+|   US014    |      Listar publicaciones de un mentor       |        1         |   Ver publicaciones    |     Se listaran las publicaciones de un determinado mentor      |        3 h        |            Rafael            |                To-review                 |
+|   US015    |              Editar publicación              |        5         | Manipular pblicaciones |            Se podra editar la publicación ya creada             |        3 h        |            Rafael            |            Done                          |
+|   US016    |             Eliminar publicación             |        5         | Manipular pblicaciones |            Se eliminara la publicacion seleccionada             |        2 h        |            Rafael            |                   Done                   |
+|   US020    | Incrementar número de vistas por publicación |        5         | Manipular pblicaciones |          Aumentara el nmero de vistas por publicación           |        2 h        |            Rafael            |                To-review                 |
+|   US021    | Incrementar número de likes por publicación  |        5         | Manipular pblicaciones |          Aumentara el numero de likes por publicación           |        2 h        |            Rafael            |                To-review                 |
+|   US007    |      Modificar el perfil del studiante       |        4         |  Modificar el perfil   |            Se modificara el perfil de un estudiante             |        2 h        |            Rafael            |                To-review                 |
+|   US008    |       Modificar el perfil del mentor         |        4         |  Modificar el perfil   |         Se podra modificar el perfil de un mentor               |        2 h        |            Rafael            |                To-review                 |
 
 #### 5.2.3.3.Development Evidence for Sprint Review.
 #####  Frontend-Arquimentor
@@ -2258,6 +2280,87 @@ Imagenes de los commits para el landing page:
 | Rafael/arquimentor-platform        | feature/mentor-profile | e810921aea9945714c211dc45a491010293ce3af | feat(mentor-profile): add commandservice and queryservice implementation of mentor profile | Se implementó el servicio de comandos y consultas para el perfil del mentor | 03/11/23 |
 | Rafael/arquimentor-platform        | feature/mentor-profile | a88dc210820a288782353cfd294357ff9d54477e | feat(mentor-profile): add mentor profile controller,commands and resources | Se añadió el controlador, los comandos y los recursos del perfil del mentor | 03/11/23 |
 
+#### 5.2.3.5 Execution Evidence for Sprint Review
+
+Como resumen del sprint 3 se realizaron los diferentes HU, algunos completandolos al 100% y otros al 60%. Compartimos imagenes para mostrar como quedo el avance de la primera versión del servicio web. Cada uno con su ruta respectiva.
+
+<!--agregar imagenes de web service-->
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170263520034684948/image.png?ex=655867d5&is=6545f2d5&hm=bca445f06644e0db3b8c5403afc92417c4f0f2ce4a3cf82a4375aa8a9bba2e71&">
+
+#### 5.2.3.6 Services Documentation Evidence for Sprint Review.
+
+En el Sprint 2, hemos realizado avances significativos en la documentación de nuestros Web Services. Hemos documentado varios Endpoints que son fundamentales para la funcionalidad de nuestra aplicación. A continuación, se detallan los Endpoints documentados junto con ejemplos de interacción y enlaces a la documentación desplegada.
+
+Repositorio: https://github.com/Open-Developers-SW51/arquimentor-platform
+
+Id de los commits relacionados con el Sprint:
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170264927181754378/image.png?ex=65586925&is=6545f425&hm=ac3d2362389d051ef59cd608b0ffaf63312fb5ffe763c08eaefe36ba8d3479ce&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170265016281354300/image.png?ex=6558693a&is=6545f43a&hm=b9f1dce0358acd858c1c0acddd0353b0969f97ac2d3280da31fa5291bd5c59c9&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170265065442783292/image.png?ex=65586946&is=6545f446&hm=2caef2c633f94510e037392ad0a326cce3ebce49df06506d94ebfbb22ebbfdd7&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170265100511346748/image.png?ex=6558694e&is=6545f44e&hm=2517b903e0b9f7b1ebf338895e072662c45e58997fb7134f84399ff11a530c7c&">
+
+Avances del Web Services:
+
+
+
+**Endpoints Documentados**
+
+|                     Endpoint	                     |  Acción   | Verbo HTTP |                Parámetros                |                                                                   Ejemplo de Request                                                                   |                    Respuesta                     |  Captura   |                          
+|:-------------------------------------------------:|:---------:|:----------:|:----------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------:|:----------:|
+|               /api/v1/publications                |  Listar   |    GET     |                 Ninguno                  |                                                                                                                                                        |             Listado de publicaciones             | <img src=""> |
+|               /api/v1/publications                |   Crear   |    POST    |                 Ninguno                  | {  "title": "Maqueta de 3 niveles con soporte",<br/>"description": "Esta es una maqueta rea....",<br/>"image": "http://discord...",<br/>"idMentor": 1} |         Publicación creada  exitosamente         |<img src=""> |
+|         /api/v1/publications/{studentId}          |  Listar   |    GET     |       Mentorid(int):Id del mentor        |                                                                 /api/v1/publications/5                                                                 | Listado de las publicaciones del mentor con Id 5 |<img src="">  |
+|             /api/v1/publication/{Id}              |  Obtener  |    GET     |       id(int):Id de la publicación       |                                                                 /api/v1/publication/3                                                                  |           Detalle de la publicación 3            | <img src="">  |
+|                 /api/v1/students                  |  Listar   |    GET     |                 Ninguno                  |                                                                                                                                                        |               Lista de estudiantes               | <img src="">  |
+|                 /api/v1/students                  |   Crear   |    POST    |                                          |                 {"firstName": "leonardo",<br/>"lastname": "lopez",<br/>"email": "leonardo@gmail.com",<br/>"password": "Leonardo_123"}                  |                Estudiante creado                 | <img src="">  |
+|               /api/v1/students/{Id}               |  Listar   |    GET     |        id(int):Id del estudiante         |                                                                                                                                                        |             Detalle del estudiante 2             | <img src="">  |
+|               /api/v1/appointments                |   Crear   |    POST    |                 Ninguno                  |                                                                                                                                                        |    Creacion de una cita con estado solicitado    | <img src="">  |
+|   /api/v1/appointments/{apoitmentId}/rejections   | modificar |    POST    |   apoitmentId(int): Id del appointment   |                                                                                                                                                        |   Cambia el estado del appointment a rechazado   | <img src="">  |
+| /api/v1/appointments/{apoitmentId}/confirmations  | modificar |    POST    |   apoitmentId(int): Id del appointment   |                                                                                                                                                        |  Cambia el estado del appointment a confirmado   | <img src="">  |
+|  /api/v1/appointments/{apoitmentId}/cancelations  | modificar |    POST    |   apoitmentId(int): Id del appointment   |                                                                                                                                                        |   Cambia el estado del appointment a cancelado   | <img src="">  |
+| api/v1/publications/{publicationId}/incrementView | modificar |    POST    | publicationId(int): Id de la publicación |                                                          api/v1/publications/2/incrementView                                                           |     Incrementarla vista de la publicación 2      | <img src="">  |
+| api/v1/publications/{publicationId}/incrementLike | modificar |    POST    | publicationId(int): Id de la publicación |                                                          api/v1/publications/2/incrementLike                                                           |      Incrementarla like de la publicación 2      | <img src="">  |
+|       api/v1/mentors/{mentorId}/publicaions       |  Listar   |    GET     |       mentorId(int): Id del mentor       |                                                             api/v1/mentors/2/publications                                                              |      Listar las publicaciones del mentor 2       | <img src="">  |
+|      api/v1/mentors/{mentorId}/appointments       |  Listar   |    GET     |         mentorId(int): Id del mentor         |                                                             api/v1/mentors/2/appointments                                                              |          Listar las citas del mentor 2           | <img src="">  |
+|        api/v1/publications/{publicationId}        |     Eliminar     |   DELETE   |   publicationId(int): Id de la publicación   |                                                                                                                                                        |             Eliminar la publicación              | <img src="">  |
+
+Creación de la publicación
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170267528535220305/image.png?ex=65586b91&is=6545f691&hm=332485093bcb85aa1d11958c21839d02bf05c6539e4d5b39cb960a3aff5f6d40&">
+
+Incrementar de las vistas y los likes
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170267749109481502/image.png?ex=65586bc5&is=6545f6c5&hm=7dad3bf4f152cc079b57b3ecd96bbd9450100179bbb60279376376f824c528d3&">
+
+Cambiar el estado de las citas
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170267978479173713/image.png?ex=65586bfc&is=6545f6fc&hm=a239b8ffa548bdd9eef709a4e85ca0b777692c2aedf66e000ce1e63e57886b02&">
+
+Listar las publicaciones por un mentorId
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170268148289765476/image.png?ex=65586c25&is=6545f725&hm=005ba79e026e5a6dd72bc504ccecb52035e91c81c00b7dcab9d3d2ce9e813976&">
+
+
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review.
+
+En el Sprint 3, hemos llevado a cabo una serie de actividades relacionadas con el Deployment de nuestros productos, que incluyen los web services.A continuación, se detallan las acciones clave realizadas durante este Sprint en relación con el despliegue.
+
+-Creación del Web Service
+
+
+
+#### 5.2.2.8 Team Collaboration Insights during Sprint.
+
+Para el desarrollo del web service usamos gitflow con convetional commits para mejorar el ordenamiento
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170271968143101972/image.png?ex=65586fb3&is=6545fab3&hm=5a7c6f94c308a0d712accd27f2e73d634a9ce99c17c43142815639847ee7ad4e&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272135474839613/image.png?ex=65586fdb&is=6545fadb&hm=ed6aa68f6b90dd064c7890e6d4fe9e12ddc249b5e777ea1c28811346521bcae1&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272215187587112/image.png?ex=65586fee&is=6545faee&hm=835afff887614bc8a09b58be85c82def144259cde12369a385bd82b076c1129f&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272538597806130/image.png?ex=6558703b&is=6545fb3b&hm=6fde34106f23e6bd7fcdd9ba100f5f2185e34b0d085b9f0430152a5b774bec0b&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272586417053726/image.png?ex=65587047&is=6545fb47&hm=5b1744f9e3041ba1ac570a696987783de80fffb541b73288005d86b2ad4bdc0a&">
 
 
 #### 5.3.2. Registro de Entrevistas.
