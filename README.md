@@ -2382,8 +2382,45 @@ Para el desarrollo del web service usamos gitflow con convetional commits para m
 <img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272538597806130/image.png?ex=6558703b&is=6545fb3b&hm=6fde34106f23e6bd7fcdd9ba100f5f2185e34b0d085b9f0430152a5b774bec0b&">
 <img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272586417053726/image.png?ex=65587047&is=6545fb47&hm=5b1744f9e3041ba1ac570a696987783de80fffb541b73288005d86b2ad4bdc0a&">
 
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+
+La entrevista se enfocará en 2 segmentos objetivos, el estudiante y el mentor, a lo que se les mostrara previamente el flujo sobre realizar una cita pasando por el landing page y la interfaz de usuario (frontend). 
+
+**Preguntas generales:**
+
+- ¿Cúal es su nombre?
+- ¿Cúal es su edad?
+- ¿Dónde reside actualmente?
+- ¿A que se dedica actualmente?
+
+**Preguntas del segmento estudiante:**
+
+- ¿Qué opinas de la interfaz y el diseño de la plataforma? ¿Es fácil de navegar y usar?
+- ¿Los perfiles de los mentores proporcionan la información necesaria para tomar decisiones informadas sobre quién elegir como mentor?
+- ¿Qué mejoras sugerirías para la plataforma con el fin de hacerla aún más útil para estudiantes de arquitectura en busca de mentores?
+- ¿La plataforma cumple con tus expectativas en términos de brindar oportunidades de desarrollo profesional y académico a través de la mentoría?
+- ¿Recomendarías esta plataforma a otros estudiantes de arquitectura que buscan mentores? ¿Por qué?
+
+**Preguntas del segmento mentores:**
+
+- ¿Qué opinas de la interfaz y el diseño de la plataforma? ¿Es fácil de navegar y usar?
+- ¿Los perfiles de los mentores proporcionan la información necesaria para tomar decisiones informadas sobre quién elegir como mentor?
+- ¿Qué mejoras sugerirías para la plataforma con el fin de hacerla aún más útil para que los mentores de arquitectos tengan más clientes?
+- ¿La plataforma cumple con tus expectativas en términos de brindar oportunidades de desarrollo profesional y académico a través de la mentoría?
+- ¿Recomendarías esta plataforma a otras personas que deseen brindar sus servicios de mentores a arquitectos? ¿Por qué?
+
 
 #### 5.3.2. Registro de Entrevistas.
+
+**URL de las entrevistas:** https://upcedupe-my.sharepoint.com/personal/u202123548_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202123548%5Fupc%5Fedu%5Fpe%2FDocuments%2FTB3%2DEntrevistas%5FValidaci%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+
+**Timing:** 
+
+Segmento estudiante, 1era entrevista desde min 0:00 hasta 3:35, 2da entrevista desde 3:35 hasta 8:02, 3ra entrevista desde 8:02 hasta 11:22.
+
+Segmento asesor, 1era entrevista desde min 11:22 hasta 13:24, 2da entrevista desde 13:24 hasta 16:23, 3ra entrevista desde 16:23 hasta 20:10.
 
 **Entrevista #1:**
 
@@ -2391,7 +2428,6 @@ Para el desarrollo del web service usamos gitflow con convetional commits para m
 - Edad: 22 años
 - Distrito: Lima
 - Tiempo: 00:00 - 3:35
-- Evidencia de la reunión:https://upcedupe-my.sharepoint.com/:v:/g/personal/u201919295_upc_edu_pe/EZNvvmWNmuNAoCc6OW0ceZgBudwciq0G1cuzaa5csoI3yQ?e=p2zz8M
 - Resumen: En general, Renato nos conto que le gusto la aplicacion web ya que es muy intuitiva de usar pero nos dio la sugerencia que asi como hay chat con el tutor deberia haber un chat de soporte tecnico o con los desarrolladores.
 
 <img src="https://cdn.discordapp.com/attachments/1149190528756363337/1170172282631630868/image.png?ex=655812dc&is=65459ddc&hm=2edd3d1edaf7f62d485ec7d4ff8cdb60501c370c88c98a8549f9498e9ad8e7a6&">
@@ -2403,7 +2439,6 @@ Para el desarrollo del web service usamos gitflow con convetional commits para m
 - Edad: 53 años
 - Distrito: Lima
 - Tiempo: 00:00 -4:27
-- Evidencia de la reunión:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202016643_upc_edu_pe/EfBMLtZ-zhFOm9m_SbnKSF8BsrMBI_ytoJbgPjM7bOOlJQ?e=z6XC6h&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 - Resumen: Dora nos conto que la aplicacion le parece buena pero que nececita algunos cambios principalmente en el apartado visual y pero que esta aplicacion va a ayudar a varios estudiantes
 
 <img src="https://cdn.discordapp.com/attachments/1149190528756363337/1170182699693121587/image.png?ex=65581c90&is=6545a790&hm=7cfe51f3462004b738838edd339e8463608a76c806f3ae203e3e6596c34e7425&">
@@ -2415,7 +2450,6 @@ Para el desarrollo del web service usamos gitflow con convetional commits para m
 - Edad: 20 años
 - Distrito: Lima
 - -Tiempo: 00:00 -4:27
-- Evidencia de la reunión:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202016643_upc_edu_pe/EU_Aj0qr2AdMlEVFHNwypkABwOQwxAqQP3tr-WlQLrjQWw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=k4WEsT
 = Resumen: Jose nos conto que principalmente esta aplicacion es de su agrado pero que le falta mejorar el apartado visual que a su gusto no es agradable, pero que ve que la aplicacion va por buen camino y que cuenta con todo lo necesario para que personas como el puedan utilizar esta aplicacion
 
 <img src="https://cdn.discordapp.com/attachments/1149190528756363337/1170182556029825044/image.png?ex=65581c6e&is=6545a76e&hm=e6761864040fd7549a702ae973aad8eb5f2544f29ff636b95168816bbdb45b46&">
@@ -2427,13 +2461,28 @@ Para el desarrollo del web service usamos gitflow con convetional commits para m
 - Edad: 25
 - Distrito: Lima
 - Tiempo: 00:00 - 5:00
-- Evidencia de la reunión:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/EUwlIuLXhZNKoscdi_XEE0gBJSxO9OxCNyrZrsJMXMCeQA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=ExdUjL
 - Resumen: Louis nos contó que la aplicación es intuitiva y fácil de navegar. A pesar de eso, no le gusto la colorimetría de la página porque se ve apagado. Además, nos comentó que la aplicación va por buen camino y sería necesaria agregar una sección donde se muestre el ranking de los mentores.
 
 <img src="https://cdn.discordapp.com/attachments/889908734430691374/1170239163224834120/image.png?ex=65585126&is=6545dc26&hm=25f6df328daa88b8adbdf35704e2681f4a9501be04f717efaf99d5961037d9f7&">
 
 <br/><br/>
+
 **Entrevista #5:**
+
+- Nombres y Apellidos: Roger Castillo
+- Edad: 20 Años
+
+- Distrito: San Miguel
+
+- Evidencia de la reunión
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149420329861660692/image.png" alt="" width="600" height="250" />
+
+- Resumen de la entrevista:
+
+Steve es un joven estudiante de arquitectura de los primeros ciclos, se considera una persona divertida y decidida en su futuro. Nos cuenta su experiencia con las maquetas que tuvo que realizar, además de los programas que usan para complementar. Al inicio sentía que no tenía mucha experiencia y afirma que un buen asesoramiento en los inicios hubieran hecho de sus trabajos de arquitectura más eficientes. Después de comentarle el proyecto “ArquiMentor” le pareció grandiosa la idea, y nos sugirió que agreguemos segmentos de ayuda en los diferentes programas de software que utilizan los arquitectos. Las marcas que mas usa es Archicad, Revit y AutoCAD, la tecnologia que usa por lo general son celulares, ordenadores o tablets, sus canales de interacción más usadas son Discord, Google Meet o reuniones presenciales. Por último punto los browser que usa son Brave y Google.
+
+
+**Entrevista #6:**
 
 - Nombres y Apellidos: Luis Galindo
 - Edad: 18 años
@@ -2444,6 +2493,10 @@ Para el desarrollo del web service usamos gitflow con convetional commits para m
 En cuanto al cumplimiento de expectativas, el estudiante expresó que la plataforma ha brindado oportunidades valiosas de desarrollo profesional y académico a través de la mentoría. En consecuencia, recomendó la plataforma a otros estudiantes de arquitectura en busca de mentores, destacando la orientación personalizada y la posibilidad de conectar con profesionales del campo. A pesar de las áreas de mejora identificadas, el estudiante consideró que la plataforma ofrece un recurso significativo para ampliar conocimientos y redes en la arquitectura.
 
 <a href="https://ibb.co/6NqbBw7"><img src="https://i.ibb.co/JCS2Qtw/entre.png" alt="entre" border="0"></a>
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+### 5.4. Video About-the-Product.
 
 ## Anexos
 
