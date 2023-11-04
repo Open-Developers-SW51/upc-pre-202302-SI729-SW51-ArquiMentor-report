@@ -2505,6 +2505,133 @@ En cuanto al cumplimiento de expectativas, el estudiante expresó que la platafo
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
+# UX Heuristics & Principles Evaluation
+*Usability – Inclusive Design – Information Architecture*
+
+- *CARRERA:* Ingeniería de Sistemas de Información / Ingeniería de Software
+- *CURSO:* Desarrollo de Aplicaciones Open Source
+- *SECCIÓN:* SW51
+- *PROFESORES:* Todos
+- *AUDITOR:* Open Developers
+- *CLIENTE:* Leonardo Huarcaya, Kurt Puican, Rafael Luyo, Diego Ramirez, Juliana Yauricasa
+
+## SITE o APP A EVALUAR
+*Nombre de App: Arquimentor*
+
+## Tareas a evaluar:
+- Creación de un usuario
+- Validación de las creaciones
+- Editar perfil de mentor
+- Editar perfil de estudiante
+- Vista del perfil
+- Chat
+- Publicación
+
+*No están incluidas en esta versión de la evaluación las siguientes tareas:*
+- Calificación de los mentores
+- Interacción entre los usuarios en la app
+- Recomendaciones al crear un proyecto
+
+## ESCALA DE SEVERIDAD
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+- Nivel 1: Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a menos que exista disponibilidad de tiempo.
+- Nivel 2: Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.
+- Nivel 3: Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.
+- Nivel 4: Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.
+
+## TABLA RESUMEN
+
+| #   | Problema                                              | Escala de Severidad | Heurística/Principio Violado    |
+| --- | ---------------------------------------------------- | ------------------- | -----------------------------  |
+| 1   | No hay un botón de retroceso en varios apartados     | 3                   | Usability: Libertad y control del usuario |
+| 2   | No hay un apartado para crear cuenta como tutor     | 3                   | Usability: Prevención de errores |
+| 3   | A pesar de que hay un chat, no se puede escribir en el chat | 4           | Usability: Libertad y control del usuario |
+| 4   | No hay una opción para poder crear una publicación  | 2                   | Usability: Consistencia y estándares |
+| 5   | No se puede ingresar a ver más características de la publicación | 3 | Usability: Visibilidad del estado del sistema |
+| 6   | No se pueden ver las notificaciones                 | 3                   | Usability: Visibilidad del estado del sistema |
+| 7   | No puedo dar me gusta a una publicación             | 2                   | Usability: Libertad y control del usuario |
+| 8   | No se puede editar el perfil                        | 3                   | Usability: Libertad y control del usuario |
+
+## DESCRIPCIÓN DE PROBLEMAS
+
+### PROBLEMA #1: No hay un botón de retroceso en varios apartados
+
+*Severidad:* 3
+*Heurística Violada:* Usability: Libertad y control del usuario
+*Descripción:*
+En varios apartados de la plataforma, se encuentra la ausencia de un botón de retroceso o una funcionalidad clara que permita a los usuarios regresar a la pantalla anterior o al punto de inicio de manera intuitiva. Esta carencia limita la libertad y el control del usuario sobre su navegación en la plataforma.
+
+*Recomendación:*
+Se recomienda implementar una funcionalidad de retroceso clara y fácil de usar en los apartados relevantes de la plataforma. Esto mejorará la usabilidad y la experiencia del usuario al brindarles un mayor control y libertad para navegar de manera eficiente.
+
+### PROBLEMA #2: No hay validación al crear un usuario y no se permite elegir el rol (estudiante o tutor) durante el proceso de registro
+
+*Severidad:* 3
+*Heurística Violada:* Usability: Prevención de errores
+*Descripción:*
+Cuando los usuarios intentan crear una cuenta en la plataforma, no se realiza una validación adecuada de los datos ingresados, lo que puede resultar en cuentas incompletas o con información incorrecta. Además, la falta de opción para elegir el rol (estudiante o tutor) durante el proceso de registro puede causar confusiones sobre las funcionalidades y privilegios asociados con cada tipo de cuenta. Esta falta de claridad puede llevar a errores en la elección del rol y a cuentas mal configuradas, afectando negativamente la experiencia del usuario y la interacción en la plataforma.
+
+### PROBLEMA #3: A pesar de que hay un chat, no se puede escribir en él
+
+*Severidad:* 4
+*Heurística Violada:* Usability - Libertad y control del usuario
+*Descripción:*
+A pesar de que existe una función de chat en la plataforma, los usuarios no pueden escribir mensajes en ella. Esta limitación restringe significativamente la capacidad de los usuarios para comunicarse entre sí, especialmente en contextos donde la comunicación directa es esencial, como en situaciones de tutoría o colaboración. La presencia de un chat inutilizable puede generar frustración y confusión entre los usuarios, ya que esperan poder utilizar esta herramienta para interactuar con otros usuarios en tiempo real.
+
+*Recomendación:*
+Revisar y solucionar las funcionalidades del chat. Luego hacer pruebas para asegurarse de que los usuarios puedan escribir y enviar mensajes en el chat sin problemas.
+
+### PROBLEMA #4: No hay una opción para crear una publicación
+
+*Severidad:* 2
+*Heurística Violada:* Usability - Consistencia y estándares
+*Descripción:*
+En la plataforma, falta una opción para que los usuarios puedan crear publicaciones. La ausencia de esta funcionalidad puede limitar la capacidad de los usuarios para compartir información, realizar consultas o interactuar con la comunidad. La falta de una opción para crear publicaciones puede llevar a una experiencia incompleta y desmotivar a los usuarios que deseen participar activamente en la plataforma. La falta de consistencia en las funciones disponibles puede crear una experiencia fragmentada para los usuarios, lo que afecta la usabilidad de la plataforma.
+
+*Recomendación:*
+Implementar el botón que permita a los usuarios crear publicaciones de manera sencilla. Debe incluir campos para el título, contenido, categoría, etiquetas, o cualquier otro detalle relevante.
+
+### PROBLEMA #5: No se puede ingresar a ver más características de la publicación
+
+*Severidad:* 3
+*Heurística Violada:* Usability - Visibilidad del estado del sistema
+*Descripción:*
+La plataforma no proporciona una función clara y accesible que permita a los usuarios explorar o conocer en detalle las características, contenido o información adicional relacionada con una publicación.
+
+*Recomendación:*
+Se recomienda implementar una función clara y visible que permita a los usuarios acceder a más características o detalles de una publicación. Esto mejorará la visibilidad del estado del sistema y garantizará que las expectativas de los usuarios estén alineadas con la funcionalidad del sistema.
+
+### PROBLEMA #6: No se pueden ver las notificaciones
+
+*Severidad:* 3
+*Heurística Violada:* Usability - Visibilidad del estado del sistema
+*Descripción:*
+La plataforma no proporciona una función clara y visible que permita a los usuarios ver las notificaciones de eventos, mensajes o actualizaciones relevantes. Esto limita la visibilidad del estado del sistema, ya que los usuarios no pueden mantenerse al tanto de las interacciones o eventos importantes en la plataforma.
+
+*Recomendación:*
+Se recomienda implementar una función clara y accesible que permita a los usuarios ver y acceder a las notificaciones de eventos importantes, mensajes o actualizaciones relevantes. Esto mejorará la visibilidad del estado del sistema y garantizará que los usuarios estén informados sobre lo que está ocurriendo en la plataforma.
+
+### PROBLEMA #7: No puedo dar me gusta a una publicación
+
+*Severidad:* 3
+*Heurística Violada:* Usability - Libertad y control del usuario
+*Descripción:*
+La plataforma no proporciona una función clara y accesible que permita a los usuarios dar "me gusta" o expresar su aprobación por el contenido de una publicación. Los usuarios pueden sentirse limitados en su capacidad para interactuar y expresar su opinión sobre el contenido que encuentran en la plataforma.
+
+*Recomendación:*
+Se recomienda implementar una función clara y visible que permita a los usuarios dar "me gusta" o expresar su aprobación por una publicación. Esto mejorará la usabilidad al proporcionar a los usuarios la libertad y el control para interactuar de manera intuitiva con el contenido.
+
+### PROBLEMA #8: No se puede editar el perfil
+
+*Severidad:* 3
+*Heurística Violada:* Usability - Libertad y control del usuario
+*Descripción:*
+La plataforma no proporciona una función clara y accesible que permita a los usuarios editar detalles personales, como la foto de perfil, la información de contacto, la descripción, o cualquier otro dato relacionado con su perfil.
+
+*Recomendación:*
+Se recomienda implementar una función clara y visible que permita a los usuarios editar y personalizar su perfil en la plataforma. Esto mejorará la usabilidad al proporcionar a los usuarios la libertad y el control para gestionar su información personal de manera intuitiva.
+
 ### 5.4. Video About-the-Product.
 
 ## Anexos
