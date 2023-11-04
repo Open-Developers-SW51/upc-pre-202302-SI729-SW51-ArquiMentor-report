@@ -2299,6 +2299,15 @@ A continuación, se detallan las pruebas realizadas en el backend de la aplicaci
 
 **Ejecución de Pruebas:** Cucumber se utilizó para ejecutar los escenarios de prueba. Durante estas pruebas, se verificó que el proceso de creación de productos se lleva a cabo de acuerdo con los requisitos y expectativas establecidos. Para esta entrega no se concluyó con las pruebas. 
 
+#####  Arquimentor-platform-test
+
+| Repository                     | Branch  | Commit Id                                | Commit Message                                          | Commit message body                                                      | Committed On |
+|--------------------------------|---------|------------------------------------------|---------------------------------------------------------|--------------------------------------------------------------------------|--------------|
+| JulianaYS/arquimentor-platform | develop | 386d5cd1240683579fcd37062e758819f4f29336 | chore: Added cucumber dependencies.                     | Se añadió las dependencias al proyecto.                                  | 04/11/23     |
+| JulianaYS/arquimentor-platform           | develop | 693419542f971bdc6b133782b27beeb6a8830046 | test: Added cucumber configuration.                     | Se configuró Cucumber y se creo las carpetas para implementar los tests. | 04/11/23     |
+| JulianaYS/arquimentor-platform           | develop | 0bc515c8d45e28e47cff14eca50fadd63651a5f1 | test: Added features according to gherkin format.       | Se agregó los features de publicación y estudiante.                      | 04/11/23     |
+| JulianaYS/arquimentor-platform           | develop | 54ff5ed0a0fde84a3b466532febdcb18156dae45 | test: Added students and publications step definitions. | Se agregó los step en Java para la ejecución de los test.                | 04/11/23     |
+
 
 #### 5.2.3.5 Execution Evidence for Sprint Review
 
