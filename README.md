@@ -2261,61 +2261,67 @@ Imagenes de los commits para el landing page:
 
 
 #### 5.3.2. Registro de Entrevistas.
-- Tiempo: 00:00 - 3:35
-- Resumen: En general, Renato nos conto que le gusto la aplicacion web ya que es muy intuitiva de usar pero nos dio la sugerencia que asi como hay chat con el tutor deberia haber un chat de soporte tecnico o con los desarrolladores.
+
+**Entrevista #1:**
+
 - Nombres y Apellidos: Renato Honorio
 - Edad: 22 años
 - Distrito: Lima
+- Tiempo: 00:00 - 3:35
 - Evidencia de la reunión:https://upcedupe-my.sharepoint.com/:v:/g/personal/u201919295_upc_edu_pe/EZNvvmWNmuNAoCc6OW0ceZgBudwciq0G1cuzaa5csoI3yQ?e=p2zz8M
+- Resumen: En general, Renato nos conto que le gusto la aplicacion web ya que es muy intuitiva de usar pero nos dio la sugerencia que asi como hay chat con el tutor deberia haber un chat de soporte tecnico o con los desarrolladores.
 
 <img src="https://cdn.discordapp.com/attachments/1149190528756363337/1170172282631630868/image.png?ex=655812dc&is=65459ddc&hm=2edd3d1edaf7f62d485ec7d4ff8cdb60501c370c88c98a8549f9498e9ad8e7a6&">
 
-<br/>
-<br/>
-
-Anexos
-
-Link de la exposición de la TP: https://drive.google.com/drive/folders/1W7pyh5Gg20AIUY06Ad2w19tpYBC8ezvs?usp=sharing
-
-
--Tiempo: 00:00 -4:27
--Resumen: Dora nos conto que la aplicacion le parece buena pero que nececita algunos cambios principalmente en el apartado visual y pero que esta aplicacion va a ayudar a varios estudiantes
+<br/><br/>
+**Entrevista #2:**
 
 - Nombres y Apellidos: Dora Villalobos
 - Edad: 53 años
 - Distrito: Lima
+- Tiempo: 00:00 -4:27
 - Evidencia de la reunión:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202016643_upc_edu_pe/EfBMLtZ-zhFOm9m_SbnKSF8BsrMBI_ytoJbgPjM7bOOlJQ?e=z6XC6h&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+- Resumen: Dora nos conto que la aplicacion le parece buena pero que nececita algunos cambios principalmente en el apartado visual y pero que esta aplicacion va a ayudar a varios estudiantes
 
 <img src="https://cdn.discordapp.com/attachments/1149190528756363337/1170182699693121587/image.png?ex=65581c90&is=6545a790&hm=7cfe51f3462004b738838edd339e8463608a76c806f3ae203e3e6596c34e7425&">
 
-<br/>
-<br/>
-
--Tiempo: 00:00 -4:27
--Resumen: Jose nos conto que principalmente esta aplicacion es de su agrado pero que le falta mejorar el apartado visual que a su gusto no es agradable, pero que ve que la aplicacion va por buen camino y que cuenta con todo lo necesario para que personas como el puedan utilizar esta aplicacion
+<br/><br/>
+**Entrevista #3:**
 
 - Nombres y Apellidos:Jose Castillo
 - Edad: 20 años
 - Distrito: Lima
+- -Tiempo: 00:00 -4:27
 - Evidencia de la reunión:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202016643_upc_edu_pe/EU_Aj0qr2AdMlEVFHNwypkABwOQwxAqQP3tr-WlQLrjQWw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=k4WEsT
+= Resumen: Jose nos conto que principalmente esta aplicacion es de su agrado pero que le falta mejorar el apartado visual que a su gusto no es agradable, pero que ve que la aplicacion va por buen camino y que cuenta con todo lo necesario para que personas como el puedan utilizar esta aplicacion
 
 <img src="https://cdn.discordapp.com/attachments/1149190528756363337/1170182556029825044/image.png?ex=65581c6e&is=6545a76e&hm=e6761864040fd7549a702ae973aad8eb5f2544f29ff636b95168816bbdb45b46&">
 
-<br/>
-<br/>
-
-<br/>
-<br/>
-
-- Tiempo: 00:00 - 5:00
-- Resumen: Louis nos contó que la aplicación es intuitiva y fácil de navegar. A pesar de eso, no le gusto la colorimetría de la página porque se ve apagado. Además, nos comentó que la aplicación va por buen camino y sería necesaria agregar una sección donde se muestre el ranking de los mentores. 
+<br/><br/>
+**Entrevista #4:**
 
 - Nombres y Apellidos: Louis Piero Alfaro Coveñas
 - Edad: 25
 - Distrito: Lima
+- Tiempo: 00:00 - 5:00
 - Evidencia de la reunión:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123548_upc_edu_pe/EUwlIuLXhZNKoscdi_XEE0gBJSxO9OxCNyrZrsJMXMCeQA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=ExdUjL
+- Resumen: Louis nos contó que la aplicación es intuitiva y fácil de navegar. A pesar de eso, no le gusto la colorimetría de la página porque se ve apagado. Además, nos comentó que la aplicación va por buen camino y sería necesaria agregar una sección donde se muestre el ranking de los mentores.
 
 <img src="https://cdn.discordapp.com/attachments/889908734430691374/1170239163224834120/image.png?ex=65585126&is=6545dc26&hm=25f6df328daa88b8adbdf35704e2681f4a9501be04f717efaf99d5961037d9f7&">
 
-<br/>
-<br/>
+<br/><br/>
+**Entrevista #5:**
+
+- Nombres y Apellidos: Luis Galindo
+- Edad: 18 años
+- Distrito: Lima
+- Tiempo: 0:00 - 3:47
+- Evidencia de la reunión:
+- Resumen: El estudiante de arquitectura en primer ciclo expresó su opinión sobre la plataforma de mentoría en arquitectura de la siguiente manera: En cuanto a la interfaz y el diseño de la plataforma, considera que son en su mayoría intuitivos y fáciles de usar, aunque señaló la posibilidad de mejoras en la organización y la estética. Respecto a los perfiles de los mentore.
+En cuanto al cumplimiento de expectativas, el estudiante expresó que la plataforma ha brindado oportunidades valiosas de desarrollo profesional y académico a través de la mentoría. En consecuencia, recomendó la plataforma a otros estudiantes de arquitectura en busca de mentores, destacando la orientación personalizada y la posibilidad de conectar con profesionales del campo. A pesar de las áreas de mejora identificadas, el estudiante consideró que la plataforma ofrece un recurso significativo para ampliar conocimientos y redes en la arquitectura.
+
+<a href="https://ibb.co/6NqbBw7"><img src="https://i.ibb.co/JCS2Qtw/entre.png" alt="entre" border="0"></a>
+
+## Anexos
+
+Link de la exposición de la TP: https://drive.google.com/drive/folders/1W7pyh5Gg20AIUY06Ad2w19tpYBC8ezvs?usp=sharing
