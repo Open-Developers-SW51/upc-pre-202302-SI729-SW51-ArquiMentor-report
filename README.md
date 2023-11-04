@@ -2280,6 +2280,26 @@ El objetivo principal del Sprint 2 es tener una primera version de nuestra Backe
 | Rafael/arquimentor-platform        | feature/mentor-profile | e810921aea9945714c211dc45a491010293ce3af | feat(mentor-profile): add commandservice and queryservice implementation of mentor profile | Se implementó el servicio de comandos y consultas para el perfil del mentor | 03/11/23 |
 | Rafael/arquimentor-platform        | feature/mentor-profile | a88dc210820a288782353cfd294357ff9d54477e | feat(mentor-profile): add mentor profile controller,commands and resources | Se añadió el controlador, los comandos y los recursos del perfil del mentor | 03/11/23 |
 
+#### 5.2.3.4 Testing Suite Evidence for Sprint Review
+
+A continuación, se detallan las pruebas realizadas en el backend de la aplicación web Arquimentor utilizando Cucumber, una herramienta de automatización de pruebas de aceptación y comportamiento. Estas pruebas se centraron en validar la funcionalidad de creación en la aplicación. El proceso de pruebas se ha llevado a cabo de la siguiente manera:
+
+**Configuración de Cucumber:** En primer lugar, configuramos Cucumber en el entorno de desarrollo, lo que implica la instalación de las dependencias necesarias y la configuración de Cucumber para el lenguaje de programación utilizado (por ejemplo, Java). Esto permite que Cucumber se integre con la aplicación y se ejecute de manera efectiva.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/b15D7r0/est.png" alt="est" border="0"></a>
+
+**Definición de Escenarios de Prueba:** Se utilizaron archivos de características (.feature) con notación Gherkin para definir escenarios de prueba. Cada escenario describe los pasos a seguir, los datos de entrada y los resultados esperados relacionados con la creación de productos.
+
+<a href="https://ibb.co/RHH0Zpz"><img src="https://i.ibb.co/mzzq1C6/ft2.png" alt="ft2" border="0"></a>
+<a href="https://ibb.co/BZQ2B3D"><img src="https://i.ibb.co/0M6yr2N/ft1.png" alt="ft1" border="0"></a>
+
+**Implementación de Pasos:** Los pasos definidos en los archivos de características se tradujeron a código Java. Estos pasos contienen la lógica necesaria para interactuar con la aplicación web y llevar a cabo las pruebas.
+
+<a href="https://ibb.co/nwZ1QB6"><img src="https://i.ibb.co/51tjskG/testt.png" alt="testt" border="0"></a>
+
+**Ejecución de Pruebas:** Cucumber se utilizó para ejecutar los escenarios de prueba. Durante estas pruebas, se verificó que el proceso de creación de productos se lleva a cabo de acuerdo con los requisitos y expectativas establecidos. Para esta entrega no se concluyó con las pruebas. 
+
+
 #### 5.2.3.5 Execution Evidence for Sprint Review
 
 Como resumen del sprint 3 se realizaron los diferentes HU, algunos completandolos al 100% y otros al 60%. Compartimos imagenes para mostrar como quedo el avance de la primera versión del servicio web. Cada uno con su ruta respectiva.
