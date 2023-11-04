@@ -2272,3 +2272,30 @@ Imagenes de los commits para el landing page:
 Anexos
 
 Link de la exposición de la TP: https://drive.google.com/drive/folders/1W7pyh5Gg20AIUY06Ad2w19tpYBC8ezvs?usp=sharing
+
+
+-Tiempo: 00:00 -4:27
+-Resumen: Dora nos conto que la aplicacion le parece buena pero que nececita algunos cambios principalmente en el apartado visual y pero que esta aplicacion va a ayudar a varios estudiantes
+
+- Nombres y Apellidos: Dora Villalobos
+- Edad: 53 años
+- Distrito: Lima
+- Evidencia de la reunión:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202016643_upc_edu_pe/EfBMLtZ-zhFOm9m_SbnKSF8BsrMBI_ytoJbgPjM7bOOlJQ?e=z6XC6h&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1170182699693121587/image.png?ex=65581c90&is=6545a790&hm=7cfe51f3462004b738838edd339e8463608a76c806f3ae203e3e6596c34e7425&">
+
+<br/>
+<br/>
+
+-Tiempo: 00:00 -4:27
+-Resumen: Jose nos conto que principalmente esta aplicacion es de su agrado pero que le falta mejorar el apartado visual que a su gusto no es agradable, pero que ve que la aplicacion va por buen camino y que cuenta con todo lo necesario para que personas como el puedan utilizar esta aplicacion
+
+- Nombres y Apellidos:Jose Castillo
+- Edad: 20 años
+- Distrito: Lima
+- Evidencia de la reunión:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202016643_upc_edu_pe/EU_Aj0qr2AdMlEVFHNwypkABwOQwxAqQP3tr-WlQLrjQWw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=k4WEsT
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1170182556029825044/image.png?ex=65581c6e&is=6545a76e&hm=e6761864040fd7549a702ae973aad8eb5f2544f29ff636b95168816bbdb45b46&">
+
+<br/>
+<br/>
