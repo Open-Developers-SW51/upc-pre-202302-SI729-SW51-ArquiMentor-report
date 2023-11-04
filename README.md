@@ -81,16 +81,17 @@ Los colaboradores en el proyecto se muestra en la siguiente imagen, con las cant
 ### Version 3 (TB2)
 La elaboración del proyecto se realizó mediante el github en formato Markdown usando la metodología GitFlow.
 
-<img src="">
-<img src="">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272135474839613/image.png?ex=65586fdb&is=6545fadb&hm=ed6aa68f6b90dd064c7890e6d4fe9e12ddc249b5e777ea1c28811346521bcae1&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272215187587112/image.png?ex=65586fee&is=6545faee&hm=835afff887614bc8a09b58be85c82def144259cde12369a385bd82b076c1129f&">
 
 Para los commits se utilizo Conventional Commits.
 
-<img src="">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272538597806130/image.png?ex=6558703b&is=6545fb3b&hm=6fde34106f23e6bd7fcdd9ba100f5f2185e34b0d085b9f0430152a5b774bec0b&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272586417053726/image.png?ex=65587047&is=6545fb47&hm=5b1744f9e3041ba1ac570a696987783de80fffb541b73288005d86b2ad4bdc0a&">
 
 Los colaboradores en el proyecto se muestra en la siguiente imagen, con las cantidades respectivas de commits.
 
-<img src="">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170271968143101972/image.png?ex=65586fb3&is=6545fab3&hm=5a7c6f94c308a0d712accd27f2e73d634a9ce99c17c43142815639847ee7ad4e&">
 
 <br><br>
 # Contenido
@@ -2085,23 +2086,16 @@ En la siguiente tabla se mostrara algunos de los commits mas importantes realiza
 
 Como resumen del sprint 2 se realizaron los diferentes HU, algunos completandolos al 100% y otros al 60%. Compartimos imagenes para mostrar como quedo el avance de la primera versión del servicio web. Cada uno con su ruta respectiva.
 
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487053169664071/image.png?ex=651525ff&is=6513d47f&hm=f7427db005b20b8185dd70354fd88ace39f747a73bcba154cbef90ba25a028fc&">
 
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495391676710942/image.png?ex=65152dc4&is=6513dc44&hm=ef1500be2311a4159351ca1f49397b0acdf478a982054c3f880ba10ae34dfa8d&">
+Link de la página deployada: https://arquimentor-7e645.web.app/login
 
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495952086061156/image.png?ex=65152e49&is=6513dcc9&hm=526032ec32ad09ee8cba49007495c81775bcc20f7c9efd988abd4ad995a8500e&">
-
-
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487471174008832/image.png?ex=65152663&is=6513d4e3&hm=df72cc97480408676ec2f890e18ef6faeea51679065aa3d56053976da9fd2fa2&">
-
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487532310179880/image.png?ex=65152672&is=6513d4f2&hm=de2c00ffaac9cd9d212a80abee7f35ce4d4603af627bcb6bf51bc70a37c16ebe&">
-
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487590774591599/image.png?ex=65152680&is=6513d500&hm=aba6e41e6a4bc263e0b91c4a3ab756f2c32fc53ebb78c5e6c60a624c3c549776&">
-
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487692138328125/image.png?ex=65152698&is=6513d518&hm=bbf5c3902c254b652fc32b4fe82938ab76f4c0b2b22eed74cb070987ad736bdf&">
-
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487775676284938/image.png?ex=651526ac&is=6513d52c&hm=cb787031a26570a45bcbeeb073cfe41cb3caaef9d4ab2f4f7bf6f96548a93c2b&">
-
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302413144608880/image.png?ex=65588c0e&is=6546170e&hm=6f098dd64c3b7dd893fa09790a6aa9559c014b65d7943a4817a8d606c1d67716&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302043139887114/image.png?ex=65588bb6&is=654616b6&hm=0540ad6319b2dd5be0c40dd1e1eb353b11bcccd5b98ccb8d4477b77585391fef&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302116087201833/image.png?ex=65588bc7&is=654616c7&hm=d683e70cc50dace65e1ac0497664e3871b253d31d2dafebfbcbbbfd889fcd0ca&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302177529581598/image.png?ex=65588bd6&is=654616d6&hm=d957e230921df4e8869c24cd0c479271959150f751f649d4ebd47ffee1646ede&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302236241428500/image.png?ex=65588be4&is=654616e4&hm=57041ce60283e2e9672d186e6e419c593d27e6b5810e9c1d5ce66c1006e8c8ac&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302299223117854/image.png?ex=65588bf3&is=654616f3&hm=32403e291ea17d239260f55f3f88067cf1a215b134227ecba7d09d007b75a6d2&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302338460831804/image.png?ex=65588bfc&is=654616fc&hm=0631dbdb0419533571d36f67c7a431f858d3b5ce69f4b9665d2f8b740b0fa1fb&">
 
 #### 5.2.2.6 Services Documentation Evidence for Sprint Review.
 
@@ -2127,23 +2121,13 @@ Commits relacionados con el Sprint:
 
 En el Sprint 2, hemos llevado a cabo una serie de actividades relacionadas con el Deployment de nuestros productos, que incluyen la Landing Page, las Web Applications.A continuación, se detallan las acciones clave realizadas durante este Sprint en relación con el despliegue.
 
--Creación del navegador
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495391676710942/image.png?ex=65152dc4&is=6513dc44&hm=ef1500be2311a4159351ca1f49397b0acdf478a982054c3f880ba10ae34dfa8d&">
-
--Creación los diversos tipos de login
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495952086061156/image.png?ex=65152e49&is=6513dcc9&hm=526032ec32ad09ee8cba49007495c81775bcc20f7c9efd988abd4ad995a8500e&">
-
--Creación de publicaciones
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487471174008832/image.png?ex=65152663&is=6513d4e3&hm=df72cc97480408676ec2f890e18ef6faeea51679065aa3d56053976da9fd2fa2&">
-
--Creación de perfil y poder editarlos
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487590774591599/image.png?ex=65152680&is=6513d500&hm=aba6e41e6a4bc263e0b91c4a3ab756f2c32fc53ebb78c5e6c60a624c3c549776&">
-
--Creación de vistas de reseñas
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487692138328125/image.png?ex=65152698&is=6513d518&hm=bbf5c3902c254b652fc32b4fe82938ab76f4c0b2b22eed74cb070987ad736bdf&">
-
--Creación de chat entre los segmentos
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487775676284938/image.png?ex=651526ac&is=6513d52c&hm=cb787031a26570a45bcbeeb073cfe41cb3caaef9d4ab2f4f7bf6f96548a93c2b&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302413144608880/image.png?ex=65588c0e&is=6546170e&hm=6f098dd64c3b7dd893fa09790a6aa9559c014b65d7943a4817a8d606c1d67716&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302043139887114/image.png?ex=65588bb6&is=654616b6&hm=0540ad6319b2dd5be0c40dd1e1eb353b11bcccd5b98ccb8d4477b77585391fef&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302116087201833/image.png?ex=65588bc7&is=654616c7&hm=d683e70cc50dace65e1ac0497664e3871b253d31d2dafebfbcbbbfd889fcd0ca&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302177529581598/image.png?ex=65588bd6&is=654616d6&hm=d957e230921df4e8869c24cd0c479271959150f751f649d4ebd47ffee1646ede&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302236241428500/image.png?ex=65588be4&is=654616e4&hm=57041ce60283e2e9672d186e6e419c593d27e6b5810e9c1d5ce66c1006e8c8ac&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302299223117854/image.png?ex=65588bf3&is=654616f3&hm=32403e291ea17d239260f55f3f88067cf1a215b134227ecba7d09d007b75a6d2&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302338460831804/image.png?ex=65588bfc&is=654616fc&hm=0631dbdb0419533571d36f67c7a431f858d3b5ce69f4b9665d2f8b740b0fa1fb&">
 
 #### 5.2.2.8 Team Collaboration Insights during Sprint.
 
