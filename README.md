@@ -25,24 +25,24 @@
 
 ## Registros de versiones del Informe
 
-| Version |  Fecha   | Autor             | Descripción de la modificación                                                                                                                                                                                                                                |
-|:-------:|:--------:|:------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    1    | 07/09/23 | Leonardo López    | -Implementación del Web Applications Wireframes.<br>-Implementación del Web Applications Wireflow Diagrams.<br>-Implementación del Web Applications Prototyping.<br>-Elaboración del Software Configuration Management.<br>-Elaboración del sprint 1.   |      
-|    1    | 07/09/23 | Rafael Luyo       | - <br>-                                                                                                                                                                                                                                                       |
-|    1    | 08/09/23 | Juliana Yauricasa | - <br>-                                                                                                                                                                                                                                                       |
-|    1    | 08/09/23 | Diego Ramirez     | - <br>-   <br/>                                                                                                                                                                                                                                                    |
-|    1    | 07/09/23 | Kurt Puican       | - <br>-   <br/>                                                                                                                                                                                                                                                    |
-|    2    | 26/09/23 | Leonardo López    | -Elaboración del Sprint Planning 2 y Sprint Backlog 2.<br>-Corrección de la descripción de entrevistas, sprit 1 y lean UX Process.<br>-Elaboracion de la interfaz y siderbar del frontend.                                                                    |
-|    2    | 28/09/23 | Rafael Luyo       | - <br>- |
-|    2    | 24/09/23 | Juliana Yauricasa | - <br>- |
-|    2    | 28/09/23 | Diego Ramirez     | - <br>- |
-|    2    | 28/09/23 | Kurt Puican       | - <br>- |
-|    3    | 14/10/23  | Leonardo López    | -Corrección del sprint Backlog 2, registro de versiones y Collaboration Insights.<br>-Elaboración de ....                                                                                                                                                     |
-|    3    | 14/10/23 | Rafael Luyo       | - <br>- |
-|    3    | 14/10/23 | Juliana Yauricasa | - <br>- |
-|    3    | 14/10/23 | Diego Luyo        | - <br>- |
-|    3    | 14/10/23 | Rafael Ramirez    | - <br>- |
-|    3    | 14/10/23 | Kurt Puican       | - <br>- |
+| Version |  Fecha   | Autor             | Descripción de la modificación                                                                                                                                                                                                                        |
+|:-------:|:--------:|:------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1    | 07/09/23 | Leonardo López    | -Implementación del Web Applications Wireframes.<br>-Implementación del Web Applications Wireflow Diagrams.<br>-Implementación del Web Applications Prototyping.<br>-Elaboración del Software Configuration Management.<br>-Elaboración del sprint 1. |      
+|    1    | 07/09/23 | Rafael Luyo       | - Implementación del Web Landing Page UI Design.<br>-Implementación de Database.<br>-Implementación del Landing Page Deployment.<br>                                                                                                                  |
+|    1    | 08/09/23 | Juliana Yauricasa | - <br>-                                                                                                                                                                                                                                               |
+|    1    | 08/09/23 | Diego Ramirez     | - <br>-   <br/>                                                                                                                                                                                                                                       |
+|    1    | 07/09/23 | Kurt Puican       | - <br>-   <br/>                                                                                                                                                                                                                                       |
+|    2    | 26/09/23 | Leonardo López    | -Elaboración del Sprint Planning 2 y Sprint Backlog 2.<br>-Corrección de la descripción de entrevistas, sprit 1 y lean UX Process.<br>-Elaboracion de la interfaz y siderbar del frontend.                                                            |
+|    2    | 28/09/23 | Rafael Luyo       | - Correcion de la Database.<br>-Implementación de Database.<br>-Implementación del Landing Page<br>-Implementación del componente de Student Profile, Mentor Profile<br>                                                                              |
+|    2    | 24/09/23 | Juliana Yauricasa | - <br>-                                                                                                                                                                                                                                               |
+|    2    | 28/09/23 | Diego Ramirez     | - <br>-                                                                                                                                                                                                                                               |
+|    2    | 28/09/23 | Kurt Puican       | - <br>-                                                                                                                                                                                                                                               |
+|    3    | 14/10/23  | Leonardo López    | -Corrección del sprint Backlog 2, registro de versiones y Collaboration Insights.<br>-Elaboración de ....                                                                                                                                             |
+|    3    | 14/10/23 | Rafael Luyo       | - <br>- Mejora en el componente de Student Profile y Mentor Profile - <br>-  Creacionn de Student Profile y Mentor Profile en el backend - <br>- Registro de Development Evidence for Sprint Review.                                                  |
+|    3    | 14/10/23 | Juliana Yauricasa | - <br>-                                                                                                                                                                                                                                               |
+|    3    | 14/10/23 | Diego Ramirez     | - <br>-                                                                                                                                                                                                                                               |
+|    3    | 14/10/23 | Rafael Luyo       | - <br>-                                                                                                                                                                                                                                               |
+|    3    | 14/10/23 | Kurt Puican       | - <br>-                                                                                                                                                                                                                                               |
 <br>
 
 # Project Report Collaboration Insights
@@ -2186,6 +2186,88 @@ Imagenes de los commits para el frontend:
 Imagenes de los commits para el landing page: 
 
 <img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156499201337864282/image.png?ex=65153150&is=6513dfd0&hm=8dd9760d07f20689916cca3d0fcfe1ff7ff75cb7aa0de1273e3a02dd27d9973f&">
+
+#### 5.2.3.3.Development Evidence for Sprint Review.
+#####  Frontend-Arquimentor
+| Repository                              | Branch            | Commit Id                              | Commit Message                                  | Commit message body                        | Committed On |
+| --------------------------------------- | ------------------ | --------------------------------------- | ---------------------------------------------- | ----------------------------------------- | ------------ |
+| Leonardo/Frontend-Arquimentor          | feature/home       | 942f303b8fb87b666ba33a642c2b040175a28510 | feat(home): Update home and log in           | Se mejoró el home y login                  | 15/10/23     |
+| Juliana/Frontend-Arquimentor           | feature/subscription | fc6ff58bc143004e63c7156534d5cc0052a10e43 | feat(subscription): Created subscription component | Se creó el componente de suscripción      | 1/11/23      |
+| Juliana/Frontend-Arquimentor           | feature/subscription | bbae9c9542859dd7e945cf3caf54f6d466ce2f8a | feat(subscription): Added routing-module     | Se modificó el módulo de enrutamiento      | 1/11/23      |
+| Juliana/Frontend-Arquimentor           | feature/subscription | 94ca12b5e2d3351ceb552df5ca5fd36dc78eddcb | feat(subscription): Added styles in subscription component | Se añadieron los estilos para el componente de suscripción | 1/11/23      |
+
+#####  Arquimentor-platform
+| Repository                              | Branch                     | Commit Id                              | Commit Message                                  | Commit message body                        | Committed On |
+| --------------------------------------- | -------------------------- | --------------------------------------- | ---------------------------------------------- | ----------------------------------------- | ------------ |
+| Leonardo/arquimentor-platform          | master                     | 24c9db558fd8ca68ecdf4aede73e0fe0ee51e507 | Initial commit                                  | Se añadió la implementación inicial de la publicación. | 27/10/23     |
+| Leonardo/arquimentor-platform          | feature/readme             | f7fd93a63f0a7a8740ff58690b558fa58e3bbbdad | chore: update git                               | Se realizó una actualización en Git.       | 27/10/23     |
+| Leonardo/arquimentor-platform          | feature/learning            | cc63a56d741384eb07b1b4dcec2da7c7dc7425d4 | feat(learning): Add record student id          | Se agregó la funcionalidad para registrar el ID del estudiante. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/arquimento          | 928ad446b1dd9c8d16a49f24217f787b0203d10d | feat(learning): Add record student id          | Se agregó la funcionalidad para registrar el estudiante. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 98358f19b32c4500d9847f6c8b0958a53fe49edf | feat(learning): Add Auditable Model in Shared. | Se añadió un modelo Auditable en la biblioteca compartida. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 672caacde8ce6a65888951228cb3bbc21094b700 | feat(learning): Add aggregate Student and their value objects. | Se agregó un agregado llamado "Student" y sus objetos de valor relacionados. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 859d87acc8219d81b8a594d610b206d7f266fb66 | feat(learning): Add the value objects to aggregate Student . | Se añadieron los objetos de valor al agregado "Student". | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | d5d19989b3bcfb12d34a6b13b64c61ccd3dfb0a7 | feat(student): Add repository and command for Students. | Se añadió un repositorio y comandos para los estudiantes. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 2020bcd9a8e8a35e7e02ff8b08a93edf648fdb6f | feat(student): Added student command service. | Se implementó el servicio de comandos para los estudiantes. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 2e87036bbf22dc1d31dd6556e213c0fa5d32250c | feat(student): Implemented queries and query handle. | Se implementaron consultas y manejadores de consultas. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 5008422481f61f9f038173e3a84eca35560d37be | feat(student): Implemented commands and command handle of Student. | Se implementaron comandos y manejadores de comandos para los estudiantes. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 437d79754c1bd685970622782f40b2254c6d27f4 | feat(student): Implemented application layer for student aggregate. | Se implementó la capa de aplicación para el agregado de estudiantes. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 13bf92699842f33698dd955c81f74fa81d1eb40a | feat(student): Implemented create student action for interface layer. | Se implementó la acción de creación de estudiantes en la capa de interfaz. | 28/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 71497ca36509874561e9113145ac01af1385ce1b | feat(student): Implemented anti-corruption layer for student context. | Se implementó la capa de anti-corrupción para el contexto de estudiantes. | 28/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 027689c8f342f53025b5d0bbfb1ca33ec10c53b3 | feat(student): Implemented connection to the database. | Se implementó la conexión a la base de datos. | 28/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 08535f0f38cb17c8f2e49d780deb3867581ce4b8 | feat(student): Update controller the student. | Se actualizó el controlador de estudiantes. | 28/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 7206eac1edbbcd70f91fc38057cf2f1e5e8e11bc | feat(student): Update validation password the student. | Se actualizó la validación de contraseñas para los estudiantes. | 28/10/23 |
+| Leonardo/arquimentor-platform          | feature/publication         | d27096d09fedf673aa7ae7adcf02a466accdf6ab | feat(publication): Add services, repositories end models to the publication | Se añadieron servicios, repositorios y modelos a la publicación. | 29/10/23 |
+| Leonardo/arquimentor-platform          | feature/publication         | b6da0aca1751565862fce542721d9a9ea1112dab | feat(publication): Add controller end student for publication. | Se añadió un controlador para los estudiantes en la publicación. | 29/10/23 |
+| Leonardo/arquimentor-platform          | feature/publication         | 548e8a31614c260f68ba94df0854f8744a28f15c | feat(publication): Add list of images publication. | Se añadió una lista de imágenes a la publicación. | 29/10/23 |
+| Leonardo/arquimentor-platform          | feature/publication         | 69369084e0908c61ded8667f0da0d3a823ba8aaf | feat(publication): Add publication for mentorId. | Se añadió la publicación para el mentorId. | 01/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | c443cbea2dab60e9c1121a82beacea64b386626f | feat(mentor): create entity mentor. | Se creó la entidad "mentor" | 02/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | 5e184f63446d75347a5cfe2030f6767e73b84199 | feat(mentor): create controller, repositories and services mentor. | Se creó el controlador, los repositorios y los servicios para el mentor. | 02/11/23 |
+| Diego/arquimentor-platform             | Feature/aggregate-apointment | 53e34f837ea53f5497d69b47b493699209ff7754 | feat(aggregate): added appointment aggregate. | Se añadió un agregado llamado "appointment". | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | 74b358d65afd22eb562f4126be27eea1cf9930fe | feat(mentor): List publications for mentorId. | Se listaron las publicaciones para el mentorId. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/publication         | e20a05c46cece1a829920bf4dea517230b3bf5e6 | feat(publication): Added delete and put to publication. | Se añadieron las funcionalidades de eliminación y modificación a la publicación. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | cf9e6377cb54e89256edd06b2b66470f4ee551e0 | feat(mentor): create entity mentor. | Se creó la entidad "mentor". | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | e92005ee8b82e3daa758d4cb0d93f997306fa36d | feat(mentor): create controller, repositories and services mentor. | Se creó el controlador, los repositorios y los servicios para el mentor. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | 9e287e4afa1d9407649ee2bd54ea11c97e97f7ee | feat(mentor): List publications for mentorId. | Se añadió el controlador de citas. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | 1561128e9a0b06b1a0aea6b0edf630cbcddf1e2d | feat(publication): Added delete and put to publication. | Se añadieron las funcionalidades de eliminación y modificación a la publicación. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | ab46b39290f4bfcb8f5d56cd9dcb5831a2fb1fbf | feat(mentor): create entity mentor. | Se creó la entidad "mentor". | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | e810921aea9945714c211dc45a491010293ce3af | feat(mentor): create controller, repositories and services mentor. | Se creó el controlador, los repositorios y los servicios para el mentor. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | 9e287e4afa1d9407649ee2bd54ea11c97e97f7ee | feat(mentor): List publications for mentorId. | Se añadió el controlador de citas. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | 1561128e9a0b06b1a0aea6b0edf630cbcddf1e2d | feat(publication): Added delete and put to publication. | Se añadieron las funcionalidades de eliminación y modificación a la publicación. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | af7348abe0d504637df8c67ae64c087a59546adb | feat(apointment): Added appointment entity. | Se añadió la entidad "appointment" | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | 3eb53e573c34f7f6274557dc37d16863a68b951b | feat(apointment): Added appointment repository and service interface. | Se añadieron el repositorio y la interfaz de servicio para las citas. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | 4d2e6028fe44d23c3791c316506c2cd4d70f554b | feat(apointment): Added appointment controller. | Se añadió el controlador de citas. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/appointmentsMentorsStudent | 4d2e6028fe44d23c3791c316506c2cd4d70f554b | feat(appointment): Added list appointments by student and by mentor. | Se añadió la lista de citas por estudiante y por mentor. | 03/11/23 |
+| Leonardo/arquimentor-platform      | feature/publication | c06f025f8e4a9c6e994a9cfac2f2d1b7aba85d7a | feat(publication): Added increment view and like in the publication | Se añadió la funcionalidad de incrementar vistas y likes en la publicación | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | 3d42a1aed6d0b6f494f2d57678a143ef47074c06 | feat(student-profile): add phonenumber and userprofilephoto value objects | Se añadieron objetos de valor para el número de teléfono y la foto de perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | d94fb4ba268b4926bf3ed882ee8471c5e47978f9 | feat(student-profile): add student-profile queries | Se añadieron consultas relacionadas con el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | 1d61184b2287ade94ec8df36c8ce4b96aac2fc7a | feat(student-profile): add student-profile commands | Se añadieron comandos relacionados con el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | 8bcac0c4409aab30d65b32a56779f5fe91a37fd8 | feat(student-profile): add student-profile aggregate | Se añadió un agregado para el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | 1bb1a39dee71703ca4bfe5e9794f634e77a752aa | feat(student-profile): add student-profile services | Se añadieron servicios relacionados con el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | d6b6c2664e85710ca105e1f0d60acf0c1ab34b15 | feat(student-profile): add student-profile repository | Se añadió el repositorio del perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | ff857882f73728953c57af30c9986b3411db2918 | feat(student-profile): add studentprofilequeryserviceimpl | Se implementó el servicio de consultas para el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | d25c5027f07a231f1b645a9fa7f8814d6495d898 | feat(student-profile): add studentprofilecommandserviceimpl | Se implementó el servicio de comandos para el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | d066492e9804ec5f2719bb5438d6e011a1789ccc | feat(student-profile): add student profile resources | Se añadieron recursos relacionados con el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | 1c00ed9c1f1dafca1786f280e005813586f95f0d | feat(student-profile): add studentprofilecommandfromresource,studentprofileentitytoresource and updatestudentprofilecommandfromresource | Se implementaron comandos y conversiones de recursos para el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | c2dc7d7657ec2710579f1aebe2e584244505c5ba | feat(student-profile): add student profile controller | Se añadió el controlador del perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/mentor-profile | 2cc7b0bce09e198234e1c33b636fbe009746455e | feat(mentor-profile): add mentor-profile domain | Se añadió el dominio del perfil del mentor | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/mentor-profile | 6e86372434f98a468101b9660773db08136cdb54 | feat(mentor-profile): add mentor profile repository | Se añadió el repositorio del perfil del mentor | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/mentor-profile | e810921aea9945714c211dc45a491010293ce3af | feat(mentor-profile): add commandservice and queryservice implementation of mentor profile | Se implementó el servicio de comandos y consultas para el perfil del mentor | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/mentor-profile | a88dc210820a288782353cfd294357ff9d54477e | feat(mentor-profile): add mentor profile controller,commands and resources | Se añadió el controlador, los comandos y los recursos del perfil del mentor | 03/11/23 |
+
+
+
+#### 5.3.2. Registro de Entrevistas.
+- Tiempo: 00:00 - 3:35
+- Resumen: En general, Renato nos conto que le gusto la aplicacion web ya que es muy intuitiva de usar pero nos dio la sugerencia que asi como hay chat con el tutor deberia haber un chat de soporte tecnico o con los desarrolladores.
+- Nombres y Apellidos: Renato Honorio
+- Edad: 22 años
+- Distrito: Lima
+- Evidencia de la reunión:https://upcedupe-my.sharepoint.com/:v:/g/personal/u201919295_upc_edu_pe/EZNvvmWNmuNAoCc6OW0ceZgBudwciq0G1cuzaa5csoI3yQ?e=p2zz8M
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1170172282631630868/image.png?ex=655812dc&is=65459ddc&hm=2edd3d1edaf7f62d485ec7d4ff8cdb60501c370c88c98a8549f9498e9ad8e7a6&">
+
+<br/>
+<br/>
 
 Anexos
 
