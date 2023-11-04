@@ -2619,5 +2619,4 @@ Se recomienda implementar una función clara y visible que permita a los usuario
 ### 5.4. Video About-the-Product.
 
 ## Anexos
-
-Link de la exposición de la TP: https://drive.google.com/drive/folders/1W7pyh5Gg20AIUY06Ad2w19tpYBC8ezvs?usp=sharing
+https://drive.google.com/drive/folders/13uvCkK3FR9rvo__T7R1CtxWF8VzKb8X9?usp=sharing
