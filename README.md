@@ -1120,8 +1120,8 @@ En esta sección, se presenta el Product Backlog de Arquimentor, que incluye una
 
 | # Orden | User Story ID | Título                                                  | Descripción	                                                                                                                                              | Story Point (1/2/3/5/8) |
 |---------|--------|---------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| 1       | US019  | 	Conocer a Arquimentor a través del landing page        | 	Como visitante del landing page quiero conocer a Arquimentor para reforzar mi confianza en la plataforma.	                                               | 5                       |
-| 2       | US020  | Reconocer las ventajas de Arquimentor a través del landing page | 	Como visitante del landing page quiero conocer las ventajas de la plataforma para saber si se ajusta a lo que necesito.	                                 | 5                       |
+| 1       | US019  | 	Conocer a Arquimentor a través del landing page        | 	Como visitante del landing page quiero conocer a Arquimentor para reforzar mi confianza en la plataforma.	                                               | 2                       |
+| 2       | US020  | Reconocer las ventajas de Arquimentor a través del landing page | 	Como visitante del landing page quiero conocer las ventajas de la plataforma para saber si se ajusta a lo que necesito.	                                 | 3                       |
 | 3       | US024  | 	Configurar la Base de Datos                            | Como desarrollador, quiero configurar una base de datos para almacenar información de usuarios y propiedades.                                             | 8                       |
 | 4       | US006  | 	Búsqueda de asesor                                     | 	Como usuario estudiante quiero buscar a un asesor para que me oriente en mi proyecto.	                                                                   | 5                       |
 | 5       | US010  | 	Recibir, aceptar o rechazar una solicitud de un estudiante | 	Como usuario asesor quiero recibir una solicitud y poder aceptar o rechazar para enseñar y orientar a un estudiante.                                     | 	5                      |
@@ -2052,11 +2052,11 @@ El objetivo principal del Sprint 2 es tener una primera version de nuestra Front
 |:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
 |               | Work-Item / Task |
 | User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
+|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
+|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Juliana Yauricasa       | Done|
 |     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Juliana Yauricasa       | In-Process|
 |     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Juliana Yauricasa       | In-Process|
 |     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Kurt Puican &  Diego Ramirez | In-Process|
-|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
-|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Juliana Yauricasa       | Done|
 |     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Juliana Yauricasa       | Done|
 |     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Rafael            | Done|
 
@@ -2166,7 +2166,7 @@ Para este Sprint la duración fue de 3 semanas teniendo como objetivo nuestra pr
 |            Sprint #             |                                                                                                                Sprint 3                                                                                                                |
 |:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | **Sprint Planning Background**  |                                                                                                                                                                                                                                        |
-|              Date               |                                                                                                               2023-10-21                                                                                                               |
+|              Date               |                                                                                                               2023-10-14                                                                                                               |
 |              Time               |                                                                                                                08:24 PM                                                                                                                |
 |            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
 |           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
@@ -2176,33 +2176,46 @@ Para este Sprint la duración fue de 3 semanas teniendo como objetivo nuestra pr
 | **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
 |          Sprint 2 Goal          |                                                       Goal: Tener la 1era versión del backend terminada <br> Metrica de cumplimiento:Se muestra la primera version del backend.                                                        |
 |        Sprint 2 Velocity        |                                                                                              Para esta entrega se aeptara 25 story points                                                                                              |
-|       Sum of Story Points       |                                                                                                     Suma de los Story Points:                                                                                                      |
+|       Sum of Story Points       |                                                                                                       Suma de los Story Points:                                                                                                        |
 
-#### 5.2.2.2 Sprint Backlog 2
+Evidencia de la reunion:
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170226095841353908/5c88a53b-99e5-4270-b112-030b4f1f5536.png?ex=655844fa&is=6545cffa&hm=515207cd3bc17d2eda98dadb0cd6fdeeebf92e152e6a248b65de17e2cd112c82&">
+
+#### 5.2.3.2 Sprint Backlog 3
 
 El objetivo principal del Sprint 2 es tener una primera version de nuestra Backend del sitio web, para ir mejorando las peticiones y ver los posibles errores que podriamos detectar.
 <br>La herramienta usada para el Board del sprint fue Trello: https://trello.com/b/vbA9btPB/sprint-3-arquimentor
 
-<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1156447179339202670/image.png?ex=651500dd&is=6513af5d&hm=14addda1bf5be1fd598efa77999f990c5bc26d81979ec7b22ec27324e3c94744&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170243437094768640/image.png?ex=65585521&is=6545e021&hm=ed089ff4e56193441dcc3059f00cf50a8570dd1bd87f4cd0666ef6ad00144f60&">
 
 
-|   Sprint #    |     Sprint 3     | | |                              ||
-|:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
-|               | Work-Item / Task |
-| User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
-|     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Juliana Yauricasa       | In-Process|
-|     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Juliana Yauricasa       | In-Process|
-|     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Kurt Puican &  Diego Ramirez | In-Process|
-|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
-|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Juliana Yauricasa       | Done|
-|     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Juliana Yauricasa       | Done|
-|     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Rafael            | Done|
+|  Sprint #  |                   Sprint 3                   |                  |                        |                                                                 |                   |                              |                                          |
+|:----------:|:--------------------------------------------:|:----------------:|:----------------------:|:---------------------------------------------------------------:|:-----------------:|:----------------------------:|:----------------------------------------:|
+| User Story |                                              | Work-Item / Task |
+|     Id     |                    title                     |        Id        |         Title          |                           Description                           | Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done) |
+|   US023    |       Solicitar una cita con un mentor       |        2         |   Realizar una cita    |                Empieza la solicitud de una cita                 |        3 h        |    Juliana Yauricasa         |                To-review                 |
+|   US024    |        Confirmar una cita como mentor        |        2         |   Realizar una cita    |          El mentor confirma la solicitud del studiante          |        1 h        |      Juliana Yauricasa       |                   Done                   |
+|   US025    |        Rechazar una cita como mentor         |        2         |   Realizar una cita    |            El mentor rechaza la cita del estudiante             |        1 h        | Kurt Puican &  Diego Ramirez |                   Done                   |
+|   US026    |              Cancelar una cita               |        2         |   Realizar una cita    |             El mentor o estudinate cancela la cita              |        1 h        |        Leonardo Lopez        |                   Done                   |
+|   US019    |              Crear Publicación               |        1         |   Ver publicaciones    |              El mentor crea una nueva publicación               |        2 h        |      Juliana Yauricasa       |                To-review                 |
+|   US012    |        Listar publicaciones recientes        |        1         |   Ver publicaciones    |           Se lista las 4 publicaciones mas recientes            |        2 h        |      Juliana Yauricasa       |                In-Process                |
+|   US009    |   Administrar los certificados del mentor    |        4         |  Modificar el perfil   | El mentor puede publicar sus diversas certificaciones que posee |        2 h        |            Rafael            |                  To-do                   |
+|   US027    |         Listar citas por estudiantes         |        3         |       Ver citas        |    Se listaran todas las citas de un estudiante determinado     |        3 h        |        Leonardo Lopez        |                To-review                 |
+|   US028    |          Listar citas de un mentor           |        3         |       Ver citas        |      Se listaran todas las citas de un mentor determinado       |        2 h        |        Leonardo Lopez        |                To-review                 |
+|   US014    |      Listar publicaciones de un mentor       |        1         |   Ver publicaciones    |     Se listaran las publicaciones de un determinado mentor      |        3 h        |            Rafael            |                To-review                 |
+|   US015    |              Editar publicación              |        5         | Manipular pblicaciones |            Se podra editar la publicación ya creada             |        3 h        |            Rafael            |            Done                          |
+|   US016    |             Eliminar publicación             |        5         | Manipular pblicaciones |            Se eliminara la publicacion seleccionada             |        2 h        |            Rafael            |                   Done                   |
+|   US020    | Incrementar número de vistas por publicación |        5         | Manipular pblicaciones |          Aumentara el nmero de vistas por publicación           |        2 h        |            Rafael            |                To-review                 |
+|   US021    | Incrementar número de likes por publicación  |        5         | Manipular pblicaciones |          Aumentara el numero de likes por publicación           |        2 h        |            Rafael            |                To-review                 |
+|   US007    |      Modificar el perfil del studiante       |        4         |  Modificar el perfil   |            Se modificara el perfil de un estudiante             |        2 h        |            Rafael            |                To-review                 |
+|   US008    |       Modificar el perfil del mentor         |        4         |  Modificar el perfil   |         Se podra modificar el perfil de un mentor               |        2 h        |            Rafael            |                To-review                 |
 
 
-#### 5.2.2.3 Development Evidence for Sprint Review
+#### 5.2.3.3 Development Evidence for Sprint Review
 
 
-En la siguiente tabla se mostrara algunos de los commits mas importantes realizados por cada developer del Sprint 2.
+En la siguiente tabla se mostrará algunos de los commits más importantes realizados por cada developer del Sprint 2.
 
 |           Repository            |         Branch          |Commit Id |                       Commit Message                       |                                    Commit Message Body                                    | Commited on (Date) |
 |:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
@@ -2221,7 +2234,7 @@ Como resumen del sprint 3 se realizaron los diferentes HU, algunos completandolo
 
 <!--agregar imagenes de web service-->
 
-<img src="">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170263520034684948/image.png?ex=655867d5&is=6545f2d5&hm=bca445f06644e0db3b8c5403afc92417c4f0f2ce4a3cf82a4375aa8a9bba2e71&">
 
 #### 5.2.2.6 Services Documentation Evidence for Sprint Review.
 
@@ -2230,32 +2243,72 @@ En el Sprint 2, hemos realizado avances significativos en la documentación de n
 Repositorio: https://github.com/Open-Developers-SW51/arquimentor-platform
 
 Id de los commits relacionados con el Sprint:
-<img src="">
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170264927181754378/image.png?ex=65586925&is=6545f425&hm=ac3d2362389d051ef59cd608b0ffaf63312fb5ffe763c08eaefe36ba8d3479ce&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170265016281354300/image.png?ex=6558693a&is=6545f43a&hm=b9f1dce0358acd858c1c0acddd0353b0969f97ac2d3280da31fa5291bd5c59c9&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170265065442783292/image.png?ex=65586946&is=6545f446&hm=2caef2c633f94510e037392ad0a326cce3ebce49df06506d94ebfbb22ebbfdd7&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170265100511346748/image.png?ex=6558694e&is=6545f44e&hm=2517b903e0b9f7b1ebf338895e072662c45e58997fb7134f84399ff11a530c7c&">
+
+Avances del Web Services:
+
+
 
 **Endpoints Documentados**
 
-|            Endpoint	             | Acción  | Verbo HTTP |          Parámetros          |                                                                                  Ejemplo de Request                                                                                  |                    Respuesta                     |  Captura   |                          
-|:--------------------------------:|:-------:|:----------:|:----------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------:|:----------:|
-|       /api/v1/publications       | Listar  |    GET     |           Ninguno            |                                                                                                                                                                                      |             Listado de publicaciones             | <img src=""> |
-|       /api/v1/publications       |  Crear  |     POST     |           Ninguno            | {  "title": "Maqueta de 3 niveles con soporte",<br/>"description": "Esta es una maqueta rea....",<br/>"image": "http://discord...",<br/>"telephone": "999888777",<br/>"idMentor": 1} |         Publicación creada  exitosamente         |<img src=""> |
-| /api/v1/publications/{studentId} | Listar  |    GET     | Mentorid(int):Id del mentor  |                                                                                /api/v1/publications/5                                                                                | Listado de las publicaciones del mentor con Id 5 |<img src="">  |
-|     /api/v1/publication/{Id}     | Obtener |    GET     | id(int):Id de la publicación |                                                                                /api/v1/publication/3                                                                                 |           Detalle de la publicación 3            | <img src="">  |
-|         /api/v1/students         | Listar |    GET     |           Ninguno            |                                                                                                                                                                                      |               Lista de estudiantes               | <img src="">  |
-|         /api/v1/students         | Crear |    POST     |                              |       {"firstName": "leonardo",<br/>"lastname": "lopez",<br/>"email": "leonardo@gmail.com",<br/>"password": "Leonardo_123"}                                                          |                Estudiante creado                 | <img src="">  |
-|        /api/v1/students/{Id}       | Listar |    GET     |  id(int):Id del estudiante   |                                                                                                                                                                                      |             Detalle del estudiante 2             | <img src="">  |
+|                     Endpoint	                     |  Acción   | Verbo HTTP |                Parámetros                |                                                                   Ejemplo de Request                                                                   |                    Respuesta                     |  Captura   |                          
+|:-------------------------------------------------:|:---------:|:----------:|:----------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------:|:----------:|
+|               /api/v1/publications                |  Listar   |    GET     |                 Ninguno                  |                                                                                                                                                        |             Listado de publicaciones             | <img src=""> |
+|               /api/v1/publications                |   Crear   |    POST    |                 Ninguno                  | {  "title": "Maqueta de 3 niveles con soporte",<br/>"description": "Esta es una maqueta rea....",<br/>"image": "http://discord...",<br/>"idMentor": 1} |         Publicación creada  exitosamente         |<img src=""> |
+|         /api/v1/publications/{studentId}          |  Listar   |    GET     |       Mentorid(int):Id del mentor        |                                                                 /api/v1/publications/5                                                                 | Listado de las publicaciones del mentor con Id 5 |<img src="">  |
+|             /api/v1/publication/{Id}              |  Obtener  |    GET     |       id(int):Id de la publicación       |                                                                 /api/v1/publication/3                                                                  |           Detalle de la publicación 3            | <img src="">  |
+|                 /api/v1/students                  |  Listar   |    GET     |                 Ninguno                  |                                                                                                                                                        |               Lista de estudiantes               | <img src="">  |
+|                 /api/v1/students                  |   Crear   |    POST    |                                          |                 {"firstName": "leonardo",<br/>"lastname": "lopez",<br/>"email": "leonardo@gmail.com",<br/>"password": "Leonardo_123"}                  |                Estudiante creado                 | <img src="">  |
+|               /api/v1/students/{Id}               |  Listar   |    GET     |        id(int):Id del estudiante         |                                                                                                                                                        |             Detalle del estudiante 2             | <img src="">  |
+|               /api/v1/appointments                |   Crear   |    POST    |                 Ninguno                  |                                                                                                                                                        |    Creacion de una cita con estado solicitado    | <img src="">  |
+|   /api/v1/appointments/{apoitmentId}/rejections   | modificar |    POST    |   apoitmentId(int): Id del appointment   |                                                                                                                                                        |   Cambia el estado del appointment a rechazado   | <img src="">  |
+| /api/v1/appointments/{apoitmentId}/confirmations  | modificar |    POST    |   apoitmentId(int): Id del appointment   |                                                                                                                                                        |  Cambia el estado del appointment a confirmado   | <img src="">  |
+|  /api/v1/appointments/{apoitmentId}/cancelations  | modificar |    POST    |   apoitmentId(int): Id del appointment   |                                                                                                                                                        |   Cambia el estado del appointment a cancelado   | <img src="">  |
+| api/v1/publications/{publicationId}/incrementView | modificar |    POST    | publicationId(int): Id de la publicación |                                                          api/v1/publications/2/incrementView                                                           |     Incrementarla vista de la publicación 2      | <img src="">  |
+| api/v1/publications/{publicationId}/incrementLike | modificar |    POST    | publicationId(int): Id de la publicación |                                                          api/v1/publications/2/incrementLike                                                           |      Incrementarla like de la publicación 2      | <img src="">  |
+|       api/v1/mentors/{mentorId}/publicaions       |  Listar   |    GET     |       mentorId(int): Id del mentor       |                                                             api/v1/mentors/2/publications                                                              |      Listar las publicaciones del mentor 2       | <img src="">  |
+|      api/v1/mentors/{mentorId}/appointments       |  Listar   |    GET     |         mentorId(int): Id del mentor         |                                                             api/v1/mentors/2/appointments                                                              |          Listar las citas del mentor 2           | <img src="">  |
+|        api/v1/publications/{publicationId}        |     Eliminar     |   DELETE   |   publicationId(int): Id de la publicación   |                                                                                                                                                        |             Eliminar la publicación              | <img src="">  |
+
+Creación de la publicación
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170267528535220305/image.png?ex=65586b91&is=6545f691&hm=332485093bcb85aa1d11958c21839d02bf05c6539e4d5b39cb960a3aff5f6d40&">
+
+Incrementar de las vistas y los likes
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170267749109481502/image.png?ex=65586bc5&is=6545f6c5&hm=7dad3bf4f152cc079b57b3ecd96bbd9450100179bbb60279376376f824c528d3&">
+
+Cambiar el estado de las citas
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170267978479173713/image.png?ex=65586bfc&is=6545f6fc&hm=a239b8ffa548bdd9eef709a4e85ca0b777692c2aedf66e000ce1e63e57886b02&">
+
+Listar las publicaciones por un mentorId
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170268148289765476/image.png?ex=65586c25&is=6545f725&hm=005ba79e026e5a6dd72bc504ccecb52035e91c81c00b7dcab9d3d2ce9e813976&">
 
 
 #### 5.2.2.7 Software Deployment Evidence for Sprint Review.
 
 En el Sprint 3, hemos llevado a cabo una serie de actividades relacionadas con el Deployment de nuestros productos, que incluyen los web services.A continuación, se detallan las acciones clave realizadas durante este Sprint en relación con el despliegue.
 
--Creación del navegador
-<img src="">
+-Creación del Web Service
+
 
 
 #### 5.2.2.8 Team Collaboration Insights during Sprint.
 
+Para el desarrollo del web service usamos gitflow con convetional commits para mejorar el ordenamiento 
 
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170271968143101972/image.png?ex=65586fb3&is=6545fab3&hm=5a7c6f94c308a0d712accd27f2e73d634a9ce99c17c43142815639847ee7ad4e&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272135474839613/image.png?ex=65586fdb&is=6545fadb&hm=ed6aa68f6b90dd064c7890e6d4fe9e12ddc249b5e777ea1c28811346521bcae1&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272215187587112/image.png?ex=65586fee&is=6545faee&hm=835afff887614bc8a09b58be85c82def144259cde12369a385bd82b076c1129f&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272538597806130/image.png?ex=6558703b&is=6545fb3b&hm=6fde34106f23e6bd7fcdd9ba100f5f2185e34b0d085b9f0430152a5b774bec0b&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272586417053726/image.png?ex=65587047&is=6545fb47&hm=5b1744f9e3041ba1ac570a696987783de80fffb541b73288005d86b2ad4bdc0a&">
 Anexos
 
 Link de la exposición de la TP: https://drive.google.com/drive/folders/1W7pyh5Gg20AIUY06Ad2w19tpYBC8ezvs?usp=sharing
