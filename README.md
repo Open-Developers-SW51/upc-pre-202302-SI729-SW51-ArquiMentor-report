@@ -1,4 +1,4 @@
-3# Universidad Peruana de Ciencias Aplicadas.
+# Universidad Peruana de Ciencias Aplicadas.
 ### Ingeniería de Software.
 ### Desarrollo de Aplicaciones Open Source.
 ### SW51
@@ -25,28 +25,73 @@
 
 ## Registros de versiones del Informe
 
-| Version |  Fecha   | Autor                                                                                      | Descripción de la modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|:-------:|:--------:|:-------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    1    | 02/09/23 | Leonardo Lopez</br>Kurt Puican </br>Rafael Luyo</br>Diego Ramirez</br>Juliana Yauricasa    | Culminación de los siguientes capítulos:</br></br>Capítulo I: Introducción</br>Se presenta el proyecto, comenzando con una descripción detallada de la startup y sus miembros fundadores. Se exploran los desafíos y problemas actuales que enfrenta la startup, empleando un enfoque de Lean UX para identificar problemas, Assumptions e Hypothesis Statements . Además, se delinean los segmentos objetivo para la solución propuesta.</br></br>Capítulo II: As-Is Software Solution Requirements Elicitation & Analysis</br>Se realiza un análisis del entorno competitivo de la startup, investigando estrategias y tácticas frente a los competidores. Se llevan a cabo entrevistas con el fin de obtener información esencial de los usuarios. Varias técnicas, como el diseño de entrevistas, el registro y análisis de entrevistas, y la identificación de necesidades a través de la creación de User Personas, User Task Matrix, User Journey Mapping y Empathy Mapping, son empleadas para este propósito.</br></br>Capítulo III: As-Is Software Solution Requirements Specification</br>Se especifican los requisitos del software. Se crean los To-Be Scenario Mapping y las User Stories. Además, se utiliza el Impact Mapping para visualizar cómo las funcionalidades afectan a los objetivos del proyecto y se establece un Product Backlog.</br></br>Capítulo IV: Product Design</br>Se diseña el producto, incluyendo pautas de estilo, arquitectura de la información, diseño de la página de aterrizaje, UX/UI de aplicaciones web, prototipado, arquitectura de software, diseño orientado a objetos y diseño de base de datos.</br></br>Capítulo V: Product Implementation, Validation & Deployment</br>Se desarrolla la implementación, validación y despliegue del producto, incluyendo gestión de configuración, implementación de páginas y aplicaciones, validación a través de entrevistas y pruebas, y finalmente, el despliegue del software. |
-|    2    | 26/09/23 | Leonardo Lopez</br>Kurt Puican </br>Rafael Luyo</br>Diego Ramirez</br>Juliana Yauricasa    | Mejora continua: Corrección de los siguientes capítulos: </br>  Capítulo III: As-Is Software Solution Requirements </br> Agregar user stories para la landing page y las technical stories, priorizar las user stories de acuerdo al core del negocio, mejora del impact mapping.<br/>CapituloV: Se agregaron todos los componentes faltantes del sprint 2, siendo un trabajo colaborativo entre todos.<br/>Mejora en las entrevistas, parte del timing y descripción.<br/>Creación de la versión 1 del frontend del sitio web usando angular y la arquitectura C4. <br/>Corrección de la landing page. <br/>Correción del modelo C4.<br/>Creación del Student Outcome con todas sus celdas completadas por cada participante.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| Version |  Fecha   | Autor             | Descripción de la modificación                                                                                                                                                                                                                                                                                                   |
+|:-------:|:--------:|:------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1    | 07/09/23 | Leonardo López    | -Implementación del Web Applications Wireframes.<br>-Implementación del Web Applications Wireflow Diagrams.<br>-Implementación del Web Applications Prototyping.<br>-Elaboración del Software Configuration Management.<br>-Elaboración del sprint 1.                                                                            |      
+|    1    | 07/09/23 | Rafael Luyo       | - Implementación del Web Landing Page UI Design.<br>-Implementación de Database.<br>-Implementación del Landing Page Deployment.<br>                                                                                                                                                                                             |
+|    1    | 08/09/23 | Juliana Yauricasa | - Elaboración de los To-Be Scenario Mapping.<br>- Elanboración de las User Stories y Epics.<br>- Elaboración del Impact Mapping<br>- Elaboración del Product Backlog.                                                                                                                                                            |
+|    1    | 08/09/23 | Diego Ramirez     | - Elaboración de los Diagramas C4 <br>- Implementación de la entrevista  <br> - Implementación del diagrama de clases                                                                                                                                                                                                                                                                                                                   |
+|    1    | 07/09/23 | Kurt Puican       | - Elaboracion del capitulo 1 y 2<br>-  Implementacion de los componentes de review y chat <br/>                                                                                                                                                                                                                                   |
+|    2    | 26/09/23 | Leonardo López    | - Elaboración del Sprint Planning 2 y Sprint Backlog 2.<br>-Corrección de la descripción de entrevistas, sprit 1 y lean UX Process.<br>-Elaboracion de la interfaz y siderbar del frontend.                                                                                                                                       |
+|    2    | 28/09/23 | Rafael Luyo       | - Correcion de la Database.<br>-Implementación de Database.<br>-Implementación del Landing Page<br>-Implementación del componente de Student Profile, Mentor Profile<br>                                                                                                                                                         |
+|    2    | 24/09/23 | Juliana Yauricasa | - - Corrección de las User Stories y Epics.<br>- Correción de formato.<br>- Corrección del Product Backlog.<br>- Corrección del diagrama de clases.<br>- Implementacion de componentes login y register.                                                                                                                         |
+|    2    | 28/09/23 | Diego Ramirez     | - Corrección de los diagramas C4 <br>- Corrección del diagrama de clases                                                                                                                                                                                                                                                                                                                           |
+|    2    | 28/09/23 | Kurt Puican       | - mejoras con respecto a los componentes existentes asi como mejoras en el imforme <br>-                                                                                                                                                                                                                                         |
+|    3    | 14/10/23 | Leonardo López    | - Corrección del sprint Backlog 2, registro de versiones y Collaboration Insights.<br>-Elaboración de ....                                                                                                                                                                                                                        |
+|    3    | 14/10/23 | Rafael Luyo       | - <br>- Mejora en el componente de Student Profile y Mentor Profile - <br>-  Creacionn de Student Profile y Mentor Profile en el backend - <br>- Registro de Development Evidence for Sprint Review.                                                                                                                             |
+|    3    | 04/11/23 | Juliana Yauricasa | - Corrección del Product Backlog.<br>- Corrección de los criterios de aceptación.<br>- Implementación del componente subscription.<br>- Creación de los features e implementación de los test.                                                                                                                                   |
+|    3    | 14/10/23 | Diego Ramirez     | - Implementación de la evaluaciónd e heurística <br>- Edición de los diagramas C4                                                                                                                                                                                                                                                                                                                           |
+|    3    | 14/10/23 | Rafael Luyo       | - <br>-                                                                                                                                                                                                                                                                                                                          |
+|    3    | 14/10/23 | Kurt Puican       | - Elaboracion de las heuristicas asi como tambien el backend de reviews <br>-Entrevistas a los segmentos de estudiante y tutor mostrando la landing page                                                                                                                                                                         |
+
 <br>
 
 # Project Report Collaboration Insights
 
 URL del repositorio para el Project Report: https://github.com/Open-Developers-SW51/upc-pre-202302-SI729-SW51-ArquiMentor-report
 
+### Version 1 (TB1)
 La elaboración del proyecto se realizó mediante el github en formato Markdown usando la metodología GitFlow.
-
-<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1156263561753014342/image.png?ex=651455db&is=6513045b&hm=56dc6a2bd4255d1cc425ea3f91facc1eda01265ace660386407bc0c8192d0903&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1162841550770929674/image.png?ex=653d6796&is=652af296&hm=745f1b100dfe78e144d17c404bb45ca30715a064441f5e30b5f41e4b4e674c5d&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1162841736926736454/image.png?">
 
 Para los commits se utilizo Conventional Commits.
 
-<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1156264608852607037/image.png?ex=651456d5&is=65130555&hm=0127e1211c246f901d004f67b4a3e23c3670cd85519fde38240e4e9b0160d9a1&">
-<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1156269150159781938/image.png?ex=65145b0f&is=6513098f&hm=c7eb7e66dba9cfe0078c690abf740ee57f168425ba27ddd40177fc285325eb61&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1162844649715683378/image.png?ex=653d6a79&is=652af579&hm=5a6e858728218b73939094d678ccbb021d364be72fc9d01827ae666ec8b7e3a5&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1162844799536214077/image.png?ex=653d6a9c&is=652af59c&hm=eed526bae6f8f1b0a700b52985ba5f4e8854c84187953d2f82a19e655c5f0cd7&">
+
+
+
+### Version 2 (TP1)
+La elaboración del proyecto se realizó mediante el github en formato Markdown usando la metodología GitFlow.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1162842011360055346/image.png?ex=653d6804&is=652af304&hm=b499e48c6d40cc40460385706cfe841686db2dd6c2a176e6ac9b4fca111eeed3&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1162842104851087450/image.png?ex=653d681a&is=652af31a&hm=036b5d4d0643c8cc44d7213362f49f6ba8a47fee6297b7b09d5f4322270da48f&">
+
+Para los commits se utilizo Conventional Commits.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1162845582956691486/image.png?ex=653d6b57&is=652af657&hm=fbbe301d6d1ae23c225f17e1de72f95e118a266355b8922681924c12f10a6883&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1162845674929397780/image.png?ex=653d6b6d&is=652af66d&hm=e269314c6d0c1e3e5e114af16d52247ac26043f72d35850a8cd0f6297b0be427&">
 
 Los colaboradores en el proyecto se muestra en la siguiente imagen, con las cantidades respectivas de commits.
 
 <img src="https://cdn.discordapp.com/attachments/1149549726748921942/1156268138871128194/image.png?ex=65145a1e&is=6513089e&hm=4f3b87121aca23e7d234fcd2cb6e596b187a59f71d017e4b96c6d5a55f8d471a&">
+
+### Version 3 (TB2)
+La elaboración del proyecto se realizó mediante el github en formato Markdown usando la metodología GitFlow.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272135474839613/image.png?ex=65586fdb&is=6545fadb&hm=ed6aa68f6b90dd064c7890e6d4fe9e12ddc249b5e777ea1c28811346521bcae1&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272215187587112/image.png?ex=65586fee&is=6545faee&hm=835afff887614bc8a09b58be85c82def144259cde12369a385bd82b076c1129f&">
+
+Para los commits se utilizo Conventional Commits.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272538597806130/image.png?ex=6558703b&is=6545fb3b&hm=6fde34106f23e6bd7fcdd9ba100f5f2185e34b0d085b9f0430152a5b774bec0b&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272586417053726/image.png?ex=65587047&is=6545fb47&hm=5b1744f9e3041ba1ac570a696987783de80fffb541b73288005d86b2ad4bdc0a&">
+
+Los colaboradores en el proyecto se muestra en la siguiente imagen, con las cantidades respectivas de commits.
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170271968143101972/image.png?ex=65586fb3&is=6545fab3&hm=5a7c6f94c308a0d712accd27f2e73d634a9ce99c17c43142815639847ee7ad4e&">
 
 <br><br>
 # Contenido
@@ -159,10 +204,12 @@ En Ingeniería de Software el logro de curso contribuye a alcanzar el:
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
-| Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | López Huarcaya, Leonardo Paul </br>*TB1* </br> Entrevista a un estudiante de la carrerra de arquitectura para la elaboracion del proyecto.<br> Exposición del apartado Web Applications UX/UI Design.<br>*TP*<br> Corrección de la entrevista al estudiante de arquitectura.<br>Recoleccion de información con algunos estudiantes de arquitectura.<br><br>Kurt Puican </br>*TB1* </br> Entrevista a un asesor de la carrera de arquitectura para la elaboracion del proyecto.Expocicion del apartado del capitulo 1 y 2 <br>*TP*</br>Correccion de la entrevista hacia el asesor de arquitectura<br>Rafael Luyo</br>*TB1* </br> Entrevista a un estudiante de la carrerra de arquitectura para la elaboracion del proyecto.<br> Exposición del apartado Web Landing Page UI Design, Database, Landing Page Deployment.<br>*TP*<br> Corrección de la entrevista al estudiante de arquitectura.</br> <br>Diego Ramirez<br>*TB1*<br>Entrevista a una estudiante de la carrera de arquitectura para el analisis de nuestro segmento objetivo. Exposición de los diagramas C4 <br><br>*TP*<br>Correcciones en la entrevista a la estudiante de arquitectura para más información.<br></br>Juliana Yauricasa</br>*TB1*</br>Entrevista a un estudiante de arquitectura.</br>Exposición de la sección de especificación de requisitos.</br>*TP*</br>Corrección de la entrevista del estudiante de arquitectura. | 	Las entrevistas realizadas por todo el equipo nos ayudaron a poder plantear nuevas necesidades y elabaroar las funcionalidades del sitio web.<br><br>Las correcciones establecidas fueron de gran ayuda para mejorar nuestra vision de negocio, inclusive modificando algunas funcionalidades para la mejora del proyecto.</br> <br> Hablar con claridad y objetividad sobre nuestras ideas y logros fue clave en nuestro proyecto de ingeniería. Cuando tuvimos reuniones y presentaciones, nos ayudó a explicar nuestras ideas de manera directa a personas con diferentes conocimientos y roles. Esta comunicación fluida nos permitió obtener consejos valiosos y asegurarnos de que todos estuvieran en la misma página, lo que fue fundamental para el éxito de nuestro proyecto</br>                                                                                                                                                                           |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | López Huarcaya, Leonardo Paul </br>*TB1* </br> Elaboración del Web Aplications UX/UI Design.<br>Elaboración del Sprint 1.<br>Elaboración del Software Configuration Management.<br>*TP*<br> Corrección de mis partes elaboradas de la primera entrega.<br>Elaboración del sprint 2.<br><br>Kurt Puican </br>*TB1*</br>Creacion del studen outcome,la solution profile,user persona,journey,empathy,canvas y LeanUx, asi mismo como todo el cap 2</br>*TP*</br>Correccion de mis partes de la tb1 que estaban de forma incorrecta, asi mismo como la elaboracion de mis componentes y la correccion de la entrevista</br> Rafael Luyo</br>*TB1*</br>Creación de Landing Page Ui Design, Database.</br>*TP*</br>Corrección de Database y Landing Page.<br>Mejora de redaccion de entrevista</br><br>Diego Ramirez<br>*TB1*<br> Elaboración de los diagramas C4 de nuestra arquitectura de software<br>*TP*<br>Correcciones en el diagrama de contenedores y de componentes. Elaboración del sprint 2</br>Juliana Yauricasa</br>*TB1*</br>Creación de las user stories y la especificación de requisitos.</br>*TP*</br>Corrección de la especificación de requisitos, priorización del Product Backlog y los criterios de aceptación.<br>Elaboración del Sprint 2. | La elaboración del informe nos ayudo a idcar y organizar nuestro proyecto, tanto como las funcionalidades, los requisitos, las problematicas y diseños. Todo esto necesario para poner en marcha la elaboración del Web Aplications.<br><br>Las correcciones que se realizaron en el proyecto ayudaron a crear nuevas funcionalidades para el Web Applications. <br><br> El desarrollo del sprint facilita la organización para la creación del Sitio Web.</br><br>Expresar nuestras ideas y resultados por escrito de manera clara y objetiva fue esencial en nuestro proyecto de ingeniería. Cuando escribimos informes y documentos, nos ayudó a organizar la información de manera ordenada, lo que permitió que personas con diferentes antecedentes y roles la entendieran fácilmente. Esta comunicación por escrito precisa y objetiva fue fundamental para guiar nuestro trabajo y garantizar que todos estuvieran en la misma sintonía en nuestro equipo</br> |
+
+| Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | López Huarcaya, Leonardo Paul </br>*TB1* </br> Entrevista a un estudiante de la carrerra de arquitectura para la elaboracion del proyecto.<br> Exposición del apartado Web Applications UX/UI Design.<br>*TP*<br> Corrección de la entrevista al estudiante de arquitectura.<br>Recoleccion de información con algunos estudiantes de arquitectura.<br/>*TB2*<br/>Entrevista a un estudiante de Arquitectura traz haber interctuado con el Website.<br/>Exposición del Sprint 3 y las algunas funcionalidades del Website para el docente.<br><br>Kurt Puican </br>*TB1* </br> Entrevista a un asesor de la carrera de arquitectura para la elaboracion del proyecto.Expocicion del apartado del capitulo 1 y 2 <br>*TP*</br>Correccion de la entrevista hacia el asesor de arquitectura<br>TB2<br>Elaboracion del las evaluaciones segun heuristicas como tambien las entrevistas a los segmentos</br>Rafael Luyo</br>*TB1* </br> Entrevista a un estudiante de la carrerra de arquitectura para la elaboracion del proyecto.<br> Exposición del apartado Web Landing Page UI Design, Database, Landing Page Deployment.<br>*TP*<br> Corrección de la entrevista al estudiante de arquitectura.</br> <br>Diego Ramirez<br>*TB1*<br>Entrevista a una estudiante de la carrera de arquitectura para el analisis de nuestro segmento objetivo. Exposición de los diagramas C4 <br><br>*TP*<br>Correcciones en la entrevista a la estudiante de arquitectura para más información.<br></br>*TB3*</br> Entrevista a un asesor y estudiante para validar lo realizado. Realización de la evaluación de heuristica y exposición de ello.<br></br>Juliana Yauricasa</br>*TB1*</br>Entrevista a un estudiante de arquitectura.</br>Exposición de la sección de especificación de requisitos.</br>*TP*</br>Corrección de la entrevista del estudiante de arquitectura. </br>*TB2*</br>Entrevista a un estudiante de arquitectura y exposición del test. | 	Las entrevistas realizadas por todo el equipo nos ayudaron a poder plantear nuevas necesidades y elabaroar las funcionalidades del sitio web.<br><br>Las correcciones establecidas fueron de gran ayuda para mejorar nuestra vision de negocio, inclusive modificando algunas funcionalidades para la mejora del proyecto.</br> <br> Hablar con claridad y objetividad sobre nuestras ideas y logros fue clave en nuestro proyecto de ingeniería. Cuando tuvimos reuniones y presentaciones, nos ayudó a explicar nuestras ideas de manera directa a personas con diferentes conocimientos y roles. Esta comunicación fluida nos permitió obtener consejos valiosos y asegurarnos de que todos estuvieran en la misma página, lo que fue fundamental para el éxito de nuestro proyecto</br>                                                                                                                                                                           |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | López Huarcaya, Leonardo Paul </br>*TB1* </br> Elaboración del Web Aplications UX/UI Design.<br>Elaboración del Sprint 1.<br>Elaboración del Software Configuration Management.<br>*TP*<br> Corrección de mis partes elaboradas de la primera entrega.<br>Elaboración del sprint 2.<br/>*TB2*<br/>Corrección del sprint Backlog 2 y la documentacion del sprint 3.<br/>Elaboración del Validation Interviews.<br><br>Kurt Puican </br>*TB1*</br>Creacion del studen outcome,la solution profile,user persona,journey,empathy,canvas y LeanUx, asi mismo como todo el cap 2</br>*TP*</br>Correccion de mis partes de la tb1 que estaban de forma incorrecta, asi mismo como la elaboracion de mis componentes y la correccion de la entrevista</br> Rafael Luyo</br>*TB1*</br>Creación de Landing Page Ui Design, Database.</br>*TP*</br>Corrección de Database y Landing Page.<br>Mejora de redaccion de entrevista</br><br>Diego Ramirez<br>*TB1*<br> Elaboración de los diagramas C4 de nuestra arquitectura de software<br>*TP*<br>Correcciones en el diagrama de contenedores y de componentes. Elaboración del sprint 2</br></br>*TB3*</br>Agregar y editar los diagramas C4 y la evaluación de heurística</br>Juliana Yauricasa</br>*TB1*</br>Creación de las user stories y la especificación de requisitos.</br>*TP*</br>Corrección de la especificación de requisitos, priorización del Product Backlog y los criterios de aceptación.<br>Elaboración del Sprint 2. </br>*TB2*</br>Documentación de los tests. </br>Corrección del product backlog.                                                                                                                                                                                                                                                                                                              | La elaboración del informe nos ayudo a idcar y organizar nuestro proyecto, tanto como las funcionalidades, los requisitos, las problematicas y diseños. Todo esto necesario para poner en marcha la elaboración del Web Aplications.<br><br>Las correcciones que se realizaron en el proyecto ayudaron a crear nuevas funcionalidades para el Web Applications. <br><br> El desarrollo del sprint facilita la organización para la creación del Sitio Web.</br><br>Expresar nuestras ideas y resultados por escrito de manera clara y objetiva fue esencial en nuestro proyecto de ingeniería. Cuando escribimos informes y documentos, nos ayudó a organizar la información de manera ordenada, lo que permitió que personas con diferentes antecedentes y roles la entendieran fácilmente. Esta comunicación por escrito precisa y objetiva fue fundamental para guiar nuestro trabajo y garantizar que todos estuvieran en la misma sintonía en nuestro equipo</br> |
+
 
 # Capitulo 1: Introducción
 
@@ -1508,7 +1555,7 @@ En esta sección se presentarán los diagramas de la arquitectura de software di
 Este artefacto proporciona en la que el sistema encaja con el mundo a su alrededor, mostrando los principales puntos en su arquitectura.
 
 <p align ="center">
-   <img src="https://cdn.discordapp.com/attachments/960601728330395718/1156520997231534100/structurizr-85951-Contexto.png?ex=6515459c&is=6513f41c&hm=b141c34b87fe0c38152bcb76d24f6b83f8140cf0eea618f3e0cbe07a363fffc3&" >
+   <img src="https://cdn.discordapp.com/attachments/889908734430691374/1168812895581261895/structurizr-85951-Contexto_1.png?ex=655320d5&is=6540abd5&hm=f0dff9aa314118c8151581a896a6d288c9625c6e86ce145df1a16f4dc7902095&" >
 </p>
 
 ### 4.6.2 Software Architecture Container Diagram
@@ -1516,15 +1563,61 @@ Este artefacto proporciona en la que el sistema encaja con el mundo a su alreded
 Este diagrama presenta los componentes técnicos de alto nivel, lo cual genera una ampliación en la vision de la arquitectura del software.
 
 <p align ="center">
-   <img src="https://cdn.discordapp.com/attachments/960601728330395718/1156520996820496456/structurizr-85951-Contenedor.png?ex=6515459c&is=6513f41c&hm=9ef4f7d734d8c25eae2277fa141766361f09b0b76eb6460fcdf51799342c0e1b&" >
+   <img src="https://cdn.discordapp.com/attachments/889908734430691374/1168812895216353330/structurizr-85951-Contenedor_1.png?ex=655320d5&is=6540abd5&hm=cf7118e50a7f1ccae898b9d772defa60845dac6b7289fd75c85a98ae7baf2e55&" >
 </p>
 
 ### 4.6.3 Software Architecture Components Diagrams
 
 En este diagrama se detallan los componentes de nuestros contenedores, asimismo, se indican sus responsabilidades y los detalles de tecnologías e implementación.
 
+
+
+<p align ="Center">
+<h4 align = "center">API components diagram</h4>
+</p>
+
 <p align ="center">
-   <img src="https://cdn.discordapp.com/attachments/960601728330395718/1156520997558693988/structurizr-85951-Components_AC.png?ex=6515459c&is=6513f41c&hm=474b0c2cb0ad6e67c0a25c15995e60c8248469c3dc9600e4f68a608153dc386b&" >
+   <img src="https://cdn.discordapp.com/attachments/889908734430691374/1168812894784335872/structurizr-85951-Components_AC_2.png?ex=655320d5&is=6540abd5&hm=832698e32a05152f23466d442cf5e7c0ad3310d583990d9d30722a1c12ebce74&" >
+</p>
+
+<br>
+
+<p align ="Center">
+<h4 align = "center">Security components diagram</h4>
+</p>
+
+<p align ="center">
+   <img src="https://cdn.discordapp.com/attachments/889908734430691374/1168812896042627103/structurizr-85951-Security_Components_AC.png?ex=655320d5&is=6540abd5&hm=d0dcc360a52311e1e186e72c7dd13a798fba90b83dc8b3ed6a7a737a9962c194&" >
+</p>
+
+<br>
+
+<p align ="Center">
+<h4 align = "center">Security components diagram</h4>
+</p>
+
+<p align ="center">
+   <img src="https://cdn.discordapp.com/attachments/889908734430691374/1168812896042627103/structurizr-85951-Security_Components_AC.png?ex=655320d5&is=6540abd5&hm=d0dcc360a52311e1e186e72c7dd13a798fba90b83dc8b3ed6a7a737a9962c194&" >
+</p>
+
+<br>
+
+<p align ="Center">
+<h4 align = "center">Review components diagram</h4>
+</p>
+
+<p align ="center">
+   <img src="https://cdn.discordapp.com/attachments/889908734430691374/1168812896420118630/structurizr-85951-Review_Components_AC.png?ex=655320d6&is=6540abd6&hm=974a0a05c150dbaa4a12f5efee666441b9a73543db14b354b96030efef43e2f5&" >
+</p>
+
+<br>
+
+<p align ="Center">
+<h4 align = "center">Contract components diagram</h4>
+</p>
+
+<p align ="center">
+   <img src="https://cdn.discordapp.com/attachments/889908734430691374/1168812896776638475/structurizr-85951-Contract_Components.png?ex=655320d6&is=6540abd6&hm=7df1ad0801d1b7d9cee6c834644c2da1eb17b2c93ae221da908ec77014fb9088&" >
 </p>
 
 
@@ -1875,8 +1968,11 @@ Nos permitió controlar el avance de cada uno de nuestros integrantes con respec
   
 Obtuvimos el siguiente enlace: https://open-developers-sw51.github.io/upc-pre-202302-SI729-SW51-ArquiMentor-landing-page/public/ 
 Evidencia de Deployment
-<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149604527352332349/image.png" alt="deployment" >
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921940/1162858591536033902/image.png?ex=653d7775&is=652b0275&hm=b64860376f42caa9cb7961ecfc6d7d5012f70864e71b1b3c184a9888bc039d07&">
+
 Se puede visualizar el link en la barra de búsqueda y que está en modo público desde un computador x. Se muestran las acciones realizadas en el github para el lanzamiento del Landing Page. 
+
 <img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149604423019024484/image.png" alt="github-actions" >
 
 ## 5.2. Landing Page, Services & Applications Implementation.
@@ -1885,82 +1981,25 @@ Se puede visualizar el link en la barra de búsqueda y que está en modo públic
 
 #### 5.2.1.1 Sprint Planning 1
 
-Para este Sprint la duración fue de 3 semanas teniendo como objetivo desarrollo de la landing page. 
+Para este Sprint la duración fue de 3 semanas teniendo como objetivo desarrollo de la landing page.
 
-|            Sprint #             |                                                                                                                Sprint 1                                                                                                                |
+
+|            Sprint 1             |                                                                                                                Sprint 1                                                                                                                |
 |:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| **Sprint Planning Background**   |                                                                                                                                                                                                                                        |
+| **Sprint Planning Background**  |                                                                                                                                                                                                                                        |
 |              Date               |                                                                                                               2023-08-21                                                                                                               |
 |              Time               |                                                                                                                11:24 AM                                                                                                                |
 |            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
 |           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
 | Attendees (to planning meeting) |                                           López Huarcaya, Leonardo Paul/ Kurt Puican Salas / Luyo Ramirez, Rafael Arturo / Ramirez Ortega, Diego Miguel / Juliana Alexandra Yauricasa Seguil                                           |
-|     Sprint  Review Summary     |                                                                                     En esta entrega no hay un Sprint anterior. Por lo tanto, no hay resúmen del Sprint.                                                                                     |
-| Sprint Retrospective Summary  | En esta entrega no hay un Sprint anterior. Por lo tanto, no hay resúmen del Sprint.        |
+|     Sprint  Review Summary      |                                                                                     En esta entrega no hay un Sprint anterior. Por lo tanto, no hay resúmen del Sprint.                                                                                     |
+|  Sprint Retrospective Summary   | En esta entrega no hay un Sprint anterior. Por lo tanto, no hay resúmen del Sprint.        |
 | **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
 |          Sprint 2 Goal          |                                  Goal: Tene la priemra version del frontend terminada al 90% <br> Metrica de cumplimiento:Se muestra la primera version del frontend dl sitio web, terminado al 90%.                                   |
 |        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 15 story points                                                                  |
 |       Sum of Story Points       |                                                                                               Suma de los Story Points: 3+1+2+5+1+1+2=15                                                                                               |
 
 #### 5.2.1.2 Sprint Backlog 1
-
-El objetivo principal del Sprint 2 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
-<br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/2
-
-<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1156447179339202670/image.png?ex=651500dd&is=6513af5d&hm=14addda1bf5be1fd598efa77999f990c5bc26d81979ec7b22ec27324e3c94744&">
-
-
-|   Sprint #    |     Sprint 1     | | |                              ||
-|:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
-|               | Work-Item / Task |
-| User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
-|     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Juliana Yauricasa       | In-Process|
-|     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Juliana Yauricasa       | In-Process|
-|     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Kurt Puican &  Diego Ramirez | In-Process|
-|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
-|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Juliana Yauricasa       | Done|
-|     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Juliana Yauricasa       | Done|
-|     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Rafael            | Done|
-
-
-#### 5.2.1.3 Development Evidence for Sprint Review
-
-En la siguiente tabla se mostrara algunos de los commits mas importantes realizados por cada developer del Sprint 2.
-
-|           Repository            |         Branch          |Commit Id |                       Commit Message                       |                                    Commit Message Body                                    | Commited on (Date) |
-|:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
-|  Leonardo/Frontend-Arquimentor  |     feature/sidebar     |e9d8fa1d88636bd7e04b61a7c1d9e60a5adba8b8|                feat(nav): add nav component                |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     21/09/2023     |
-|  Leonardo/Frontend-Arquimentor  |     feature/project     |73307c03cf8bbda5e06d68dde12a10d98396ead1|             feat(project): add project angular             | Se agrego todas las dependecias y carpetas necesarias para iniciar un proyecto en Angular |     21/09/2023     |
-| kurtPuican/Frontend-Arquimentor |    feature(reviews)     |6bb6d9c3a2c5ff67ea4ac799f9a632ad77cd7bd9|            feat(project): add reviews component            |                      Se agrego el componente de reviews al proyecto                       |     26/09/2023     |
-| KurtPuican/Frontend-Arquimentor |  feature(view-profile)  |fcd3058d63b47028f4d083b2828cf42277bf589e|       feat(view-profile): add view profile component       |                    Se agrego el componente de view-profile al proyecto                    |     26/09/2023     |
-|   Rafael/Frontend-Arquimentor   | feature/student-profile |a581b8666be8e23fc54c1ba58bbea477afad536f1|    feat(student-profile): add student-profile component    |                   Se agrego el componente de estudiante en su totalidad                   |     25/09/2023     |
-|   Rafael/Frontend-Arquimentor   | feature/profile-service |17772ffcac8bcde210afc7a69ee4f0366b375492|         feat(profile-service): add profile-service         |                           Incorporación del servicio de perfil                            |     25/09/2023     |
-| JulianaYS/Frontend-Arquimentor  |    feature/register     |2ad3f07bb170cc0276ebcc90dee96fe488230d3c|    feat(register): Created and added component register    |                             Se agrego el componente registro                              |     26/09/2023     |
-| JulianaYS/Frontend-Arquimentor  |      feature/login      |76a50536949dbf3131f61ee4053e6fda5efc8f35|       feat(login): Created and added component login       |                              Se agrego el componente login                                |     26/09/2023     |
-| DiegoR/Frontend-Arquimentor  |      feature/card-publication-content      |82ac2477f7d12183849f710ddf10e3a7e9e73fdc|       feat(Arquimentor-components): added card-publication-content as a new component       |                              Se agrego el componente publication al proyecto                                |     26/09/2023     |
-
-
-### 5.2.2. Sprint 2
-
-#### 5.2.2.1 Sprint Planning 2
-
-Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra primera versión de frontend y las correcciones de la anterior entrega. 
-
-|            Sprint #             |                                                                                                                Sprint 2                                                                                                                |
-|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| **Sprint Planning Background**   |                                                                                                                                                                                                                                        |
-|              Date               |                                                                                                               2023-09-21                                                                                                               |
-|              Time               |                                                                                                                11:24 AM                                                                                                                |
-|            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
-|           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
-| Attendees (to planning meeting) |                                           López Huarcaya, Leonardo Paul/ Kurt Puican Salas / Luyo Ramirez, Rafael Arturo / Ramirez Ortega, Diego Miguel / Juliana Alexandra Yauricasa Seguil                                           |
-|     Sprint 1 Review Summary     |                                                                                     En resumen se alcanzo diseñar las 2 HU de nuestro landing page                                                                                     |
-| Sprint 1 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
-| **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
-|          Sprint 2 Goal          |                                  Goal: Tene la priemra version del frontend terminada al 90% <br> Metrica de cumplimiento:Se muestra la primera version del frontend dl sitio web, terminado al 90%.                                   |
-|        Sprint 2 Velocity        |                                                                  Sprint 1 : 10 <br/> Velocity del Sprint: 10/1 = 10<br/> Para esta entrega se aeptara 15 story points                                                                  |
-|       Sum of Story Points       |                                                                                               Suma de los Story Points: 3+1+2+5+1+1+2=15                                                                                               |
-#### 5.2.2.2 Sprint Backlog 2
 
 El objetivo principal del Sprint 1 es tener una primera version de la landing page del sitio web, para ir mejorando el diseño y ver los posibles mejoras que podemos agregar.
 <br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/1
@@ -1976,6 +2015,38 @@ El objetivo principal del Sprint 1 es tener una primera version de la landing pa
 |     US020     |        T2        | reconocer las ventajas de Arquimentor a través del landing page |        3 h        |      Leonardo Lopez, Kurt Puican, Rafael Luyo, Diego Ramirez, Juliana Yauricasa    |                   Done                   |
 
 
+#### 5.2.1.3 Development Evidence for Sprint Review
+
+En la siguiente tabla se mostrara algunos de los commits mas importantes realizados por cada developer del Sprint 1.
+
+|           Repository            |         Branch          |Commit Id |   Commit Message                       |                                    Commit Message Body   | Commited on (Date) |
+|:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
+|  RafaelLuyo/upc-pre-202302-SI729-SW51-ArquiMentor-landing-page  |     main     |284b7c9525b29331bd56e2231a7e9b5f9d87c545|  main::add landing page |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     8/09/2023     |
+|  Leonardo/upc-pre-202302-SI729-SW51-ArquiMentor-landing-page  |     feature/update     |284b7c9525b29331bd56e2231a7e9b5f9d87c545|   feat(update):index.html            | Se actualizo el index.html     |
+
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1 Sprint Planning 2
+
+Para este Sprint la duración fue de 2 semanas teniendo como objetivo nuestra primera versión de frontend y las correcciones de la anterior entrega.
+
+|            Sprint #             |                                                                                                                Sprint 2                                                                                                                |
+|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background**   |                                                                                                                                                                                                                                        |
+|              Date               |                                                                                                               2023-09-21                                                                                                               |
+|              Time               |                                                                                                                11:24 AM                                                                                                                |
+|            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
+|           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
+| Attendees (to planning meeting) |                                           López Huarcaya, Leonardo Paul/ Kurt Puican Salas / Luyo Ramirez, Rafael Arturo / Ramirez Ortega, Diego Miguel / Juliana Alexandra Yauricasa Seguil                                           |
+|     Sprint 1 Review Summary     |                                                                                     En resumen se alcanzo diseñar las 2 HU de nuestro landing page                                                                                     |
+| Sprint 1 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
+| **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
+|          Sprint 2 Goal          |                                                     Goal: Tener la version del landing page terminada <br> Metrica de cumplimiento:Se muestra la primera version del landig page.                                                      |
+|        Sprint 2 Velocity        |                                                                                              Para esta entrega se aeptara 10 story points                                                                                              |
+|       Sum of Story Points       |                                                                                                    Suma de los Story Points: 3+3=6                                                                                                     |
+#### 5.2.2.2 Sprint Backlog 2
+
 El objetivo principal del Sprint 2 es tener una primera version de nuestra Frontend del sitio web, para ir mejorando el diseño y ver los posibles errores que podriamos detectar.
 <br>La herramienta usada para el Board del sprint fue DoneTonic: https://app.donetonic.com/workspaces/1/projects/1/boards/2
 
@@ -1986,23 +2057,16 @@ El objetivo principal del Sprint 2 es tener una primera version de nuestra Front
 |:-------------:|:----------------:|:--:|:--:|:----------------------------:|:--:|
 |               | Work-Item / Task |
 | User Story ID |        id        |Description| Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done)|
+|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
+|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Juliana Yauricasa       | Done|
 |     US023     |        T1        |implementar un sistema de autenticación y registro |3 h |      Juliana Yauricasa       | In-Process|
 |     US003     |        T2        |cerrar mi sesión para mantener mis datos segurosI |3 h |      Juliana Yauricasa       | In-Process|
 |     US014     |        T3        |visualizar los avances y el feedback recibido para conocer el estado de mi proyecto |3 h | Kurt Puican &  Diego Ramirez | In-Process|
-|     US021     |        T4        |diseñar una interfaz de usuario atractiva y fácil de usar para una experiencia agradable |5 h |        Leonardo Lopez        | In-Process|
-|     US001     |        T5        |crear una cuenta para poder acceder a la plataforma |5 h |      Juliana Yauricasa       | Done|
 |     US002     |        T6        | ingresar a mi cuenta para utilizar la plataforma |4 h |      Juliana Yauricasa       | Done|
 |     US008     |        T7        | ingresar al perfil de los asesores para conocer su trayectoria |5 h |            Rafael            | Done|
 
 
 #### 5.2.2.3 Development Evidence for Sprint Review
-
-En la siguiente tabla se mostrara algunos de los commits mas importantes realizados por cada developer del Sprint 1.
-
-|           Repository            |         Branch          |Commit Id |   Commit Message                       |                                    Commit Message Body   | Commited on (Date) |
-|:-------------------------------:|:-----------------------:|:--:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------:|
-|  RafaelLuyo/upc-pre-202302-SI729-SW51-ArquiMentor-landing-page  |     main     |284b7c9525b29331bd56e2231a7e9b5f9d87c545|  main::add landing page |         Agregar el navegador de la pagina, incluyendo el menu lateral desplegable         |     8/09/2023     |
-|  Leonardo/upc-pre-202302-SI729-SW51-ArquiMentor-landing-page  |     feature/update     |284b7c9525b29331bd56e2231a7e9b5f9d87c545|   feat(update):index.html            | Se actualizo el index.html     |
 
 
 En la siguiente tabla se mostrara algunos de los commits mas importantes realizados por cada developer del Sprint 2.
@@ -2022,23 +2086,16 @@ En la siguiente tabla se mostrara algunos de los commits mas importantes realiza
 
 Como resumen del sprint 2 se realizaron los diferentes HU, algunos completandolos al 100% y otros al 60%. Compartimos imagenes para mostrar como quedo el avance de la primera versión del servicio web. Cada uno con su ruta respectiva.
 
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487053169664071/image.png?ex=651525ff&is=6513d47f&hm=f7427db005b20b8185dd70354fd88ace39f747a73bcba154cbef90ba25a028fc&">
 
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495391676710942/image.png?ex=65152dc4&is=6513dc44&hm=ef1500be2311a4159351ca1f49397b0acdf478a982054c3f880ba10ae34dfa8d&">
+Link de la página deployada: https://arquimentor-7e645.web.app/login
 
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495952086061156/image.png?ex=65152e49&is=6513dcc9&hm=526032ec32ad09ee8cba49007495c81775bcc20f7c9efd988abd4ad995a8500e&">
-
-
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487471174008832/image.png?ex=65152663&is=6513d4e3&hm=df72cc97480408676ec2f890e18ef6faeea51679065aa3d56053976da9fd2fa2&">
-
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487532310179880/image.png?ex=65152672&is=6513d4f2&hm=de2c00ffaac9cd9d212a80abee7f35ce4d4603af627bcb6bf51bc70a37c16ebe&">
-
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487590774591599/image.png?ex=65152680&is=6513d500&hm=aba6e41e6a4bc263e0b91c4a3ab756f2c32fc53ebb78c5e6c60a624c3c549776&">
-
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487692138328125/image.png?ex=65152698&is=6513d518&hm=bbf5c3902c254b652fc32b4fe82938ab76f4c0b2b22eed74cb070987ad736bdf&">
-
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487775676284938/image.png?ex=651526ac&is=6513d52c&hm=cb787031a26570a45bcbeeb073cfe41cb3caaef9d4ab2f4f7bf6f96548a93c2b&">
-
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302413144608880/image.png?ex=65588c0e&is=6546170e&hm=6f098dd64c3b7dd893fa09790a6aa9559c014b65d7943a4817a8d606c1d67716&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302043139887114/image.png?ex=65588bb6&is=654616b6&hm=0540ad6319b2dd5be0c40dd1e1eb353b11bcccd5b98ccb8d4477b77585391fef&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302116087201833/image.png?ex=65588bc7&is=654616c7&hm=d683e70cc50dace65e1ac0497664e3871b253d31d2dafebfbcbbbfd889fcd0ca&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302177529581598/image.png?ex=65588bd6&is=654616d6&hm=d957e230921df4e8869c24cd0c479271959150f751f649d4ebd47ffee1646ede&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302236241428500/image.png?ex=65588be4&is=654616e4&hm=57041ce60283e2e9672d186e6e419c593d27e6b5810e9c1d5ce66c1006e8c8ac&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302299223117854/image.png?ex=65588bf3&is=654616f3&hm=32403e291ea17d239260f55f3f88067cf1a215b134227ecba7d09d007b75a6d2&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302338460831804/image.png?ex=65588bfc&is=654616fc&hm=0631dbdb0419533571d36f67c7a431f858d3b5ce69f4b9665d2f8b740b0fa1fb&">
 
 #### 5.2.2.6 Services Documentation Evidence for Sprint Review.
 
@@ -2046,7 +2103,7 @@ En el Sprint 2, hemos realizado avances significativos en la documentación de n
 
 Repositorio: https://github.com/Open-Developers-SW51/Frontend-Arquimentor
 
-Commits relacionados con el Sprint: 
+Commits relacionados con el Sprint:
 <img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156493707818848276/image.png?ex=65152c32&is=6513dab2&hm=9f05b90c4f29d19b623d6acbc7fa4a71ee412ba83d3c6b2251ebfd3f82516c38&">
 
 **Endpoints Documentados**
@@ -2064,23 +2121,13 @@ Commits relacionados con el Sprint:
 
 En el Sprint 2, hemos llevado a cabo una serie de actividades relacionadas con el Deployment de nuestros productos, que incluyen la Landing Page, las Web Applications.A continuación, se detallan las acciones clave realizadas durante este Sprint en relación con el despliegue.
 
--Creación del navegador
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495391676710942/image.png?ex=65152dc4&is=6513dc44&hm=ef1500be2311a4159351ca1f49397b0acdf478a982054c3f880ba10ae34dfa8d&">
-
--Creación los diversos tipos de login
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156495952086061156/image.png?ex=65152e49&is=6513dcc9&hm=526032ec32ad09ee8cba49007495c81775bcc20f7c9efd988abd4ad995a8500e&">
-
--Creación de publicaciones
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487471174008832/image.png?ex=65152663&is=6513d4e3&hm=df72cc97480408676ec2f890e18ef6faeea51679065aa3d56053976da9fd2fa2&">
-
--Creación de perfil y poder editarlos
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487590774591599/image.png?ex=65152680&is=6513d500&hm=aba6e41e6a4bc263e0b91c4a3ab756f2c32fc53ebb78c5e6c60a624c3c549776&">
-
--Creación de vistas de reseñas
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487692138328125/image.png?ex=65152698&is=6513d518&hm=bbf5c3902c254b652fc32b4fe82938ab76f4c0b2b22eed74cb070987ad736bdf&">
-
--Creación de chat entre los segmentos
-<img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156487775676284938/image.png?ex=651526ac&is=6513d52c&hm=cb787031a26570a45bcbeeb073cfe41cb3caaef9d4ab2f4f7bf6f96548a93c2b&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302413144608880/image.png?ex=65588c0e&is=6546170e&hm=6f098dd64c3b7dd893fa09790a6aa9559c014b65d7943a4817a8d606c1d67716&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302043139887114/image.png?ex=65588bb6&is=654616b6&hm=0540ad6319b2dd5be0c40dd1e1eb353b11bcccd5b98ccb8d4477b77585391fef&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302116087201833/image.png?ex=65588bc7&is=654616c7&hm=d683e70cc50dace65e1ac0497664e3871b253d31d2dafebfbcbbbfd889fcd0ca&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302177529581598/image.png?ex=65588bd6&is=654616d6&hm=d957e230921df4e8869c24cd0c479271959150f751f649d4ebd47ffee1646ede&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302236241428500/image.png?ex=65588be4&is=654616e4&hm=57041ce60283e2e9672d186e6e419c593d27e6b5810e9c1d5ce66c1006e8c8ac&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302299223117854/image.png?ex=65588bf3&is=654616f3&hm=32403e291ea17d239260f55f3f88067cf1a215b134227ecba7d09d007b75a6d2&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170302338460831804/image.png?ex=65588bfc&is=654616fc&hm=0631dbdb0419533571d36f67c7a431f858d3b5ce69f4b9665d2f8b740b0fa1fb&">
 
 #### 5.2.2.8 Team Collaboration Insights during Sprint.
 
@@ -2092,10 +2139,485 @@ Imagenes de los commit para el reporte:
 Imagenes de los commits para el frontend:
 <img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156499138461048842/image.png?ex=65153141&is=6513dfc1&hm=a7bb4cb7ce6d458f9898c37f4bd2de20bad9aca0c631f0e72380f3b57e27ec8a&">
 
-Imagenes de los commits para el landing page: 
+Imagenes de los commits para el landing page:
 
 <img src="https://cdn.discordapp.com/attachments/1149549727197696110/1156499201337864282/image.png?ex=65153150&is=6513dfd0&hm=8dd9760d07f20689916cca3d0fcfe1ff7ff75cb7aa0de1273e3a02dd27d9973f&">
 
-Anexos
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1 Sprint Planning 3
+
+Para este Sprint la duración fue de 3 semanas teniendo como objetivo nuestra primera versión de backend (web service).
+
+|            Sprint #             |                                                                                                                Sprint 3                                                                                                                |
+|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background**  |                                                                                                                                                                                                                                        |
+|              Date               |                                                                                                               2023-10-14                                                                                                               |
+|              Time               |                                                                                                                08:24 PM                                                                                                                |
+|            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
+|           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
+| Attendees (to planning meeting) |                                           López Huarcaya, Leonardo Paul/ Kurt Puican Salas / Luyo Ramirez, Rafael Arturo / Ramirez Ortega, Diego Miguel / Juliana Alexandra Yauricasa Seguil                                           |
+|     Sprint 2 Review Summary     |                                                                                     En resumen se alcanzo diseñar la primera version del frontend                                                                                      |
+| Sprint 2 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
+| **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
+|          Sprint 2 Goal          |                                                       Goal: Tener la 1era versión del backend terminada <br> Metrica de cumplimiento:Se muestra la primera version del backend.                                                        |
+|        Sprint 2 Velocity        |                                                                                              Para esta entrega se aeptara 25 story points                                                                                              |
+|       Sum of Story Points       |                                                                                                       Suma de los Story Points:                                                                                                        |
+
+Evidencia de la reunion:
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170226095841353908/5c88a53b-99e5-4270-b112-030b4f1f5536.png?ex=655844fa&is=6545cffa&hm=515207cd3bc17d2eda98dadb0cd6fdeeebf92e152e6a248b65de17e2cd112c82&">
+
+#### 5.2.3.2 Sprint Backlog 3
+
+El objetivo principal del Sprint 2 es tener una primera version de nuestra Backend del sitio web, para ir mejorando las peticiones y ver los posibles errores que podriamos detectar.
+<br>La herramienta usada para el Board del sprint fue Trello: https://trello.com/b/vbA9btPB/sprint-3-arquimentor
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170243437094768640/image.png?ex=65585521&is=6545e021&hm=ed089ff4e56193441dcc3059f00cf50a8570dd1bd87f4cd0666ef6ad00144f60&">
+
+
+|  Sprint #  |                   Sprint 3                   |                  |                        |                                                                 |                   |                              |                                          |
+|:----------:|:--------------------------------------------:|:----------------:|:----------------------:|:---------------------------------------------------------------:|:-----------------:|:----------------------------:|:----------------------------------------:|
+| User Story |                                              | Work-Item / Task |
+|     Id     |                    title                     |        Id        |         Title          |                           Description                           | Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done) |
+|   US023    |       Solicitar una cita con un mentor       |        2         |   Realizar una cita    |                Empieza la solicitud de una cita                 |        3 h        |    Juliana Yauricasa         |                To-review                 |
+|   US024    |        Confirmar una cita como mentor        |        2         |   Realizar una cita    |          El mentor confirma la solicitud del studiante          |        1 h        |      Juliana Yauricasa       |                   Done                   |
+|   US025    |        Rechazar una cita como mentor         |        2         |   Realizar una cita    |            El mentor rechaza la cita del estudiante             |        1 h        | Kurt Puican &  Diego Ramirez |                   Done                   |
+|   US026    |              Cancelar una cita               |        2         |   Realizar una cita    |             El mentor o estudinate cancela la cita              |        1 h        |        Leonardo Lopez        |                   Done                   |
+|   US019    |              Crear Publicación               |        1         |   Ver publicaciones    |              El mentor crea una nueva publicación               |        2 h        |      Juliana Yauricasa       |                To-review                 |
+|   US012    |        Listar publicaciones recientes        |        1         |   Ver publicaciones    |           Se lista las 4 publicaciones mas recientes            |        2 h        |      Juliana Yauricasa       |                In-Process                |
+|   US009    |   Administrar los certificados del mentor    |        4         |  Modificar el perfil   | El mentor puede publicar sus diversas certificaciones que posee |        2 h        |            Rafael            |                  To-do                   |
+|   US027    |         Listar citas por estudiantes         |        3         |       Ver citas        |    Se listaran todas las citas de un estudiante determinado     |        3 h        |        Leonardo Lopez        |                To-review                 |
+|   US028    |          Listar citas de un mentor           |        3         |       Ver citas        |      Se listaran todas las citas de un mentor determinado       |        2 h        |        Leonardo Lopez        |                To-review                 |
+|   US014    |      Listar publicaciones de un mentor       |        1         |   Ver publicaciones    |     Se listaran las publicaciones de un determinado mentor      |        3 h        |            Rafael            |                To-review                 |
+|   US015    |              Editar publicación              |        5         | Manipular pblicaciones |            Se podra editar la publicación ya creada             |        3 h        |            Rafael            |            Done                          |
+|   US016    |             Eliminar publicación             |        5         | Manipular pblicaciones |            Se eliminara la publicacion seleccionada             |        2 h        |            Rafael            |                   Done                   |
+|   US020    | Incrementar número de vistas por publicación |        5         | Manipular pblicaciones |          Aumentara el nmero de vistas por publicación           |        2 h        |            Rafael            |                To-review                 |
+|   US021    | Incrementar número de likes por publicación  |        5         | Manipular pblicaciones |          Aumentara el numero de likes por publicación           |        2 h        |            Rafael            |                To-review                 |
+|   US007    |      Modificar el perfil del studiante       |        4         |  Modificar el perfil   |            Se modificara el perfil de un estudiante             |        2 h        |            Rafael            |                To-review                 |
+|   US008    |       Modificar el perfil del mentor         |        4         |  Modificar el perfil   |         Se podra modificar el perfil de un mentor               |        2 h        |            Rafael            |                To-review                 |
+
+#### 5.2.3.3.Development Evidence for Sprint Review.
+#####  Frontend-Arquimentor
+| Repository                              | Branch            | Commit Id                              | Commit Message                                  | Commit message body                        | Committed On |
+| --------------------------------------- | ------------------ | --------------------------------------- | ---------------------------------------------- | ----------------------------------------- | ------------ |
+| Leonardo/Frontend-Arquimentor          | feature/home       | 942f303b8fb87b666ba33a642c2b040175a28510 | feat(home): Update home and log in           | Se mejoró el home y login                  | 15/10/23     |
+| Juliana/Frontend-Arquimentor           | feature/subscription | fc6ff58bc143004e63c7156534d5cc0052a10e43 | feat(subscription): Created subscription component | Se creó el componente de suscripción      | 1/11/23      |
+| Juliana/Frontend-Arquimentor           | feature/subscription | bbae9c9542859dd7e945cf3caf54f6d466ce2f8a | feat(subscription): Added routing-module     | Se modificó el módulo de enrutamiento      | 1/11/23      |
+| Juliana/Frontend-Arquimentor           | feature/subscription | 94ca12b5e2d3351ceb552df5ca5fd36dc78eddcb | feat(subscription): Added styles in subscription component | Se añadieron los estilos para el componente de suscripción | 1/11/23      |
+
+#####  Arquimentor-platform
+| Repository                              | Branch                     | Commit Id                              | Commit Message                                  | Commit message body                        | Committed On |
+| --------------------------------------- | -------------------------- | --------------------------------------- | ---------------------------------------------- | ----------------------------------------- | ------------ |
+| Leonardo/arquimentor-platform          | master                     | 24c9db558fd8ca68ecdf4aede73e0fe0ee51e507 | Initial commit                                  | Se añadió la implementación inicial de la publicación. | 27/10/23     |
+| Leonardo/arquimentor-platform          | feature/readme             | f7fd93a63f0a7a8740ff58690b558fa58e3bbbdad | chore: update git                               | Se realizó una actualización en Git.       | 27/10/23     |
+| Leonardo/arquimentor-platform          | feature/learning            | cc63a56d741384eb07b1b4dcec2da7c7dc7425d4 | feat(learning): Add record student id          | Se agregó la funcionalidad para registrar el ID del estudiante. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/arquimento          | 928ad446b1dd9c8d16a49f24217f787b0203d10d | feat(learning): Add record student id          | Se agregó la funcionalidad para registrar el estudiante. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 98358f19b32c4500d9847f6c8b0958a53fe49edf | feat(learning): Add Auditable Model in Shared. | Se añadió un modelo Auditable en la biblioteca compartida. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 672caacde8ce6a65888951228cb3bbc21094b700 | feat(learning): Add aggregate Student and their value objects. | Se agregó un agregado llamado "Student" y sus objetos de valor relacionados. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 859d87acc8219d81b8a594d610b206d7f266fb66 | feat(learning): Add the value objects to aggregate Student . | Se añadieron los objetos de valor al agregado "Student". | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | d5d19989b3bcfb12d34a6b13b64c61ccd3dfb0a7 | feat(student): Add repository and command for Students. | Se añadió un repositorio y comandos para los estudiantes. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 2020bcd9a8e8a35e7e02ff8b08a93edf648fdb6f | feat(student): Added student command service. | Se implementó el servicio de comandos para los estudiantes. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 2e87036bbf22dc1d31dd6556e213c0fa5d32250c | feat(student): Implemented queries and query handle. | Se implementaron consultas y manejadores de consultas. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 5008422481f61f9f038173e3a84eca35560d37be | feat(student): Implemented commands and command handle of Student. | Se implementaron comandos y manejadores de comandos para los estudiantes. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 437d79754c1bd685970622782f40b2254c6d27f4 | feat(student): Implemented application layer for student aggregate. | Se implementó la capa de aplicación para el agregado de estudiantes. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 13bf92699842f33698dd955c81f74fa81d1eb40a | feat(student): Implemented create student action for interface layer. | Se implementó la acción de creación de estudiantes en la capa de interfaz. | 28/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 71497ca36509874561e9113145ac01af1385ce1b | feat(student): Implemented anti-corruption layer for student context. | Se implementó la capa de anti-corrupción para el contexto de estudiantes. | 28/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 027689c8f342f53025b5d0bbfb1ca33ec10c53b3 | feat(student): Implemented connection to the database. | Se implementó la conexión a la base de datos. | 28/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 08535f0f38cb17c8f2e49d780deb3867581ce4b8 | feat(student): Update controller the student. | Se actualizó el controlador de estudiantes. | 28/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 7206eac1edbbcd70f91fc38057cf2f1e5e8e11bc | feat(student): Update validation password the student. | Se actualizó la validación de contraseñas para los estudiantes. | 28/10/23 |
+| Leonardo/arquimentor-platform          | feature/publication         | d27096d09fedf673aa7ae7adcf02a466accdf6ab | feat(publication): Add services, repositories end models to the publication | Se añadieron servicios, repositorios y modelos a la publicación. | 29/10/23 |
+| Leonardo/arquimentor-platform          | feature/publication         | b6da0aca1751565862fce542721d9a9ea1112dab | feat(publication): Add controller end student for publication. | Se añadió un controlador para los estudiantes en la publicación. | 29/10/23 |
+| Leonardo/arquimentor-platform          | feature/publication         | 548e8a31614c260f68ba94df0854f8744a28f15c | feat(publication): Add list of images publication. | Se añadió una lista de imágenes a la publicación. | 29/10/23 |
+| Leonardo/arquimentor-platform          | feature/publication         | 69369084e0908c61ded8667f0da0d3a823ba8aaf | feat(publication): Add publication for mentorId. | Se añadió la publicación para el mentorId. | 01/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | c443cbea2dab60e9c1121a82beacea64b386626f | feat(mentor): create entity mentor. | Se creó la entidad "mentor" | 02/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | 5e184f63446d75347a5cfe2030f6767e73b84199 | feat(mentor): create controller, repositories and services mentor. | Se creó el controlador, los repositorios y los servicios para el mentor. | 02/11/23 |
+| Diego/arquimentor-platform             | Feature/aggregate-apointment | 53e34f837ea53f5497d69b47b493699209ff7754 | feat(aggregate): added appointment aggregate. | Se añadió un agregado llamado "appointment". | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | 74b358d65afd22eb562f4126be27eea1cf9930fe | feat(mentor): List publications for mentorId. | Se listaron las publicaciones para el mentorId. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/publication         | e20a05c46cece1a829920bf4dea517230b3bf5e6 | feat(publication): Added delete and put to publication. | Se añadieron las funcionalidades de eliminación y modificación a la publicación. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | cf9e6377cb54e89256edd06b2b66470f4ee551e0 | feat(mentor): create entity mentor. | Se creó la entidad "mentor". | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | e92005ee8b82e3daa758d4cb0d93f997306fa36d | feat(mentor): create controller, repositories and services mentor. | Se creó el controlador, los repositorios y los servicios para el mentor. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | 9e287e4afa1d9407649ee2bd54ea11c97e97f7ee | feat(mentor): List publications for mentorId. | Se añadió el controlador de citas. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | 1561128e9a0b06b1a0aea6b0edf630cbcddf1e2d | feat(publication): Added delete and put to publication. | Se añadieron las funcionalidades de eliminación y modificación a la publicación. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | ab46b39290f4bfcb8f5d56cd9dcb5831a2fb1fbf | feat(mentor): create entity mentor. | Se creó la entidad "mentor". | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | e810921aea9945714c211dc45a491010293ce3af | feat(mentor): create controller, repositories and services mentor. | Se creó el controlador, los repositorios y los servicios para el mentor. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | 9e287e4afa1d9407649ee2bd54ea11c97e97f7ee | feat(mentor): List publications for mentorId. | Se añadió el controlador de citas. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | 1561128e9a0b06b1a0aea6b0edf630cbcddf1e2d | feat(publication): Added delete and put to publication. | Se añadieron las funcionalidades de eliminación y modificación a la publicación. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | af7348abe0d504637df8c67ae64c087a59546adb | feat(apointment): Added appointment entity. | Se añadió la entidad "appointment" | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | 3eb53e573c34f7f6274557dc37d16863a68b951b | feat(apointment): Added appointment repository and service interface. | Se añadieron el repositorio y la interfaz de servicio para las citas. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | 4d2e6028fe44d23c3791c316506c2cd4d70f554b | feat(apointment): Added appointment controller. | Se añadió el controlador de citas. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/appointmentsMentorsStudent | 4d2e6028fe44d23c3791c316506c2cd4d70f554b | feat(appointment): Added list appointments by student and by mentor. | Se añadió la lista de citas por estudiante y por mentor. | 03/11/23 |
+| Leonardo/arquimentor-platform      | feature/publication | c06f025f8e4a9c6e994a9cfac2f2d1b7aba85d7a | feat(publication): Added increment view and like in the publication | Se añadió la funcionalidad de incrementar vistas y likes en la publicación | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | 3d42a1aed6d0b6f494f2d57678a143ef47074c06 | feat(student-profile): add phonenumber and userprofilephoto value objects | Se añadieron objetos de valor para el número de teléfono y la foto de perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | d94fb4ba268b4926bf3ed882ee8471c5e47978f9 | feat(student-profile): add student-profile queries | Se añadieron consultas relacionadas con el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | 1d61184b2287ade94ec8df36c8ce4b96aac2fc7a | feat(student-profile): add student-profile commands | Se añadieron comandos relacionados con el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | 8bcac0c4409aab30d65b32a56779f5fe91a37fd8 | feat(student-profile): add student-profile aggregate | Se añadió un agregado para el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | 1bb1a39dee71703ca4bfe5e9794f634e77a752aa | feat(student-profile): add student-profile services | Se añadieron servicios relacionados con el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | d6b6c2664e85710ca105e1f0d60acf0c1ab34b15 | feat(student-profile): add student-profile repository | Se añadió el repositorio del perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | ff857882f73728953c57af30c9986b3411db2918 | feat(student-profile): add studentprofilequeryserviceimpl | Se implementó el servicio de consultas para el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | d25c5027f07a231f1b645a9fa7f8814d6495d898 | feat(student-profile): add studentprofilecommandserviceimpl | Se implementó el servicio de comandos para el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | d066492e9804ec5f2719bb5438d6e011a1789ccc | feat(student-profile): add student profile resources | Se añadieron recursos relacionados con el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | 1c00ed9c1f1dafca1786f280e005813586f95f0d | feat(student-profile): add studentprofilecommandfromresource,studentprofileentitytoresource and updatestudentprofilecommandfromresource | Se implementaron comandos y conversiones de recursos para el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | c2dc7d7657ec2710579f1aebe2e584244505c5ba | feat(student-profile): add student profile controller | Se añadió el controlador del perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/mentor-profile | 2cc7b0bce09e198234e1c33b636fbe009746455e | feat(mentor-profile): add mentor-profile domain | Se añadió el dominio del perfil del mentor | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/mentor-profile | 6e86372434f98a468101b9660773db08136cdb54 | feat(mentor-profile): add mentor profile repository | Se añadió el repositorio del perfil del mentor | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/mentor-profile | e810921aea9945714c211dc45a491010293ce3af | feat(mentor-profile): add commandservice and queryservice implementation of mentor profile | Se implementó el servicio de comandos y consultas para el perfil del mentor | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/mentor-profile | a88dc210820a288782353cfd294357ff9d54477e | feat(mentor-profile): add mentor profile controller,commands and resources | Se añadió el controlador, los comandos y los recursos del perfil del mentor | 03/11/23 |
+
+#### 5.2.3.4 Testing Suite Evidence for Sprint Review
+
+A continuación, se detallan las pruebas realizadas en el backend de la aplicación web Arquimentor utilizando Cucumber, una herramienta de automatización de pruebas de aceptación y comportamiento. Estas pruebas se centraron en validar la funcionalidad de creación en la aplicación. El proceso de pruebas se ha llevado a cabo de la siguiente manera:
+
+**Configuración de Cucumber:** En primer lugar, configuramos Cucumber en el entorno de desarrollo, lo que implica la instalación de las dependencias necesarias y la configuración de Cucumber para el lenguaje de programación utilizado (por ejemplo, Java). Esto permite que Cucumber se integre con la aplicación y se ejecute de manera efectiva.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/b15D7r0/est.png" alt="est" border="0"></a>
+
+**Definición de Escenarios de Prueba:** Se utilizaron archivos de características (.feature) con notación Gherkin para definir escenarios de prueba. Cada escenario describe los pasos a seguir, los datos de entrada y los resultados esperados relacionados con la creación de productos.
+
+<a href="https://ibb.co/RHH0Zpz"><img src="https://i.ibb.co/mzzq1C6/ft2.png" alt="ft2" border="0"></a>
+<a href="https://ibb.co/BZQ2B3D"><img src="https://i.ibb.co/0M6yr2N/ft1.png" alt="ft1" border="0"></a>
+
+**Implementación de Pasos:** Los pasos definidos en los archivos de características se tradujeron a código Java. Estos pasos contienen la lógica necesaria para interactuar con la aplicación web y llevar a cabo las pruebas.
+
+<a href="https://ibb.co/nwZ1QB6"><img src="https://i.ibb.co/51tjskG/testt.png" alt="testt" border="0"></a>
+
+**Ejecución de Pruebas:** Cucumber se utilizó para ejecutar los escenarios de prueba. Durante estas pruebas, se verificó que el proceso de creación de productos se lleva a cabo de acuerdo con los requisitos y expectativas establecidos. Para esta entrega no se concluyó con las pruebas. 
+
+#####  Arquimentor-platform-test
+
+| Repository                     | Branch  | Commit Id                                | Commit Message                                          | Commit message body                                                      | Committed On |
+|--------------------------------|---------|------------------------------------------|---------------------------------------------------------|--------------------------------------------------------------------------|--------------|
+| JulianaYS/arquimentor-platform | develop | 386d5cd1240683579fcd37062e758819f4f29336 | chore: Added cucumber dependencies.                     | Se añadió las dependencias al proyecto.                                  | 04/11/23     |
+| JulianaYS/arquimentor-platform           | develop | 693419542f971bdc6b133782b27beeb6a8830046 | test: Added cucumber configuration.                     | Se configuró Cucumber y se creo las carpetas para implementar los tests. | 04/11/23     |
+| JulianaYS/arquimentor-platform           | develop | 0bc515c8d45e28e47cff14eca50fadd63651a5f1 | test: Added features according to gherkin format.       | Se agregó los features de publicación y estudiante.                      | 04/11/23     |
+| JulianaYS/arquimentor-platform           | develop | 54ff5ed0a0fde84a3b466532febdcb18156dae45 | test: Added students and publications step definitions. | Se agregó los step en Java para la ejecución de los test.                | 04/11/23     |
+
+
+#### 5.2.3.5 Execution Evidence for Sprint Review
+
+Como resumen del sprint 3 se realizaron los diferentes HU, algunos completandolos al 100% y otros al 60%. Compartimos imagenes para mostrar como quedo el avance de la primera versión del servicio web. Cada uno con su ruta respectiva.
+
+<!--agregar imagenes de web service-->
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170263520034684948/image.png?ex=655867d5&is=6545f2d5&hm=bca445f06644e0db3b8c5403afc92417c4f0f2ce4a3cf82a4375aa8a9bba2e71&">
+
+#### 5.2.3.6 Services Documentation Evidence for Sprint Review.
+
+En el Sprint 2, hemos realizado avances significativos en la documentación de nuestros Web Services. Hemos documentado varios Endpoints que son fundamentales para la funcionalidad de nuestra aplicación. A continuación, se detallan los Endpoints documentados junto con ejemplos de interacción y enlaces a la documentación desplegada.
+
+Repositorio: https://github.com/Open-Developers-SW51/arquimentor-platform
+
+Id de los commits relacionados con el Sprint:
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170264927181754378/image.png?ex=65586925&is=6545f425&hm=ac3d2362389d051ef59cd608b0ffaf63312fb5ffe763c08eaefe36ba8d3479ce&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170265016281354300/image.png?ex=6558693a&is=6545f43a&hm=b9f1dce0358acd858c1c0acddd0353b0969f97ac2d3280da31fa5291bd5c59c9&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170265065442783292/image.png?ex=65586946&is=6545f446&hm=2caef2c633f94510e037392ad0a326cce3ebce49df06506d94ebfbb22ebbfdd7&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170265100511346748/image.png?ex=6558694e&is=6545f44e&hm=2517b903e0b9f7b1ebf338895e072662c45e58997fb7134f84399ff11a530c7c&">
+
+Avances del Web Services:
+
+
+
+**Endpoints Documentados**
+
+|                     Endpoint	                     |  Acción   | Verbo HTTP |                Parámetros                |                                                                   Ejemplo de Request                                                                   |                    Respuesta                     |  Captura   |                          
+|:-------------------------------------------------:|:---------:|:----------:|:----------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------:|:----------:|
+|               /api/v1/publications                |  Listar   |    GET     |                 Ninguno                  |                                                                                                                                                        |             Listado de publicaciones             | <img src=""> |
+|               /api/v1/publications                |   Crear   |    POST    |                 Ninguno                  | {  "title": "Maqueta de 3 niveles con soporte",<br/>"description": "Esta es una maqueta rea....",<br/>"image": "http://discord...",<br/>"idMentor": 1} |         Publicación creada  exitosamente         |<img src=""> |
+|         /api/v1/publications/{studentId}          |  Listar   |    GET     |       Mentorid(int):Id del mentor        |                                                                 /api/v1/publications/5                                                                 | Listado de las publicaciones del mentor con Id 5 |<img src="">  |
+|             /api/v1/publication/{Id}              |  Obtener  |    GET     |       id(int):Id de la publicación       |                                                                 /api/v1/publication/3                                                                  |           Detalle de la publicación 3            | <img src="">  |
+|                 /api/v1/students                  |  Listar   |    GET     |                 Ninguno                  |                                                                                                                                                        |               Lista de estudiantes               | <img src="">  |
+|                 /api/v1/students                  |   Crear   |    POST    |                                          |                 {"firstName": "leonardo",<br/>"lastname": "lopez",<br/>"email": "leonardo@gmail.com",<br/>"password": "Leonardo_123"}                  |                Estudiante creado                 | <img src="">  |
+|               /api/v1/students/{Id}               |  Listar   |    GET     |        id(int):Id del estudiante         |                                                                                                                                                        |             Detalle del estudiante 2             | <img src="">  |
+|               /api/v1/appointments                |   Crear   |    POST    |                 Ninguno                  |                                                                                                                                                        |    Creacion de una cita con estado solicitado    | <img src="">  |
+|   /api/v1/appointments/{apoitmentId}/rejections   | modificar |    POST    |   apoitmentId(int): Id del appointment   |                                                                                                                                                        |   Cambia el estado del appointment a rechazado   | <img src="">  |
+| /api/v1/appointments/{apoitmentId}/confirmations  | modificar |    POST    |   apoitmentId(int): Id del appointment   |                                                                                                                                                        |  Cambia el estado del appointment a confirmado   | <img src="">  |
+|  /api/v1/appointments/{apoitmentId}/cancelations  | modificar |    POST    |   apoitmentId(int): Id del appointment   |                                                                                                                                                        |   Cambia el estado del appointment a cancelado   | <img src="">  |
+| api/v1/publications/{publicationId}/incrementView | modificar |    POST    | publicationId(int): Id de la publicación |                                                          api/v1/publications/2/incrementView                                                           |     Incrementarla vista de la publicación 2      | <img src="">  |
+| api/v1/publications/{publicationId}/incrementLike | modificar |    POST    | publicationId(int): Id de la publicación |                                                          api/v1/publications/2/incrementLike                                                           |      Incrementarla like de la publicación 2      | <img src="">  |
+|       api/v1/mentors/{mentorId}/publicaions       |  Listar   |    GET     |       mentorId(int): Id del mentor       |                                                             api/v1/mentors/2/publications                                                              |      Listar las publicaciones del mentor 2       | <img src="">  |
+|      api/v1/mentors/{mentorId}/appointments       |  Listar   |    GET     |         mentorId(int): Id del mentor         |                                                             api/v1/mentors/2/appointments                                                              |          Listar las citas del mentor 2           | <img src="">  |
+|        api/v1/publications/{publicationId}        |     Eliminar     |   DELETE   |   publicationId(int): Id de la publicación   |                                                                                                                                                        |             Eliminar la publicación              | <img src="">  |
+
+Creación de la publicación
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170267528535220305/image.png?ex=65586b91&is=6545f691&hm=332485093bcb85aa1d11958c21839d02bf05c6539e4d5b39cb960a3aff5f6d40&">
+
+Incrementar de las vistas y los likes
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170267749109481502/image.png?ex=65586bc5&is=6545f6c5&hm=7dad3bf4f152cc079b57b3ecd96bbd9450100179bbb60279376376f824c528d3&">
+
+Cambiar el estado de las citas
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170267978479173713/image.png?ex=65586bfc&is=6545f6fc&hm=a239b8ffa548bdd9eef709a4e85ca0b777692c2aedf66e000ce1e63e57886b02&">
+
+Listar las publicaciones por un mentorId
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170268148289765476/image.png?ex=65586c25&is=6545f725&hm=005ba79e026e5a6dd72bc504ccecb52035e91c81c00b7dcab9d3d2ce9e813976&">
+
+
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review.
+
+En el Sprint 3, hemos llevado a cabo una serie de actividades relacionadas con el Deployment de nuestros productos, que incluyen los web services.A continuación, se detallan las acciones clave realizadas durante este Sprint en relación con el despliegue.
+
+-Creación del Web Service
+
+
+
+#### 5.2.2.8 Team Collaboration Insights during Sprint.
+
+Para el desarrollo del web service usamos gitflow con convetional commits para mejorar el ordenamiento
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170271968143101972/image.png?ex=65586fb3&is=6545fab3&hm=5a7c6f94c308a0d712accd27f2e73d634a9ce99c17c43142815639847ee7ad4e&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272135474839613/image.png?ex=65586fdb&is=6545fadb&hm=ed6aa68f6b90dd064c7890e6d4fe9e12ddc249b5e777ea1c28811346521bcae1&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272215187587112/image.png?ex=65586fee&is=6545faee&hm=835afff887614bc8a09b58be85c82def144259cde12369a385bd82b076c1129f&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272538597806130/image.png?ex=6558703b&is=6545fb3b&hm=6fde34106f23e6bd7fcdd9ba100f5f2185e34b0d085b9f0430152a5b774bec0b&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272586417053726/image.png?ex=65587047&is=6545fb47&hm=5b1744f9e3041ba1ac570a696987783de80fffb541b73288005d86b2ad4bdc0a&">
+
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+
+La entrevista se enfocará en 2 segmentos objetivos, el estudiante y el mentor, a lo que se les mostrara previamente el flujo sobre realizar una cita pasando por el landing page y la interfaz de usuario (frontend). 
+
+**Preguntas generales:**
+
+- ¿Cúal es su nombre?
+- ¿Cúal es su edad?
+- ¿Dónde reside actualmente?
+- ¿A que se dedica actualmente?
+
+**Preguntas del segmento estudiante:**
+
+- ¿Qué opinas de la interfaz y el diseño de la plataforma? ¿Es fácil de navegar y usar?
+- ¿Los perfiles de los mentores proporcionan la información necesaria para tomar decisiones informadas sobre quién elegir como mentor?
+- ¿Qué mejoras sugerirías para la plataforma con el fin de hacerla aún más útil para estudiantes de arquitectura en busca de mentores?
+- ¿La plataforma cumple con tus expectativas en términos de brindar oportunidades de desarrollo profesional y académico a través de la mentoría?
+- ¿Recomendarías esta plataforma a otros estudiantes de arquitectura que buscan mentores? ¿Por qué?
+
+**Preguntas del segmento mentores:**
+
+- ¿Qué opinas de la interfaz y el diseño de la plataforma? ¿Es fácil de navegar y usar?
+- ¿Los perfiles de los mentores proporcionan la información necesaria para tomar decisiones informadas sobre quién elegir como mentor?
+- ¿Qué mejoras sugerirías para la plataforma con el fin de hacerla aún más útil para que los mentores de arquitectos tengan más clientes?
+- ¿La plataforma cumple con tus expectativas en términos de brindar oportunidades de desarrollo profesional y académico a través de la mentoría?
+- ¿Recomendarías esta plataforma a otras personas que deseen brindar sus servicios de mentores a arquitectos? ¿Por qué?
+
+
+#### 5.3.2. Registro de Entrevistas.
+
+**URL de las entrevistas:** https://upcedupe-my.sharepoint.com/personal/u202123548_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202123548%5Fupc%5Fedu%5Fpe%2FDocuments%2FTB3%2DEntrevistas%5FValidaci%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+
+**Timing:** 
+
+Segmento estudiante, 1era entrevista desde min 0:00 hasta 3:35, 2da entrevista desde 3:35 hasta 8:02, 3ra entrevista desde 8:02 hasta 11:22.
+
+Segmento asesor, 1era entrevista desde min 11:22 hasta 13:24, 2da entrevista desde 13:24 hasta 16:23, 3ra entrevista desde 16:23 hasta 20:10.
+
+**Entrevista #1:**
+
+- Nombres y Apellidos: Renato Honorio
+- Edad: 22 años
+- Distrito: Lima
+- Tiempo: 00:00 - 3:35
+- Resumen: En general, Renato nos conto que le gusto la aplicacion web ya que es muy intuitiva de usar pero nos dio la sugerencia que asi como hay chat con el tutor deberia haber un chat de soporte tecnico o con los desarrolladores.
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1170172282631630868/image.png?ex=655812dc&is=65459ddc&hm=2edd3d1edaf7f62d485ec7d4ff8cdb60501c370c88c98a8549f9498e9ad8e7a6&">
+
+<br/><br/>
+**Entrevista #2:**
+
+- Nombres y Apellidos: Dora Villalobos
+- Edad: 53 años
+- Distrito: Lima
+- Tiempo: 00:00 -4:27
+- Resumen: Dora nos conto que la aplicacion le parece buena pero que nececita algunos cambios principalmente en el apartado visual y pero que esta aplicacion va a ayudar a varios estudiantes
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1170182699693121587/image.png?ex=65581c90&is=6545a790&hm=7cfe51f3462004b738838edd339e8463608a76c806f3ae203e3e6596c34e7425&">
+
+<br/><br/>
+**Entrevista #3:**
+
+- Nombres y Apellidos:Jose Castillo
+- Edad: 20 años
+- Distrito: Lima
+- -Tiempo: 00:00 -4:27
+= Resumen: Jose nos conto que principalmente esta aplicacion es de su agrado pero que le falta mejorar el apartado visual que a su gusto no es agradable, pero que ve que la aplicacion va por buen camino y que cuenta con todo lo necesario para que personas como el puedan utilizar esta aplicacion
+
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1170182556029825044/image.png?ex=65581c6e&is=6545a76e&hm=e6761864040fd7549a702ae973aad8eb5f2544f29ff636b95168816bbdb45b46&">
+
+<br/><br/>
+**Entrevista #4:**
+
+- Nombres y Apellidos: Louis Piero Alfaro Coveñas
+- Edad: 25
+- Distrito: Lima
+- Tiempo: 00:00 - 5:00
+- Resumen: Louis nos contó que la aplicación es intuitiva y fácil de navegar. A pesar de eso, no le gusto la colorimetría de la página porque se ve apagado. Además, nos comentó que la aplicación va por buen camino y sería necesaria agregar una sección donde se muestre el ranking de los mentores.
+
+<img src="https://cdn.discordapp.com/attachments/889908734430691374/1170239163224834120/image.png?ex=65585126&is=6545dc26&hm=25f6df328daa88b8adbdf35704e2681f4a9501be04f717efaf99d5961037d9f7&">
+
+<br/><br/>
+
+**Entrevista #5:**
+
+- Nombres y Apellidos: Roger Castillo
+- Edad: 20 Años
+
+- Distrito: San Miguel
+
+- Evidencia de la reunión
+<img src="https://cdn.discordapp.com/attachments/1149190528756363337/1149420329861660692/image.png" alt="" width="600" height="250" />
+
+- Resumen de la entrevista:
+
+Steve es un joven estudiante de arquitectura de los primeros ciclos, se considera una persona divertida y decidida en su futuro. Nos cuenta su experiencia con las maquetas que tuvo que realizar, además de los programas que usan para complementar. Al inicio sentía que no tenía mucha experiencia y afirma que un buen asesoramiento en los inicios hubieran hecho de sus trabajos de arquitectura más eficientes. Después de comentarle el proyecto “ArquiMentor” le pareció grandiosa la idea, y nos sugirió que agreguemos segmentos de ayuda en los diferentes programas de software que utilizan los arquitectos. Las marcas que mas usa es Archicad, Revit y AutoCAD, la tecnologia que usa por lo general son celulares, ordenadores o tablets, sus canales de interacción más usadas son Discord, Google Meet o reuniones presenciales. Por último punto los browser que usa son Brave y Google.
+
+
+**Entrevista #6:**
+
+- Nombres y Apellidos: Luis Galindo
+- Edad: 18 años
+- Distrito: Lima
+- Tiempo: 0:00 - 3:47
+- Evidencia de la reunión:
+- Resumen: El estudiante de arquitectura en primer ciclo expresó su opinión sobre la plataforma de mentoría en arquitectura de la siguiente manera: En cuanto a la interfaz y el diseño de la plataforma, considera que son en su mayoría intuitivos y fáciles de usar, aunque señaló la posibilidad de mejoras en la organización y la estética. Respecto a los perfiles de los mentore.
+En cuanto al cumplimiento de expectativas, el estudiante expresó que la plataforma ha brindado oportunidades valiosas de desarrollo profesional y académico a través de la mentoría. En consecuencia, recomendó la plataforma a otros estudiantes de arquitectura en busca de mentores, destacando la orientación personalizada y la posibilidad de conectar con profesionales del campo. A pesar de las áreas de mejora identificadas, el estudiante consideró que la plataforma ofrece un recurso significativo para ampliar conocimientos y redes en la arquitectura.
+
+<a href="https://ibb.co/6NqbBw7"><img src="https://i.ibb.co/JCS2Qtw/entre.png" alt="entre" border="0"></a>
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+# UX Heuristics & Principles Evaluation
+*Usability – Inclusive Design – Information Architecture*
+
+- *CARRERA:* Ingeniería de Sistemas de Información / Ingeniería de Software
+- *CURSO:* Desarrollo de Aplicaciones Open Source
+- *SECCIÓN:* SW51
+- *PROFESORES:* Todos
+- *AUDITOR:* Open Developers
+- *CLIENTE:* Leonardo Huarcaya, Kurt Puican, Rafael Luyo, Diego Ramirez, Juliana Yauricasa
+
+## SITE o APP A EVALUAR
+*Nombre de App: Arquimentor*
+
+## Tareas a evaluar:
+- Creación de un usuario
+- Validación de las creaciones
+- Editar perfil de mentor
+- Editar perfil de estudiante
+- Vista del perfil
+- Chat
+- Publicación
+
+*No están incluidas en esta versión de la evaluación las siguientes tareas:*
+- Calificación de los mentores
+- Interacción entre los usuarios en la app
+- Recomendaciones al crear un proyecto
+
+## ESCALA DE SEVERIDAD
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+- Nivel 1: Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a menos que exista disponibilidad de tiempo.
+- Nivel 2: Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.
+- Nivel 3: Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.
+- Nivel 4: Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.
+
+## TABLA RESUMEN
+
+| #   | Problema                                              | Escala de Severidad | Heurística/Principio Violado    |
+| --- | ---------------------------------------------------- | ------------------- | -----------------------------  |
+| 1   | No hay un botón de retroceso en varios apartados     | 3                   | Usability: Libertad y control del usuario |
+| 2   | No hay un apartado para crear cuenta como tutor     | 3                   | Usability: Prevención de errores |
+| 3   | A pesar de que hay un chat, no se puede escribir en el chat | 4           | Usability: Libertad y control del usuario |
+| 4   | No hay una opción para poder crear una publicación  | 2                   | Usability: Consistencia y estándares |
+| 5   | No se puede ingresar a ver más características de la publicación | 3 | Usability: Visibilidad del estado del sistema |
+| 6   | No se pueden ver las notificaciones                 | 3                   | Usability: Visibilidad del estado del sistema |
+| 7   | No puedo dar me gusta a una publicación             | 2                   | Usability: Libertad y control del usuario |
+| 8   | No se puede editar el perfil                        | 3                   | Usability: Libertad y control del usuario |
+
+## DESCRIPCIÓN DE PROBLEMAS
+
+### PROBLEMA #1: No hay un botón de retroceso en varios apartados
+
+*Severidad:* 3
+*Heurística Violada:* Usability: Libertad y control del usuario
+*Descripción:*
+En varios apartados de la plataforma, se encuentra la ausencia de un botón de retroceso o una funcionalidad clara que permita a los usuarios regresar a la pantalla anterior o al punto de inicio de manera intuitiva. Esta carencia limita la libertad y el control del usuario sobre su navegación en la plataforma.
+
+*Recomendación:*
+Se recomienda implementar una funcionalidad de retroceso clara y fácil de usar en los apartados relevantes de la plataforma. Esto mejorará la usabilidad y la experiencia del usuario al brindarles un mayor control y libertad para navegar de manera eficiente.
+
+### PROBLEMA #2: No hay validación al crear un usuario y no se permite elegir el rol (estudiante o tutor) durante el proceso de registro
+
+*Severidad:* 3
+*Heurística Violada:* Usability: Prevención de errores
+*Descripción:*
+Cuando los usuarios intentan crear una cuenta en la plataforma, no se realiza una validación adecuada de los datos ingresados, lo que puede resultar en cuentas incompletas o con información incorrecta. Además, la falta de opción para elegir el rol (estudiante o tutor) durante el proceso de registro puede causar confusiones sobre las funcionalidades y privilegios asociados con cada tipo de cuenta. Esta falta de claridad puede llevar a errores en la elección del rol y a cuentas mal configuradas, afectando negativamente la experiencia del usuario y la interacción en la plataforma.
+
+### PROBLEMA #3: A pesar de que hay un chat, no se puede escribir en él
+
+*Severidad:* 4
+*Heurística Violada:* Usability - Libertad y control del usuario
+*Descripción:*
+A pesar de que existe una función de chat en la plataforma, los usuarios no pueden escribir mensajes en ella. Esta limitación restringe significativamente la capacidad de los usuarios para comunicarse entre sí, especialmente en contextos donde la comunicación directa es esencial, como en situaciones de tutoría o colaboración. La presencia de un chat inutilizable puede generar frustración y confusión entre los usuarios, ya que esperan poder utilizar esta herramienta para interactuar con otros usuarios en tiempo real.
+
+*Recomendación:*
+Revisar y solucionar las funcionalidades del chat. Luego hacer pruebas para asegurarse de que los usuarios puedan escribir y enviar mensajes en el chat sin problemas.
+
+### PROBLEMA #4: No hay una opción para crear una publicación
+
+*Severidad:* 2
+*Heurística Violada:* Usability - Consistencia y estándares
+*Descripción:*
+En la plataforma, falta una opción para que los usuarios puedan crear publicaciones. La ausencia de esta funcionalidad puede limitar la capacidad de los usuarios para compartir información, realizar consultas o interactuar con la comunidad. La falta de una opción para crear publicaciones puede llevar a una experiencia incompleta y desmotivar a los usuarios que deseen participar activamente en la plataforma. La falta de consistencia en las funciones disponibles puede crear una experiencia fragmentada para los usuarios, lo que afecta la usabilidad de la plataforma.
+
+*Recomendación:*
+Implementar el botón que permita a los usuarios crear publicaciones de manera sencilla. Debe incluir campos para el título, contenido, categoría, etiquetas, o cualquier otro detalle relevante.
+
+### PROBLEMA #5: No se puede ingresar a ver más características de la publicación
+
+*Severidad:* 3
+*Heurística Violada:* Usability - Visibilidad del estado del sistema
+*Descripción:*
+La plataforma no proporciona una función clara y accesible que permita a los usuarios explorar o conocer en detalle las características, contenido o información adicional relacionada con una publicación.
+
+*Recomendación:*
+Se recomienda implementar una función clara y visible que permita a los usuarios acceder a más características o detalles de una publicación. Esto mejorará la visibilidad del estado del sistema y garantizará que las expectativas de los usuarios estén alineadas con la funcionalidad del sistema.
+
+### PROBLEMA #6: No se pueden ver las notificaciones
+
+*Severidad:* 3
+*Heurística Violada:* Usability - Visibilidad del estado del sistema
+*Descripción:*
+La plataforma no proporciona una función clara y visible que permita a los usuarios ver las notificaciones de eventos, mensajes o actualizaciones relevantes. Esto limita la visibilidad del estado del sistema, ya que los usuarios no pueden mantenerse al tanto de las interacciones o eventos importantes en la plataforma.
+
+*Recomendación:*
+Se recomienda implementar una función clara y accesible que permita a los usuarios ver y acceder a las notificaciones de eventos importantes, mensajes o actualizaciones relevantes. Esto mejorará la visibilidad del estado del sistema y garantizará que los usuarios estén informados sobre lo que está ocurriendo en la plataforma.
+
+### PROBLEMA #7: No puedo dar me gusta a una publicación
+
+*Severidad:* 3
+*Heurística Violada:* Usability - Libertad y control del usuario
+*Descripción:*
+La plataforma no proporciona una función clara y accesible que permita a los usuarios dar "me gusta" o expresar su aprobación por el contenido de una publicación. Los usuarios pueden sentirse limitados en su capacidad para interactuar y expresar su opinión sobre el contenido que encuentran en la plataforma.
+
+*Recomendación:*
+Se recomienda implementar una función clara y visible que permita a los usuarios dar "me gusta" o expresar su aprobación por una publicación. Esto mejorará la usabilidad al proporcionar a los usuarios la libertad y el control para interactuar de manera intuitiva con el contenido.
+
+### PROBLEMA #8: No se puede editar el perfil
+
+*Severidad:* 3
+*Heurística Violada:* Usability - Libertad y control del usuario
+*Descripción:*
+La plataforma no proporciona una función clara y accesible que permita a los usuarios editar detalles personales, como la foto de perfil, la información de contacto, la descripción, o cualquier otro dato relacionado con su perfil.
+
+*Recomendación:*
+Se recomienda implementar una función clara y visible que permita a los usuarios editar y personalizar su perfil en la plataforma. Esto mejorará la usabilidad al proporcionar a los usuarios la libertad y el control para gestionar su información personal de manera intuitiva.
+
+### 5.4. Video About-the-Product.
+
+## Anexos
 
 Link de la exposición de la TP: https://drive.google.com/drive/folders/1W7pyh5Gg20AIUY06Ad2w19tpYBC8ezvs?usp=sharing
