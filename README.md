@@ -2404,16 +2404,16 @@ Para este Sprint la duración fue de 3 semanas teniendo como objetivo nuestra pr
 |            Sprint #             |                                                                                                                Sprint 3                                                                                                                |
 |:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | **Sprint Planning Background**  |                                                                                                                                                                                                                                        |
-|              Date               |                                                                                                               2023-10-14                                                                                                               |
-|              Time               |                                                                                                                08:24 PM                                                                                                                |
+|              Date               |                                                                                                               2023-11-20                                                                                                               |
+|              Time               |                                                                                                                05:48 PM                                                                                                                |
 |            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
 |           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
 | Attendees (to planning meeting) |                                           López Huarcaya, Leonardo Paul/ Kurt Puican Salas / Luyo Ramirez, Rafael Arturo / Ramirez Ortega, Diego Miguel / Juliana Alexandra Yauricasa Seguil                                           |
-|     Sprint 4 Review Summary     |                                                                                     En resumen se alcanzo diseñar la primera version del frontend                                                                                      |
-| Sprint 4 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
+|     Sprint 4 Review Summary     |                                                                                     En resumen se alcanzo completar el frontend y backend de nuestra web application.                                                                                      |
+| Sprint 4 Retrospective Summary  | Se noto el compromiso por parte de todos los integrantes del grupo, ademas de la constante comunicacion y buen trabajo de todos|
 | **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
-|          Sprint 4 Goal          |                                                       Goal: Tener la 1era versión del backend terminada <br> Metrica de cumplimiento:Se muestra la primera version del backend.                                                        |
-|        Sprint 4 Velocity        |                                                                                              Para esta entrega se aeptara 25 story points                                                                                              |
+|          Sprint 4 Goal          |                                                       Goal: Tener la version final tanto del backend como del frontend <br> Metrica de cumplimiento:Se muestra la version final de la landing page, frontend y backend.                                                      |
+|        Sprint 4 Velocity        |                                                                                              Para esta entrega se aeptara 20 story points                                                                                              |
 |       Sum of Story Points       |                                                                                                       Suma de los Story Points:                                                                                                        |
 
 Evidencia de la reunion:
@@ -2422,8 +2422,8 @@ Evidencia de la reunion:
 
 #### 5.2.4.2 Sprint Backlog 4
 
-El objetivo principal del Sprint 4 es tener una primera version de nuestra Backend del sitio web, para ir mejorando las peticiones y ver los posibles errores que podriamos detectar.
-<br>La herramienta usada para el Board del sprint fue Trello: https://trello.com/b/vbA9btPB/sprint-3-arquimentor
+El objetivo principal del Sprint 4 es tener la version final de nuestro Frontend, Backend y Landing page del sitio web, para tener un despliege existoso. 
+<br>La herramienta usada para el Board del sprint fue Trello: https://trello.com/b/CKleRcG0/sprint-backlog-4
 
 <img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170243437094768640/image.png?ex=65585521&is=6545e021&hm=ed089ff4e56193441dcc3059f00cf50a8570dd1bd87f4cd0666ef6ad00144f60&">
 
