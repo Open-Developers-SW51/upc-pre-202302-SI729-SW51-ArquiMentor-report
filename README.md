@@ -177,10 +177,10 @@ Los colaboradores en el proyecto se muestra en la siguiente imagen, con las cant
         - [5.2.1.2 Sprint Backlog 1](#52x2-sprint-backlog-1)
         - [5.2.1.3 Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
         - [5.2.1.4 Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-        - [5.2.1.5 Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)
-        - [5.2.1.6 Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)
-        - [5.2.1.7 Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)
-        - [5.2.1.8 Team Collaboration Insights during Sprint](52x8-team-collaboration-insights-during-sprint)
+        - [5.2.X.5 Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)
+        - [5.2.X.6 Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)
+        - [5.2.X.7 Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)
+        - [5.2.X.8 Team Collaboration Insights during Sprint](52x8-team-collaboration-insights-during-sprint)
     
     - [5.2.2 Sprint 2](#522-sprint-2)
         - [5.2.2.1 Sprint Planning 2](#5221-sprint-planning-2)
@@ -192,25 +192,6 @@ Los colaboradores en el proyecto se muestra en la siguiente imagen, con las cant
         - [5.2.2.7 Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
         - [5.2.2.8 Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
       
-    - [5.2.3 Sprint 3](#523-sprint-3)
-        - [5.2.3.1 Sprint Planning 3](#5231-sprint-planning-3)
-        - [5.2.3.2 Sprint Backlog 3](#5232-sprint-backlog-3)
-        - [5.2.3.3 Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
-        - [5.2.3.4 Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
-        - [5.2.3.5 Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
-        - [5.2.3.6 Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
-        - [5.2.3.7 Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
-        - [5.2.3.8 Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
-
-    - [5.2.4 Sprint 4](#524-sprint-4)
-        - [5.2.4.1 Sprint Planning 4](#5241-sprint-planning-4)
-        - [5.2.4.2 Sprint Backlog 4](#5242-sprint-backlog-4)
-        - [5.2.4.3 Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
-        - [5.2.4.4 Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
-        - [5.2.4.5 Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
-        - [5.2.4.6 Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
-        - [5.2.4.7 Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
-        - [5.2.4.8 Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 <br>
 
 # Student Outcome
@@ -2216,8 +2197,7 @@ El objetivo principal del Sprint 2 es tener una primera version de nuestra Backe
 |   US007    |      Modificar el perfil del studiante       |        4         |  Modificar el perfil   |            Se modificara el perfil de un estudiante             |        2 h        |            Rafael            |                To-review                 |
 |   US008    |       Modificar el perfil del mentor         |        4         |  Modificar el perfil   |         Se podra modificar el perfil de un mentor               |        2 h        |            Rafael            |                To-review                 |
 
-#### 5.2.3.3. Development Evidence for Sprint Review
-
+#### 5.2.3.3.Development Evidence for Sprint Review.
 #####  Frontend-Arquimentor
 | Repository                              | Branch            | Commit Id                              | Commit Message                                  | Commit message body                        | Committed On |
 | --------------------------------------- | ------------------ | --------------------------------------- | ---------------------------------------------- | ----------------------------------------- | ------------ |
@@ -2376,7 +2356,7 @@ Listar las publicaciones por un mentorId
 <img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170268148289765476/image.png?ex=65586c25&is=6545f725&hm=005ba79e026e5a6dd72bc504ccecb52035e91c81c00b7dcab9d3d2ce9e813976&">
 
 
-#### 5.2.3.7 Software Deployment Evidence for Sprint Review.
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review.
 
 En el Sprint 3, hemos llevado a cabo una serie de actividades relacionadas con el Deployment de nuestros productos, que incluyen los web services.A continuación, se detallan las acciones clave realizadas durante este Sprint en relación con el despliegue.
 
@@ -2384,7 +2364,7 @@ En el Sprint 3, hemos llevado a cabo una serie de actividades relacionadas con e
 
 
 
-#### 5.2.3.8 Team Collaboration Insights during Sprint.
+#### 5.2.2.8 Team Collaboration Insights during Sprint.
 
 Para el desarrollo del web service usamos gitflow con convetional commits para mejorar el ordenamiento
 
@@ -2449,8 +2429,7 @@ El objetivo principal del Sprint 4 es tener una primera version de nuestra Backe
 |   US007    |      Modificar el perfil del studiante       |        4         |  Modificar el perfil   |            Se modificara el perfil de un estudiante             |        2 h        |            Rafael            |                   Done                   |
 |   US008    |        Modificar el perfil del mentor        |        4         |  Modificar el perfil   |         Se podra modificar el perfil de un mentor               |        2 h        |            Rafael            |                  Done                    |
 
-#### 5.2.4.3 Development Evidence for Sprint Review
-
+#### 5.2.4.3.Development Evidence for Sprint Review.
 #####  Frontend-Arquimentor
 | Repository                           | Branch                      | Commit Id                       | Commit Message                                   | Commit message body                                    | Committed on |
 |--------------------------------------|-----------------------------|---------------------------------|--------------------------------------------------|--------------------------------------------------------|--------------|
@@ -2636,7 +2615,6 @@ Cancelar un intento de pago
 <img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176360605595205752/image.png?ex=656e9630&is=655c2130&hm=699d5c3fb853c107c4fb0f9d13555dd601342d90640dee3f8458980f13416d3f&">
 <img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176360989109796934/image.png?ex=656e968b&is=655c218b&hm=56b740aca8bbdcf53153f1ba027e8c35b9e03d5be4c961f3f6631dadebd239c5&">
 <img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176361067572645958/image.png?ex=656e969e&is=655c219e&hm=c808eb60960e9afe72035afdf9dbf67f28d01f41d38f9c6ff968de75825fc9f9&">
-
 #### 5.2.4.7 Software Deployment Evidence for Sprint Review.
 
 En el Sprint 4, hemos llevado a cabo una serie de actividades relacionadas con el Deployment de nuestros productos, que incluyen los web services.A continuación, se detallan las acciones clave realizadas durante este Sprint en relación con el despliegue.
