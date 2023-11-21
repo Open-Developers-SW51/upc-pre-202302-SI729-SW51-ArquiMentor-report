@@ -2375,6 +2375,264 @@ Para el desarrollo del web service usamos gitflow con convetional commits para m
 <img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272538597806130/image.png?ex=6558703b&is=6545fb3b&hm=6fde34106f23e6bd7fcdd9ba100f5f2185e34b0d085b9f0430152a5b774bec0b&">
 <img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272586417053726/image.png?ex=65587047&is=6545fb47&hm=5b1744f9e3041ba1ac570a696987783de80fffb541b73288005d86b2ad4bdc0a&">
 
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1 Sprint Planning 4
+
+Para este Sprint la duración fue de 3 semanas teniendo como objetivo nuestra primera versión de backend (web service).
+
+|            Sprint #             |                                                                                                                Sprint 3                                                                                                                |
+|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **Sprint Planning Background**  |                                                                                                                                                                                                                                        |
+|              Date               |                                                                                                               2023-10-14                                                                                                               |
+|              Time               |                                                                                                                08:24 PM                                                                                                                |
+|            Location             |                                                                                                    Reunión virtual mediante discord                                                                                                    |
+|           Prepared By           |                                                                                                     López Huarcaya, Leonardo Paul                                                                                                      |
+| Attendees (to planning meeting) |                                           López Huarcaya, Leonardo Paul/ Kurt Puican Salas / Luyo Ramirez, Rafael Arturo / Ramirez Ortega, Diego Miguel / Juliana Alexandra Yauricasa Seguil                                           |
+|     Sprint 4 Review Summary     |                                                                                     En resumen se alcanzo diseñar la primera version del frontend                                                                                      |
+| Sprint 4 Retrospective Summary  | Se noto varios puntos de mejora en parte del equipo, como algunas funcionalidades o requerimientos, como de igual manera ya no separa las partes por la cuenta de cada uno, a lo que nos llevo a estar mas comunicados en esta entrega |
+| **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                        |
+|          Sprint 4 Goal          |                                                       Goal: Tener la 1era versión del backend terminada <br> Metrica de cumplimiento:Se muestra la primera version del backend.                                                        |
+|        Sprint 4 Velocity        |                                                                                              Para esta entrega se aeptara 25 story points                                                                                              |
+|       Sum of Story Points       |                                                                                                       Suma de los Story Points:                                                                                                        |
+
+Evidencia de la reunion:
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170226095841353908/5c88a53b-99e5-4270-b112-030b4f1f5536.png?ex=655844fa&is=6545cffa&hm=515207cd3bc17d2eda98dadb0cd6fdeeebf92e152e6a248b65de17e2cd112c82&">
+
+#### 5.2.4.2 Sprint Backlog 4
+
+El objetivo principal del Sprint 4 es tener una primera version de nuestra Backend del sitio web, para ir mejorando las peticiones y ver los posibles errores que podriamos detectar.
+<br>La herramienta usada para el Board del sprint fue Trello: https://trello.com/b/vbA9btPB/sprint-3-arquimentor
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170243437094768640/image.png?ex=65585521&is=6545e021&hm=ed089ff4e56193441dcc3059f00cf50a8570dd1bd87f4cd0666ef6ad00144f60&">
+
+
+|  Sprint #  |                   Sprint 4                   |                  |                        |                                                                 |                   |                              |                                          |
+|:----------:|:--------------------------------------------:|:----------------:|:----------------------:|:---------------------------------------------------------------:|:-----------------:|:----------------------------:|:----------------------------------------:|
+| User Story |                                              | Work-Item / Task |
+|     Id     |                    title                     |        Id        |         Title          |                           Description                           | Estimation(Hours) |         Assigned To          | Status(To-do/ In-Process/To-Review/Done) |
+|   US023    |       Solicitar una cita con un mentor       |        2         |   Realizar una cita    |                Empieza la solicitud de una cita                 |        3 h        |    Juliana Yauricasa         |                   Done                   |
+|   US024    |        Confirmar una cita como mentor        |        2         |   Realizar una cita    |          El mentor confirma la solicitud del studiante          |        1 h        |      Juliana Yauricasa       |                   Done                   |
+|   US025    |        Rechazar una cita como mentor         |        2         |   Realizar una cita    |            El mentor rechaza la cita del estudiante             |        1 h        | Kurt Puican &  Diego Ramirez |                   Done                   |
+|   US026    |              Cancelar una cita               |        2         |   Realizar una cita    |             El mentor o estudinate cancela la cita              |        1 h        |        Leonardo Lopez        |                   Done                   |
+|   US019    |              Crear Publicación               |        1         |   Ver publicaciones    |              El mentor crea una nueva publicación               |        2 h        |      Juliana Yauricasa       |                   Done                   |
+|   US012    |        Listar publicaciones recientes        |        1         |   Ver publicaciones    |           Se lista las 4 publicaciones mas recientes            |        2 h        |      Juliana Yauricasa       |                   Done                   |
+|   US009    |   Administrar los certificados del mentor    |        4         |  Modificar el perfil   | El mentor puede publicar sus diversas certificaciones que posee |        2 h        |            Rafael            |                   Done                   |
+|   US027    |         Listar citas por estudiantes         |        3         |       Ver citas        |    Se listaran todas las citas de un estudiante determinado     |        3 h        |        Leonardo Lopez        |                   Done                   |
+|   US028    |          Listar citas de un mentor           |        3         |       Ver citas        |      Se listaran todas las citas de un mentor determinado       |        2 h        |        Leonardo Lopez        |                   Done                   |
+|   US014    |      Listar publicaciones de un mentor       |        1         |   Ver publicaciones    |     Se listaran las publicaciones de un determinado mentor      |        3 h        |            Rafael            |                   Done                   |
+|   US015    |              Editar publicación              |        5         | Manipular pblicaciones |            Se podra editar la publicación ya creada             |        3 h        |            Rafael            |                   Done                   |
+|   US016    |             Eliminar publicación             |        5         | Manipular pblicaciones |            Se eliminara la publicacion seleccionada             |        2 h        |            Rafael            |                   Done                   |
+|   US020    | Incrementar número de vistas por publicación |        5         | Manipular pblicaciones |          Aumentara el nmero de vistas por publicación           |        2 h        |            Rafael            |                   Done                   |
+|   US021    | Incrementar número de likes por publicación  |        5         | Manipular pblicaciones |          Aumentara el numero de likes por publicación           |        2 h        |            Rafael            |                   Done                   |
+|   US007    |      Modificar el perfil del studiante       |        4         |  Modificar el perfil   |            Se modificara el perfil de un estudiante             |        2 h        |            Rafael            |                   Done                   |
+|   US008    |        Modificar el perfil del mentor        |        4         |  Modificar el perfil   |         Se podra modificar el perfil de un mentor               |        2 h        |            Rafael            |                  Done                    |
+
+#### 5.2.4.3.Development Evidence for Sprint Review.
+#####  Frontend-Arquimentor
+| Repository                           | Branch                      | Commit Id                       | Commit Message                                   | Commit message body                                    | Committed on |
+|--------------------------------------|-----------------------------|---------------------------------|--------------------------------------------------|--------------------------------------------------------|--------------|
+| Leonardo/Frontend-Arquimentor        | feature/publication         | 351d4de9eed1e7804d3cc4c3ad87b00fb36c443d | feat(publication): update publication card       | Se actualizó el publication card                       | 13/11/23     |
+| Leonardo/Frontend-Arquimentor        | feature/subscription-and-create-post | a522ac008d72a0ede11a5c2ade1f3adde7bd57a8 | feat(subscription-and-create-post): Added page of subscription and component of create post. | Se añadió la página de suscripción y el componente para crear el post | 13/11/23 |
+| Leonardo/Frontend-Arquimentor        | feature/routing             | 20ac14502ea72229b43b458648a8e18625bf2827 | feat(routing): Repairing module and routing     | Se reparo el modulo y el routing                        | 14/11/23     |
+| Leonardo/Frontend-Arquimentor        | Feature/crate-post           | 00ec7803a02ef8092b74cf59dd8077079f552094 | feat(create-post): Created component of tha creation publication | Creacion del componente de publicacion                  | 15/11/23     |
+| Leonardo/Frontend-Arquimentor        | Feature/publication-id       | 3813ae0e3847920b7d5d23c2a3c6a02ffc62c208 | feat(publication-id): Created component of publication id and update services | Creacion del componente de id y actualizacion de los servicios | 16/11/23 |
+| Leonardo/Frontend-Arquimentor        | Feature/publication-id       | ad03c7e7f6552b296ac93c88953b5702e93756ba | feat(publication-id): creation of service in firebase to upload images | Creacion del servicio en firebase para subir imágenes    | 17/11/23     |
+| Leonardo/Frontend-Arquimentor        | Feature/proffile-student     | 1079399a23537dfb737ac76f6c46b7c9cf82f20c | feat(profile-student): connection with the backend end implement rest put and get. | Coneccion con el bakend                             | 17/11/23     |
+| Leonardo/Frontend-Arquimentor        | Feature/mentor-profile       | 150fafacf36025caba6b6f8fa73e081fc429cd04 | feat(mentor-profile): connection with the backend end implement rest put and get for mentor profile. | Coneccion con el backend                            | 17/11/23     |
+| Leonardo/Frontend-Arquimentor        | Feature/mentor-profile       | 3daf4db7888cce30c2473a3708f1a1085b8b5929 | feat(mentor-profile): edit photo profile mentor. | Editar foto del mentor                                 | 17/11/23     |
+| Leonardo/Frontend-Arquimentor        | Feature/mentor-profile       | 4be88c8edb579e58221fb8546a9241a14094ccef | feat(mentor-profile): see all images the publications. | Ver todas las imágenes de las publicaciones            | 17/11/23     |
+| Leonardo/Frontend-Arquimentor        | Feature/appointment          | 14e9e58a0a774d565f4912a706247a5a5ed4bde7 | feat(appointment): create component of appointment created. | Creacion del componente de citas                        | 18/11/23     |
+| Leonardo/Frontend-Arquimentor        | Feature/information-window   | 6baecde04ca532186a0bd3e36e8f74793eb15aa1 | feat(information-window): create component information window. | Creacion de componentes de ventana de informacion        | 18/11/23     |
+| Leonardo/Frontend-Arquimentor        | Feature/login                | c473ae88bcc278d5bd031512281058d8760bc2b4 | feat(login): authenticate frontend using backend token. | Autenticacion usando el back                           | 18/11/23     |
+| Leonardo/Frontend-Arquimentor        | Feature/login                | 353dc2233fc191c52a1794dd6ebe1097bcec109e | feat(login): authenticate frontend using backend token. | Autenticacion usando el back                           | 18/11/23     |
+| Leonardo/Frontend-Arquimentor        | Feature/login                | 6d1f84d96f3ba0a06aadc171064536b68af59a5f | feat(login): create student in the create account. | Creacion de estudiante en crea una cuenta              | 18/11/23     |
+| Leonardo/Frontend-Arquimentor        | Feature/home                 | 51d229308298ce37fe34ee0bb782ba0edee9931b | feat(home): bring the student when achieved. | Traer estudiante cuando se archiva                      | 18/11/23     |
+| JulianaYS/Frontend-Arquimentor       | Feature/login                | ff49a555fcf07afef350a44f84ca43a75b042e7c | feat(login): Update login component. | Actualizar el componente del login                       | 18/11/23     |
+| JulianaYS/Frontend-Arquimentor       | Feature/register             | daabbe8a2fe9989a6519536c490bdcd6fc4eb1eb | feat(register): Update register component. | Actualizar el componente del registro                   | 19/11/23     |
+| Leonardo/Frontend-Arquimentor        | Feature/profile              | 8cb04701dc05c5b047fc0be4808d4f6365d63997 | feat(profile): connection profile with login. | Conectar el perfil con el login                         | 19/11/23     |
+| Leonardo/Frontend-Arquimentor        | Feature/profile              | de0967794cfd742f0b22f05aa338ace2c2a035a6 | feat(profile): connection profile with login and image. | Coneccion del perfil con el login y una imagen          | 19/11/23     |
+| KurtPuican/Frontend-Arquimentor     | Feature/settings             | 3697406ed7a58054b409def6c92bb14b6b5d4630 | feat(settings): add settings component. | Creacion del componente de settigns                      | 19/11/23     |
+| RafaelLuyo/Frontend-Arquimentor     | Feature/payment              | 6920afefcb9c1ed541beba9d1a050a7167a815b7 | feat(payment): add payment component and stripe dependency. | Añadir componente y dependencies                         | 19/11/23     |
+| RafaelLuyo/Frontend-Arquimentor     | Feature/payment              | 7dfeae98dfc5ad5421d649d2fc26da33a0886bbf | feat(payment): add modal component. | Creacion de modal component                              | 19/11/23     |
+| RafaelLuyo/Frontend-Arquimentor     | Feature/payment              | 90cffd0098283482d30e3498a5047d6fdd627540 | feat(payment): add detail-article component. | Añadir detalles del articulo                             | 19/11/23     |
+| RafaelLuyo/Frontend-Arquimentor     | Feature/payment              | dd4ed701f6484eb27acceec1db2130190c835240 | feat(payment): add article and payment intent dto interfaces. | Se añadio articulo  y pago en diferentes interfaces       | 19/11/23     |
+| RafaelLuyo/Frontend-Arquimentor     | Feature/payment              | a52d649e60a99f2c80830d81a4f2485f5f10cd87 | feat(payment): add article service. | Se agrego el servicio del articulo                       | 19/11/23     |
+| RafaelLuyo/Frontend-Arquimentor     | Feature/payment              | af7bbd1d2a65e616d7d32dade1afbcdde722232f | feat(payment): add payment service. | Se añadio el servicio de payment                         | 19/11/23     |
+| RafaelLuyo/Frontend-Arquimentor     | Feature/payment              | 7776128ca94bcbdc5a7e2f8d04ae8b8833a74581 | feat(payment): modified routing module. | se modifico el routing                                  | 19/11/23     |
+| RafaelLuyo/Frontend-Arquimentor     | Feature/payment              | ad8c34c77fe845b718a5721cd2f0dfb0f8ef951f | feat(payment):fix routing module and added linkrefs in subscription component. | Se arreglo el routing y añadio links de subscripcion    | 19/11/23     |
+| RafaelLuyo/Frontend-Arquimentor     | Feature/stylling-changes     | a57fa1bd3b56334267b92f48116a1d1c8faaee17 | feat(styling-changes): added styles in payment component. | Se agrego estilos en el componente                       | 19/11/23     |
+
+
+#####  Arquimentor-platform
+| Repository                              | Branch                     | Commit Id                              | Commit Message                                  | Commit message body                        | Committed On |
+| --------------------------------------- | -------------------------- | --------------------------------------- | ---------------------------------------------- | ----------------------------------------- | ------------ |
+| Leonardo/arquimentor-platform          | master                     | 24c9db558fd8ca68ecdf4aede73e0fe0ee51e507 | Initial commit                                  | Se añadió la implementación inicial de la publicación. | 27/10/23     |
+| Leonardo/arquimentor-platform          | feature/readme             | f7fd93a63f0a7a8740ff58690b558fa58e3bbbdad | chore: update git                               | Se realizó una actualización en Git.       | 27/10/23     |
+| Leonardo/arquimentor-platform          | feature/learning            | cc63a56d741384eb07b1b4dcec2da7c7dc7425d4 | feat(learning): Add record student id          | Se agregó la funcionalidad para registrar el ID del estudiante. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/arquimento          | 928ad446b1dd9c8d16a49f24217f787b0203d10d | feat(learning): Add record student id          | Se agregó la funcionalidad para registrar el estudiante. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 98358f19b32c4500d9847f6c8b0958a53fe49edf | feat(learning): Add Auditable Model in Shared. | Se añadió un modelo Auditable en la biblioteca compartida. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 672caacde8ce6a65888951228cb3bbc21094b700 | feat(learning): Add aggregate Student and their value objects. | Se agregó un agregado llamado "Student" y sus objetos de valor relacionados. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 859d87acc8219d81b8a594d610b206d7f266fb66 | feat(learning): Add the value objects to aggregate Student . | Se añadieron los objetos de valor al agregado "Student". | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | d5d19989b3bcfb12d34a6b13b64c61ccd3dfb0a7 | feat(student): Add repository and command for Students. | Se añadió un repositorio y comandos para los estudiantes. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 2020bcd9a8e8a35e7e02ff8b08a93edf648fdb6f | feat(student): Added student command service. | Se implementó el servicio de comandos para los estudiantes. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 2e87036bbf22dc1d31dd6556e213c0fa5d32250c | feat(student): Implemented queries and query handle. | Se implementaron consultas y manejadores de consultas. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 5008422481f61f9f038173e3a84eca35560d37be | feat(student): Implemented commands and command handle of Student. | Se implementaron comandos y manejadores de comandos para los estudiantes. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 437d79754c1bd685970622782f40b2254c6d27f4 | feat(student): Implemented application layer for student aggregate. | Se implementó la capa de aplicación para el agregado de estudiantes. | 27/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 13bf92699842f33698dd955c81f74fa81d1eb40a | feat(student): Implemented create student action for interface layer. | Se implementó la acción de creación de estudiantes en la capa de interfaz. | 28/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 71497ca36509874561e9113145ac01af1385ce1b | feat(student): Implemented anti-corruption layer for student context. | Se implementó la capa de anti-corrupción para el contexto de estudiantes. | 28/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 027689c8f342f53025b5d0bbfb1ca33ec10c53b3 | feat(student): Implemented connection to the database. | Se implementó la conexión a la base de datos. | 28/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 08535f0f38cb17c8f2e49d780deb3867581ce4b8 | feat(student): Update controller the student. | Se actualizó el controlador de estudiantes. | 28/10/23 |
+| Leonardo/arquimentor-platform          | feature/student             | 7206eac1edbbcd70f91fc38057cf2f1e5e8e11bc | feat(student): Update validation password the student. | Se actualizó la validación de contraseñas para los estudiantes. | 28/10/23 |
+| Leonardo/arquimentor-platform          | feature/publication         | d27096d09fedf673aa7ae7adcf02a466accdf6ab | feat(publication): Add services, repositories end models to the publication | Se añadieron servicios, repositorios y modelos a la publicación. | 29/10/23 |
+| Leonardo/arquimentor-platform          | feature/publication         | b6da0aca1751565862fce542721d9a9ea1112dab | feat(publication): Add controller end student for publication. | Se añadió un controlador para los estudiantes en la publicación. | 29/10/23 |
+| Leonardo/arquimentor-platform          | feature/publication         | 548e8a31614c260f68ba94df0854f8744a28f15c | feat(publication): Add list of images publication. | Se añadió una lista de imágenes a la publicación. | 29/10/23 |
+| Leonardo/arquimentor-platform          | feature/publication         | 69369084e0908c61ded8667f0da0d3a823ba8aaf | feat(publication): Add publication for mentorId. | Se añadió la publicación para el mentorId. | 01/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | c443cbea2dab60e9c1121a82beacea64b386626f | feat(mentor): create entity mentor. | Se creó la entidad "mentor" | 02/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | 5e184f63446d75347a5cfe2030f6767e73b84199 | feat(mentor): create controller, repositories and services mentor. | Se creó el controlador, los repositorios y los servicios para el mentor. | 02/11/23 |
+| Diego/arquimentor-platform             | Feature/aggregate-apointment | 53e34f837ea53f5497d69b47b493699209ff7754 | feat(aggregate): added appointment aggregate. | Se añadió un agregado llamado "appointment". | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | 74b358d65afd22eb562f4126be27eea1cf9930fe | feat(mentor): List publications for mentorId. | Se listaron las publicaciones para el mentorId. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/publication         | e20a05c46cece1a829920bf4dea517230b3bf5e6 | feat(publication): Added delete and put to publication. | Se añadieron las funcionalidades de eliminación y modificación a la publicación. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | cf9e6377cb54e89256edd06b2b66470f4ee551e0 | feat(mentor): create entity mentor. | Se creó la entidad "mentor". | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | e92005ee8b82e3daa758d4cb0d93f997306fa36d | feat(mentor): create controller, repositories and services mentor. | Se creó el controlador, los repositorios y los servicios para el mentor. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | 9e287e4afa1d9407649ee2bd54ea11c97e97f7ee | feat(mentor): List publications for mentorId. | Se añadió el controlador de citas. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/mentor              | 1561128e9a0b06b1a0aea6b0edf630cbcddf1e2d | feat(publication): Added delete and put to publication. | Se añadieron las funcionalidades de eliminación y modificación a la publicación. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | ab46b39290f4bfcb8f5d56cd9dcb5831a2fb1fbf | feat(mentor): create entity mentor. | Se creó la entidad "mentor". | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | e810921aea9945714c211dc45a491010293ce3af | feat(mentor): create controller, repositories and services mentor. | Se creó el controlador, los repositorios y los servicios para el mentor. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | 9e287e4afa1d9407649ee2bd54ea11c97e97f7ee | feat(mentor): List publications for mentorId. | Se añadió el controlador de citas. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | 1561128e9a0b06b1a0aea6b0edf630cbcddf1e2d | feat(publication): Added delete and put to publication. | Se añadieron las funcionalidades de eliminación y modificación a la publicación. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | af7348abe0d504637df8c67ae64c087a59546adb | feat(apointment): Added appointment entity. | Se añadió la entidad "appointment" | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | 3eb53e573c34f7f6274557dc37d16863a68b951b | feat(apointment): Added appointment repository and service interface. | Se añadieron el repositorio y la interfaz de servicio para las citas. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/aggregate-apointment | 4d2e6028fe44d23c3791c316506c2cd4d70f554b | feat(apointment): Added appointment controller. | Se añadió el controlador de citas. | 03/11/23 |
+| Leonardo/arquimentor-platform          | Feature/appointmentsMentorsStudent | 4d2e6028fe44d23c3791c316506c2cd4d70f554b | feat(appointment): Added list appointments by student and by mentor. | Se añadió la lista de citas por estudiante y por mentor. | 03/11/23 |
+| Leonardo/arquimentor-platform      | feature/publication | c06f025f8e4a9c6e994a9cfac2f2d1b7aba85d7a | feat(publication): Added increment view and like in the publication | Se añadió la funcionalidad de incrementar vistas y likes en la publicación | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | 3d42a1aed6d0b6f494f2d57678a143ef47074c06 | feat(student-profile): add phonenumber and userprofilephoto value objects | Se añadieron objetos de valor para el número de teléfono y la foto de perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | d94fb4ba268b4926bf3ed882ee8471c5e47978f9 | feat(student-profile): add student-profile queries | Se añadieron consultas relacionadas con el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | 1d61184b2287ade94ec8df36c8ce4b96aac2fc7a | feat(student-profile): add student-profile commands | Se añadieron comandos relacionados con el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | 8bcac0c4409aab30d65b32a56779f5fe91a37fd8 | feat(student-profile): add student-profile aggregate | Se añadió un agregado para el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | 1bb1a39dee71703ca4bfe5e9794f634e77a752aa | feat(student-profile): add student-profile services | Se añadieron servicios relacionados con el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | d6b6c2664e85710ca105e1f0d60acf0c1ab34b15 | feat(student-profile): add student-profile repository | Se añadió el repositorio del perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | ff857882f73728953c57af30c9986b3411db2918 | feat(student-profile): add studentprofilequeryserviceimpl | Se implementó el servicio de consultas para el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | d25c5027f07a231f1b645a9fa7f8814d6495d898 | feat(student-profile): add studentprofilecommandserviceimpl | Se implementó el servicio de comandos para el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | d066492e9804ec5f2719bb5438d6e011a1789ccc | feat(student-profile): add student profile resources | Se añadieron recursos relacionados con el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | 1c00ed9c1f1dafca1786f280e005813586f95f0d | feat(student-profile): add studentprofilecommandfromresource,studentprofileentitytoresource and updatestudentprofilecommandfromresource | Se implementaron comandos y conversiones de recursos para el perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/student-profile | c2dc7d7657ec2710579f1aebe2e584244505c5ba | feat(student-profile): add student profile controller | Se añadió el controlador del perfil del estudiante | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/mentor-profile | 2cc7b0bce09e198234e1c33b636fbe009746455e | feat(mentor-profile): add mentor-profile domain | Se añadió el dominio del perfil del mentor | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/mentor-profile | 6e86372434f98a468101b9660773db08136cdb54 | feat(mentor-profile): add mentor profile repository | Se añadió el repositorio del perfil del mentor | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/mentor-profile | e810921aea9945714c211dc45a491010293ce3af | feat(mentor-profile): add commandservice and queryservice implementation of mentor profile | Se implementó el servicio de comandos y consultas para el perfil del mentor | 03/11/23 |
+| Rafael/arquimentor-platform        | feature/mentor-profile | a88dc210820a288782353cfd294357ff9d54477e | feat(mentor-profile): add mentor profile controller,commands and resources | Se añadió el controlador, los comandos y los recursos del perfil del mentor | 03/11/23 |
+
+#### 5.2.4.4 Testing Suite Evidence for Sprint Review
+
+A continuación, se detallan las pruebas realizadas en el backend de la aplicación web Arquimentor utilizando Cucumber, una herramienta de automatización de pruebas de aceptación y comportamiento. Estas pruebas se centraron en validar la funcionalidad de creación en la aplicación. El proceso de pruebas se ha llevado a cabo de la siguiente manera:
+
+**Configuración de Cucumber:** En primer lugar, configuramos Cucumber en el entorno de desarrollo, lo que implica la instalación de las dependencias necesarias y la configuración de Cucumber para el lenguaje de programación utilizado (por ejemplo, Java). Esto permite que Cucumber se integre con la aplicación y se ejecute de manera efectiva.
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/b15D7r0/est.png" alt="est" border="0"></a>
+
+**Definición de Escenarios de Prueba:** Se utilizaron archivos de características (.feature) con notación Gherkin para definir escenarios de prueba. Cada escenario describe los pasos a seguir, los datos de entrada y los resultados esperados relacionados con la creación de productos.
+
+<a href="https://ibb.co/RHH0Zpz"><img src="https://i.ibb.co/mzzq1C6/ft2.png" alt="ft2" border="0"></a>
+<a href="https://ibb.co/BZQ2B3D"><img src="https://i.ibb.co/0M6yr2N/ft1.png" alt="ft1" border="0"></a>
+
+**Implementación de Pasos:** Los pasos definidos en los archivos de características se tradujeron a código Java. Estos pasos contienen la lógica necesaria para interactuar con la aplicación web y llevar a cabo las pruebas.
+
+<a href="https://ibb.co/nwZ1QB6"><img src="https://i.ibb.co/51tjskG/testt.png" alt="testt" border="0"></a>
+
+**Ejecución de Pruebas:** Cucumber se utilizó para ejecutar los escenarios de prueba. Durante estas pruebas, se verificó que el proceso de creación de productos se lleva a cabo de acuerdo con los requisitos y expectativas establecidos. Para esta entrega no se concluyó con las pruebas.
+
+#####  Arquimentor-platform-test
+
+| Repository                     | Branch  | Commit Id                                | Commit Message                                          | Commit message body                                                      | Committed On |
+|--------------------------------|---------|------------------------------------------|---------------------------------------------------------|--------------------------------------------------------------------------|--------------|
+| JulianaYS/arquimentor-platform | develop | 386d5cd1240683579fcd37062e758819f4f29336 | chore: Added cucumber dependencies.                     | Se añadió las dependencias al proyecto.                                  | 04/11/23     |
+| JulianaYS/arquimentor-platform           | develop | 693419542f971bdc6b133782b27beeb6a8830046 | test: Added cucumber configuration.                     | Se configuró Cucumber y se creo las carpetas para implementar los tests. | 04/11/23     |
+| JulianaYS/arquimentor-platform           | develop | 0bc515c8d45e28e47cff14eca50fadd63651a5f1 | test: Added features according to gherkin format.       | Se agregó los features de publicación y estudiante.                      | 04/11/23     |
+| JulianaYS/arquimentor-platform           | develop | 54ff5ed0a0fde84a3b466532febdcb18156dae45 | test: Added students and publications step definitions. | Se agregó los step en Java para la ejecución de los test.                | 04/11/23     |
+
+
+#### 5.2.4.5 Execution Evidence for Sprint Review
+
+Como resumen del sprint 4 se realizaron los diferentes HU, algunos completandolos al 100% y otros al 60%. Compartimos imagenes para mostrar como quedo el avance de la primera versión del servicio web. Cada uno con su ruta respectiva.
+
+<!--agregar imagenes de web service-->
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170263520034684948/image.png?ex=655867d5&is=6545f2d5&hm=bca445f06644e0db3b8c5403afc92417c4f0f2ce4a3cf82a4375aa8a9bba2e71&">
+
+#### 5.2.4.6 Services Documentation Evidence for Sprint Review.
+
+En el Sprint 4, hemos realizado avances significativos en la documentación de nuestros Web Services. Hemos documentado varios Endpoints que son fundamentales para la funcionalidad de nuestra aplicación. A continuación, se detallan los Endpoints documentados junto con ejemplos de interacción y enlaces a la documentación desplegada.
+
+Repositorio: https://github.com/Open-Developers-SW51/arquimentor-platform
+
+Id de los commits relacionados con el Sprint:
+
+<img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176350924244000828/image.png?ex=656e8d2b&is=655c182b&hm=33d04e366a6eaac29bd8e3398690e6014fde2d1bc651386bac53d6b3bf87d982&">
+<img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176350972042301460/image.png?ex=656e8d37&is=655c1837&hm=92b6d926c5d8b235ba568c6adfa3b2ab9ec4cee737068f84557c830431eda1f3&">
+<img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176351173666672640/image.png?ex=656e8d67&is=655c1867&hm=a4d822a1ca29f84ec756fb2d01814e84663033e1ed595b91cf00d0d4f0b7d70e&">
+<img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176351201256808518/image.png?ex=656e8d6d&is=655c186d&hm=69356a0f5a76acc007adcd5e40aa0990a33838defed3961faec32e22310139b5&">
+
+Avances del Web Services:
+
+
+
+**Endpoints Documentados**
+
+|                     Endpoint	                     |  Acción   | Verbo HTTP |                Parámetros                |                                                                   Ejemplo de Request                                                                   |                    Respuesta                     |  Captura   |                          
+|:-------------------------------------------------:|:---------:|:----------:|:----------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------:|:----------:|
+| /api/v1/authentication/sign-up            | Crear  | POST       | ninguno                 | ```json { "username": "carlitos1", "password": "carlitos123", "roles": ["ROLE_USER"] }```                           | Sign up exitoso                 |                                                     |
+| /api/v1/authentication/sign-in            | Crear  | POST       | ninguno                 | ```json { "username": "carlitos1", "password": "carlitos123" }```                                                  | Sign in exitoso                 |                                                     |
+| /api/v1/users/                           | Listar | GET        | ninguno                 |                                                                                                                     | Listado de users               |                                                     |
+| /api/v1/users/{userId}                   | Listar | GET        | id(int):Id del user     | /api/v1/users/2                                                                                                     | Detalle del user 2              |                                                     |
+| /api/v1/roles                            | Listar | GET        | ninguno                 |                                                                                                                     | Listado de roles               |                                                     |
+| /api/v1/articles/new                     | Crear  | POST       | ninguno                 | ```json { "id": 3, "name": "Creative Plan", "description": "Access to job listings, Email job alerts, Basic support", "price": 1999, "imageURL": "https://mystartupdigital.com/wp-content/uploads/2021/02/mystartupdigital_plancreativo.jpeg" }``` | Articulo creado                 |                                                     |
+| /api/v1/articles/list                    | Listar | GET        | ninguno                 |                                                                                                                     | Listado de articulos            |                                                     |
+| /api/v1/articles/detail/{id}             | Listar | GET        | id(int):Id del articulo | /api/v1/articles/detail/1                                                                                            | Detalle del articulo 2          |                                                     |
+| /api/v1/stripe/paymentintent             | Crear  | POST       | ninguno                 | ```json { "description": "Premium Plan", "amount": 199, "currency": "pen" }```                                     | Intencion de pago creado        |                                                     |
+| /api/v1/stripe/confirm{id}               | Crear  | POST       | id(int):Id del intento  | /api/v1/stripe/confirm/pi_3OEkMuDfqBM3nCd523ye4Gzg                                                                | Pago de suscripcion con id pi_3OEkMuDfqBM3nCd523ye4Gzg |
+| /api/v1/stripe/cancel/{id}               | Crea   | POST       | id(int):Id del articulo | /api/v1/stripe/cancel/pi_3OEMSfDfqBM3nCd52YFWb6dV                                                               | Cancelar pago de suscripcion con id pi_3OEMSfDfqBM3nCd52YFWb6dV |
+Sign up
+
+<img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176353038005452880/image.png?ex=656e8f23&is=655c1a23&hm=c09c0e8a203a47e1961f8624d353de68fce5cac5a26ed44e7063cd1170a19c0e&">
+
+Sign in
+
+<img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176353511248765010/image.png?ex=656e8f94&is=655c1a94&hm=5f4c3ee8ceec64e45e9ba6daa7a76b7f2b1fc373bcf6f5de5760c803f5d475b1&">
+
+Bearer authorization
+<img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176354509568610394/image.png?ex=656e9082&is=655c1b82&hm=8d34f8f3f5bfd16171b60bdaa7715cd0c7f5cc5720a894ff9350fbe2303b77bc&">
+<img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176354565369630720/image.png?ex=656e908f&is=655c1b8f&hm=b17b99ac52dc81a61098b4b0e004323dcfa5f5a65d9b4f871350b7796e4fedc9&">
+Listar los users
+<img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176354863609806888/image.png?ex=656e90d7&is=655c1bd7&hm=4f41bb925b9cf69830206d40bc6d459aaf2d450e53b3264a56773cf247c7bbb7&">
+Listar los articles
+<img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176356823939428383/image.png?ex=656e92aa&is=655c1daa&hm=4ef0ffaabbe020d6e511e47f0d5fb1de0e2dd9dff3a193766b9f3d80a26fa096&">
+Agregar un intento de pago
+<img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176359348432277544/image.png?ex=656e9504&is=655c2004&hm=1189c5b5d591c72ea8183093bd9b3e6b7f38d59ed909a1598c6b4a19256c5410&">
+Pagar un intento de pago
+<img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176359983894495262/image.png?ex=656e959b&is=655c209b&hm=e9aff4709bdb377a09107e4852e93cba74dc05549f97b082bcc7828e3d61d248&">
+Cancelar un intento de pago
+<img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176360605595205752/image.png?ex=656e9630&is=655c2130&hm=699d5c3fb853c107c4fb0f9d13555dd601342d90640dee3f8458980f13416d3f&">
+<img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176360989109796934/image.png?ex=656e968b&is=655c218b&hm=56b740aca8bbdcf53153f1ba027e8c35b9e03d5be4c961f3f6631dadebd239c5&">
+<img src="https://cdn.discordapp.com/attachments/1149190529200955454/1176361067572645958/image.png?ex=656e969e&is=655c219e&hm=c808eb60960e9afe72035afdf9dbf67f28d01f41d38f9c6ff968de75825fc9f9&">
+#### 5.2.4.7 Software Deployment Evidence for Sprint Review.
+
+En el Sprint 4, hemos llevado a cabo una serie de actividades relacionadas con el Deployment de nuestros productos, que incluyen los web services.A continuación, se detallan las acciones clave realizadas durante este Sprint en relación con el despliegue.
+
+- Web Service completada
+
+#### 5.2.4.8 Team Collaboration Insights during Sprint.
+
+Para el desarrollo del web service usamos gitflow con convetional commits para mejorar el ordenamiento
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170271968143101972/image.png?ex=65586fb3&is=6545fab3&hm=5a7c6f94c308a0d712accd27f2e73d634a9ce99c17c43142815639847ee7ad4e&">
+
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272135474839613/image.png?ex=65586fdb&is=6545fadb&hm=ed6aa68f6b90dd064c7890e6d4fe9e12ddc249b5e777ea1c28811346521bcae1&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272215187587112/image.png?ex=65586fee&is=6545faee&hm=835afff887614bc8a09b58be85c82def144259cde12369a385bd82b076c1129f&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272538597806130/image.png?ex=6558703b&is=6545fb3b&hm=6fde34106f23e6bd7fcdd9ba100f5f2185e34b0d085b9f0430152a5b774bec0b&">
+<img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170272586417053726/image.png?ex=65587047&is=6545fb47&hm=5b1744f9e3041ba1ac570a696987783de80fffb541b73288005d86b2ad4bdc0a&">
+
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
