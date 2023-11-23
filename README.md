@@ -2877,5 +2877,22 @@ Se recomienda implementar una función clara y visible que permita a los usuario
 
 ### 5.4. Video About-the-Product.
 
+<img src="https://cdn.discordapp.com/attachments/1103821034743934976/1177085624554111026/image.png?ex=6571396a&is=655ec46a&hm=1ceee4989a62d3c45176e1bd486b2c4e14aa50fd0d3e2e0c37dba86e8af8828c&">
+
+[Ver el video](https://www.youtube.com/watch?v=xXTElQhg4e8)
+
+## Conclusiones
+
+### Conclusiones y recomendaciones
+
+### Video About-the-team
+
+<img src="https://cdn.discordapp.com/attachments/1103821034743934976/1177087509382037655/image.png?ex=65713b2b&is=655ec62b&hm=e60fda8f0ba02cb63b30baf7af20b4e12d7dda20e0f72bfbb744d505902aa2b7&">
+
+[Ver el video](https://www.youtube.com/watch?v=TmM9fxvHSBs)
+
+## Bibliografía
+
+
 ## Anexos
 https://drive.google.com/drive/folders/13uvCkK3FR9rvo__T7R1CtxWF8VzKb8X9?usp=sharing
