@@ -2422,7 +2422,7 @@ Para el desarrollo del web service usamos gitflow con convetional commits para m
 
 Para este Sprint la duración fue de 3 semanas teniendo como objetivo nuestra primera versión de backend (web service).
 
-|            Sprint #             |                                                                                                                Sprint 3                                                                                                                |
+|            Sprint #             |                                                                                                                Sprint 4                                                                                                                |
 |:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | **Sprint Planning Background**  |                                                                                                                                                                                                                                        |
 |              Date               |                                                                                                               2023-11-20                                                                                                               |
