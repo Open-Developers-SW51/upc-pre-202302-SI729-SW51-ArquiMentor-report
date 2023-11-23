@@ -2925,4 +2925,36 @@ Se recomienda implementar una función clara y visible que permita a los usuario
 
 ### 5.4. Video About-the-Product.
 
+Enalace: https://youtu.be/TmM9fxvHSBs
+
+
+<a href="https://ibb.co/djGYcP3"><img src="https://i.ibb.co/34BZsp8/product.png" alt="product" border="0"></a>
+
+# Conclusiones
+
+- El enfoque en el diseño y desarrollo de entrevistas ha sido clave para comprender y validar los requisitos y expectativas de los stakeholders. Este proceso permite identificar frustraciones, objetivos y percepciones relacionadas con el problema a abordar, facilitando así la creación de soluciones que satisfagan adecuadamente las necesidades del usuario.
+- El uso de Needfinding y la creación de artefactos son esenciales para lograr una comprensión precisa del público objetivo. Además, la implementación de Style Guidelines ha contribuido a mantener la consistencia y presentación del contenido en la plataforma, estableciendo una identidad coherente para la startup.
+- La priorización de características a través de User Stories y Product Backlog facilita la comunicación con el equipo de desarrollo sobre qué funcionalidades deben entregarse primero. Los Wireframes y el desarrollo de Style Guidelines han sido fundamentales para establecer bases sólidas antes de la codificación, lo que ha resultado en un producto más efectivo y atractivo para los usuarios.
+- La implementación de sprints para avanzar de manera continua y ordenada es crucial. Establecer límites de user story points ayuda a evitar la sobrecarga de tareas y garantiza un desarrollo adecuado de los artefactos.
+- Se concluye además que es esencial sentar las bases del diseño antes de la codificación, y la creación de diagramas de clases es una herramienta valiosa para visualizar la interacción de las entidades implementadas.
+- Es evidente que el uso de GitHub ha sido fundamental para mejorar la eficiencia, calidad y colaboración en el desarrollo de software. La gestión de activos y versiones, junto con un control riguroso de código fuente y documentación, ha contribuido al éxito en la satisfacción de las demandas del segmento objetivo.
+
+# Video About-the-team
+
+Enlace: https://youtu.be/xXTElQhg4e8
+
+<a href="https://ibb.co/fn4MHgL"><img src="https://i.ibb.co/X3SXtQM/team.png" alt="team" border="0"></a>
+
+# Bibliografía
+
+Angular. (2023). Angular: One framework. Mobile & desktop. https://angular.io/
+
+Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/ [Consulta: 6 de septiembre 2023].
+
+# Anexos
+
+Enlace de la landing page: https://open-developers-sw51.github.io/upc-pre-202302-SI729-SW51-ArquiMentor-landing-page/
+
+Enlace de la aplicación desplegada: https://arquimentor-7e645.firebaseapp.com/
+
 
