@@ -1636,7 +1636,7 @@ En este diagrama se detallan los componentes de nuestros contenedores, asimismo,
 <br>
 
 <p align ="Center">
-<h4 align = "center">Contract components diagram</h4>
+<h4 align = "center">Contract components diagram</h4> 
 </p>
 
 <p align ="center">
@@ -2556,7 +2556,55 @@ A continuación, se detallan las pruebas realizadas en el backend de la aplicaci
 
 Como resumen del sprint 4 se realizaron los diferentes HU, algunos completandolos al 100% y otros al 60%. Compartimos imagenes para mostrar como quedo el avance de la primera versión del servicio web. Cada uno con su ruta respectiva.
 
-<!--agregar imagenes de web service-->
+Register: El usuario ingresa sus datos.
+
+<img src="https://media.discordapp.net/attachments/1149549726748921939/1177116113457393704/image.png?ex=657155cf&is=655ee0cf&hm=0786b392cc33b8982800ba0ac4c04a42b59347533891bbfe9a8745fe515c48bc&=&format=webp&width=907&height=468">
+
+Login: El usuario verifica los datos ingresados al registro para ingresar a la aplicación.
+
+<img src="https://media.discordapp.net/attachments/1149549726748921939/1177116256034361375/image.png?ex=657155f1&is=655ee0f1&hm=cf89bc6045e53b7d10e8e53f7a0883d236c4f87c5ca8915e9bde4d260c173cf8&=&format=webp&width=903&height=468">
+
+Subscription: El usuario pasa a ser mentor luego de adquirir un plan de Arquimentor.
+
+<a href="https://ibb.co/c8P01Ts"><img src="https://i.ibb.co/3Fw27hP/3.jpg" alt="3" border="0"></a>
+
+Payment: Se valida los datos de pago del usuario.
+
+<a href="https://ibb.co/88zBB7W"><img src="https://i.ibb.co/q10nnrt/4.jpg" alt="4" border="0"></a>
+
+Edit profile: Se ingresa los nuevos datos que desee el usuario.
+
+<img src="https://media.discordapp.net/attachments/1149549726748921939/1177121254453559316/image.png?ex=65715a98&is=655ee598&hm=0747d7d1570b00c6d71620b6f1a78a6d019c43ad120b4efc7911e149109f3ff7&=&format=webp&width=898&height=468">
+
+Edit profile: Los datos del usuario se muestran actualizados.
+
+<img src="https://media.discordapp.net/attachments/1149549726748921939/1177121316868984933/image.png?ex=65715aa7&is=655ee5a7&hm=0e64b58077d005f644d8d68f6ecffa7571fdb52002dd1cf69154f64ed61dd9ba&=&format=webp&width=897&height=468">
+
+Add publication: El mentor agrega una publicacion completando el nombre, descripcion y sube imagenes.
+
+<img src="https://media.discordapp.net/attachments/1149549726748921939/1177121566090330232/image.png?ex=65715ae3&is=655ee5e3&hm=ba804b3f5e038501c23fa2996e5bc6cb92f207f0b45b80ef70f2467ccd7588ff&=&format=webp&width=893&height=468">
+
+Delete publication: El mentor puede eliminar el post creado.
+
+<img src="https://media.discordapp.net/attachments/1149549726748921939/1177120745273434114/image.png?ex=65715a1f&is=655ee51f&hm=e01fb7381f2824599b316cebdb24955548be4083ec6fc9a630778e4c8556e1fa&=&format=webp&width=898&height=468">
+
+Created contract: El usuario estudiante puede solicitar la asesoria de un mentor.
+
+<img src="https://media.discordapp.net/attachments/1149549726748921939/1177122260792914020/image.png?ex=65715b88&is=655ee688&hm=34d09b74ce0537f4adcf17d2ab88824fb9f42f52ab4b0e50615c4d16d015b1d1&=&format=webp&width=898&height=468">
+
+Created contract: El usuario estudiante contrata a un mentor.
+
+<img src="https://media.discordapp.net/attachments/1149549726748921939/1177122316694601859/image.png?ex=65715b96&is=655ee696&hm=13ad06053750cb6ba2053ebe51e3fa7c7d34a76b0d7ff86bfb6bc3ee9344b993&=&format=webp&width=900&height=468">
+
+Configuration: Permite configurar las notificaciones que recibira el usuario.
+
+<a href="https://ibb.co/JtB4rzY"><img src="https://i.ibb.co/54Mys5Q/2.png" alt="2" border="0"></a>
+
+<img src="https://media.discordapp.net/attachments/1149549726748921939/1177122521586348082/image.png?ex=65715bc7&is=655ee6c7&hm=8665b01793e9ec1807dcd44e65f3e8a369efe82ebb5f402891b5f309517b81da&=&format=webp&width=963&height=468">
+
+Log out: El usuario cierra su sesion.
+
+<a href="https://ibb.co/HxMPQdS"><img src="https://i.ibb.co/pRsKpy7/3.png" alt="3" border="0"></a>
 
 <img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170263520034684948/image.png?ex=655867d5&is=6545f2d5&hm=bca445f06644e0db3b8c5403afc92417c4f0f2ce4a3cf82a4375aa8a9bba2e71&">
 
@@ -2877,22 +2925,4 @@ Se recomienda implementar una función clara y visible que permita a los usuario
 
 ### 5.4. Video About-the-Product.
 
-<img src="https://cdn.discordapp.com/attachments/1103821034743934976/1177085624554111026/image.png?ex=6571396a&is=655ec46a&hm=1ceee4989a62d3c45176e1bd486b2c4e14aa50fd0d3e2e0c37dba86e8af8828c&">
 
-[Ver el video](https://www.youtube.com/watch?v=xXTElQhg4e8)
-
-## Conclusiones
-
-### Conclusiones y recomendaciones
-
-### Video About-the-team
-
-<img src="https://cdn.discordapp.com/attachments/1103821034743934976/1177087509382037655/image.png?ex=65713b2b&is=655ec62b&hm=e60fda8f0ba02cb63b30baf7af20b4e12d7dda20e0f72bfbb744d505902aa2b7&">
-
-[Ver el video](https://www.youtube.com/watch?v=TmM9fxvHSBs)
-
-## Bibliografía
-
-
-## Anexos
-https://drive.google.com/drive/folders/13uvCkK3FR9rvo__T7R1CtxWF8VzKb8X9?usp=sharing
