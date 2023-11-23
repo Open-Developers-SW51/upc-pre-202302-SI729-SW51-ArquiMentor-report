@@ -97,23 +97,6 @@ Los colaboradores en el proyecto se muestra en la siguiente imagen, con las cant
 
 <img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170271968143101972/image.png?ex=65586fb3&is=6545fab3&hm=5a7c6f94c308a0d712accd27f2e73d634a9ce99c17c43142815639847ee7ad4e&">
 
-### Version 4 (TF1)
-La elaboración del proyecto se realizó mediante el github en formato Markdown usando la metodología GitFlow.
-
-<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1177135919040573460/image.png?ex=65716841&is=655ef341&hm=9fc3e8a3fa95255a3d125a5bad846540ddfe46c841cf7d836eb7d8d8dd53e361&">
-<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1177136056840224778/image.png?ex=65716862&is=655ef362&hm=182d9ca0de0a4613c7609675064948491d9c3c3edc3968a39cfb2156ea98f03c&">
-<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1177136267461410938/image.png?ex=65716894&is=655ef394&hm=4886f1a8f9745def77e73dbd7fc4549a4477382125534070303f7d9beb26c47c&">
-
-Para los commits se utilizo Conventional Commits.
-
-<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1177136446205857862/image.png?ex=657168be&is=655ef3be&hm=ea80ba6a9fce2bbb4c4d2673091d117af6d9bea149e541eb6ecf2b2fa0eaf588&">
-<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1177136575444955197/image.png?ex=657168dd&is=655ef3dd&hm=ca063a983b855e56a29d32cf0b336406c0cd4e624d2245e8f5efbf84688ef000&">
-
-Los colaboradores en el proyecto se muestra en la siguiente imagen, con las cantidades respectivas de commits.
-
-<img src="https://cdn.discordapp.com/attachments/1149549726748921939/1177136184162521188/image.png?ex=65716880&is=655ef380&hm=d9cf6a4371f738b0d4c00b42f86fb370be723358f3eaf94b1f9b73e62c0751ad&">
-
-
 <br><br>
 # Contenido
 ## Tabla de contenidos
@@ -1617,7 +1600,7 @@ En este diagrama se detallan los componentes de nuestros contenedores, asimismo,
 </p>
 
 <p align ="center">
-   <img src="https://cdn.discordapp.com/attachments/889908734430691374/1168812894784335872/structurizr-85951-Components_AC_2.png?ex=655320d5&is=6540abd5&hm=832698e32a05152f23466d442cf5e7c0ad3310d583990d9d30722a1c12ebce74&" >
+   <img src="https://cdn.discordapp.com/attachments/927361126965067807/1177190609707085824/structurizr-85951-Components_AC_3.png?ex=65719b30&is=655f2630&hm=ec11936ab0ccf62e3f191500bb062da3631a6b1ac08bb617e466052f3b1dccb9&" >
 </p>
 
 <br>
@@ -1660,6 +1643,29 @@ En este diagrama se detallan los componentes de nuestros contenedores, asimismo,
    <img src="https://cdn.discordapp.com/attachments/889908734430691374/1168812896776638475/structurizr-85951-Contract_Components.png?ex=655320d6&is=6540abd6&hm=7df1ad0801d1b7d9cee6c834644c2da1eb17b2c93ae221da908ec77014fb9088&" >
 </p>
 
+<p align ="Center">
+<h4 align = "center">Publication components diagram</h4>
+</p>
+
+<p align ="center">
+   <img src="https://media.discordapp.net/attachments/927361126965067807/1177185311701340212/image.png?ex=65719641&is=655f2141&hm=d912be635c4b197b67c4e997900446e9b657bb93b908f91f8402cecc25fb93a4&=&format=webp&width=814&height=675" >
+</p>
+
+<p align ="Center">
+<h4 align = "center">Advise components diagram</h4>
+</p>
+
+<p align ="center">
+   <img src="https://media.discordapp.net/attachments/927361126965067807/1177190244932657252/image.png?ex=65719ad9&is=655f25d9&hm=84421ca6717b8c5131729e2661e3f88a98a7a37a17e905aa26f9eb78b020aa01&=&format=webp&width=851&height=675" >
+</p>
+
+<p align ="Center">
+<h4 align = "center">Subscription components diagram</h4>
+</p>
+
+<p align ="center">
+   <img src="https://media.discordapp.net/attachments/927361126965067807/1177190138703523932/image.png?ex=65719ac0&is=655f25c0&hm=fc1c9da08c7668da3fa4c4f6a9dbe5899992bcebce5ff08e07de560636384e8d&=&format=webp&width=757&height=675" >
+</p>
 
 ## 4.7. Software Object-Oriented Design
 
@@ -2942,28 +2948,37 @@ Se recomienda implementar una función clara y visible que permita a los usuario
 
 ### 5.4. Video About-the-Product.
 
-Enalace: https://youtu.be/TmM9fxvHSBs
+A continuación, se mencionará el video About The Product. Este tiene como objetivo presentar nuestro producto al público. Por esta razón, en él se presentará las pprincipales caracteristicas del servicio.
+
+<img src="https://cdn.discordapp.com/attachments/1103821034743934976/1177085624554111026/image.png?ex=6571396a&is=655ec46a&hm=1ceee4989a62d3c45176e1bd486b2c4e14aa50fd0d3e2e0c37dba86e8af8828c&">
+
+[Ver el video](https://www.youtube.com/watch?v=xXTElQhg4e8)
 
 
-<a href="https://ibb.co/djGYcP3"><img src="https://i.ibb.co/34BZsp8/product.png" alt="product" border="0"></a>
 
-# Conclusiones
+## Conclusiones
 
+### Conclusiones y recomendaciones
 - El enfoque en el diseño y desarrollo de entrevistas ha sido clave para comprender y validar los requisitos y expectativas de los stakeholders. Este proceso permite identificar frustraciones, objetivos y percepciones relacionadas con el problema a abordar, facilitando así la creación de soluciones que satisfagan adecuadamente las necesidades del usuario.
 - El uso de Needfinding y la creación de artefactos son esenciales para lograr una comprensión precisa del público objetivo. Además, la implementación de Style Guidelines ha contribuido a mantener la consistencia y presentación del contenido en la plataforma, estableciendo una identidad coherente para la startup.
 - La priorización de características a través de User Stories y Product Backlog facilita la comunicación con el equipo de desarrollo sobre qué funcionalidades deben entregarse primero. Los Wireframes y el desarrollo de Style Guidelines han sido fundamentales para establecer bases sólidas antes de la codificación, lo que ha resultado en un producto más efectivo y atractivo para los usuarios.
 - La implementación de sprints para avanzar de manera continua y ordenada es crucial. Establecer límites de user story points ayuda a evitar la sobrecarga de tareas y garantiza un desarrollo adecuado de los artefactos.
 - Se concluye además que es esencial sentar las bases del diseño antes de la codificación, y la creación de diagramas de clases es una herramienta valiosa para visualizar la interacción de las entidades implementadas.
 - Es evidente que el uso de GitHub ha sido fundamental para mejorar la eficiencia, calidad y colaboración en el desarrollo de software. La gestión de activos y versiones, junto con un control riguroso de código fuente y documentación, ha contribuido al éxito en la satisfacción de las demandas del segmento objetivo.
+### Video About-the-team
 
-# Video About-the-team
+A continuación, se mencionará el video About The Team. Este tiene como objetivo presentar como hemos realizado este proyecto y testimonios individuales de cada participante del grupo OpenDevelopers.
 
-Enlace: https://youtu.be/xXTElQhg4e8
+<img src="https://cdn.discordapp.com/attachments/1103821034743934976/1177087509382037655/image.png?ex=65713b2b&is=655ec62b&hm=e60fda8f0ba02cb63b30baf7af20b4e12d7dda20e0f72bfbb744d505902aa2b7&">
 
-<a href="https://ibb.co/fn4MHgL"><img src="https://i.ibb.co/X3SXtQM/team.png" alt="team" border="0"></a>
+[Ver el video](https://www.youtube.com/watch?v=TmM9fxvHSBs)
 
-# Bibliografía
+Secciones (Timings): 
+Logros alcanzados por el equipo: 0:06-0:57
+<br>
+Testimonios por acad participante del equipo: 0:58-2:59 
 
+## Bibliografía
 Angular. (2023). Angular: One framework. Mobile & desktop. https://angular.io/
 
 Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/ [Consulta: 6 de septiembre 2023].
@@ -2973,5 +2988,8 @@ Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcom
 Enlace de la landing page: https://open-developers-sw51.github.io/upc-pre-202302-SI729-SW51-ArquiMentor-landing-page/
 
 Enlace de la aplicación desplegada: https://arquimentor-7e645.firebaseapp.com/
+
+Enlace al TF: https://drive.google.com/drive/folders/1ALYjNKurDCirwz0ei9UdT5c4CxEbJnYr?usp=sharing
+
 
 
