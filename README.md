@@ -2556,7 +2556,25 @@ A continuación, se detallan las pruebas realizadas en el backend de la aplicaci
 
 Como resumen del sprint 4 se realizaron los diferentes HU, algunos completandolos al 100% y otros al 60%. Compartimos imagenes para mostrar como quedo el avance de la primera versión del servicio web. Cada uno con su ruta respectiva.
 
-<!--agregar imagenes de web service-->
+Registro: El usuario ingresa sus datos.
+
+<a href="https://ibb.co/dWgVVC7"><img src="https://i.ibb.co/ZLmFF4N/1.jpg" alt="1" border="0"></a>
+
+Login: El usuario verifica los datos ingresados al registro para loguearse.
+
+<a href="https://ibb.co/4ZdcYTd"><img src="https://i.ibb.co/rGsgc6s/2.jpg" alt="2" border="0"></a>
+
+Subscription: El usuario pasa a ser mentor luego de adquirir un plan de Arquimentor.
+
+<a href="https://ibb.co/c8P01Ts"><img src="https://i.ibb.co/3Fw27hP/3.jpg" alt="3" border="0"></a>
+
+Payment: Se valida los datos de pago del usuario.
+
+<a href="https://ibb.co/88zBB7W"><img src="https://i.ibb.co/q10nnrt/4.jpg" alt="4" border="0"></a>
+
+Add-publication: El mentor agrega una publicacion completando el nombre, descripcion y sube una imagen.
+
+<a href="https://ibb.co/RH9JMWQ"><img src="https://i.ibb.co/bdPGynN/5.jpg" alt="5" border="0"></a>
 
 <img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170263520034684948/image.png?ex=655867d5&is=6545f2d5&hm=bca445f06644e0db3b8c5403afc92417c4f0f2ce4a3cf82a4375aa8a9bba2e71&">
 
