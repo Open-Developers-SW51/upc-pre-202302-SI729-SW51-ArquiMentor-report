@@ -2576,6 +2576,18 @@ Add-publication: El mentor agrega una publicacion completando el nombre, descrip
 
 <a href="https://ibb.co/RH9JMWQ"><img src="https://i.ibb.co/bdPGynN/5.jpg" alt="5" border="0"></a>
 
+Edit profile: Se ingresa los nuevos datos que desee el usuario.
+
+<a href="https://ibb.co/jLjnFmh"><img src="https://i.ibb.co/wK251Vy/1.png" alt="1" border="0"></a>
+
+Configuration: Permite configurar las notificaciones que recibira el usuario.
+
+<a href="https://ibb.co/JtB4rzY"><img src="https://i.ibb.co/54Mys5Q/2.png" alt="2" border="0"></a>
+
+Log out: El usuario cierra su sesion.
+
+<a href="https://ibb.co/HxMPQdS"><img src="https://i.ibb.co/pRsKpy7/3.png" alt="3" border="0"></a>
+
 <img src="https://cdn.discordapp.com/attachments/1149549726748921942/1170263520034684948/image.png?ex=655867d5&is=6545f2d5&hm=bca445f06644e0db3b8c5403afc92417c4f0f2ce4a3cf82a4375aa8a9bba2e71&">
 
 #### 5.2.4.6 Services Documentation Evidence for Sprint Review.
